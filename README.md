@@ -1,3 +1,12 @@
+## Articles
+
+### Computer Vision
+
+#### Convolutional Neural Networks
+
+https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+
+
 ## Video Lectures
 
 ### Computer Vision
