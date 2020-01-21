@@ -9,6 +9,13 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 
 ## Video Lectures
 
+### Deep Learning
+
+#### Deep Learning Overview
+
+https://www.youtube.com/watch?v=r0Ogt-q956I
+
+
 ### Computer Vision
 
 #### CNN Overview
