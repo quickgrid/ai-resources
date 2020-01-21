@@ -1,7 +1,15 @@
+## Video Lectures
+
+### Computer Vision
+
+https://www.youtube.com/watch?v=u6aEYuemt0M
+
+
 ## Wikipedia Reads
 
 ### NLP
 https://en.wikipedia.org/wiki/Bag-of-words_model
+
 
 ## Must Read Papers
 
