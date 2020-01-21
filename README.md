@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=r0Ogt-q956I
 
 #### CNN Overview
 
-https://www.youtube.com/watch?v=u6aEYuemt0M
+:+1: https://www.youtube.com/watch?v=u6aEYuemt0M
 
 
 ## Wikipedia Reads
