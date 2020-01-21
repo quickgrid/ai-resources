@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=u6aEYuemt0M
 
 ## Wikipedia Reads
 
-### NLP
+### Natural Language Processing
 https://en.wikipedia.org/wiki/Bag-of-words_model
 
 
