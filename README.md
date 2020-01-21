@@ -3,7 +3,7 @@
 ### NLP
 https://en.wikipedia.org/wiki/Bag-of-words_model
 
-## Must-Read-Papers
+## Must Read Papers
 
 ### Computer Vision
 
