@@ -5,6 +5,8 @@ https://en.wikipedia.org/wiki/Bag-of-words_model
 
 ## Must-Read-Papers
 
+### Computer Vision
+
 ### Natural Scene Text Processing
 https://arxiv.org/pdf/1507.05717.pdf
 https://arxiv.org/pdf/1704.03155.pdf
