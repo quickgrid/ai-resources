@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=r0Ogt-q956I
 
 #### CNN Overview
 
+##### Very High Quality Lecture By Andrej Karpathy
 :+1: https://www.youtube.com/watch?v=u6aEYuemt0M
 
 
