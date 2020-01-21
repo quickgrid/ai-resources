@@ -11,12 +11,17 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 
 ### Computer Vision
 
+#### CNN Overview
+
 https://www.youtube.com/watch?v=u6aEYuemt0M
 
 
 ## Wikipedia Reads
 
 ### Natural Language Processing
+
+#### Features
+
 https://en.wikipedia.org/wiki/Bag-of-words_model
 
 
