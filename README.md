@@ -17,21 +17,21 @@
 | Tensorflow | https://www.tensorflow.org/ |
 
 
-## Websites
+## `Websites`
 
 | Name | Link |
 | --- | --- |
 | YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 
 
-## Codes
+## `Codes`
 
 | Name | Link |
 | --- | --- |
 | Yolo V3 Darknet Training | https://github.com/AlexeyAB/darknet |
 
 
-## Articles
+## `Articles`
 
 ### Computer Vision
 
@@ -39,7 +39,7 @@
 https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
 
 
-## Video Lectures
+## `Video Lectures`
 
 ### Deep Learning
 
@@ -60,7 +60,7 @@ https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over
 https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH
 
 
-## Wikipedia Reads
+## `Wikipedia Reads`
 
 ### Natural Language Processing
 
@@ -68,7 +68,7 @@ https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppressi
 https://en.wikipedia.org/wiki/Bag-of-words_model
 
 
-## Must Read Papers
+## `Must Read Papers`
 
 ### Computer Vision
 
