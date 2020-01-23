@@ -44,6 +44,8 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 
 ### Deep Learning
 
+| Description | Link |
+| --- | --- |
 | Deep Learning Overview | https://www.youtube.com/watch?v=r0Ogt-q956I |
 
 ### Computer Vision
@@ -53,6 +55,9 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 | Very High Quality Lecture By Andrej Karpathy | :+1: https://www.youtube.com/watch?v=u6aEYuemt0M |
 
 #### Individual Topics
+
+| Description | Link |
+| --- | --- |
 | Intersection Over Union | https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz |
 | Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
 
