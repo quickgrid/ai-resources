@@ -15,13 +15,21 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 
 https://www.youtube.com/watch?v=r0Ogt-q956I
 
-
 ### Computer Vision
 
 #### CNN Overview
 
 ##### Very High Quality Lecture By Andrej Karpathy
+
 :+1: https://www.youtube.com/watch?v=u6aEYuemt0M
+
+#### Intersection Over Union
+
+https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz
+
+#### Non-Max Suppression
+
+https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH
 
 
 ## Wikipedia Reads
