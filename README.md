@@ -1,28 +1,20 @@
 ## Tools
 
 ### Online
-:+1: https://colab.research.google.com/
+
+| Name | Link |
+| --- | --- |
+| Google Colab | https://colab.research.google.com/ |
 
 ### Installation
 
 | Name | Link |
 | --- | --- |
 | Skorch | https://github.com/skorch-dev/skorch |
-
-#### Skorch
-https://github.com/skorch-dev/skorch
-
-#### Anaconda
-https://www.anaconda.com/distribution/
-
-#### PyTorch
-https://pytorch.org/
-
-#### Scikit Learn
-https://scikit-learn.org/stable/
-
-#### Tensorflow
-https://www.tensorflow.org/
+| Anaconda | https://www.anaconda.com/distribution/ |
+| PyTorch | https://pytorch.org/ |
+| Scikit Learn | https://scikit-learn.org/stable/ |
+| Tensorflow | https://www.tensorflow.org/ |
 
 
 ## Websites
