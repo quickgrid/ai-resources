@@ -24,6 +24,7 @@
 | --- | --- |
 | YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 
+<br>
 
 ## `Codes`
 
@@ -32,6 +33,7 @@
 | Yolo V3 Darknet Training | https://github.com/AlexeyAB/darknet |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 
+<br>
 
 ## `Articles`
 
@@ -43,6 +45,7 @@
 | --- | --- |
 | Separable Convolutions | https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728 |
 
+<br>
 
 ## `Video Lectures`
 
@@ -69,6 +72,7 @@
 | Intersection Over Union | https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz |
 | Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
 
+<br>
 
 ## `Wikipedia Reads`
 
@@ -80,6 +84,7 @@
 | --- | --- |
 | Bag of Words | https://en.wikipedia.org/wiki/Bag-of-words_model |
 
+<br>
 
 ## `Must Read Papers`
 
