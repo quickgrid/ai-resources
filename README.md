@@ -2,7 +2,7 @@
 
 ### Online
 
-| Name | Link |
+| Name | Link 
 | --- | --- |
 | :+1: Google Colab | https://colab.research.google.com/ |
 
