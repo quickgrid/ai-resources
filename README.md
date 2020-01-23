@@ -37,16 +37,21 @@
 ### Computer Vision
 
 #### Convolutional Neural Networks
-https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+
+| Description | Link |
+| --- | --- |
+| Separable Convolutions | https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728 |
 
 
 ## `Video Lectures`
 
 ### Deep Learning
 
+#### Deep Learning Overview
+
 | Description | Link |
 | --- | --- |
-| Deep Learning Overview | https://www.youtube.com/watch?v=r0Ogt-q956I |
+| Deep Learning Tutorial | https://www.youtube.com/watch?v=r0Ogt-q956I |
 
 ### Computer Vision
 
@@ -69,7 +74,10 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 ### Natural Language Processing
 
 #### Features
-https://en.wikipedia.org/wiki/Bag-of-words_model
+
+| Description | Link |
+| --- | --- |
+| Bag of Words | https://en.wikipedia.org/wiki/Bag-of-words_model |
 
 
 ## `Must Read Papers`
