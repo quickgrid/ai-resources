@@ -5,6 +5,10 @@
 
 ### Installation
 
+| Name | Link |
+| --- | --- |
+| Skorch | https://github.com/skorch-dev/skorch |
+
 #### Skorch
 https://github.com/skorch-dev/skorch
 
