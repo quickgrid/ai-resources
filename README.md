@@ -33,6 +33,7 @@
 | Name | Link |
 | --- | --- |
 | YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
+| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 
 <br>
 
@@ -41,7 +42,6 @@
 | Description | Link |
 | --- | --- |
 | Yolo V3 Darknet Training | https://github.com/AlexeyAB/darknet |
-| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 
 <br>
 
