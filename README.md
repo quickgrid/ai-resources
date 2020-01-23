@@ -19,14 +19,16 @@
 
 ## Websites
 
-#### YOLO Darknet
-https://pjreddie.com/darknet/yolo/
+| Name | Link |
+| --- | --- |
+| YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 
 
 ## Codes
 
-#### Yolo V3 Darknet Training
-https://github.com/AlexeyAB/darknet
+| Name | Link |
+| --- | --- |
+| Yolo V3 Darknet Training | https://github.com/AlexeyAB/darknet |
 
 
 ## Articles
