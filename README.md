@@ -26,9 +26,10 @@
 
 ## `Codes`
 
-| Name | Link |
+| Description | Link |
 | --- | --- |
 | Yolo V3 Darknet Training | https://github.com/AlexeyAB/darknet |
+| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 
 
 ## `Articles`
@@ -43,21 +44,17 @@ https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b9
 
 ### Deep Learning
 
-#### Deep Learning Overview
-https://www.youtube.com/watch?v=r0Ogt-q956I
+| Deep Learning Overview | https://www.youtube.com/watch?v=r0Ogt-q956I |
 
 ### Computer Vision
 
 #### CNN Overview
 
-##### Very High Quality Lecture By Andrej Karpathy
-:+1: https://www.youtube.com/watch?v=u6aEYuemt0M
+| Very High Quality Lecture By Andrej Karpathy | :+1: https://www.youtube.com/watch?v=u6aEYuemt0M |
 
-#### Intersection Over Union
-https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz
-
-#### Non-Max Suppression
-https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH
+#### Individual Topics
+| Intersection Over Union | https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz |
+| Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
 
 
 ## `Wikipedia Reads`
