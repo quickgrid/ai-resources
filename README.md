@@ -1,3 +1,5 @@
+[TOC]
+
 # Table of Contents
 - [Datasets](#-datasets)
 - [Tools](#-tools)
