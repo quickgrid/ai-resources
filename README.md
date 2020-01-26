@@ -1,6 +1,6 @@
 # [Table of Contents](Table of Contents)
-- [Introduction](#image-dataset)
-- [Tools](#tools)
+- [Introduction](#-datasets)
+- [Tools](#-tools)
 
 ## `# Datasets`
 
