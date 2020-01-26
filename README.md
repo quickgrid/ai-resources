@@ -1,6 +1,14 @@
-# [Table of Contents](Table of Contents)
-- [Introduction](#-datasets)
+# Table of Contents
+- [Datasets](#-datasets)
 - [Tools](#-tools)
+- [Websites](#-websites)
+- [Codes](#-codes)
+- [Articles](#-articles)
+- [Video Tutorials](#-video-Lectures)
+- [Wikipedia Reads](#-wikipedia-reads)
+- [Must Read Papers](#-must-read-papers)
+
+<br>
 
 ## `# Datasets`
 
