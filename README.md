@@ -5,6 +5,7 @@
 | Description | Link |
 | --- | --- |
 |  Street View House Numbers Dataset | http://ufldl.stanford.edu/housenumbers/ |
+| Dataset Collection | http://www.robots.ox.ac.uk/~vgg/data/ |
 
 <br>
 
