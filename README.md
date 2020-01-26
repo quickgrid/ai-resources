@@ -27,6 +27,12 @@
 | Scikit Learn | https://scikit-learn.org/stable/ |
 | Tensorflow | https://www.tensorflow.org/ |
 
+### Data Generation
+
+| Name | Link |
+| --- | --- |
+| Generates Synthetic Image Data | https://github.com/Belval/TextRecognitionDataGenerator |
+
 <br>
 
 ## `# Websites`
