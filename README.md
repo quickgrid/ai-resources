@@ -15,7 +15,7 @@
 
 | Name | Link |
 | --- | --- |
-| :+1: Google Colab | https://colab.research.google.com/ |
+| Google Colab | https://colab.research.google.com/ |
 
 ### Installation
 
