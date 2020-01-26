@@ -19,15 +19,36 @@
 
 ### Installation
 
+#### Enviorment
+
+| Name | Link |
+| --- | --- |
+| :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
+
+#### General Purpose (ML DL)
+
 | Name | Link |
 | --- | --- |
 | Skorch | https://github.com/skorch-dev/skorch |
-| Anaconda | https://www.anaconda.com/distribution/ |
 | PyTorch | https://pytorch.org/ |
 | Scikit Learn | https://scikit-learn.org/stable/ |
 | Tensorflow | https://www.tensorflow.org/ |
 
-### Data Generation
+#### Computer Vision & Image Processing
+
+| Name | Link |
+| --- | --- |
+| OpenCV | https://opencv.org/ |
+| Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
+
+#### NLP
+
+| Name | Link |
+| --- | --- |
+| Spacy | https://spacy.io/ |
+| NLTK | https://www.nltk.org/ |
+
+### Data Generation & Augmentation
 
 | Name | Link |
 | --- | --- |
@@ -80,7 +101,7 @@
 
 | Description | Link |
 | --- | --- |
-| Very High Quality Lecture By Andrej Karpathy | :+1: https://www.youtube.com/watch?v=u6aEYuemt0M |
+| :+1: Very High Quality Lecture By Andrej Karpathy | https://www.youtube.com/watch?v=u6aEYuemt0M |
 
 #### Individual Topics
 
