@@ -53,6 +53,7 @@
 | --- | --- |
 | Google Colab | https://colab.research.google.com/ |
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
+| Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
 
 ### Installation
 
