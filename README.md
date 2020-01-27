@@ -54,6 +54,7 @@
 | Google Colab | https://colab.research.google.com/ |
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
+| Google ML Glossary | https://developers.google.com/machine-learning/glossary |
 
 ### Installation
 
