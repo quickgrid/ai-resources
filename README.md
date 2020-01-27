@@ -30,7 +30,9 @@
       - [Individual Topics](#individual-topics)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
     + [Natural Language Processing](#natural-language-processing)
-      - [Features](#features)
+      - [Features](#features-1)
+    + [3D Machine Learning](#3d-machine-learning)
+      - [Features](#features-2)
   * [`# Must Read Papers`](#-must-read-papers)
     + [Computer Vision](#computer-vision-2)
 
@@ -42,7 +44,7 @@
 
 | Description | Link |
 | --- | --- |
-|  Street View House Numbers Dataset | http://ufldl.stanford.edu/housenumbers/ |
+| Street View House Numbers Dataset | http://ufldl.stanford.edu/housenumbers/ |
 | Dataset Collection | http://www.robots.ox.ac.uk/~vgg/data/ |
 | CIFAR 10 & 100 Dataset | https://www.cs.toronto.edu/~kriz/cifar.html |
 
@@ -73,7 +75,7 @@
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
 | Host ML Results | https://tensorboard.dev/ |
-| Pretrined Code & Models | https://modelzoo.co/ |
+| Pretrined Models & Code | https://modelzoo.co/ |
 
 
 ### Installation
@@ -219,6 +221,14 @@
 | Description | Link |
 | --- | --- |
 | Bag of Words | https://en.wikipedia.org/wiki/Bag-of-words_model |
+
+### 3D Machine Learning
+
+#### Features
+
+| Description | Link |
+| --- | --- |
+| Octree | https://en.wikipedia.org/wiki/Octree |
 
 <br>
 
