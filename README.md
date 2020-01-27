@@ -6,6 +6,7 @@
     + [Online](#online)
     + [Installation](#installation)
       - [Enviorment](#enviorment)
+      - [IDE](#-ide)      
       - [App Development](#app-development)
       - [General Purpose (ML DL)](#general-purpose-ml-dl)
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
@@ -57,6 +58,12 @@
 | Name | Link |
 | --- | --- |
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
+
+#### IDE
+
+| Name | Link |
+| --- | --- |
+| PyCharm | https://www.jetbrains.com/pycharm/ |
 
 #### App Development
 
