@@ -54,6 +54,7 @@
 
 | Description | Link |
 | --- | --- |
+| Tesserect Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
 
 <br>
 
