@@ -4,7 +4,6 @@
     + [Image Dataset](#image-dataset)
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
-    + [Machine Learning](#machine-learning)
   * [`# Tools`](#-tools)
     + [Online](#online)
     + [Installation](#installation)
@@ -58,10 +57,9 @@
 
 ## `# Cheetsheets & Glossary`
 
-### Machine Learning
 | Description | Link |
 | --- | --- |
-| Google ML Glossary | https://developers.google.com/machine-learning/glossary |
+| Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
 
 <br>
 
