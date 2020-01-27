@@ -59,6 +59,9 @@
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 
 #### App Development
+
+| Description | Link |
+| --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
 
 #### General Purpose (ML DL CV etc.)
