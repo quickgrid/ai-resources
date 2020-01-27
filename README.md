@@ -6,7 +6,7 @@
     + [Online](#online)
     + [Installation](#installation)
       - [Enviorment](#enviorment)
-      - [IDE](#ide)      
+      - [Softwares](#softwares)      
       - [App Development](#app-development)
       - [General Purpose (ML DL)](#general-purpose-ml-dl)
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
@@ -59,12 +59,18 @@
 | --- | --- |
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 
-#### IDE
+#### Softwares
 
 | Name | Link |
 | --- | --- |
-| PyCharm | https://www.jetbrains.com/pycharm/ |
-
+| PyCharm IDE | https://www.jetbrains.com/pycharm/ |
+| VSCodium Editor | https://github.com/VSCodium/vscodium |
+| Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
+| Blender 3D Tool | https://www.blender.org/ |
+| Photo Editor | https://krita.org/ |
+| IntellijIdea Java IDE | https://www.jetbrains.com/idea/download/ |
+| Android Studio IDE | https://developer.android.com/studio |
+ 
 #### App Development
 
 | Description | Link |
