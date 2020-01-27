@@ -98,6 +98,7 @@
 | Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
 | ImageIO | https://imageio.github.io/ |
 | Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
+| VoTT Image Annotation | https://github.com/microsoft/VoTT |
 
 #### NLP
 
