@@ -57,7 +57,7 @@
 | --- | --- |
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 
-#### General Purpose (ML DL)
+#### General Purpose (ML DL CV etc.)
 
 | Name | Link |
 | --- | --- |
@@ -73,6 +73,8 @@
 | --- | --- |
 | OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
+| Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
+| ImageIO | https://imageio.github.io/ |
 
 #### NLP
 
