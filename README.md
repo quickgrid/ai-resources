@@ -111,7 +111,7 @@
 
 | Name | Link |
 | --- | --- |
-| Generates Synthetic Image Data | https://github.com/Belval/TextRecognitionDataGenerator |
+| Synthetic Image Data Generation | https://github.com/Belval/TextRecognitionDataGenerator |
 
 <br>
 
@@ -130,7 +130,7 @@
 | --- | --- |
 | Google AI Education | https://ai.google/education/ |
 | Udacity | https://www.udacity.com |
-| Coursera | coursera.org |
+| Coursera | https://coursera.org |
 
 <br>
 
