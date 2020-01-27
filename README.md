@@ -11,6 +11,7 @@
       - [General Purpose (ML DL)](#general-purpose-ml-dl)
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
       - [NLP](#nlp)
+    + [Data Annotation](#data-annotation)
     + [Data Generation & Augmentation](#data-generation--augmentation)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
@@ -98,7 +99,6 @@
 | Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
 | ImageIO | https://imageio.github.io/ |
 | Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
-| VoTT Image Annotation | https://github.com/microsoft/VoTT |
 
 #### NLP
 
@@ -107,6 +107,12 @@
 | Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
 | Javascript NLP Library | https://github.com/spencermountain/compromise |
+
+### Data Annotation
+
+| Name | Link |
+| --- | --- |
+| VoTT Image Annotation | https://github.com/microsoft/VoTT |
 
 ### Data Generation & Augmentation
 
