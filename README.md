@@ -6,7 +6,7 @@
     + [Online](#online)
     + [Installation](#installation)
       - [Enviorment](#enviorment)
-      - [IDE](#-ide)      
+      - [IDE](#ide)      
       - [App Development](#app-development)
       - [General Purpose (ML DL)](#general-purpose-ml-dl)
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
