@@ -2,6 +2,9 @@
 - [Table of Contents](#table-of-contents)
   * [`# Datasets`](#-datasets)
     + [Image Dataset](#image-dataset)
+  * [`# Pretrained Models`](#-pretrained-models)
+  * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
+    + [Machine Learning](#machine-learning)
   * [`# Tools`](#-tools)
     + [Online](#online)
     + [Installation](#installation)
@@ -46,6 +49,22 @@
 
 <br>
 
+## `# Pretrained Models`
+
+| Description | Link |
+| --- | --- |
+
+<br>
+
+## `# Cheetsheets & Glossary`
+
+### Machine Learning
+| Description | Link |
+| --- | --- |
+| Google ML Glossary | https://developers.google.com/machine-learning/glossary |
+
+<br>
+
 ## `# Tools`
 
 ### Online
@@ -55,8 +74,9 @@
 | Google Colab | https://colab.research.google.com/ |
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
-| Google ML Glossary | https://developers.google.com/machine-learning/glossary |
 | Host ML Results | https://tensorboard.dev/ |
+| Pretrined Code & Models | https://modelzoo.co/ |
+
 
 ### Installation
 
