@@ -47,6 +47,7 @@
 | Name | Link |
 | --- | --- |
 | Google Colab | https://colab.research.google.com/ |
+| Google Dataset Search | https://datasetsearch.research.google.com/ |
 
 ### Installation
 
