@@ -65,6 +65,7 @@
 | PyTorch | https://pytorch.org/ |
 | Scikit Learn | https://scikit-learn.org/stable/ |
 | Tensorflow | https://www.tensorflow.org/ |
+| Dlib C++ Library | http://dlib.net/ |
 
 #### Computer Vision & Image Processing
 
