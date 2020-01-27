@@ -30,9 +30,9 @@
       - [Individual Topics](#individual-topics)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
     + [Natural Language Processing](#natural-language-processing)
-      - [Features](#features-1)
+      - [Features](#features)
     + [3D Machine Learning](#3d-machine-learning)
-      - [Features](#features-2)
+      - [Features](#features-1
   * [`# Must Read Papers`](#-must-read-papers)
     + [Computer Vision](#computer-vision-2)
 
