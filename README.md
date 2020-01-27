@@ -42,6 +42,7 @@
 | --- | --- |
 |  Street View House Numbers Dataset | http://ufldl.stanford.edu/housenumbers/ |
 | Dataset Collection | http://www.robots.ox.ac.uk/~vgg/data/ |
+| CIFAR 10 & 100 Dataset | https://www.cs.toronto.edu/~kriz/cifar.html |
 
 <br>
 
