@@ -6,6 +6,7 @@
     + [Online](#online)
     + [Installation](#installation)
       - [Enviorment](#enviorment)
+      - [App Development](#app-development)
       - [General Purpose (ML DL)](#general-purpose-ml-dl)
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
       - [NLP](#nlp)
@@ -57,6 +58,9 @@
 | --- | --- |
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 
+#### App Development
+| ML Tool Building | https://www.streamlit.io/ |
+
 #### General Purpose (ML DL CV etc.)
 
 | Name | Link |
@@ -75,6 +79,7 @@
 | Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
 | Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
 | ImageIO | https://imageio.github.io/ |
+| Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
 
 #### NLP
 
@@ -82,6 +87,7 @@
 | --- | --- |
 | Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
+| Javascript NLP Library | https://github.com/spencermountain/compromise |
 
 ### Data Generation & Augmentation
 
