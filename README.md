@@ -13,6 +13,8 @@
       - [NLP](#nlp)
     + [Data Generation & Augmentation](#data-generation--augmentation)
   * [`# Websites`](#-websites)
+    + [AI Sites & Blogs](#ai-sites--blogs)
+    + [Full Courses](#full-courses)
   * [`# Codes`](#-codes)
   * [`# Articles`](#-articles)
     + [Computer Vision](#computer-vision)
@@ -115,10 +117,20 @@
 
 ## `# Websites`
 
+### AI Sites & Blogs
+
 | Name | Link |
 | --- | --- |
 | YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
+
+### Full Courses
+
+| Name | Link |
+| --- | --- |
+| Google AI Education | https://ai.google/education/ |
+| Udacity | https://www.udacity.com |
+| Coursera | coursera.org |
 
 <br>
 
