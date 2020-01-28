@@ -113,6 +113,7 @@
 | PyTorch | https://pytorch.org/ |
 | Scikit Learn | https://scikit-learn.org/stable/ |
 | Tensorflow | https://www.tensorflow.org/ |
+| Keras | https://keras.io/ |
 | Dlib C++ Library | http://dlib.net/ |
 
 #### Computer Vision & Image Processing
@@ -203,6 +204,7 @@
 | Description | Link |
 | --- | --- |
 | :+1: Very High Quality Lecture By Andrej Karpathy | https://www.youtube.com/watch?v=u6aEYuemt0M |
+| 1D Convolution Explanation | https://www.youtube.com/watch?v=CNY8VjJt-iQ |
 
 #### Individual Topics
 
