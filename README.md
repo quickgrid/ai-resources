@@ -26,7 +26,7 @@
     + [Deep Learning](#deep-learning)
       - [Deep Learning Overview](#deep-learning-overview)
     + [Computer Vision](#computer-vision-1)
-      - [CNN Overview](#cnn-overview)
+      - [Overview](#overview)
       - [Individual Topics](#individual-topics)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
     + [Natural Language Processing](#natural-language-processing)
@@ -201,12 +201,12 @@
 
 ### Computer Vision
 
-#### CNN Overview
+#### Overview
 
 | Description | Link |
 | --- | --- |
 | :+1: Very High Quality Lecture By Andrej Karpathy | https://www.youtube.com/watch?v=u6aEYuemt0M |
-| 1D Convolution Explanation | https://www.youtube.com/watch?v=CNY8VjJt-iQ |
+| Microsoft Computer Vision Course | https://courses.edx.org/courses/course-v1:Microsoft+DEV290x+1T2020/course/ |
 
 #### Individual Topics
 
@@ -214,6 +214,7 @@
 | --- | --- |
 | Intersection Over Union | https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz |
 | Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
+| 1D Convolution Explanation | https://www.youtube.com/watch?v=CNY8VjJt-iQ |
 
 <br>
 
