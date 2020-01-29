@@ -164,6 +164,7 @@
 | Google AI Education | https://ai.google/education/ |
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
+| Edx | https://www.edx.org/ |
 
 <br>
 
