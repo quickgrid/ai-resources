@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
   * [`# Datasets`](#-datasets)
     + [Image Dataset](#image-dataset)
+    + [NLP Dataset](#nlp-dataset)
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
   * [`# Tools`](#-tools)
@@ -47,6 +48,12 @@
 | Street View House Numbers Dataset | http://ufldl.stanford.edu/housenumbers/ |
 | Dataset Collection | http://www.robots.ox.ac.uk/~vgg/data/ |
 | CIFAR 10 & 100 Dataset | https://www.cs.toronto.edu/~kriz/cifar.html |
+
+### NLP Dataset
+
+| Description | Link |
+| --- | --- |
+| Ubuntu Dialog Corpus | https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus |
 
 <br>
 
@@ -104,6 +111,8 @@
 | Description | Link |
 | --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
+| Wit.ai Chatbot | https://wit.ai/ |
+| Chatterbot | https://github.com/gunthercox/ChatterBot |
 
 #### General Purpose (ML DL CV etc.)
 
