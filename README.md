@@ -84,6 +84,7 @@
 | Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
 | Host ML Results | https://tensorboard.dev/ |
 | Pretrined Models & Code | https://modelzoo.co/ |
+| Kaggle ML Competitions | https://www.kaggle.com/ |
 
 
 ### Installation
