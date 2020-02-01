@@ -114,9 +114,12 @@
 | Description | Link |
 | --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
-| Wit.ai Chatbot | https://wit.ai/ |
-| Chatterbot | https://github.com/gunthercox/ChatterBot |
-| Rasa | https://rasa.com/ |
+| Wit.ai NLP | https://wit.ai/ |
+| Chatterbot NLP | https://github.com/gunthercox/ChatterBot |
+| Rasa NLP | https://rasa.com/ |
+| PolyGlot NLP | https://github.com/aboSamoor/polyglot |
+| Snips NLP | https://github.com/snipsco/snips-nlu |
+| Standford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
 
 #### General Purpose (ML DL CV etc.)
 
