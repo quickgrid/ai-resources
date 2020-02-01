@@ -64,6 +64,7 @@
 | Description | Link |
 | --- | --- |
 | Tesserect Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
+| FastText NLP Pretrained Vectors | https://fasttext.cc/docs/en/crawl-vectors.html |
 
 <br>
 
