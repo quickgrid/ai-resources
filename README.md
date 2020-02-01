@@ -215,6 +215,7 @@
 | --- | --- |
 | Intent & entity | https://s3.amazonaws.com/assets.datacamp.com/production/course_3631/slides/chapter2.pdf |
 | Rasa NLU | https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/ |
+| Laser Multilingual Embeddings | https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/ |
 
 <br>
 
