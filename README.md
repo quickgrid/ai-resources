@@ -116,6 +116,7 @@
 | ML Tool Building | https://www.streamlit.io/ |
 | Wit.ai Chatbot | https://wit.ai/ |
 | Chatterbot | https://github.com/gunthercox/ChatterBot |
+| Rasa | https://rasa.com/ |
 
 #### General Purpose (ML DL CV etc.)
 
@@ -145,6 +146,7 @@
 | Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
 | Javascript NLP Library | https://github.com/spencermountain/compromise |
+
 
 ### Data Annotation
 
@@ -207,6 +209,7 @@
 | Description | Link |
 | --- | --- |
 | Intent & entity | https://s3.amazonaws.com/assets.datacamp.com/production/course_3631/slides/chapter2.pdf |
+| Rasa NLU | https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/ |
 
 <br>
 
