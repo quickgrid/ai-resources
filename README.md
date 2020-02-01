@@ -117,11 +117,6 @@
 | --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
 | Wit.ai NLP | https://wit.ai/ |
-| Chatterbot NLP | https://github.com/gunthercox/ChatterBot |
-| Rasa NLP | https://rasa.com/ |
-| PolyGlot NLP | https://github.com/aboSamoor/polyglot |
-| Snips NLP | https://github.com/snipsco/snips-nlu |
-| Standford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
 
 #### General Purpose (ML DL CV etc.)
 
@@ -151,7 +146,14 @@
 | Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
 | Javascript NLP Library | https://github.com/spencermountain/compromise |
-
+| Chatterbot NLP | https://github.com/gunthercox/ChatterBot |
+| Rasa NLP | https://rasa.com/ |
+| PolyGlot NLP | https://github.com/aboSamoor/polyglot |
+| Snips NLP | https://github.com/snipsco/snips-nlu |
+| Standford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
+| AllenNLP | https://github.com/allenai/allennlp |
+| Flair NLP | https://github.com/flairNLP/flair |
+| DeepPavlov NLP | https://github.com/deepmipt/DeepPavlov |
 
 ### Data Annotation
 
@@ -216,6 +218,7 @@
 | Intent & entity | https://s3.amazonaws.com/assets.datacamp.com/production/course_3631/slides/chapter2.pdf |
 | Rasa NLU | https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/ |
 | Laser Multilingual Embeddings | https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/ |
+| NLP Libraries Overview | https://medium.com/@b.terryjack/nlp-pretrained-named-entity-recognition-7caa5cd28d7b |
 
 <br>
 
