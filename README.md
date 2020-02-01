@@ -20,9 +20,11 @@
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Full Courses](#full-courses)
   * [`# Codes`](#-codes)
-  * [`# Articles`](#-articles)
+  * [`# Articles & Tutorials`](#-articles--tutorials)
     + [Computer Vision](#computer-vision)
       - [Convolutional Neural Networks](#convolutional-neural-networks)
+    + [Natural Language Processing](#natural-language-processing)
+      - [Chatbot](#chatbot)
   * [`# Video Lectures`](#-video-lectures)
     + [Deep Learning](#deep-learning)
       - [Deep Learning Overview](#deep-learning-overview)
@@ -30,7 +32,7 @@
       - [Overview](#overview)
       - [Individual Topics](#individual-topics)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
-    + [Natural Language Processing](#natural-language-processing)
+    + [Natural Language Processing](#natural-language-processing-1)
       - [Features](#features)
     + [3D Machine Learning](#3d-machine-learning)
       - [Features](#features-1)
@@ -186,7 +188,7 @@
 
 <br>
 
-## `# Articles`
+## `# Articles & Tutorials`
 
 ### Computer Vision
 
@@ -196,6 +198,15 @@
 | --- | --- |
 | Separable Convolutions | https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728 |
 | Distance Transform & Watershed (overlapping object segmentation) | https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_watershed/py_watershed.html <br> https://docs.opencv.org/4.2.0/d2/dbd/tutorial_distance_transform.html |
+
+
+### Natural Language Processing
+
+#### Chatbot
+
+| Description | Link |
+| --- | --- |
+| Intent & entity | https://s3.amazonaws.com/assets.datacamp.com/production/course_3631/slides/chapter2.pdf |
 
 <br>
 
