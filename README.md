@@ -253,6 +253,12 @@
 | Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
 | 1D Convolution Explanation | https://www.youtube.com/watch?v=CNY8VjJt-iQ |
 
+### Reinforcement Learning
+
+| Description | Link |
+| --- | --- |
+| Multi Armed Bandit Overview by Microsoft | https://courses.edx.org/courses/course-v1:Microsoft+DAT257x+1T2020/courseware/197e20ff-cf20-4b21-15d1-322314290750/77ea233c-576d-970e-2a3d-cd9c8aeb45c5/ |
+
 <br>
 
 ## `# Wikipedia Reads`
