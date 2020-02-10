@@ -211,6 +211,10 @@
 
 ### Natural Language Processing
 
+| Description | Link |
+| --- | --- |
+| Multinomial Naive Bayes <br> Sentiment Classification | https://towardsdatascience.com/sentiment-analysis-of-tweets-using-multinomial-naive-bayes-1009ed24276b |
+
 #### Chatbot
 
 | Description | Link |
