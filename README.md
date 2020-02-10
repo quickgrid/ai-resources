@@ -31,6 +31,7 @@
     + [Computer Vision](#computer-vision-1)
       - [Overview](#overview)
       - [Individual Topics](#individual-topics)
+    + [Reinforcement Learning](#reinforcement-learning)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
     + [Natural Language Processing](#natural-language-processing-1)
       - [Features](#features)
