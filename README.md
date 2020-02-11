@@ -208,6 +208,7 @@
 | --- | --- |
 | Separable Convolutions | https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728 |
 | Distance Transform & Watershed (overlapping object segmentation) | https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_watershed/py_watershed.html <br> https://docs.opencv.org/4.2.0/d2/dbd/tutorial_distance_transform.html |
+| Various Text Region Detection Methods in OpenCV C++ & Python | https://stackoverflow.com/questions/23506105/extracting-text-opencv |
 
 
 ### Natural Language Processing
