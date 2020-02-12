@@ -31,6 +31,7 @@
     + [Computer Vision](#computer-vision-1)
       - [Overview](#overview)
       - [Individual Topics](#individual-topics)
+    + [NLP](#nlp-1)
     + [Reinforcement Learning](#reinforcement-learning)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
     + [Natural Language Processing](#natural-language-processing-1)
@@ -254,6 +255,14 @@
 | Intersection Over Union | https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz |
 | Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
 | 1D Convolution Explanation | https://www.youtube.com/watch?v=CNY8VjJt-iQ |
+
+
+### NLP
+
+| Description | Link |
+| --- | --- |
+| Rasa Chatbot Tutorial | https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc |
+
 
 ### Reinforcement Learning
 
