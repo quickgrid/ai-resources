@@ -262,6 +262,7 @@
 | Description | Link |
 | --- | --- |
 | Rasa Chatbot Tutorial | https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc |
+| Bleu Score | https://www.coursera.org/learn/nlp-sequence-models/lecture/kC2HD/bleu-score-optional |
 
 
 ### Reinforcement Learning
