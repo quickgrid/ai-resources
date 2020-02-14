@@ -231,6 +231,10 @@
 
 ## `# Video Lectures`
 
+| Description | Link |
+| --- | --- |
+| Joint, Marginal, Conditional Probability | https://www.youtube.com/watch?v=SrEmzdOT65s |
+
 ### Deep Learning
 
 #### Deep Learning Overview
