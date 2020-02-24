@@ -130,6 +130,7 @@
 | Tensorflow | https://www.tensorflow.org/ |
 | Keras | https://keras.io/ |
 | Dlib C++ Library | http://dlib.net/ |
+| MXNet | https://mxnet.apache.org/ |
 
 #### Computer Vision & Image Processing
 
@@ -140,6 +141,7 @@
 | Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
 | ImageIO | https://imageio.github.io/ |
 | Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
+| Gluon CV | https://gluon-cv.mxnet.io/ |
 
 #### NLP
 
@@ -156,6 +158,7 @@
 | AllenNLP | https://github.com/allenai/allennlp |
 | Flair NLP | https://github.com/flairNLP/flair |
 | DeepPavlov NLP | https://github.com/deepmipt/DeepPavlov |
+| Gluon NLP | https://gluon-nlp.mxnet.io/ |
 
 ### Data Annotation
 
@@ -179,6 +182,7 @@
 | --- | --- |
 | YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
+| Interactive Deep Learning Book | https://d2l.ai/ |
 
 ### Full Courses
 
