@@ -129,7 +129,7 @@
 | Scikit Learn | https://scikit-learn.org/stable/ |
 | Tensorflow | https://www.tensorflow.org/ |
 | Keras | https://keras.io/ |
-| Dlib C++ Library | http://dlib.net/ |
+| Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
 
 #### Computer Vision & Image Processing
