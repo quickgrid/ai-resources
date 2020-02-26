@@ -94,6 +94,7 @@
 | Pretrined Models & Code | https://modelzoo.co/ |
 | Kaggle ML Competitions | https://www.kaggle.com/ |
 | NLU Dataset Generator | https://rodrigopivi.github.io/Chatito/ |
+| Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 
 
 ### Installation
@@ -319,3 +320,4 @@
 | 1D Convolution | https://arxiv.org/pdf/1509.01626.pdf |
 | Face Landmark Position Alignment | http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf |
 | EAR(Eye Aspect Ratio) Blink Detection | http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf |
+| Viola Jones Face Detector | http://www.vision.caltech.edu/html-files/EE148-2005-Spring/pprs/viola04ijcv.pdf |
