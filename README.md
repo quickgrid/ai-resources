@@ -52,6 +52,9 @@
 | Street View House Numbers Dataset | http://ufldl.stanford.edu/housenumbers/ |
 | Dataset Collection | http://www.robots.ox.ac.uk/~vgg/data/ |
 | CIFAR 10 & 100 Dataset | https://www.cs.toronto.edu/~kriz/cifar.html |
+| iBug 300-W | https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/ |
+| Helen | http://www.ifp.illinois.edu/~vuongle2/helen/ |
+
 
 ### NLP Dataset
 
@@ -310,3 +313,5 @@
 | Natural Scene Text Processing | https://arxiv.org/pdf/1507.05717.pdf <br> https://arxiv.org/pdf/1704.03155.pdf <br> https://pdfs.semanticscholar.org/d933/a6d0049f53344c5384c0905afe463a086bdb.pdf |
 |Natural Scene Multi Digit Number Recognition | https://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/42241.pdf |
 | 1D Convolution | https://arxiv.org/pdf/1509.01626.pdf |
+| Face Landmark Position Alignment | http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf |
+| EAR(Eye Aspect Ratio) Blink Detection | http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf |
