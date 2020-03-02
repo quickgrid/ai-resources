@@ -321,3 +321,5 @@
 | Face Landmark Position Alignment | http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf |
 | EAR(Eye Aspect Ratio) Blink Detection | http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf |
 | Viola Jones Face Detector | http://www.vision.caltech.edu/html-files/EE148-2005-Spring/pprs/viola04ijcv.pdf |
+| Selective Search for Object Recognition | http://www.huppelen.nl/publications/selectiveSearchDraft.pdf |
+| Mask R-CNN | https://arxiv.org/pdf/1703.06870.pdf |
