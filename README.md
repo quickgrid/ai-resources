@@ -215,6 +215,7 @@
 | --- | --- |
 | Viola Jones Face Recognition | https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999 |
 | Headpose Estimation | https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/ |
+| Dlib Facial Landmark | https://www.learnopencv.com/facial-landmark-detection/ |
 
 #### Convolutional Neural Networks
 
