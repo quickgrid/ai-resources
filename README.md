@@ -317,7 +317,7 @@
 
 | Description | Link |
 | --- | --- |
-| Natural Scene Text Processing | https://arxiv.org/pdf/1507.05717.pdf <br> https://arxiv.org/pdf/1704.03155.pdf <br> https://pdfs.semanticscholar.org/d933/a6d0049f53344c5384c0905afe463a086bdb.pdf |
+| Natural Scene Text Processing | https://arxiv.org/pdf/1507.05717.pdf <br> https://arxiv.org/pdf/1704.03155.pdf <br> http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf |
 |Natural Scene Multi Digit Number Recognition | https://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/42241.pdf |
 | 1D Convolution | https://arxiv.org/pdf/1509.01626.pdf |
 | Face Landmark Position Alignment | http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf |
