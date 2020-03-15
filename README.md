@@ -188,6 +188,7 @@
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Interactive Deep Learning Book | https://d2l.ai/ |
 | Tutorial on CV ML & more | https://maelfabien.github.io |
+| OpenCV Dlib Tutorials | https://www.learnopencv.com/ |
 
 ### Full Courses
 
