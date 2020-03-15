@@ -218,6 +218,7 @@
 | Headpose Estimation | https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/ |
 | Dlib Facial Landmark | https://www.learnopencv.com/facial-landmark-detection/ |
 | OpenCV Dlib Face Detection | https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1 |
+| Face Landmark and Segments with Dlib, OpenCV | https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/ |
 
 #### Convolutional Neural Networks
 
