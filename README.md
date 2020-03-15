@@ -187,6 +187,7 @@
 | YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Interactive Deep Learning Book | https://d2l.ai/ |
+| Tutorial on CV ML & more | https://maelfabien.github.io |
 
 ### Full Courses
 
@@ -216,6 +217,7 @@
 | Viola Jones Face Recognition | https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999 |
 | Headpose Estimation | https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/ |
 | Dlib Facial Landmark | https://www.learnopencv.com/facial-landmark-detection/ |
+| OpenCV Dlib Face Detection | https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1 |
 
 #### Convolutional Neural Networks
 
