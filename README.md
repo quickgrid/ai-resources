@@ -211,6 +211,11 @@
 
 ## `# Articles & Tutorials`
 
+### Deep Learning
+| Description | Link |
+| --- | --- |
+| Gradient Descent vs Stochastic Gradient Descent | https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent |
+
 ### Computer Vision
 
 | Description | Link |
