@@ -215,6 +215,7 @@
 | Description | Link |
 | --- | --- |
 | Gradient Descent vs Stochastic Gradient Descent | https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent |
+| Categorical Encoding Dummy Variable Trap | https://medium.com/@divyagera2402/encoding-categorical-data-and-dummy-variable-trap-in-regression-830f728c1382 |
 
 ### Computer Vision
 
