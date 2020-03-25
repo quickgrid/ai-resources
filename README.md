@@ -335,3 +335,4 @@
 | Viola Jones Face Detector | http://www.vision.caltech.edu/html-files/EE148-2005-Spring/pprs/viola04ijcv.pdf |
 | Selective Search for Object Recognition | http://www.huppelen.nl/publications/selectiveSearchDraft.pdf |
 | Mask R-CNN | https://arxiv.org/pdf/1703.06870.pdf |
+| Seamless Image Cloning | http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf |
