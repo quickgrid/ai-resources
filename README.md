@@ -135,6 +135,8 @@
 | Keras | https://keras.io/ |
 | Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
+| Tencent NCNN | https://github.com/Tencent/ncnn |
+| Alibaba MNN | https://github.com/alibaba/MNN |
 
 #### Computer Vision & Image Processing
 
