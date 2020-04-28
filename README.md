@@ -343,6 +343,7 @@
 | Mask R-CNN | https://arxiv.org/pdf/1703.06870.pdf |
 | Seamless Image Cloning | http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf |
 
+<br>
 
 ## `# FAQ`
 
