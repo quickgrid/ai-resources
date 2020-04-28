@@ -40,6 +40,8 @@
       - [Features](#features-1)
   * [`# Must Read Papers`](#-must-read-papers)
     + [Computer Vision](#computer-vision-2)
+  * [`# FAQ`](#-faq)
+    + [Computer Vision](#computer-vision-3)
 
 <br>
 
@@ -340,3 +342,12 @@
 | Selective Search for Object Recognition | http://www.huppelen.nl/publications/selectiveSearchDraft.pdf |
 | Mask R-CNN | https://arxiv.org/pdf/1703.06870.pdf |
 | Seamless Image Cloning | http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf |
+
+
+## `# FAQ`
+
+### Computer Vision
+
+| Description | Link |
+| --- | --- |
+| Face Recognition Accuracy Problems Dlib Resnet | https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems |
