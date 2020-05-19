@@ -349,8 +349,14 @@
 
 ## `# FAQ`
 
+### General
+
+| Description | Link |
+| --- | --- |
+| About saving models in Tensorflow as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
+
 ### Computer Vision
 
 | Description | Link |
 | --- | --- |
-| Face Recognition Accuracy Problems Dlib Resnet | https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems |
+| Face Recognition Accuracy Problems Dlib Resnet | https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems 
