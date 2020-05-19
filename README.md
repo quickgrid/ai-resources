@@ -354,7 +354,7 @@
 
 | Description | Link |
 | --- | --- |
-| About saving models in Tensorflow as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
+| About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
 
 ### Computer Vision
 
