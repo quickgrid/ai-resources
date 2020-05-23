@@ -199,6 +199,8 @@
 | Interactive Deep Learning Book | https://d2l.ai/ |
 | Tutorial on CV ML & more | https://maelfabien.github.io |
 | OpenCV Dlib Tutorials | https://www.learnopencv.com/ |
+| Papers with Code | https://paperswithcode.com/ |
+| AI articles, links etc. | https://madewithml.com/ |
 
 ### Full Courses
 
