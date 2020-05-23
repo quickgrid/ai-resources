@@ -122,6 +122,7 @@
 | Photo Editor | https://krita.org/ |
 | IntellijIdea Java IDE | https://www.jetbrains.com/idea/download/ |
 | Android Studio IDE | https://developer.android.com/studio |
+| Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
  
 #### App Development
 
