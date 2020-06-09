@@ -202,6 +202,7 @@
 | OpenCV Dlib Tutorials | https://www.learnopencv.com/ |
 | Papers with Code | https://paperswithcode.com/ |
 | AI articles, links etc. | https://madewithml.com/ |
+| Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 
 ### Full Courses
 
