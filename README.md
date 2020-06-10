@@ -203,6 +203,7 @@
 | Papers with Code | https://paperswithcode.com/ |
 | AI articles, links etc. | https://madewithml.com/ |
 | Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
+| Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |
 
 ### Full Courses
 
