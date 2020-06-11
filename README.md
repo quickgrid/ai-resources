@@ -70,6 +70,10 @@
 | Kaggle ML Competitions | https://www.kaggle.com/ |
 | NLU Dataset Generator | https://rodrigopivi.github.io/Chatito/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
+| Kaggle Datasets | https://www.kaggle.com/datasets |
+| Awesome Public Datasets | https://github.com/awesomedata/awesome-public-datasets |
+| Dataset List | https://www.datasetlist.com/ |
+| Annotation Tool List | https://www.datasetlist.com/tools/ |
 
 
 ### Installation
