@@ -312,4 +312,5 @@
 
 | Description | Link |
 | --- | --- |
-| Face Recognition Accuracy Problems Dlib Resnet | https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems 
+| Face Recognition Accuracy Problems Dlib Resnet | https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems |
+| Padded Square Bounding Box for OpenCV with Formula and Interactive Graph | https://stackoverflow.com/questions/62266719/python-adjust-margin-of-cropped-face-image-using-dlib-face-recognition/62315619#62315619 |
