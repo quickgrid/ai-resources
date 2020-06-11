@@ -29,11 +29,6 @@
       - [Overview](#overview)
       - [Individual Topics](#individual-topics)
     + [NLP](#nlp-1)
-  * [`# Wikipedia Reads`](#-wikipedia-reads)
-    + [Natural Language Processing](#natural-language-processing-1)
-      - [Features](#features)
-    + [3D Machine Learning](#3d-machine-learning)
-      - [Features](#features-1)
   * [`# Must Read Papers`](#-must-read-papers)
     + [Computer Vision](#computer-vision-2)
   * [`# FAQ`](#-faq)
@@ -264,7 +259,6 @@
 | Description | Link |
 | --- | --- |
 | :+1: Very High Quality Lecture By Andrej Karpathy | https://www.youtube.com/watch?v=u6aEYuemt0M |
-| Microsoft Computer Vision Course | https://courses.edx.org/courses/course-v1:Microsoft+DEV290x+1T2020/course/ |
 
 #### Individual Topics
 
@@ -281,27 +275,6 @@
 | --- | --- |
 | Rasa Chatbot Tutorial | https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc |
 | Bleu Score | https://www.coursera.org/learn/nlp-sequence-models/lecture/kC2HD/bleu-score-optional |
-
-
-<br>
-
-## `# Wikipedia Reads`
-
-### Natural Language Processing
-
-#### Features
-
-| Description | Link |
-| --- | --- |
-| Bag of Words | https://en.wikipedia.org/wiki/Bag-of-words_model |
-
-### 3D Machine Learning
-
-#### Features
-
-| Description | Link |
-| --- | --- |
-| Octree | https://en.wikipedia.org/wiki/Octree |
 
 <br>
 
