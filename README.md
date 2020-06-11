@@ -1,8 +1,5 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  * [`# Datasets`](#-datasets)
-    + [Image Dataset](#image-dataset)
-    + [NLP Dataset](#nlp-dataset)
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
   * [`# Tools`](#-tools)
@@ -32,7 +29,6 @@
       - [Overview](#overview)
       - [Individual Topics](#individual-topics)
     + [NLP](#nlp-1)
-    + [Reinforcement Learning](#reinforcement-learning)
   * [`# Wikipedia Reads`](#-wikipedia-reads)
     + [Natural Language Processing](#natural-language-processing-1)
       - [Features](#features)
@@ -42,28 +38,6 @@
     + [Computer Vision](#computer-vision-2)
   * [`# FAQ`](#-faq)
     + [Computer Vision](#computer-vision-3)
-
-<br>
-
-## `# Datasets`
-
-### Image Dataset
-
-| Description | Task | Total Size | Link |
-| --- | --- | --- | --- |
-| Street View House Numbers Dataset |  |  | http://ufldl.stanford.edu/housenumbers/ |
-| Dataset Collection |  |  | http://www.robots.ox.ac.uk/~vgg/data/ |
-| CIFAR 10 & 100 Dataset |  |  | https://www.cs.toronto.edu/~kriz/cifar.html |
-| iBug 300-W |  |  | https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/ |
-| Helen |  |  | http://www.ifp.illinois.edu/~vuongle2/helen/ |
-| UTKFace | face detection, age estimation, age progression/regression, landmark localization | ~1.4GB |  https://susanqq.github.io/UTKFace/ |
-
-
-### NLP Dataset
-
-| Description | Link |
-| --- | --- |
-| Ubuntu Dialog Corpus | https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus |
 
 <br>
 
@@ -308,12 +282,6 @@
 | Rasa Chatbot Tutorial | https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc |
 | Bleu Score | https://www.coursera.org/learn/nlp-sequence-models/lecture/kC2HD/bleu-score-optional |
 
-
-### Reinforcement Learning
-
-| Description | Link |
-| --- | --- |
-| Multi Armed Bandit Overview by Microsoft | https://courses.edx.org/courses/course-v1:Microsoft+DAT257x+1T2020/courseware/197e20ff-cf20-4b21-15d1-322314290750/77ea233c-576d-970e-2a3d-cd9c8aeb45c5/ |
 
 <br>
 
