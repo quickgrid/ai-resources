@@ -178,6 +178,7 @@
 | Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |
 | University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
+| Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 
 ### Full Courses
 
