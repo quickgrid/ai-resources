@@ -74,6 +74,7 @@
 | Awesome Public Datasets | https://github.com/awesomedata/awesome-public-datasets |
 | Dataset List | https://www.datasetlist.com/ |
 | Annotation Tool List | https://www.datasetlist.com/tools/ |
+| Connected Papers List & Graph | https://www.connectedpapers.com/ |
 
 
 ### Installation
