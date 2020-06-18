@@ -288,6 +288,15 @@
 
 ### Computer Vision
 
+#### Survey / Benchmark / Review
+
+| Description | Link |
+| --- | --- |
+| Benchmark of Deep Neural Network Architectures | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8506339 |
+| Object Detection 20 year survey | https://arxiv.org/pdf/1905.05055.pdf |
+
+#### Topic Based
+
 | Description | Link |
 | --- | --- |
 | Natural Scene Text Processing | https://arxiv.org/pdf/1507.05717.pdf <br> https://arxiv.org/pdf/1704.03155.pdf <br> http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf |
