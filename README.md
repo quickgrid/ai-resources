@@ -180,6 +180,7 @@
 | Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |
 | University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
+| Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/code |
 
 ### Full Courses
 
