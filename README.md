@@ -22,13 +22,6 @@
       - [Convolutional Neural Networks](#convolutional-neural-networks)
     + [Natural Language Processing](#natural-language-processing)
       - [Chatbot](#chatbot)
-  * [`# Video Lectures`](#-video-lectures)
-    + [Deep Learning](#deep-learning)
-      - [Deep Learning Overview](#deep-learning-overview)
-    + [Computer Vision](#computer-vision-1)
-      - [Overview](#overview)
-      - [Individual Topics](#individual-topics)
-    + [NLP](#nlp-1)
   * [`# Must Read Papers`](#-must-read-papers)
     + [Computer Vision](#computer-vision-2)
   * [`# FAQ`](#-faq)
@@ -242,46 +235,6 @@
 | Rasa NLU | https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/ |
 | Laser Multilingual Embeddings | https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/ |
 | NLP Libraries Overview | https://medium.com/@b.terryjack/nlp-pretrained-named-entity-recognition-7caa5cd28d7b |
-
-<br>
-
-## `# Video Lectures`
-
-| Description | Link |
-| --- | --- |
-| Joint, Marginal, Conditional Probability | https://www.youtube.com/watch?v=SrEmzdOT65s |
-
-### Deep Learning
-
-#### Deep Learning Overview
-
-| Description | Link |
-| --- | --- |
-| Deep Learning Tutorial | https://www.youtube.com/watch?v=r0Ogt-q956I |
-
-### Computer Vision
-
-#### Overview
-
-| Description | Link |
-| --- | --- |
-| :+1: Very High Quality Lecture By Andrej Karpathy | https://www.youtube.com/watch?v=u6aEYuemt0M |
-
-#### Individual Topics
-
-| Description | Link |
-| --- | --- |
-| Intersection Over Union | https://www.coursera.org/lecture/convolutional-neural-networks/intersection-over-union-p9gxz |
-| Non-Max Suppression | https://www.coursera.org/lecture/convolutional-neural-networks/non-max-suppression-dvrjH |
-| 1D Convolution Explanation | https://www.youtube.com/watch?v=CNY8VjJt-iQ |
-
-
-### NLP
-
-| Description | Link |
-| --- | --- |
-| Rasa Chatbot Tutorial | https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc |
-| Bleu Score | https://www.coursera.org/learn/nlp-sequence-models/lecture/kC2HD/bleu-score-optional |
 
 <br>
 
