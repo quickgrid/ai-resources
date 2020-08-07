@@ -240,6 +240,8 @@
 
 ## `# Must Read Papers`
 
+### https://github.com/quickgrid/Paper-Review
+
 ### Computer Vision
 
 #### Survey / Benchmark / Review
