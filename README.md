@@ -69,6 +69,8 @@
 | Annotation Tool List | https://www.datasetlist.com/tools/ |
 | Connected Papers List & Graph | https://www.connectedpapers.com/ |
 | Coco Dataset | https://cocodataset.org/ |
+| IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
+| IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
 
 
 ### Installation
