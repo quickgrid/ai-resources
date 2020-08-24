@@ -71,6 +71,10 @@
 | Coco Dataset | https://cocodataset.org/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
+| Papers with Code | https://paperswithcode.com/ |
+| AI articles, links etc. | https://madewithml.com/ |
+| AI models & code | https://www.catalyzex.com/ |
+
 
 
 ### Installation
@@ -170,13 +174,20 @@
 | Interactive Deep Learning Book | https://d2l.ai/ |
 | Tutorial on CV ML & more | https://maelfabien.github.io |
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
-| Papers with Code | https://paperswithcode.com/ |
-| AI articles, links etc. | https://madewithml.com/ |
 | Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |
 | University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/code |
+| Facebook AI | https://ai.facebook.com/ |
+| OpenAI Blog | https://openai.com/blog/ |
+| Google Research | https://research.google/ |
+| Nanonets AI articles | https://nanonets.com/blog/ |
+| Deepmind Research | https://deepmind.com/research |
+| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
+| Microsoft Research | https://www.microsoft.com/en-us/research/ |
+
+
 
 ### Full Courses
 
