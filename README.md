@@ -15,7 +15,7 @@
     + [Data Generation & Augmentation](#data-generation--augmentation)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
-    + [Full Courses](#full-courses)
+    + [Courses](#-courses)
   * [`# Codes`](#-codes)
   * [`# Articles & Tutorials`](#-articles--tutorials)
     + [Computer Vision](#computer-vision)
@@ -75,6 +75,10 @@
 | AI articles, links etc. | https://madewithml.com/ |
 | AI models & code | https://www.catalyzex.com/ |
 | Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
+| Google AI Education | https://ai.google/education/ |
+| Udacity | https://www.udacity.com |
+| Coursera | https://coursera.org |
+| Edx | https://www.edx.org/ |
 
 
 
@@ -187,14 +191,12 @@
 
 
 
-### Full Courses
+### Courses
 
 | Name | Link |
 | --- | --- |
-| Google AI Education | https://ai.google/education/ |
-| Udacity | https://www.udacity.com |
-| Coursera | https://coursera.org |
-| Edx | https://www.edx.org/ |
+| Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |	
+| University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
 
 <br>
 
