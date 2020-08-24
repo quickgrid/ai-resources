@@ -18,7 +18,6 @@
     + [Courses](#-courses)
   * [`# Must Read Papers`](#-must-read-papers)
   * [`# FAQ`](#-faq)
-    + [Computer Vision](#computer-vision-3)
 
 <br>
 
@@ -208,10 +207,3 @@
 | Description | Link |
 | --- | --- |
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
-
-### Computer Vision
-
-| Description | Link |
-| --- | --- |
-| Face Recognition Accuracy Problems Dlib Resnet | https://github.com/ageitgey/face_recognition/wiki/Face-Recognition-Accuracy-Problems |
-| Padded Square Bounding Box for OpenCV with Formula and Interactive Graph | https://stackoverflow.com/questions/62266719/python-adjust-margin-of-cropped-face-image-using-dlib-face-recognition/62315619#62315619 |
