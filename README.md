@@ -16,14 +16,7 @@
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Courses](#-courses)
-  * [`# Codes`](#-codes)
-  * [`# Articles & Tutorials`](#-articles--tutorials)
-    + [Computer Vision](#computer-vision)
-      - [Convolutional Neural Networks](#convolutional-neural-networks)
-    + [Natural Language Processing](#natural-language-processing)
-      - [Chatbot](#chatbot)
   * [`# Must Read Papers`](#-must-read-papers)
-    + [Computer Vision](#computer-vision-2)
   * [`# FAQ`](#-faq)
     + [Computer Vision](#computer-vision-3)
 
@@ -198,57 +191,6 @@
 | Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |	
 | University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
 
-<br>
-
-## `# Codes`
-
-| Description | Link |
-| --- | --- |
-| Yolo V3 Darknet Training | https://github.com/AlexeyAB/darknet |
-
-<br>
-
-## `# Articles & Tutorials`
-
-### Deep Learning
-| Description | Link |
-| --- | --- |
-| Gradient Descent vs Stochastic Gradient Descent | https://stats.stackexchange.com/questions/49528/batch-gradient-descent-versus-stochastic-gradient-descent |
-| Categorical Encoding Dummy Variable Trap | https://medium.com/@divyagera2402/encoding-categorical-data-and-dummy-variable-trap-in-regression-830f728c1382 |
-
-### Computer Vision
-
-| Description | Link |
-| --- | --- |
-| Viola Jones Face Recognition | https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999 |
-| Headpose Estimation | https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/ |
-| Dlib Facial Landmark | https://www.learnopencv.com/facial-landmark-detection/ |
-| OpenCV Dlib Face Detection | https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1 |
-| Face Landmark and Segments with Dlib, OpenCV | https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/ |
-
-#### Convolutional Neural Networks
-
-| Description | Link |
-| --- | --- |
-| Separable Convolutions | https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728 |
-| Distance Transform & Watershed (overlapping object segmentation) | https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_watershed/py_watershed.html <br> https://docs.opencv.org/4.2.0/d2/dbd/tutorial_distance_transform.html |
-| Various Text Region Detection Methods in OpenCV C++ & Python | https://stackoverflow.com/questions/23506105/extracting-text-opencv |
-
-
-### Natural Language Processing
-
-| Description | Link |
-| --- | --- |
-| Multinomial Naive Bayes <br> Sentiment Classification | https://towardsdatascience.com/sentiment-analysis-of-tweets-using-multinomial-naive-bayes-1009ed24276b |
-
-#### Chatbot
-
-| Description | Link |
-| --- | --- |
-| Intent & entity | https://s3.amazonaws.com/assets.datacamp.com/production/course_3631/slides/chapter2.pdf |
-| Rasa NLU | https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/ |
-| Laser Multilingual Embeddings | https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/ |
-| NLP Libraries Overview | https://medium.com/@b.terryjack/nlp-pretrained-named-entity-recognition-7caa5cd28d7b |
 
 <br>
 
@@ -256,27 +198,6 @@
 
 ### https://github.com/quickgrid/Paper-Review
 
-### Computer Vision
-
-#### Survey / Benchmark / Review
-
-| Description | Link |
-| --- | --- |
-| Benchmark of Deep Neural Network Architectures | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8506339 |
-| Object Detection 20 year survey | https://arxiv.org/pdf/1905.05055.pdf |
-
-#### Topic Based
-
-| Description | Link |
-| --- | --- |
-| Natural Scene Text Processing | https://arxiv.org/pdf/1507.05717.pdf <br> https://arxiv.org/pdf/1704.03155.pdf <br> http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf |
-|Natural Scene Multi Digit Number Recognition | https://static.googleusercontent.com/media/research.google.com/fr//pubs/archive/42241.pdf |
-| 1D Convolution | https://arxiv.org/pdf/1509.01626.pdf |
-| Face Landmark Position Alignment | http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf |
-| Viola Jones Face Detector | http://www.vision.caltech.edu/html-files/EE148-2005-Spring/pprs/viola04ijcv.pdf |
-| Selective Search for Object Recognition | http://www.huppelen.nl/publications/selectiveSearchDraft.pdf |
-| Mask R-CNN | https://arxiv.org/pdf/1703.06870.pdf |
-| Seamless Image Cloning | http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf |
 
 <br>
 
