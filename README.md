@@ -74,6 +74,7 @@
 | Papers with Code | https://paperswithcode.com/ |
 | AI articles, links etc. | https://madewithml.com/ |
 | AI models & code | https://www.catalyzex.com/ |
+| Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 
 
 
@@ -146,6 +147,7 @@
 | Flair NLP | https://github.com/flairNLP/flair |
 | DeepPavlov NLP | https://github.com/deepmipt/DeepPavlov |
 | Gluon NLP | https://gluon-nlp.mxnet.io/ |
+| HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 
 ### Data Annotation
 
@@ -169,14 +171,10 @@
 
 | Name | Link |
 | --- | --- |
-| YOLO Darknet | https://pjreddie.com/darknet/yolo/ |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Interactive Deep Learning Book | https://d2l.ai/ |
 | Tutorial on CV ML & more | https://maelfabien.github.io |
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
-| Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
-| Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |
-| University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/code |
 | Facebook AI | https://ai.facebook.com/ |
