@@ -16,6 +16,7 @@
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Courses](#-courses)
+  * [`# Books`](#-books)
   * [`# Must Read Papers`](#-must-read-papers)
   * [`# FAQ`](#-faq)
 
@@ -189,6 +190,15 @@
 | --- | --- |
 | Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |	
 | University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
+
+
+<br>
+
+## `# Books`
+
+| Name | Link |
+| --- | --- |
+| Interactive Deep Learning Book | https://d2l.ai/ |
 
 
 <br>
