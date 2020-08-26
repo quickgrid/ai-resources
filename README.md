@@ -82,6 +82,7 @@
 | Name | Link |
 | --- | --- |
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
+| Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
 
 #### Softwares
 
