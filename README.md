@@ -26,7 +26,6 @@
 
 | Description | Link |
 | --- | --- |
-| Pretrained Models for Various Tasks | https://github.com/quickgrid/Categorized-Pretrained-Models |
 | Tesserect Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
 | FastText NLP Pretrained Vectors | https://fasttext.cc/docs/en/crawl-vectors.html |
 | OpenVino Pretrained Models for Various Tasks | https://github.com/opencv/open_model_zoo |
