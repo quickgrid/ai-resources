@@ -175,7 +175,7 @@
 | Tutorial on CV ML & more | https://maelfabien.github.io |
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
-| Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/code |
+| Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
 | Facebook AI | https://ai.facebook.com/ |
 | OpenAI Blog | https://openai.com/blog/ |
 | Google Research | https://research.google/ |
