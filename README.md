@@ -102,6 +102,7 @@
 | --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
 | Wit.ai NLP | https://wit.ai/ |
+| Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module | 
 
 #### General Purpose (ML DL CV etc.)
 
