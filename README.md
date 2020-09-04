@@ -171,7 +171,6 @@
 | Name | Link |
 | --- | --- |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
-| Interactive Deep Learning Book | https://d2l.ai/ |
 | Tutorial on CV ML & more | https://maelfabien.github.io |
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
@@ -200,7 +199,9 @@
 
 | Name | Link |
 | --- | --- |
-| Interactive Deep Learning Book | https://d2l.ai/ |
+| Interactive Deep Learning Book with Code | https://d2l.ai/ |
+| Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
+| Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
 
 
 <br>
