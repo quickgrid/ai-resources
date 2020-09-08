@@ -67,10 +67,6 @@
 | AI articles, links etc. | https://madewithml.com/ |
 | AI models & code | https://www.catalyzex.com/ |
 | Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
-| Google AI Education | https://ai.google/education/ |
-| Udacity | https://www.udacity.com |
-| Coursera | https://coursera.org |
-| Edx | https://www.edx.org/ |
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
@@ -184,7 +180,10 @@
 | Deepmind Research | https://deepmind.com/research |
 | BAIR AI Blog | https://bair.berkeley.edu/blog/ |
 | Microsoft Research | https://www.microsoft.com/en-us/research/ |
-
+| Google AI Education | https://ai.google/education/ |
+| Udacity | https://www.udacity.com |
+| Coursera | https://coursera.org |
+| Edx | https://www.edx.org/ |
 
 
 ### Courses
