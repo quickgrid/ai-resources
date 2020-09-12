@@ -190,8 +190,7 @@
 
 | Name | Link |
 | --- | --- |
-| Technical University of Munich CV Courses | https://dvl.in.tum.de/teaching/ |	
-| University of Rennes 1 Deep Learning for Vision | https://sif-dlv.github.io/ |
+| Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io/ <br> http://cs231n.stanford.edu/syllabus.html |
 
 
 <br>
