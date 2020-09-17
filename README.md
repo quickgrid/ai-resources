@@ -129,6 +129,8 @@
 | ImageIO | https://imageio.github.io/ |
 | Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
 | Gluon CV | https://gluon-cv.mxnet.io/ |
+| EasyOCR | https://github.com/JaidedAI/EasyOCR |
+
 
 #### NLP
 
@@ -147,6 +149,7 @@
 | DeepPavlov NLP | https://github.com/deepmipt/DeepPavlov |
 | Gluon NLP | https://gluon-nlp.mxnet.io/ |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
+
 
 ### Data Annotation
 
