@@ -67,7 +67,7 @@
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
 | Papers with Code | https://paperswithcode.com/ |
-| AI articles, links etc. | https://madewithml.com/ |
+| MWML AI articles, links etc. | https://madewithml.com/ |
 | AI models & code | https://www.catalyzex.com/ |
 | Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
@@ -187,6 +187,7 @@
 | OpenAI Blog | https://openai.com/blog/ |
 | Google Research | https://research.google/ |
 | Nanonets AI articles | https://nanonets.com/blog/ |
+| Paperspace AI Articles | https://blog.paperspace.com/ |
 | Deepmind Research | https://deepmind.com/research |
 | BAIR AI Blog | https://bair.berkeley.edu/blog/ |
 | Microsoft Research | https://www.microsoft.com/en-us/research/ |
