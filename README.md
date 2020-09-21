@@ -118,6 +118,8 @@
 | Tencent NCNN | https://github.com/Tencent/ncnn |
 | Alibaba MNN | https://github.com/alibaba/MNN |
 | AutoKeras | https://autokeras.com/ |
+| TPOT AutoML Tool | http://epistasislab.github.io/tpot/ |
+
 
 #### Computer Vision & Image Processing
 
