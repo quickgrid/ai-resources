@@ -30,8 +30,11 @@
 | FastText NLP Pretrained Vectors | https://fasttext.cc/docs/en/crawl-vectors.html |
 | OpenVino Pretrained Models for Various Tasks | https://github.com/opencv/open_model_zoo |
 | ONNX Models | https://github.com/onnx/models |
+| Tensorflow Hub ML Models | https://tfhub.dev/ |
+
 
 <br>
+
 
 ## `# Cheetsheets & Glossary`
 
@@ -70,7 +73,6 @@
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
-| Trained ML Models | https://tfhub.dev/ |
 
 
 
