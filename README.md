@@ -75,7 +75,7 @@
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
 | Open Images Dataset | https://storage.googleapis.com/openimages/web/index.html |
 | Computer Vision Dataset Discovery | https://www.visualdata.io/ |
-
+| Public Computer Vision Datasets in Various Formats | https://public.roboflow.com/ |
 
 
 
@@ -236,3 +236,4 @@
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
 | Tensorflow graph freezing, frozen graph, checkpoint, saved model to onnx conversion | https://github.com/onnx/tensorflow-onnx |
 | ML Dataset List with Various Information | https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research |
+| Tensorflow TFRecord Format | https://www.tensorflow.org/tutorials/load_data/tfrecord <br> https://keras.io/examples/keras_recipes/tfrecord/ <br> https://www.skcript.com/svr/why-every-tensorflow-developer-should-know-about-tfrecord/ |
