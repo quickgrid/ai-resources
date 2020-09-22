@@ -56,7 +56,6 @@
 | Host ML Results | https://tensorboard.dev/ |
 | Pretrined Models & Code | https://modelzoo.co/ |
 | Kaggle ML Competitions | https://www.kaggle.com/ |
-| NLU Dataset Generator | https://rodrigopivi.github.io/Chatito/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 | Kaggle Datasets | https://www.kaggle.com/datasets |
 | Awesome Public Datasets | https://github.com/awesomedata/awesome-public-datasets |
@@ -158,6 +157,7 @@
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 
 
+
 ### Data Annotation
 
 | Name | Link |
@@ -167,13 +167,18 @@
 | Computer Vision Annotation CVAT | https://github.com/opencv/cvat |
 | Labelme Image and Video Annotation | https://github.com/wkentaro/labelme |
 
+
+
 ### Data Generation & Augmentation
 
 | Name | Link |
 | --- | --- |
 | Synthetic Image Data Generation | https://github.com/Belval/TextRecognitionDataGenerator |
+| NLU Dataset Generator | https://rodrigopivi.github.io/Chatito/ |
+
 
 <br>
+
 
 ## `# Websites`
 
