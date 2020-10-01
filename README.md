@@ -210,6 +210,7 @@
 | Name | Link |
 | --- | --- |
 | Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io/ <br> http://cs231n.stanford.edu/syllabus.html |
+| University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 
 
 <br>
