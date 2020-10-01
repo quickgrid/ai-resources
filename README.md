@@ -15,7 +15,7 @@
     + [Data Generation & Augmentation](#data-generation--augmentation)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
-    + [Courses](#-courses)
+    + [Courses](#courses)
   * [`# Books`](#-books)
   * [`# Must Read Papers`](#-must-read-papers)
   * [`# FAQ`](#-faq)
