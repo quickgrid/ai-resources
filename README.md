@@ -230,6 +230,10 @@
 
 ### https://github.com/quickgrid/Paper-Review
 
+| Name | Link |
+| --- | --- |
+| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
+| ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
 
 <br>
 
