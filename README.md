@@ -12,7 +12,7 @@
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
       - [NLP](#nlp)
     + [Data Annotation](#data-annotation)
-    + [Data Generation & Augmentation](#data-generation--augmentation)
+    + [Data Collection, Generation & Augmentation](#data-collection--generation--augmentation)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Courses](#courses)
@@ -107,7 +107,7 @@
 | ML Tool Building | https://www.streamlit.io/ |
 | Wit.ai NLP | https://wit.ai/ |
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module | 
-| Open Images V4 Image Downloader | https://github.com/EscVM/OIDv4_ToolKit |
+
 
 #### General Purpose (ML DL CV etc.)
 
@@ -170,13 +170,13 @@
 
 
 
-### Data Generation & Augmentation
+### Data Collection, Generation & Augmentation
 
 | Name | Link |
 | --- | --- |
 | Synthetic Image Data Generation | https://github.com/Belval/TextRecognitionDataGenerator |
 | NLU Dataset Generator | https://rodrigopivi.github.io/Chatito/ |
-
+| Open Images V4 Image Downloader | https://github.com/EscVM/OIDv4_ToolKit |
 
 <br>
 
