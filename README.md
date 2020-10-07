@@ -12,7 +12,7 @@
       - [Computer Vision & Image Processing](#computer-vision--image-processing)
       - [NLP](#nlp)
     + [Data Annotation](#data-annotation)
-    + [Data Collection, Generation & Augmentation](#data-collection--generation--augmentation)
+    + [Data Collection, Generation & Augmentation](#data-collection-generation--augmentation)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Courses](#courses)
