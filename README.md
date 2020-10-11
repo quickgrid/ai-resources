@@ -48,6 +48,7 @@
 ## `# Training`
 
 | Description | Link |
+| --- | --- |
 | Tensorflow Object Detection API Training | https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html |
 
 <br>
