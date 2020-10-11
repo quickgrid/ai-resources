@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
+  * [`# Training`](#-training)
   * [`# Tools`](#-tools)
     + [Online](#online)
     + [Installation](#installation)
@@ -43,6 +44,14 @@
 | Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
 
 <br>
+
+## `# Training`
+
+| Description | Link |
+| Tensorflow Object Detection API Training | https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html |
+
+<br>
+
 
 ## `# Tools`
 
