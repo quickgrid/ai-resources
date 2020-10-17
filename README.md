@@ -221,6 +221,7 @@
 | Name | Link |
 | --- | --- |
 | Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io/ <br> http://cs231n.stanford.edu/syllabus.html |
+| Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 
 
