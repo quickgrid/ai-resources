@@ -85,6 +85,7 @@
 | Open Images Dataset | https://storage.googleapis.com/openimages/web/index.html |
 | Computer Vision Dataset Discovery | https://www.visualdata.io/ |
 | Public Computer Vision Datasets in Various Formats | https://public.roboflow.com/ |
+| Computer Vision Datasets | https://computervisiononline.com/ |
 
 
 
