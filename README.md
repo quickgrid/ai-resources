@@ -50,6 +50,9 @@
 | Description | Link |
 | --- | --- |
 | Tensorflow Object Detection API Training | https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html |
+| Darknet Yolo v4 Object Detection Training | https://github.com/AlexeyAB/darknet |
+| Pytorch Yolo v5 Object Detection Training | https://github.com/ultralytics/yolov5 |
+
 
 <br>
 
