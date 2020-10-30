@@ -165,7 +165,7 @@
 | Rasa NLP | https://rasa.com/ |
 | PolyGlot NLP | https://github.com/aboSamoor/polyglot |
 | Snips NLP | https://github.com/snipsco/snips-nlu |
-| Standford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
+| Stanford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
 | AllenNLP | https://github.com/allenai/allennlp |
 | Flair NLP | https://github.com/flairNLP/flair |
 | DeepPavlov NLP | https://github.com/deepmipt/DeepPavlov |
