@@ -224,6 +224,7 @@
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
+| Christopher Olah's Blog | https://colah.github.io/ |
 
 
 ### Courses
