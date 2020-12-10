@@ -43,6 +43,7 @@
 | Description | Link |
 | --- | --- |
 | Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
+| ML Cheatsheet | https://ml-cheatsheet.readthedocs.io/en/latest/index.html |
 
 <br>
 
