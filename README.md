@@ -270,3 +270,4 @@
 | ML Dataset List with Various Information | https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research |
 | Tensorflow TFRecord Format | https://www.tensorflow.org/tutorials/load_data/tfrecord <br> https://keras.io/examples/keras_recipes/tfrecord/ <br> https://www.skcript.com/svr/why-every-tensorflow-developer-should-know-about-tfrecord/ |
 | Object Detection Bounding Box Annotation | http://vision.stanford.edu/pdf/bbox_submission.pdf |
+| Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
