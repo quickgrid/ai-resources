@@ -201,6 +201,10 @@
 | stylegan2-ada, Image data generation through pretrained, custom model | https://github.com/NVlabs/stylegan2-ada |
 | stylegan2 pytorch, Image data generation from custom model | https://github.com/lucidrains/stylegan2-pytorch | 
 | Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
+| Various Object Detection Image Augmentations | https://github.com/Paperspace/DataAugmentationForObjectDetection |
+| Image Augmentation Library | https://github.com/aleju/imgaug |
+| Image Augmentation Library | https://github.com/mdbloice/Augmentor |
+
 
 <br>
 
