@@ -200,6 +200,7 @@
 | Open Images V4 Image Downloader | https://github.com/EscVM/OIDv4_ToolKit |
 | stylegan2-ada, Image data generation through pretrained, custom model | https://github.com/NVlabs/stylegan2-ada |
 | stylegan2 pytorch, Image data generation from custom model | https://github.com/lucidrains/stylegan2-pytorch | 
+| Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
 
 <br>
 
