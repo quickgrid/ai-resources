@@ -296,3 +296,4 @@
 | Python DL Vectorization | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
 | Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
 | Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
+| Neural Network Implementation from scratch (multi part) | https://peterroelants.github.io/posts/neural-network-implementation-part01/ |
