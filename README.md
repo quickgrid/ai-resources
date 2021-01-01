@@ -243,6 +243,8 @@
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
+| Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
+| GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
 
 
 <br>
@@ -291,3 +293,5 @@
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
 | Linear Function Definition and ReLU Linearity | https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function/26481#26481 |
 | Linear Functions vs. Affine Functions | https://math.stackexchange.com/questions/275310/what-is-the-difference-between-linear-and-affine-function |
+| Python DL Vectorization | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
+| Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
