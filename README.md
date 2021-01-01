@@ -295,3 +295,4 @@
 | Linear Functions vs. Affine Functions | https://math.stackexchange.com/questions/275310/what-is-the-difference-between-linear-and-affine-function |
 | Python DL Vectorization | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
 | Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
+| Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
