@@ -93,6 +93,7 @@
 | Computer Vision Datasets | https://computervisiononline.com/ |
 | Open Peer Review | https://openreview.net/ |
 | In Browser Collaborative IDE | https://repl.it/ | 
+| ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
 
 
 
