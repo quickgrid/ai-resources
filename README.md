@@ -299,4 +299,4 @@
 | Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
 | Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
-| Vectorization Basics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
+| Vectorization, SIMD, Intrinsics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
