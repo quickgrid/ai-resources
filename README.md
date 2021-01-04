@@ -295,8 +295,8 @@
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
 | Linear Function Definition and ReLU Linearity | https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function/26481#26481 |
 | Linear Functions vs. Affine Functions | https://math.stackexchange.com/questions/275310/what-is-the-difference-between-linear-and-affine-function |
-| Python DL Vectorization (Week 2) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
+| Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
 | Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
 | Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
-| Vectorization Basics (Week 2) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
+| Vectorization Basics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
