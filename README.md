@@ -278,6 +278,7 @@
 
 | Description | Link |
 | --- | --- |
+| Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
 | Tensorflow graph freezing, frozen graph, checkpoint, saved model to onnx conversion | https://github.com/onnx/tensorflow-onnx |
 | ML Dataset List with Various Information | https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research |
