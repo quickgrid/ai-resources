@@ -14,6 +14,7 @@
       - [NLP](#nlp)
     + [Data Annotation](#data-annotation)
     + [Data Collection, Generation & Augmentation](#data-collection-generation--augmentation)
+    + [3D ML, Data Processing, Visualization](#3d-ml-data-processing-visualization)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Courses](#courses)
@@ -206,6 +207,15 @@
 | Various Object Detection Image Augmentations | https://github.com/Paperspace/DataAugmentationForObjectDetection |
 | Image Augmentation Library | https://github.com/aleju/imgaug |
 | Image Augmentation Library | https://github.com/mdbloice/Augmentor |
+
+
+### 3D Machine Learning, Data Processing, Visualization
+
+| Name | Link |
+| --- | --- |
+| 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
+| 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
+| Pytorch 3D Deep Learning | https://pytorch3d.org/ |
 
 
 <br>
