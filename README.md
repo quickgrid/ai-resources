@@ -207,7 +207,7 @@
 
 ### Data Collection, Generation & Augmentation
 
-Also look into [GAN Section](#generative-adversarial-network) for generative data augmentation.
+:bulb: Also look into [GAN Section](#generative-adversarial-network) for generative data augmentation.
 
 | Name | Link |
 | --- | --- |
