@@ -311,4 +311,5 @@
 | Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
+| LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
 
