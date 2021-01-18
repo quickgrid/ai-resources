@@ -2,7 +2,8 @@
 - [Table of Contents](#table-of-contents)
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
-  * [`# Training`](#-training)
+  * [`# Tasks`](#-tasks)
+    + [Object Detection](#object-detection)
   * [`# Tools`](#-tools)
     + [Online](#online)
     + [Installation](#installation)
@@ -49,7 +50,9 @@
 
 <br>
 
-## `# Training`
+## `# Tasks`
+
+### Object Detection
 
 | Description | Link |
 | --- | --- |
