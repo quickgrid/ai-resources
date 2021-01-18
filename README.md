@@ -28,7 +28,7 @@
 
 <br>
 
-# `# Pretrained Models`
+## `# Pretrained Models`
 
 | Description | Link |
 | --- | --- |
@@ -42,7 +42,7 @@
 <br>
 
 
-# `# Cheetsheets & Glossary`
+## `# Cheetsheets & Glossary`
 
 | Description | Link |
 | --- | --- |
@@ -51,9 +51,9 @@
 
 <br>
 
-# `# Tasks`
+## `# Tasks`
 
-## Object Detection
+### Object Detection
 
 | Description | Link |
 | --- | --- |
@@ -62,7 +62,7 @@
 | Pytorch Yolo v5 Object Detection Training | https://github.com/ultralytics/yolov5 |
 
 
-## Generative Adversarial Network
+### Generative Adversarial Network
 
 | Description | Link |
 | --- | --- |
@@ -72,9 +72,9 @@
 <br>
 
 
-# `# Tools`
+## `# Tools`
 
-## Online
+### Online
 
 | Name | Link |
 | --- | --- |
@@ -110,9 +110,9 @@
 
 
 
-## Installation
+### Installation
 
-### Enviornment
+#### Enviornment
 
 | Name | Link |
 | --- | --- |
@@ -132,7 +132,7 @@
 | Android Studio IDE | https://developer.android.com/studio |
 | Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
  
-### Development
+#### Development
 
 | Description | Link |
 | --- | --- |
@@ -142,7 +142,7 @@
 | ML Model Training and Export Offline | https://lobe.ai/ |
 
 
-### General Purpose (ML DL CV etc.)
+#### General Purpose (ML DL CV etc.)
 
 | Name | Link |
 | --- | --- |
@@ -159,7 +159,7 @@
 | TPOT AutoML Tool | http://epistasislab.github.io/tpot/ |
 
 
-### Computer Vision & Image Processing
+#### Computer Vision & Image Processing
 
 | Name | Link |
 | --- | --- |
@@ -172,7 +172,7 @@
 | EasyOCR | https://github.com/JaidedAI/EasyOCR |
 
 
-### NLP
+#### NLP
 
 | Name | Link |
 | --- | --- |
@@ -192,7 +192,7 @@
 
 
 
-## Data Annotation
+### Data Annotation
 
 | Name | Link |
 | --- | --- |
@@ -205,7 +205,7 @@
 
 
 
-## Data Collection, Generation & Augmentation
+### Data Collection, Generation & Augmentation
 
 Also look into [GAN Section](#generative-adversarial-network) for generative data augmentation.
 
@@ -220,7 +220,7 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 | Image Augmentation Library | https://github.com/mdbloice/Augmentor |
 
 
-## 3D Machine Learning, Data Processing, Visualization
+### 3D Machine Learning, Data Processing, Visualization
 
 | Name | Link |
 | --- | --- |
@@ -232,9 +232,9 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 <br>
 
 
-# `# Websites`
+## `# Websites`
 
-## AI Sites & Blogs
+### AI Sites & Blogs
 
 | Name | Link |
 | --- | --- |
@@ -258,7 +258,7 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 | Christopher Olah's Blog | https://colah.github.io/ |
 
 
-## Courses
+### Courses
 
 | Name | Link |
 | --- | --- |
@@ -272,7 +272,7 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 
 <br>
 
-# `# Books`
+## `# Books`
 
 | Name | Link |
 | --- | --- |
@@ -284,7 +284,7 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 
 <br>
 
-# `# Must Read Papers`
+## `# Must Read Papers`
 
 | Name | Link |
 | --- | --- |
@@ -293,9 +293,9 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 
 <br>
 
-# `# FAQ`
+## `# FAQ`
 
-## General
+### General
 
 | Description | Link |
 | --- | --- |
@@ -310,7 +310,7 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 
 <br>
 
-# `# Techniques`
+## `# Techniques`
 
 | Description | Link |
 | --- | --- |
@@ -320,7 +320,7 @@ Also look into [GAN Section](#generative-adversarial-network) for generative dat
 
 <br>
 
-# `# Theory`
+## `# Theory`
 
 | Description | Link |
 | --- | --- |
