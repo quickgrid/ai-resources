@@ -224,10 +224,10 @@
 
 | Name | Link |
 | --- | --- |
-| 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
-| 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
-| Pytorch 3D Deep Learning | https://pytorch3d.org/ |
-
+| Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
+| Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
+| Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
+| Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
 
 <br>
 
