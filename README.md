@@ -278,7 +278,7 @@
 
 | Description | Link |
 | --- | --- |
-| Google Python Style Guide | https://google.github.io/styleguide/pyguide.html |
+| Google Programming Language Style Guide(Python, C++, Java etc.) | https://google.github.io/styleguide/ <br> https://google.github.io/styleguide/pyguide.html <br> https://google.github.io/styleguide/cppguide.html |
 | Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
 | Tensorflow graph freezing, frozen graph, checkpoint, saved model to onnx conversion | https://github.com/onnx/tensorflow-onnx |
