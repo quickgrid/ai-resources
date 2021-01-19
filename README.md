@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
+  * [`# Code Examples`](#-code-examples)
   * [`# Tasks`](#-tasks)
     + [Object Detection](#object-detection)
     + [Generative Adversarial Network](#generative-adversarial-network)
@@ -49,6 +50,15 @@
 | Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
 | ML Cheatsheet | https://ml-cheatsheet.readthedocs.io/en/latest/index.html |
 
+<br>
+
+
+## `# Code Examples`
+
+| Description | Link |
+| --- | --- |
+| Keras Made Easy Code Examples | https://keras.io/examples/ |
+ 
 <br>
 
 ## `# Tasks`
