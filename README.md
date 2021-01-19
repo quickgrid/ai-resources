@@ -344,4 +344,4 @@
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
 | LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
-
+| Attention Mechanism for Vision |  |
