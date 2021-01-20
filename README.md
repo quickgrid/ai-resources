@@ -280,6 +280,7 @@
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
 | Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
 | GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
+| Tensorflow Advanced Techniques (deeplearning.ai) | https://www.coursera.org/specializations/tensorflow-advanced-techniques |
 | Deepmind Deep Learning Lectures 2020 | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020 |
 | DeepMind Intro to RL | https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver |
 | DeepMind RL Lecture Series 2018 | https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018 |
