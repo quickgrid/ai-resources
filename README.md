@@ -350,4 +350,5 @@
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
 | LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
+| Easy Article on Various Inception Network Architectures | https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202 |
 | Attention Mechanism for Vision |  |
