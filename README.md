@@ -58,6 +58,7 @@
 | Description | Link |
 | --- | --- |
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
+| DeepMind Practicals | https://github.com/deep-learning-indaba/indaba-pracs-2019 <br> https://github.com/khipu-ai/practicals-2019 <br> https://github.com/nassma2019/PracticalSessions <br> https://github.com/eemlcommunity/PracticalSessions2020 |
  
 <br>
 
@@ -266,6 +267,7 @@
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
 | Christopher Olah's Blog | https://colah.github.io/ |
+| DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
 
 
 ### Courses
@@ -278,6 +280,9 @@
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
 | Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
 | GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
+| Deepmind Deep Learning Lectures 2020 | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020 |
+| DeepMind Intro to RL | https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver |
+| DeepMind RL Lecture Series 2018 | https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018 |
 
 
 <br>
