@@ -351,4 +351,5 @@
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
 | LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
 | Easy Article on Various Inception Network Architectures | https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202 |
+| L1, L2 Norm | https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms |
 | Attention Mechanism for Vision |  |
