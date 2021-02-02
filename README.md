@@ -98,7 +98,7 @@
 
 | Description | Link |
 | --- | --- |
-| OpenAI Spinningup RL | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
+| OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 
 <br>
 
