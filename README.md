@@ -3,9 +3,11 @@
   * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
   * [`# Code Examples`](#-code-examples)
-  * [`# Tasks`](#-tasks)
+  * [`# Topics`](#-topics)
     + [Object Detection](#object-detection)
     + [Generative Adversarial Network](#generative-adversarial-network)
+    + [3D ML, Data Processing, Visualization](#3d-ml-data-processing-visualization)
+    + [Reinforcement Learning](#reinforcement-learning)
   * [`# Tools`](#-tools)
     + [Online](#online)
     + [Installation](#installation)
@@ -17,7 +19,6 @@
       - [NLP](#nlp)
     + [Data Annotation](#data-annotation)
     + [Data Collection, Generation & Augmentation](#data-collection-generation--augmentation)
-    + [3D ML, Data Processing, Visualization](#3d-ml-data-processing-visualization)
   * [`# Websites`](#-websites)
     + [AI Sites & Blogs](#ai-sites--blogs)
     + [Courses](#courses)
@@ -62,7 +63,7 @@
  
 <br>
 
-## `# Tasks`
+## `# Topics`
 
 ### Object Detection
 
@@ -79,6 +80,25 @@
 | --- | --- |
 | stylegan2-ada, Image data generation through pretrained, custom model | https://github.com/NVlabs/stylegan2-ada |
 | stylegan2 pytorch, Image data generation from custom model | https://github.com/lucidrains/stylegan2-pytorch | 
+
+
+
+### 3D Machine Learning, Data Processing, Visualization
+
+| Name | Link |
+| --- | --- |
+| Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
+| Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
+| Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
+| Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
+
+
+
+### Reinforcement Learning
+
+| Description | Link |
+| --- | --- |
+| OpenAI Spinningup RL | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 
 <br>
 
@@ -231,14 +251,6 @@
 | Image Augmentation Library | https://github.com/mdbloice/Augmentor |
 
 
-### 3D Machine Learning, Data Processing, Visualization
-
-| Name | Link |
-| --- | --- |
-| Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
-| Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
-| Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
-| Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
 
 <br>
 
