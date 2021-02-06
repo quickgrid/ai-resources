@@ -240,7 +240,7 @@
 | Computer Vision Annotation CVAT | https://github.com/opencv/cvat |
 | Labelme Image and Video Annotation | https://github.com/wkentaro/labelme |
 | LabelImg Image Annotation | https://github.com/tzutalin/labelImg |
-
+| Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
 
 
 
