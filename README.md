@@ -374,4 +374,5 @@
 | Easy Article on Various Inception Network Architectures | https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202 |
 | L1, L2 Norm | https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms |
 | Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
+| Depthwise Separable Convolution | https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/ |
 | Attention Mechanism for Vision |  |
