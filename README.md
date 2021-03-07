@@ -131,6 +131,7 @@
 | In Browser Collaborative IDE | https://repl.it/ | 
 | ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
 | :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
+| AI Articles on Latest Papers | https://ai-scholar.tech/en |
 
 
 ### Dataset Search
