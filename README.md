@@ -6,7 +6,7 @@
   * [`# Topics`](#-topics)
     + [Object Detection](#object-detection)
     + [Generative Adversarial Network](#generative-adversarial-network)
-    + [3D ML, Data Processing, Visualization](#3d-ml-data-processing-visualization)
+    + [3D ML, Data Processing, Visualization](#3d-machine-learning-data-processing-visualization)
     + [Reinforcement Learning](#reinforcement-learning)
   * [`# Tools`](#-tools)
     + [Online](#online)
