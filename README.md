@@ -92,6 +92,7 @@
 | Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
 | Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
 | Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
+| 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
 
 
 
