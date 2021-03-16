@@ -21,7 +21,9 @@
     + [Data Annotation](#data-annotation)
     + [Data Collection, Generation & Augmentation](#data-collection-generation--augmentation)
   * [`# Websites`](#-websites)
-    + [AI Sites & Blogs](#ai-sites--blogs)
+    + [AI Sites](#ai-sites)
+    + [Research Blogs](#research-blogs)
+    + [Research News](#research-news)
     + [Courses](#courses)
   * [`# Books`](#-books)
   * [`# Must Read Papers`](#-must-read-papers)
@@ -267,7 +269,7 @@
 
 ## `# Websites`
 
-### AI Sites & Blogs
+### AI Sites
 
 | Name | Link |
 | --- | --- |
@@ -276,21 +278,30 @@
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
-| Facebook AI | https://ai.facebook.com/ |
-| OpenAI Blog | https://openai.com/blog/ |
-| Google Research | https://research.google/ |
 | Nanonets AI articles | https://nanonets.com/blog/ |
 | Paperspace AI Articles | https://blog.paperspace.com/ |
-| Deepmind Research | https://deepmind.com/research |
-| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
-| Microsoft Research | https://www.microsoft.com/en-us/research/ |
 | Google AI Education | https://ai.google/education/ |
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
 | Christopher Olah's Blog | https://colah.github.io/ |
 | DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
+
+
+
+### Research Blogs
+| Facebook AI | https://ai.facebook.com/ |
+| OpenAI Blog | https://openai.com/blog/ |
+| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
+| Microsoft Research | https://www.microsoft.com/en-us/research/ |
+| Google Research | https://research.google/ |
+| Deepmind Research | https://deepmind.com/research |
+
+
+
+### Research News
 | :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
+
 
 
 ### Courses
