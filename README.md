@@ -290,6 +290,7 @@
 | Edx | https://www.edx.org/ |
 | Christopher Olah's Blog | https://colah.github.io/ |
 | DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
+| :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
 
 
 ### Courses
