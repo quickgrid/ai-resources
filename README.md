@@ -290,6 +290,9 @@
 
 
 ### Research Blogs
+
+| Name | Link |
+| --- | --- |
 | Facebook AI | https://ai.facebook.com/ |
 | OpenAI Blog | https://openai.com/blog/ |
 | BAIR AI Blog | https://bair.berkeley.edu/blog/ |
@@ -300,6 +303,9 @@
 
 
 ### Research News
+
+| Name | Link |
+| --- | --- |
 | :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
 
 
