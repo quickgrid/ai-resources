@@ -275,17 +275,15 @@
 | Name | Link |
 | --- | --- |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
-| Tutorial on CV ML & more | https://maelfabien.github.io |
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
-| Nanonets AI articles | https://nanonets.com/blog/ |
-| Paperspace AI Articles | https://blog.paperspace.com/ |
 | Google AI Education | https://ai.google/education/ |
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
 | DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
+| AI Papers as Webpage, Personalized Library | https://www.groundai.com/ |
 
 
 
@@ -302,9 +300,20 @@
 
 
 ### AI Blogs
+
+| Name | Link |
+| --- | --- |
 | Christopher Olah's Blog | https://colah.github.io/ |
 | Blog on Computer Vision | https://gombru.github.io/ |
 | Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
+| Tutorial on CV ML & more | https://maelfabien.github.io |
+
+### AI Articles
+
+| Name | Link |
+| --- | --- |
+| Nanonets AI articles | https://nanonets.com/blog/ |
+| Paperspace AI Articles | https://blog.paperspace.com/ |
 
 
 ### Research News
