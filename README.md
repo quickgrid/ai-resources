@@ -23,6 +23,7 @@
   * [`# Websites`](#-websites)
     + [AI Sites](#ai-sites)
     + [Research Blogs](#research-blogs)
+    + [AI Blogs](#ai-blogs)
     + [Research News](#research-news)
     + [Courses](#courses)
   * [`# Books`](#-books)
@@ -284,7 +285,6 @@
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
-| Christopher Olah's Blog | https://colah.github.io/ |
 | DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
 
 
@@ -300,6 +300,11 @@
 | Google Research | https://research.google/ |
 | Deepmind Research | https://deepmind.com/research |
 
+
+### AI Blogs
+| Christopher Olah's Blog | https://colah.github.io/ |
+| Blog on Computer Vision | https://gombru.github.io/ |
+| Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
 
 
 ### Research News
