@@ -285,7 +285,7 @@
 | Edx | https://www.edx.org/ |
 | DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
 | AI Papers as Webpage, Personalized Library | https://www.groundai.com/ |
-
+| Visual Explanation of ML Research | https://distill.pub/ |
 
 
 ### Research Blogs
