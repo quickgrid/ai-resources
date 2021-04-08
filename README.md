@@ -27,8 +27,9 @@
     + [AI Articles](#ai-articles)
     + [Research News](#research-news)
     + [Courses](#courses)
+    + [Code Implementations](#code-implementations)
   * [`# Books`](#-books)
-  * [`# Must Read Papers`](#-must-read-papers)
+  * [`# Paper Review`](#-paper-review)
   * [`# FAQ`](#-faq)
   * [`# Techniques`](#-techniques)
   * [`# Theory`](#-theory)
@@ -341,6 +342,15 @@
 | DeepMind RL Lecture Series 2018 | https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018 |
 
 
+
+
+### Code Implementations
+
+| Name | Link |
+| --- | --- |
+| ML tutorial and code implementation from scratch with pytorch, tensorflow | https://www.youtube.com/c/AladdinPersson/videos <br> https://github.com/aladdinpersson/Machine-Learning-Collection |
+
+
 <br>
 
 ## `# Books`
@@ -355,7 +365,7 @@
 
 <br>
 
-## `# Must Read Papers`
+## `# Paper Review`
 
 | Name | Link |
 | --- | --- |
