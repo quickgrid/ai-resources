@@ -348,7 +348,7 @@
 
 | Name | Link |
 | --- | --- |
-| ML tutorial and code implementation from scratch with pytorch, tensorflow | https://www.youtube.com/c/AladdinPersson/videos <br> https://github.com/aladdinpersson/Machine-Learning-Collection |
+| ML Tutorials and Code Implementation From Scratch With Pytorch, Tensorflow | https://www.youtube.com/c/AladdinPersson/videos <br> https://github.com/aladdinpersson/Machine-Learning-Collection |
 
 
 <br>
