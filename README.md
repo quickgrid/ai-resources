@@ -407,7 +407,7 @@
 
 | Description | Link |
 | --- | --- |
-| Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
+| :gem: Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
 | Expected value vs. Average | https://math.stackexchange.com/questions/904343/what-is-the-difference-between-average-and-expected-value/1355657#1355657 |
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
 | Linear Function Definition and ReLU Linearity | https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function/26481#26481 |
@@ -421,4 +421,5 @@
 | L1, L2 Norm | https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms |
 | Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
 | Depthwise Separable Convolution | https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/ |
+| :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
 | Attention Mechanism for Vision |  |
