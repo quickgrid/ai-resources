@@ -116,7 +116,7 @@
 
 | Name | Link |
 | --- | --- |
-| Google Colab | https://colab.research.google.com/ |
+| :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
 | Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
 | Host ML Results | https://tensorboard.dev/ |
 | Pretrined Models & Code | https://modelzoo.co/ |
@@ -124,13 +124,12 @@
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 | Awesome Public Datasets | https://github.com/awesomedata/awesome-public-datasets |
 | Annotation Tool List | https://www.datasetlist.com/tools/ |
-| Connected Papers List & Graph | https://www.connectedpapers.com/ |
+| :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
-| Papers with Code | https://paperswithcode.com/ |
 | MWML AI articles, links etc. | https://madewithml.com/ |
 | AI models & code | https://www.catalyzex.com/ |
-| Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
+| :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
 | Open Peer Review | https://openreview.net/ |
