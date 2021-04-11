@@ -168,14 +168,14 @@
 
 | Name | Link |
 | --- | --- |
-| PyCharm IDE | https://www.jetbrains.com/pycharm/ |
+| :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
 | VSCodium Editor | https://github.com/VSCodium/vscodium |
 | Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
-| Blender 3D Tool | https://www.blender.org/ |
+| :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
 | Photo Editor | https://krita.org/ |
 | IntellijIdea Java IDE | https://www.jetbrains.com/idea/download/ |
 | Android Studio IDE | https://developer.android.com/studio |
-| Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
+| :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
  
 #### Development
 
@@ -192,9 +192,9 @@
 | Name | Link |
 | --- | --- |
 | Skorch | https://github.com/skorch-dev/skorch |
-| PyTorch | https://pytorch.org/ |
+| :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
 | Scikit Learn | https://scikit-learn.org/stable/ |
-| Tensorflow | https://www.tensorflow.org/ |
+| :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
 | Keras | https://keras.io/ |
 | Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
@@ -208,7 +208,7 @@
 
 | Name | Link |
 | --- | --- |
-| OpenCV | https://opencv.org/ |
+| :triangular_flag_on_post: OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
 | Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
 | ImageIO | https://imageio.github.io/ |
