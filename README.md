@@ -221,7 +221,7 @@
 
 | Name | Link |
 | --- | --- |
-| Spacy | https://spacy.io/ |
+| :triangular_flag_on_post: Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
 | Javascript NLP Library | https://github.com/spencermountain/compromise |
 | Chatterbot NLP | https://github.com/gunthercox/ChatterBot |
