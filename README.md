@@ -330,7 +330,7 @@
 
 | Name | Link |
 | --- | --- |
-| Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
+| :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
@@ -357,7 +357,7 @@
 
 | Name | Link |
 | --- | --- |
-| Interactive Deep Learning Book with Code | https://d2l.ai/ |
+| :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
 | Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
 | Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
 | Deep Learning Book by Goodfellow et el. | https://www.deeplearningbook.org/ |
@@ -382,7 +382,7 @@
 
 | Description | Link |
 | --- | --- |
-| Google Programming Language Style Guide(Python, C++, Java etc.) | https://google.github.io/styleguide/ <br> https://google.github.io/styleguide/pyguide.html <br> https://google.github.io/styleguide/cppguide.html |
+| :triangular_flag_on_post: Google Programming Language Style Guide(Python, C++, Java etc.) | https://google.github.io/styleguide/ <br> https://google.github.io/styleguide/pyguide.html <br> https://google.github.io/styleguide/cppguide.html |
 | Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
 | Tensorflow graph freezing, frozen graph, checkpoint, saved model to onnx conversion | https://github.com/onnx/tensorflow-onnx |
