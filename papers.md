@@ -11,6 +11,11 @@
 | Feature Pyramid Networks for Object Detection (FPN) | 2016 | https://arxiv.org/abs/1612.03144 |
 | COIN: COmpression with Implicit Neural representations | 2021 | https://arxiv.org/abs/2103.03123 |
 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | 2016 | https://arxiv.org/abs/1602.07261v2 |
+| MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 | https://arxiv.org/pdf/1907.11922.pdf |
+
+<!-- 
+|  |  |  | 
+-->
 
 <br>
 
@@ -28,3 +33,6 @@
 | U-Net: Convolutional Networks for Biomedical Image Segmentation |  | https://arxiv.org/pdf/1505.04597.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) |  | https://arxiv.org/pdf/2010.11929.pdf |
+| PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION |  | https://arxiv.org/abs/1710.10196 | 
+| High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs |  | https://arxiv.org/pdf/1711.11585.pdf | 
+| Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf | 
