@@ -1,5 +1,6 @@
 # Papers
 
+The year column represents publishing year in arxiv and not the year of latest revision.
 
 ### Papers Read
 
