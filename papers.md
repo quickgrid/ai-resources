@@ -14,7 +14,7 @@
 
 <br>
 
-### Papers to Checkout
+### Reading List
 
 | Topic | Year | Paper Link |
 | --- | --- | --- |
@@ -22,3 +22,9 @@
 | Implicit Neural Representations with Periodic Activation Functions |  | https://arxiv.org/abs/2006.09661 |
 | pixelNeRF: Neural Radiance Fields from One or Few Images |  | https://arxiv.org/abs/2012.02190 |
 | Neural Sparse Voxel Fields |  | https://arxiv.org/abs/2007.11571 |
+| Generating Diverse High-Fidelity Images with VQ-VAE-2 |  | https://arxiv.org/pdf/1906.00446v1.pdf |
+| Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf |
+| Going deeper with convolutions (Inception/GoogLeNet) |  | https://arxiv.org/pdf/1409.4842.pdf |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation |  | https://arxiv.org/pdf/1505.04597.pdf |
+| Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
+| AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) |  | https://arxiv.org/pdf/2010.11929.pdf |
