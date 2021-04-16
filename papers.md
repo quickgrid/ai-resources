@@ -36,6 +36,5 @@
 | Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) |  | https://arxiv.org/pdf/2010.11929.pdf |
 | PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION |  | https://arxiv.org/abs/1710.10196 | 
-| High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs |  | https://arxiv.org/pdf/1711.11585.pdf | 
-| Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf | 
+| High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  | https://arxiv.org/pdf/1411.4038.pdf | 
