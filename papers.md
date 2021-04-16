@@ -8,7 +8,7 @@
 | Image-to-Image Translation with Conditional Adversarial Networks (pix2pix) | 2016 | https://arxiv.org/abs/1611.07004 |
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN) | 2017 | https://arxiv.org/abs/1703.10593 |
 | Focal Loss for Dense Object Detection (RetinaNet) | 2017 | https://arxiv.org/abs/1708.02002 |
-| Feature Pyramid Networks for Object Detection | 2016 | https://arxiv.org/abs/1612.03144 |
+| Feature Pyramid Networks for Object Detection (FPN) | 2016 | https://arxiv.org/abs/1612.03144 |
 
 <br>
 
