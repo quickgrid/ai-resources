@@ -10,6 +10,7 @@
 | Focal Loss for Dense Object Detection (RetinaNet) | 2017 | https://arxiv.org/abs/1708.02002 |
 | Feature Pyramid Networks for Object Detection (FPN) | 2016 | https://arxiv.org/abs/1612.03144 |
 | COIN: COmpression with Implicit Neural representations | 2021 | https://arxiv.org/abs/2103.03123 |
+| Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | 2016 | https://arxiv.org/abs/1602.07261v2 |
 
 <br>
 
