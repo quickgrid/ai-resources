@@ -1,7 +1,7 @@
 # Papers
 
 
-**Papers Read**
+### Papers Read
 
 | Topic | Year | Paper Link |
 | --- | --- | --- |
@@ -10,8 +10,9 @@
 | Focal Loss for Dense Object Detection (RetinaNet) | 2017   https://arxiv.org/abs/1708.02002 |
 | Feature Pyramid Networks for Object Detection | 2016 | https://arxiv.org/abs/1612.03144 |
 
+<br>
 
-**A bunch of AI related papers to checkout.**
+### Papers to Checkout
 
 | Topic | Year | Paper Link |
 | --- | --- | --- |
