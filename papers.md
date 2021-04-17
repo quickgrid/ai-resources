@@ -25,13 +25,16 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 ### Reading List
 
+:blue_book Represents partially read papers.
+
+
 | Topic | Year | Paper Link |
 | --- | --- | --- |
 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis |  | https://arxiv.org/abs/2003.08934 |
 | Implicit Neural Representations with Periodic Activation Functions |  | https://arxiv.org/abs/2006.09661 |
 | pixelNeRF: Neural Radiance Fields from One or Few Images |  | https://arxiv.org/abs/2012.02190 |
 | Neural Sparse Voxel Fields |  | https://arxiv.org/abs/2007.11571 |
-| Generating Diverse High-Fidelity Images with VQ-VAE-2 |  | https://arxiv.org/pdf/1906.00446v1.pdf |
+| :blue_book: Generating Diverse High-Fidelity Images with VQ-VAE-2 |  | https://arxiv.org/pdf/1906.00446v1.pdf |
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf |
 | Going deeper with convolutions (Inception/GoogLeNet) |  | https://arxiv.org/pdf/1409.4842.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
