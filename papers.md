@@ -16,6 +16,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
 | VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
+| Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
+
 
 <!-- 
 |  |  |  | 
