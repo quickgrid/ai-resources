@@ -42,3 +42,15 @@ The year column represents publishing year in arxiv and not the year of latest r
 | PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION |  | https://arxiv.org/abs/1710.10196 | 
 | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  | https://arxiv.org/pdf/1411.4038.pdf | 
+| Analyzing and Improving the Image Quality of StyleGAN |  | https://arxiv.org/pdf/1912.04958.pdf | 
+| Semantic Image Synthesis with Spatially-Adaptive Normalization |  | https://arxiv.org/pdf/1903.07291.pdf | 
+| Few-Shot Adversarial Learning of Realistic Neural Talking Head Models |  | https://arxiv.org/pdf/1905.08233.pdf | 
+| Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling |  | https://arxiv.org/pdf/1610.07584.pdf | 
+| LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS |  | https://arxiv.org/pdf/1809.11096.pdf | 
+| A Style-Based Generator Architecture for Generative Adversarial Networks |  | https://arxiv.org/pdf/1812.04948.pdf |
+| UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS |  | https://arxiv.org/pdf/1511.06434.pdf | 
+| Interpreting the Latent Space of GANs for Semantic Face Editing |  | https://arxiv.org/pdf/1907.10786.pdf | 
+| Wasserstein GAN |  | https://arxiv.org/pdf/1701.07875.pdf | 
+| :blue_book: Improved Training of Wasserstein GANs |  | https://arxiv.org/pdf/1704.00028.pdf | 
+| :blue_book: Conditional Generative Adversarial Nets |  | https://arxiv.org/pdf/1411.1784.pdf | 
+| Stacked Hourglass Networks for Human Pose Estimation |  | https://arxiv.org/pdf/1603.06937.pdf |
