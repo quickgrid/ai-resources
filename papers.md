@@ -25,7 +25,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 ### Reading List
 
-:blue_book Represents partially read papers.
+:blue_book: Represents partially read papers.
 
 
 | Topic | Year | Paper Link |
