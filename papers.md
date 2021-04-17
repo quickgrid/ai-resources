@@ -12,10 +12,10 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Feature Pyramid Networks for Object Detection (FPN) | 2016 | https://arxiv.org/abs/1612.03144 |
 | COIN: COmpression with Implicit Neural representations | 2021 | https://arxiv.org/abs/2103.03123 |
 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | 2016 | https://arxiv.org/abs/1602.07261v2 |
-| MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 | https://arxiv.org/pdf/1907.11922.pdf |
+| MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 | https://arxiv.org/abs/1907.11922 |
 | ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
-| VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION | 2014 | https://arxiv.org/pdf/1409.1556.pdf |
-| U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/pdf/1505.04597.pdf |
+| VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
 
 <!-- 
 |  |  |  | 
