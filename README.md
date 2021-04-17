@@ -193,10 +193,10 @@
 | --- | --- |
 | Skorch | https://github.com/skorch-dev/skorch |
 | :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
-| Scikit Learn | https://scikit-learn.org/stable/ |
+| Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
-| Keras | https://keras.io/ |
-| Flashlight | https://github.com/flashlight/flashlight |
+| Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
+| Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
 | Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
 | Tencent NCNN | https://github.com/Tencent/ncnn |
