@@ -196,6 +196,7 @@
 | Scikit Learn | https://scikit-learn.org/stable/ |
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
 | Keras | https://keras.io/ |
+| Flashlight | https://github.com/flashlight/flashlight |
 | Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
 | Tencent NCNN | https://github.com/Tencent/ncnn |
