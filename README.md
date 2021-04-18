@@ -424,4 +424,4 @@
 | Depthwise Separable Convolution | https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/ |
 | :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
 | :gem: Softmax, Negative Log Likelihood with Derivative | https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/ |
-| Attention Mechanism for Vision |  |
+| Attention | https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html |
