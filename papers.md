@@ -56,3 +56,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :blue_book: Improved Training of Wasserstein GANs |  | https://arxiv.org/pdf/1704.00028.pdf | 
 | :blue_book: Conditional Generative Adversarial Nets |  | https://arxiv.org/pdf/1411.1784.pdf | 
 | Stacked Hourglass Networks for Human Pose Estimation |  | https://arxiv.org/pdf/1603.06937.pdf |
+| Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
+| Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
+
+
