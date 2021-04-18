@@ -4,6 +4,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 ### Papers Read
 
+:page_facing_up: Represents confusion regarding implementation, equation etc.
+
 | Topic | Year | Paper Link |
 | --- | --- | --- |
 | Image-to-Image Translation with Conditional Adversarial Networks (pix2pix) | 2016 | https://arxiv.org/abs/1611.07004 |
@@ -17,7 +19,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
-
+| :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/pdf/1411.1784.pdf | 
 
 <!-- 
 |  |  |  | 
@@ -54,7 +56,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Interpreting the Latent Space of GANs for Semantic Face Editing |  | https://arxiv.org/pdf/1907.10786.pdf | 
 | Wasserstein GAN |  | https://arxiv.org/pdf/1701.07875.pdf | 
 | :blue_book: Improved Training of Wasserstein GANs |  | https://arxiv.org/pdf/1704.00028.pdf | 
-| :blue_book: Conditional Generative Adversarial Nets |  | https://arxiv.org/pdf/1411.1784.pdf | 
 | Stacked Hourglass Networks for Human Pose Estimation |  | https://arxiv.org/pdf/1603.06937.pdf |
 | Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
 | Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
