@@ -19,7 +19,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
-| :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/pdf/1411.1784.pdf | 
+| :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
 
 <!-- 
 |  |  |  | 
