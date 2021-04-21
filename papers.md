@@ -60,4 +60,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
 | Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
 | :blue_book: Modulated Periodic Activations for Generalizable Local Functional Representations |  | https://arxiv.org/pdf/2104.03960.pdf |
+| Adversarial Latent Autoencoders |  | https://arxiv.org/pdf/2004.04467.pdf |
 
