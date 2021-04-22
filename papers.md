@@ -20,6 +20,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
 | :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
+| Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
 
 <!-- 
 |  |  |  | 
@@ -40,7 +41,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Neural Sparse Voxel Fields |  | https://arxiv.org/abs/2007.11571 |
 | Generating Diverse High-Fidelity Images with VQ-VAE-2 |  | https://arxiv.org/pdf/1906.00446v1.pdf |
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf |
-| Going deeper with convolutions (Inception/GoogLeNet) |  | https://arxiv.org/pdf/1409.4842.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) |  | https://arxiv.org/pdf/2010.11929.pdf |
 | PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION |  | https://arxiv.org/abs/1710.10196 | 
@@ -61,4 +61,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
 | :blue_book: Modulated Periodic Activations for Generalizable Local Functional Representations |  | https://arxiv.org/pdf/2104.03960.pdf |
 | Adversarial Latent Autoencoders |  | https://arxiv.org/pdf/2004.04467.pdf |
-
+| Rethinking the Inception Architecture for Computer Vision |  | https://arxiv.org/pdf/1512.00567.pdf |
