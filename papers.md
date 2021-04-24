@@ -62,3 +62,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :blue_book: Modulated Periodic Activations for Generalizable Local Functional Representations |  | https://arxiv.org/pdf/2104.03960.pdf |
 | Adversarial Latent Autoencoders |  | https://arxiv.org/pdf/2004.04467.pdf |
 | Rethinking the Inception Architecture for Computer Vision |  | https://arxiv.org/pdf/1512.00567.pdf |
+| Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization |  | https://arxiv.org/pdf/2104.05833.pdf |
