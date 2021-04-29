@@ -7,6 +7,7 @@
     + [Object Detection](#object-detection)
     + [Generative Adversarial Network](#generative-adversarial-network)
     + [3D ML, Data Processing, Visualization](#3d-machine-learning-data-processing-visualization)
+    + [3D Computer Vision and Graphics](#3D-computer-vision-and-graphics)
     + [Reinforcement Learning](#reinforcement-learning)
   * [`# Tools`](#-tools)
     + [Online](#online)
@@ -99,6 +100,14 @@
 | Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
 | 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
 
+
+### 3D Computer Vision, Graphics and ML
+
+| Name | Link |
+| --- | --- |
+| MPI Perceiving Systems | https://ps.is.mpg.de/ |
+| MPI Intelligent Systems | https://is.mpg.de/ |
+| Michael J. Black (Distinguished Researcher) | https://ps.is.mpg.de/~black |
 
 
 ### Reinforcement Learning
