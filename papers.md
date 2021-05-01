@@ -64,3 +64,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Rethinking the Inception Architecture for Computer Vision |  | https://arxiv.org/pdf/1512.00567.pdf |
 | Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization |  | https://arxiv.org/pdf/2104.05833.pdf |
 | Xception: Deep Learning with Depthwise Separable Convolutions |  | https://arxiv.org/pdf/1610.02357.pdf |
+| Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  | https://arxiv.org/pdf/2008.00951.pdf |
