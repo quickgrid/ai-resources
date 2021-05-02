@@ -15,13 +15,19 @@ The year column represents publishing year in arxiv and not the year of latest r
 | COIN: COmpression with Implicit Neural representations | 2021 | https://arxiv.org/abs/2103.03123 |
 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | 2016 | https://arxiv.org/abs/1602.07261 |
 | MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 | https://arxiv.org/abs/1907.11922 |
-| ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
 | VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
 | :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
 | Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
+
+
+#### Non Arxiv
+
+| Topic | Year | Paper Link |
+| --- | --- | --- |
+| ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
 
 <!-- 
 |  |  |  | 
