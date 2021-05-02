@@ -21,6 +21,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
 | :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
 | Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
+| AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 
 <!-- 
 |  |  |  | 
@@ -42,7 +43,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Generating Diverse High-Fidelity Images with VQ-VAE-2 |  | https://arxiv.org/pdf/1906.00446v1.pdf |
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
-| AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) |  | https://arxiv.org/pdf/2010.11929.pdf |
 | :blue_book: PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN) |  | https://arxiv.org/abs/1710.10196 | 
 | High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  | https://arxiv.org/pdf/1411.4038.pdf | 
@@ -65,3 +65,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization |  | https://arxiv.org/pdf/2104.05833.pdf |
 | Xception: Deep Learning with Depthwise Separable Convolutions |  | https://arxiv.org/pdf/1610.02357.pdf |
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  | https://arxiv.org/pdf/2008.00951.pdf |
+| Emerging Properties in Self-Supervised Vision Transformers |  | https://arxiv.org/pdf/2104.14294.pdf |
+| Zero-Shot Text-to-Image Generation |  | https://arxiv.org/pdf/2102.12092.pdf |
+| Learning Transferable Visual Models From Natural Language Supervision |  | https://arxiv.org/pdf/2103.00020.pdf |
