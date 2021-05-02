@@ -2,7 +2,7 @@
 
 The year column represents publishing year in arxiv and not the year of latest revision.
 
-### Papers Read
+## Papers Read
 
 :page_facing_up: Represents confusion regarding implementation, equation etc.
 
@@ -23,7 +23,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 
 
-#### Non Arxiv
+### Non Arxiv
 
 | Topic | Year | Paper Link |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Reading List
+## Reading List
 
 :blue_book: Represents partially read papers.
 
