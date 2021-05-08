@@ -75,3 +75,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  | https://arxiv.org/pdf/2008.00951.pdf |
 | Zero-Shot Text-to-Image Generation |  | https://arxiv.org/pdf/2102.12092.pdf |
 | Learning Transferable Visual Models From Natural Language Supervision |  | https://arxiv.org/pdf/2103.00020.pdf |
+| Differentiable Augmentation for Data-Efficient GAN Training |  | https://arxiv.org/pdf/2006.10738v4.pdf |
