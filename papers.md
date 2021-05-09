@@ -111,7 +111,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Dual Contrastive Loss and Attention for GANs |  | https://arxiv.org/pdf/2103.16748.pdf |
 | Top-k Training of GANs: Improving GAN Performance by Throwing Away Bad Samples |  | https://arxiv.org/pdf/2002.06224.pdf |
 | Image Augmentations for GAN Training |  | https://arxiv.org/pdf/2006.02595.pdf |
-|  |  | https://arxiv.org/pdf/2006.06676.pdf |
+| Training Generative Adversarial Networks with Limited Data |  | https://arxiv.org/pdf/2006.06676.pdf |
 
 <!--|  |  |  |-->
 
