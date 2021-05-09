@@ -101,5 +101,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Improved Precision and Recall Metric for Assessing Generative Models |  | https://arxiv.org/abs/1904.06991 |
 | The Fréchet Distance between Multivariate Normal Distributions |  | https://core.ac.uk/reader/82269844 |
 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs |  | https://arxiv.org/abs/2002.10964 |
+| THE LOTTERY TICKET HYPOTHESIS:FINDING SPARSE, TRAINABLE NEURAL NETWORKS |  | https://arxiv.org/pdf/1803.03635v5.pdf |
+| Bag of Tricks for Image Classification with Convolutional Neural Networks |  | https://arxiv.org/pdf/1812.01187.pdf |
+| CenterNet: Keypoint Triplets for Object Detection |  | https://arxiv.org/abs/1904.08189 |
 <!--|  |  |  |-->
 
