@@ -91,5 +91,15 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Mask R-CNN |  | https://arxiv.org/abs/1703.06870 |
 | Learning a Similarity Metric Discriminatively, with Application to Face Verification |  | http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf |
 | Dimensionality Reduction by Learning an Invariant Mapping |  | http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf |
+| Generative Adversarial Networks |  | https://arxiv.org/abs/1406.2661 |
+| Coupled Generative Adversarial Networks |  | https://arxiv.org/abs/1606.07536 |
+| The Unusual Effectiveness of Averaging in GAN Training |  | https://arxiv.org/abs/1806.04498v2 |
+| Hyperspherical Variational Auto-Encoders |  | https://arxiv.org/abs/1804.00891 |
+| Conditional Image Generation with PixelCNN Decoders |  | https://arxiv.org/abs/1606.05328 |
+| Glow: Generative Flow with Invertible 1x1 Convolutions |  | https://arxiv.org/abs/1807.03039 |
+| PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models |  | https://arxiv.org/abs/2003.03808 |
+| Improved Precision and Recall Metric for Assessing Generative Models |  | https://arxiv.org/abs/1904.06991 |
+| The Fréchet Distance between Multivariate Normal Distributions |  | https://core.ac.uk/reader/82269844 |
+
 <!--|  |  |  |-->
 
