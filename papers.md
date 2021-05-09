@@ -18,7 +18,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | 2016 | https://arxiv.org/abs/1602.07261 |
 | MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 | https://arxiv.org/abs/1907.11922 |
 | VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
-| U-Net: Convolutional Networks for Biomedical Image Segmentation | 2015 | https://arxiv.org/abs/1505.04597 |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet) | 2015 | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
 | :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
 | Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
@@ -64,8 +64,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | A Style-Based Generator Architecture for Generative Adversarial Networks |  | https://arxiv.org/pdf/1812.04948.pdf |
 | UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS |  | https://arxiv.org/pdf/1511.06434.pdf | 
 | Interpreting the Latent Space of GANs for Semantic Face Editing |  | https://arxiv.org/pdf/1907.10786.pdf | 
-| Wasserstein GAN |  | https://arxiv.org/pdf/1701.07875.pdf | 
-| :blue_book: Improved Training of Wasserstein GANs |  | https://arxiv.org/pdf/1704.00028.pdf | 
+| Wasserstein GAN (WGAN) |  | https://arxiv.org/pdf/1701.07875.pdf | 
+| :blue_book: Improved Training of Wasserstein GANs (WGAN-GP) |  | https://arxiv.org/pdf/1704.00028.pdf | 
 | Stacked Hourglass Networks for Human Pose Estimation |  | https://arxiv.org/pdf/1603.06937.pdf |
 | Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
 | Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
@@ -75,7 +75,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization |  | https://arxiv.org/pdf/2104.05833.pdf |
 | Xception: Deep Learning with Depthwise Separable Convolutions |  | https://arxiv.org/pdf/1610.02357.pdf |
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  | https://arxiv.org/pdf/2008.00951.pdf |
-| Zero-Shot Text-to-Image Generation |  | https://arxiv.org/pdf/2102.12092.pdf |
+| Zero-Shot Text-to-Image Generation (DALL-E) |  | https://arxiv.org/pdf/2102.12092.pdf |
 | Learning Transferable Visual Models From Natural Language Supervision |  | https://arxiv.org/pdf/2103.00020.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  | https://arxiv.org/pdf/2006.10738v4.pdf |
 | A Neural Algorithm of Artistic Style |  | https://arxiv.org/abs/1508.06576 |
@@ -84,14 +84,14 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  | https://arxiv.org/pdf/1705.06830.pdf |
 | Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  | https://arxiv.org/abs/2002.07514 |
 | Self-Normalizing Neural Networks |  | https://arxiv.org/abs/1706.02515 |
-| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks |  | https://arxiv.org/pdf/1511.06434.pdf |
+| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) |  | https://arxiv.org/pdf/1511.06434.pdf |
 | Layer Normalization |  | https://arxiv.org/abs/1607.06450 |
 | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization |  | https://arxiv.org/pdf/1610.02391.pdf |
 | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs |  | https://arxiv.org/pdf/1606.00915.pdf |
 | Mask R-CNN |  | https://arxiv.org/abs/1703.06870 |
 | Learning a Similarity Metric Discriminatively, with Application to Face Verification |  | http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf |
 | Dimensionality Reduction by Learning an Invariant Mapping |  | http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf |
-| Generative Adversarial Networks |  | https://arxiv.org/abs/1406.2661 |
+| Generative Adversarial Networks (GANs) |  | https://arxiv.org/abs/1406.2661 |
 | Coupled Generative Adversarial Networks |  | https://arxiv.org/abs/1606.07536 |
 | The Unusual Effectiveness of Averaging in GAN Training |  | https://arxiv.org/abs/1806.04498v2 |
 | Hyperspherical Variational Auto-Encoders |  | https://arxiv.org/abs/1804.00891 |
@@ -100,7 +100,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models |  | https://arxiv.org/abs/2003.03808 |
 | Improved Precision and Recall Metric for Assessing Generative Models |  | https://arxiv.org/abs/1904.06991 |
 | The Fréchet Distance between Multivariate Normal Distributions |  | https://core.ac.uk/reader/82269844 |
-| Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs |  | https://arxiv.org/abs/2002.10964 |
+| GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (FID) |  | https://arxiv.org/pdf/1706.08500.pdf |
+| Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (FreezeD) |  | https://arxiv.org/abs/2002.10964 |
 | THE LOTTERY TICKET HYPOTHESIS:FINDING SPARSE, TRAINABLE NEURAL NETWORKS |  | https://arxiv.org/pdf/1803.03635v5.pdf |
 | Bag of Tricks for Image Classification with Convolutional Neural Networks |  | https://arxiv.org/pdf/1812.01187.pdf |
 | CenterNet: Keypoint Triplets for Object Detection |  | https://arxiv.org/abs/1904.08189 |
