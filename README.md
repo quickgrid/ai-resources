@@ -383,6 +383,8 @@
 | ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
 | Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
 | :triangular_flag_on_post: ML Paper Code Implementation From Scratch With Pytorch, Tensorflow | https://www.youtube.com/c/AladdinPersson/videos |
+| Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
+| :triangular_flag_on_post: Lectures on 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
 
 <br>
 
