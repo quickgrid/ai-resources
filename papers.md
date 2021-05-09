@@ -100,6 +100,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models |  | https://arxiv.org/abs/2003.03808 |
 | Improved Precision and Recall Metric for Assessing Generative Models |  | https://arxiv.org/abs/1904.06991 |
 | The Fréchet Distance between Multivariate Normal Distributions |  | https://core.ac.uk/reader/82269844 |
-
+| Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs |  | https://arxiv.org/abs/2002.10964 |
 <!--|  |  |  |-->
 
