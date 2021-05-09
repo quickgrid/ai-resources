@@ -113,6 +113,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Image Augmentations for GAN Training |  | https://arxiv.org/pdf/2006.02595.pdf |
 | Training Generative Adversarial Networks with Limited Data |  | https://arxiv.org/pdf/2006.06676.pdf |
 | MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks |  | https://arxiv.org/pdf/1903.06048.pdf |
+| Barlow Twins: Self-Supervised Learning via Redundancy Reduction |  | https://arxiv.org/pdf/2103.03230.pdf |
 
 <!--|  |  |  |-->
 
