@@ -76,7 +76,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Xception: Deep Learning with Depthwise Separable Convolutions |  | https://arxiv.org/pdf/1610.02357.pdf |
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  | https://arxiv.org/pdf/2008.00951.pdf |
 | Zero-Shot Text-to-Image Generation (DALL-E) |  | https://arxiv.org/pdf/2102.12092.pdf |
-| Learning Transferable Visual Models From Natural Language Supervision |  | https://arxiv.org/pdf/2103.00020.pdf |
+| Learning Transferable Visual Models From Natural Language Supervision (CLIP) |  | https://arxiv.org/pdf/2103.00020.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  | https://arxiv.org/pdf/2006.10738v4.pdf |
 | A Neural Algorithm of Artistic Style |  | https://arxiv.org/abs/1508.06576 |
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  | https://arxiv.org/abs/1603.08155 |
@@ -105,5 +105,13 @@ The year column represents publishing year in arxiv and not the year of latest r
 | THE LOTTERY TICKET HYPOTHESIS:FINDING SPARSE, TRAINABLE NEURAL NETWORKS |  | https://arxiv.org/pdf/1803.03635v5.pdf |
 | Bag of Tricks for Image Classification with Convolutional Neural Networks |  | https://arxiv.org/pdf/1812.01187.pdf |
 | CenterNet: Keypoint Triplets for Object Detection |  | https://arxiv.org/abs/1904.08189 |
+| pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis |  | https://arxiv.org/abs/2012.00926 |
+| Axial Attention in Multidimensional Transformers |  | https://arxiv.org/abs/1912.12180 |
+| TOWARDS FASTER AND STABILIZED GAN TRAINING FOR HIGH-FIDELITY FEW-SHOT IMAGE SYNTHESIS (Light-Weight GAN) |  | https://arxiv.org/pdf/2101.04775.pdf |
+| Dual Contrastive Loss and Attention for GANs |  | https://arxiv.org/pdf/2103.16748.pdf |
+| Top-k Training of GANs: Improving GAN Performance by Throwing Away Bad Samples |  | https://arxiv.org/pdf/2002.06224.pdf |
+| Image Augmentations for GAN Training |  | https://arxiv.org/pdf/2006.02595.pdf |
+|  |  | https://arxiv.org/pdf/2006.06676.pdf |
+
 <!--|  |  |  |-->
 
