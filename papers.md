@@ -1,10 +1,12 @@
 # Papers
 
+**TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES.**
+
 The year column represents publishing year in arxiv and not the year of latest revision.
 
 ## Papers Read
 
-:page_facing_up: Represents confusion regarding implementation, equations, details etc.
+:page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
 
 | Topic | Year | Paper Link |
 | --- | --- | --- |
@@ -76,3 +78,18 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Zero-Shot Text-to-Image Generation |  | https://arxiv.org/pdf/2102.12092.pdf |
 | Learning Transferable Visual Models From Natural Language Supervision |  | https://arxiv.org/pdf/2103.00020.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  | https://arxiv.org/pdf/2006.10738v4.pdf |
+| A Neural Algorithm of Artistic Style |  | https://arxiv.org/abs/1508.06576 |
+| Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  | https://arxiv.org/abs/1603.08155 |
+| Visualizing and Understanding Convolutional Networks |  | https://arxiv.org/pdf/1311.2901.pdf |
+| Exploring the structure of a real-time, arbitrary neural artistic stylization network |  | https://arxiv.org/pdf/1705.06830.pdf |
+| Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  | https://arxiv.org/abs/2002.07514 |
+| Self-Normalizing Neural Networks |  | https://arxiv.org/abs/1706.02515 |
+| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks |  | https://arxiv.org/pdf/1511.06434.pdf |
+| Layer Normalization |  | https://arxiv.org/abs/1607.06450 |
+| Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization |  | https://arxiv.org/pdf/1610.02391.pdf |
+| DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs |  | https://arxiv.org/pdf/1606.00915.pdf |
+| Mask R-CNN |  | https://arxiv.org/abs/1703.06870 |
+| Learning a Similarity Metric Discriminatively, with Application to Face Verification |  | http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf |
+| Dimensionality Reduction by Learning an Invariant Mapping |  | http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf |
+<!--|  |  |  |-->
+
