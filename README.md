@@ -382,7 +382,7 @@
 | :triangular_flag_on_post: ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
 | ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
 | Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
-| ML Paper Code Implementation From Scratch With Pytorch, Tensorflow | https://www.youtube.com/c/AladdinPersson/videos |
+| :triangular_flag_on_post: ML Paper Code Implementation From Scratch With Pytorch, Tensorflow | https://www.youtube.com/c/AladdinPersson/videos |
 
 <br>
 
