@@ -114,6 +114,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Training Generative Adversarial Networks with Limited Data |  | https://arxiv.org/pdf/2006.06676.pdf |
 | MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks |  | https://arxiv.org/pdf/1903.06048.pdf |
 | Barlow Twins: Self-Supervised Learning via Redundancy Reduction |  | https://arxiv.org/pdf/2103.03230.pdf |
+| MLP-Mixer: An all-MLP Architecture for Vision |  | https://arxiv.org/pdf/2105.01601v1.pdf |
 
 <!--|  |  |  |-->
 
