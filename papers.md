@@ -24,7 +24,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 | https://arxiv.org/abs/2104.14294 |
-| Generative Adversarial Networks (GANs) |  | https://arxiv.org/abs/1406.2661 |
+| Generative Adversarial Networks (GANs) | 2014 | https://arxiv.org/abs/1406.2661 |
 
 
 <br>
