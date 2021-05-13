@@ -24,6 +24,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 | https://arxiv.org/abs/2104.14294 |
+| Generative Adversarial Networks (GANs) |  | https://arxiv.org/abs/1406.2661 |
+
 
 <br>
 
@@ -91,7 +93,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Mask R-CNN |  | https://arxiv.org/abs/1703.06870 |
 | Learning a Similarity Metric Discriminatively, with Application to Face Verification |  | http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf |
 | Dimensionality Reduction by Learning an Invariant Mapping |  | http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf |
-| Generative Adversarial Networks (GANs) |  | https://arxiv.org/abs/1406.2661 |
 | Coupled Generative Adversarial Networks |  | https://arxiv.org/abs/1606.07536 |
 | The Unusual Effectiveness of Averaging in GAN Training |  | https://arxiv.org/abs/1806.04498v2 |
 | Hyperspherical Variational Auto-Encoders |  | https://arxiv.org/abs/1804.00891 |
