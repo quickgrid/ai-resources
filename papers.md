@@ -119,3 +119,11 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <!--|  |  |  |-->
 
+<br>
+
+
+### Non Arxiv
+
+| Topic | Year | Paper Link |
+| --- | --- | --- |
+| Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations |  | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf |
