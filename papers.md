@@ -116,14 +116,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks |  | https://arxiv.org/pdf/1903.06048.pdf |
 | Barlow Twins: Self-Supervised Learning via Redundancy Reduction |  | https://arxiv.org/pdf/2103.03230.pdf |
 | MLP-Mixer: An all-MLP Architecture for Vision |  | https://arxiv.org/pdf/2105.01601v1.pdf |
-
-<!--|  |  |  |-->
-
-<br>
-
-
-### Non Arxiv
-
-| Topic | Year | Paper Link |
-| --- | --- | --- |
 | Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations |  | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf |
