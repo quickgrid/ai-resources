@@ -341,6 +341,9 @@
 | Name | Link |
 | --- | --- |
 | Stanford AI Course List | https://ai.stanford.edu/courses/ |
+| EPFL Computer Vision Course | https://www.epfl.ch/labs/cvlab/teaching/ <br> https://moodle.epfl.ch/course/view.php?id=472#section-8 |
+| TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html <br> https://vision.in.tum.de/teaching/online |
+| CMU 11-785 Introduction to Deep Learning | https://deeplearning.cs.cmu.edu/S21/index.html |
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
 | Stanford Machine Learning Course | http://cs229.stanford.edu/ <br> http://cs229.stanford.edu/syllabus-spring2021.html |
 | Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
@@ -351,6 +354,9 @@
 | CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
 | CS 348E: Character Animation: Modeling, Simulation, and Control of Human Motion | https://ckllab.stanford.edu/cs-348e-character-animation |
 | CS221: Artificial Intelligence: Principles and Techniques | https://stanford-cs221.github.io/ <br> https://stanford-cs221.github.io/spring2021/ |
+| CS348I: Computer Graphics in the Era of AI | http://cs348i.stanford.edu/ |
+| CMU 16-385 Computer Vision | http://16385.courses.cs.cmu.edu/spring2021/ |
+| CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
