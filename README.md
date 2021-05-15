@@ -341,6 +341,8 @@
 | Name | Link |
 | --- | --- |
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
+| Stanford Machine Learning Course | http://cs229.stanford.edu/ <br> http://cs229.stanford.edu/syllabus-spring2021.html |
+| Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
