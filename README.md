@@ -357,6 +357,7 @@
 | CS348I: Computer Graphics in the Era of AI | http://cs348i.stanford.edu/ |
 | CMU 16-385 Computer Vision | http://16385.courses.cs.cmu.edu/spring2021/ |
 | CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
+| MIT CSAIL 6.819/6.869: Advances in Computer Vision | http://6.869.csail.mit.edu/sp21/schedule.html |
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
