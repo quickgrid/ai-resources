@@ -25,7 +25,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 | https://arxiv.org/abs/2104.14294 |
 | Generative Adversarial Networks (GANs) | 2014 | https://arxiv.org/abs/1406.2661 |
-| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) |  | https://arxiv.org/pdf/1511.06434.pdf |
+| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) | 2015 | https://arxiv.org/abs/1511.06434 |
 
 
 <br>
