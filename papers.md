@@ -25,6 +25,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 | https://arxiv.org/abs/2104.14294 |
 | Generative Adversarial Networks (GANs) | 2014 | https://arxiv.org/abs/1406.2661 |
+| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) |  | https://arxiv.org/pdf/1511.06434.pdf |
 
 
 <br>
@@ -86,7 +87,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  | https://arxiv.org/pdf/1705.06830.pdf |
 | Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  | https://arxiv.org/abs/2002.07514 |
 | Self-Normalizing Neural Networks |  | https://arxiv.org/abs/1706.02515 |
-| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) |  | https://arxiv.org/pdf/1511.06434.pdf |
 | Layer Normalization |  | https://arxiv.org/abs/1607.06450 |
 | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization |  | https://arxiv.org/pdf/1610.02391.pdf |
 | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs |  | https://arxiv.org/pdf/1606.00915.pdf |
