@@ -118,3 +118,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | MLP-Mixer: An all-MLP Architecture for Vision |  | https://arxiv.org/pdf/2105.01601v1.pdf |
 | Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations |  | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf |
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift |  | https://arxiv.org/abs/1502.03167 |
+| Denoising Diffusion Probabilistic Models |  | https://arxiv.org/abs/2006.11239 |
+| Improved Denoising Diffusion Probabilistic Models |  | https://arxiv.org/abs/2102.09672 |
+| Diffusion Models Beat GANs on Image Synthesis |  | https://arxiv.org/abs/2105.05233 |
