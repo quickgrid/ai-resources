@@ -121,3 +121,9 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Denoising Diffusion Probabilistic Models |  | https://arxiv.org/abs/2006.11239 |
 | Improved Denoising Diffusion Probabilistic Models |  | https://arxiv.org/abs/2102.09672 |
 | Diffusion Models Beat GANs on Image Synthesis |  | https://arxiv.org/abs/2105.05233 |
+| DeepFace: Closing the Gap to Human-Level Performance in Face Verification |  | https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf |
+| FaceNet: A Unified Embedding for Face Recognition and Clustering |  | https://arxiv.org/pdf/1503.03832.pdf |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks |  | https://arxiv.org/abs/1905.11946 |
+| MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications |  | https://arxiv.org/abs/1704.04861 |
+| MobileNetV2: Inverted Residuals and Linear Bottlenecks |  | https://arxiv.org/abs/1801.04381 |
+| YOLOv4: Optimal Speed and Accuracy of Object Detection |  | https://arxiv.org/pdf/2004.10934.pdf |
