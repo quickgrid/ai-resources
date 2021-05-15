@@ -340,9 +340,17 @@
 
 | Name | Link |
 | --- | --- |
+| Stanford AI Course List | https://ai.stanford.edu/courses/ |
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
 | Stanford Machine Learning Course | http://cs229.stanford.edu/ <br> http://cs229.stanford.edu/syllabus-spring2021.html |
 | Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
+| CS236G Generative Adversarial Networks (GANs) | https://cs236g.stanford.edu/ |
+| CS224n: Natural Language Processing with Deep Learning | https://web.stanford.edu/class/cs224n/ |
+| CS224W: Machine Learning with Graphs | https://web.stanford.edu/class/cs224w/ |
+| CS234: Reinforcement Learning | https://web.stanford.edu/class/cs234/ |
+| CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
+| CS 348E: Character Animation: Modeling, Simulation, and Control of Human Motion | https://ckllab.stanford.edu/cs-348e-character-animation |
+| CS221: Artificial Intelligence: Principles and Techniques | https://stanford-cs221.github.io/ <br> https://stanford-cs221.github.io/spring2021/ |
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
