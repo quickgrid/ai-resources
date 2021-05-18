@@ -20,7 +20,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 | https://arxiv.org/abs/1409.1556 |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet) | 2015 | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 | https://arxiv.org/abs/1609.06647 |
-| :page_facing_up: Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
+| Conditional Generative Adversarial Nets | 2014 | https://arxiv.org/abs/1411.1784 | 
 | Going deeper with convolutions (Inception/GoogLeNet) | 2014 | https://arxiv.org/abs/1409.4842 |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 | https://arxiv.org/abs/2010.11929 |
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 | https://arxiv.org/abs/2104.14294 |
@@ -129,3 +129,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications |  | https://arxiv.org/abs/1704.04861 |
 | MobileNetV2: Inverted Residuals and Linear Bottlenecks |  | https://arxiv.org/abs/1801.04381 |
 | YOLOv4: Optimal Speed and Accuracy of Object Detection |  | https://arxiv.org/pdf/2004.10934.pdf |
+| Conditional Image Synthesis with Auxiliary Classifier GANs |  | https://arxiv.org/pdf/1610.09585.pdf |
