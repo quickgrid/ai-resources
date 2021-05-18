@@ -28,6 +28,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) | 2015 | https://arxiv.org/abs/1511.06434 |
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 | https://arxiv.org/abs/1907.05047 |
 | Instant Motion Tracking and Its Applications to Augmented Reality | 2019 | https://arxiv.org/abs/1907.06796 |
+| Improved Training of Wasserstein GANs (WGAN-GP) | 2017 | https://arxiv.org/abs/1704.00028 | 
 
 
 <br>
@@ -70,7 +71,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS |  | https://arxiv.org/pdf/1511.06434.pdf | 
 | Interpreting the Latent Space of GANs for Semantic Face Editing |  | https://arxiv.org/pdf/1907.10786.pdf | 
 | Wasserstein GAN (WGAN) |  | https://arxiv.org/pdf/1701.07875.pdf | 
-| :blue_book: Improved Training of Wasserstein GANs (WGAN-GP) |  | https://arxiv.org/pdf/1704.00028.pdf | 
 | Stacked Hourglass Networks for Human Pose Estimation |  | https://arxiv.org/pdf/1603.06937.pdf |
 | Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
 | Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
