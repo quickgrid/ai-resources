@@ -26,7 +26,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 | https://arxiv.org/abs/2104.14294 |
 | Generative Adversarial Networks (GANs) | 2014 | https://arxiv.org/abs/1406.2661 |
 | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) | 2015 | https://arxiv.org/abs/1511.06434 |
-| BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs | 2019 | https://arxiv.org/abs/1907.05047 |
+| BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 | https://arxiv.org/abs/1907.05047 |
 | Instant Motion Tracking and Its Applications to Augmented Reality | 2019 | https://arxiv.org/abs/1907.06796 |
 
 
