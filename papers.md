@@ -130,3 +130,15 @@ The year column represents publishing year in arxiv and not the year of latest r
 | MobileNetV2: Inverted Residuals and Linear Bottlenecks |  | https://arxiv.org/abs/1801.04381 |
 | YOLOv4: Optimal Speed and Accuracy of Object Detection |  | https://arxiv.org/pdf/2004.10934.pdf |
 | Conditional Image Synthesis with Auxiliary Classifier GANs |  | https://arxiv.org/pdf/1610.09585.pdf |
+| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network |  | https://arxiv.org/abs/1609.04802 |
+| Multimodal Unsupervised Image-to-Image Translation |  | https://arxiv.org/abs/1804.04732 |
+| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks |  | https://arxiv.org/abs/1612.03242 |
+| Data Augmentation Generative Adversarial Networks |  | https://arxiv.org/abs/1711.04340 |
+| GazeGAN - Unpaired Adversarial Image Generation for Gaze Estimation |  | https://arxiv.org/abs/1711.09767 |
+| GANsfer Learning: Combining labelled and unlabelled data for GAN based data augmentation |  | https://arxiv.org/abs/1811.10669 |
+| De-identification without losing faces |  | https://arxiv.org/abs/1902.04202 |
+| DeepPrivacy: A Generative Adversarial Network for Face Anonymization  |  | https://arxiv.org/abs/1909.04538 |
+| The Effectiveness of Data Augmentation in Image Classification using Deep Learning |  | https://arxiv.org/abs/1712.04621 |
+| Pose Guided Person Image Generation  |  | https://arxiv.org/abs/1705.09368 |
+| AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks |  | https://arxiv.org/abs/1711.10485 |
+| Patch-Based Image Inpainting with Generative Adversarial Networks |  | https://arxiv.org/abs/1803.07422 |
