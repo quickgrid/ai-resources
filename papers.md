@@ -142,3 +142,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Pose Guided Person Image Generation  |  | https://arxiv.org/abs/1705.09368 |
 | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks |  | https://arxiv.org/abs/1711.10485 |
 | Patch-Based Image Inpainting with Generative Adversarial Networks |  | https://arxiv.org/abs/1803.07422 |
+| :blue_book: FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings |  | https://arxiv.org/pdf/2002.07662.pdf |
