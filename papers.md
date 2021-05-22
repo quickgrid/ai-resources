@@ -143,3 +143,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks |  | https://arxiv.org/abs/1711.10485 |
 | Patch-Based Image Inpainting with Generative Adversarial Networks |  | https://arxiv.org/abs/1803.07422 |
 | :blue_book: FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings |  | https://arxiv.org/pdf/2002.07662.pdf |
+| FNet: Mixing Tokens with Fourier Transforms |  | https://arxiv.org/abs/2105.03824 |
+| :blue_book: Adaptive NMS: Refining Pedestrian Detection in a Crowd |  | https://arxiv.org/pdf/1904.03629.pdf |
