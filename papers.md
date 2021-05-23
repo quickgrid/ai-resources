@@ -149,3 +149,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Simple Online and Realtime Tracking |  | https://arxiv.org/abs/1602.00763 |
 | Simple Online and Realtime Tracking with a Deep Association Metric |  | https://arxiv.org/abs/1703.07402 |
 | FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking |  | https://arxiv.org/abs/2004.01888 |
+| SMOT: Single-Shot Multi Object Tracking |  | https://arxiv.org/pdf/2010.16031v1.pdf |
