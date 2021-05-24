@@ -29,7 +29,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 | https://arxiv.org/abs/1907.05047 |
 | Instant Motion Tracking and Its Applications to Augmented Reality | 2019 | https://arxiv.org/abs/1907.06796 |
 | Improved Training of Wasserstein GANs (WGAN-GP) | 2017 | https://arxiv.org/abs/1704.00028 | 
-
+| Simple Online and Realtime Tracking |  | https://arxiv.org/abs/1602.00763 |
+| Simple Online and Realtime Tracking with a Deep Association Metric |  | https://arxiv.org/abs/1703.07402 |
 
 <br>
 
@@ -146,8 +147,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | FNet: Mixing Tokens with Fourier Transforms |  | https://arxiv.org/abs/2105.03824 |
 | :blue_book: Adaptive NMS: Refining Pedestrian Detection in a Crowd |  | https://arxiv.org/pdf/1904.03629.pdf |
 | OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks |  | https://arxiv.org/pdf/1312.6229.pdf |
-| Simple Online and Realtime Tracking |  | https://arxiv.org/abs/1602.00763 |
-| Simple Online and Realtime Tracking with a Deep Association Metric |  | https://arxiv.org/abs/1703.07402 |
-| FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking |  | https://arxiv.org/abs/2004.01888 |
+| :page_facing_up: FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking |  | https://arxiv.org/abs/2004.01888 |
 | SMOT: Single-Shot Multi Object Tracking |  | https://arxiv.org/pdf/2010.16031v1.pdf |
 | Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation |  | https://arxiv.org/pdf/1905.08094.pdf |
