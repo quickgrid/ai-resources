@@ -29,8 +29,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 | https://arxiv.org/abs/1907.05047 |
 | Instant Motion Tracking and Its Applications to Augmented Reality | 2019 | https://arxiv.org/abs/1907.06796 |
 | Improved Training of Wasserstein GANs (WGAN-GP) | 2017 | https://arxiv.org/abs/1704.00028 | 
-| Simple Online and Realtime Tracking |  | https://arxiv.org/abs/1602.00763 |
-| Simple Online and Realtime Tracking with a Deep Association Metric |  | https://arxiv.org/abs/1703.07402 |
+| Simple Online and Realtime Tracking | 2016 | https://arxiv.org/abs/1602.00763 |
+| Simple Online and Realtime Tracking with a Deep Association Metric | 2017 | https://arxiv.org/abs/1703.07402 |
 
 <br>
 
