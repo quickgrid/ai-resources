@@ -159,7 +159,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  | https://arxiv.org/pdf/1707.07998v3.pdf |
 | FastReID: A Pytorch Toolbox for General Instance Re-identification |  | https://arxiv.org/pdf/2006.02631v4.pdf |
 | TransReID: Transformer-based Object Re-Identification |  | https://arxiv.org/pdf/2102.04378v2.pdf |
-| License Plate Detection and Recognition in Unconstrained Scenarios |  | https://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf |
 | MOGAN: Morphologic-structure-aware Generative Learning from a Single Image |  | https://arxiv.org/pdf/2103.02997v1.pdf |
 | EigenGAN: Layer-Wise Eigen-Learning for GANs |  | https://arxiv.org/pdf/2104.12476v1.pdf |
 | Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation |  | https://arxiv.org/pdf/2008.12606v1.pdf |
@@ -191,3 +190,11 @@ The year column represents publishing year in arxiv and not the year of latest r
 | SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE |  | https://arxiv.org/pdf/1602.07360v4.pdf |
 | Searching for MobileNetV3 |  | https://arxiv.org/pdf/1905.02244v5.pdf |
 | Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  | https://arxiv.org/pdf/2104.05376v2.pdf |
+
+<br>
+
+### Non Arxiv
+
+| Topic | Year | Paper Link |
+| --- | --- | --- |
+| License Plate Detection and Recognition in Unconstrained Scenarios |  | https://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf |
