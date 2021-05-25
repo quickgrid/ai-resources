@@ -53,6 +53,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 | Topic | Year | Paper Link |
 | --- | --- | --- |
+| Is Space-Time Attention All You Need for Video Understanding? |  | https://arxiv.org/pdf/2102.05095v3.pdf |
+| Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis |  | https://arxiv.org/abs/2003.08934 |
 | :blue_book: Implicit Neural Representations with Periodic Activation Functions |  | https://arxiv.org/abs/2006.09661 |
 | pixelNeRF: Neural Radiance Fields from One or Few Images |  | https://arxiv.org/abs/2012.02190 |
@@ -73,7 +75,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Interpreting the Latent Space of GANs for Semantic Face Editing |  | https://arxiv.org/pdf/1907.10786.pdf | 
 | Wasserstein GAN (WGAN) |  | https://arxiv.org/pdf/1701.07875.pdf | 
 | Stacked Hourglass Networks for Human Pose Estimation |  | https://arxiv.org/pdf/1603.06937.pdf |
-| Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
 | Self-Attention Generative Adversarial Networks |  | https://arxiv.org/pdf/1805.08318.pdf |
 | :blue_book: Modulated Periodic Activations for Generalizable Local Functional Representations |  | https://arxiv.org/pdf/2104.03960.pdf |
 | Adversarial Latent Autoencoders |  | https://arxiv.org/pdf/2004.04467.pdf |
@@ -154,6 +155,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text |  | https://arxiv.org/pdf/2104.11178v1.pdf |
 | Multiscale Vision Transformers |  | https://arxiv.org/pdf/2104.11227v1.pdf |
 | A Comprehensive Study of Deep Video Action Recognition |  | https://arxiv.org/pdf/2012.06567v1.pdf |
-| Is Space-Time Attention All You Need for Video Understanding? |  | https://arxiv.org/pdf/2102.05095v3.pdf |
 | ECO: Efficient Convolutional Network for Online Video Understanding |  | https://arxiv.org/pdf/1804.09066v2.pdf |
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  | https://arxiv.org/pdf/1707.07998v3.pdf |
