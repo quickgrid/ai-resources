@@ -157,3 +157,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | A Comprehensive Study of Deep Video Action Recognition |  | https://arxiv.org/pdf/2012.06567v1.pdf |
 | ECO: Efficient Convolutional Network for Online Video Understanding |  | https://arxiv.org/pdf/1804.09066v2.pdf |
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  | https://arxiv.org/pdf/1707.07998v3.pdf |
+| FastReID: A Pytorch Toolbox for General Instance Re-identification |  | https://arxiv.org/pdf/2006.02631v4.pdf |
+| TransReID: Transformer-based Object Re-Identification |  | https://arxiv.org/pdf/2102.04378v2.pdf |
