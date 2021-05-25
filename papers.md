@@ -188,6 +188,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks |  | https://arxiv.org/pdf/1809.00219v2.pdf |
 | Residual Dense Network for Image Super-Resolution |  | https://arxiv.org/pdf/1802.08797v2.pdf |
 | Learning Texture Transformer Network for Image Super-Resolution |  | https://arxiv.org/pdf/2006.04139v2.pdf |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE |  | https://arxiv.org/pdf/1602.07360v4.pdf |
+| Searching for MobileNetV3 |  | https://arxiv.org/pdf/1905.02244v5.pdf |
+| Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  | https://arxiv.org/pdf/2104.05376v2.pdf |
