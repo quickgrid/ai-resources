@@ -159,3 +159,33 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  | https://arxiv.org/pdf/1707.07998v3.pdf |
 | FastReID: A Pytorch Toolbox for General Instance Re-identification |  | https://arxiv.org/pdf/2006.02631v4.pdf |
 | TransReID: Transformer-based Object Re-Identification |  | https://arxiv.org/pdf/2102.04378v2.pdf |
+| License Plate Detection and Recognition in Unconstrained Scenarios |  | https://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf |
+| MOGAN: Morphologic-structure-aware Generative Learning from a Single Image |  | https://arxiv.org/pdf/2103.02997v1.pdf |
+| EigenGAN: Layer-Wise Eigen-Learning for GANs |  | https://arxiv.org/pdf/2104.12476v1.pdf |
+| Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation |  | https://arxiv.org/pdf/2008.12606v1.pdf |
+| Animating Arbitrary Objects via Deep Motion Transfer |  | https://arxiv.org/pdf/1812.08861v3.pdf |
+| Interpreting the Latent Space of GANs for Semantic Face Editing |  | https://arxiv.org/pdf/1907.10786v3.pdf |
+| StyleGAN2 Distillation for Feed-forward Image Manipulation |  | https://arxiv.org/pdf/2003.03581v2.pdf |
+| In-Domain GAN Inversion for Real Image Editing |  | https://arxiv.org/pdf/2004.00049v3.pdf |
+| GAN Inversion: A Survey |  | https://arxiv.org/pdf/2101.05278v2.pdf |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
