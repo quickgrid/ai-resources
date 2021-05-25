@@ -191,10 +191,3 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Searching for MobileNetV3 |  | https://arxiv.org/pdf/1905.02244v5.pdf |
 | Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  | https://arxiv.org/pdf/2104.05376v2.pdf |
 
-<br>
-
-### Non Arxiv
-
-| Topic | Year | Paper Link |
-| --- | --- | --- |
-| License Plate Detection and Recognition in Unconstrained Scenarios |  | https://openaccess.thecvf.com/content_ECCV_2018/papers/Sergio_Silva_License_Plate_Detection_ECCV_2018_paper.pdf |
