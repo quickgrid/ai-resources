@@ -168,24 +168,26 @@ The year column represents publishing year in arxiv and not the year of latest r
 | StyleGAN2 Distillation for Feed-forward Image Manipulation |  | https://arxiv.org/pdf/2003.03581v2.pdf |
 | In-Domain GAN Inversion for Real Image Editing |  | https://arxiv.org/pdf/2004.00049v3.pdf |
 | GAN Inversion: A Survey |  | https://arxiv.org/pdf/2101.05278v2.pdf |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Alive Caricature from 2D to 3D |  | https://arxiv.org/pdf/1803.06802v3.pdf |
+| Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model |  | https://arxiv.org/pdf/2004.09190v2.pdf |
+| Generating 3D faces using Convolutional Mesh Autoencoders |  | https://arxiv.org/pdf/1807.10267v3.pdf |
+| Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images |  | https://arxiv.org/pdf/2003.08124v1.pdf |
+| GIF: Generative Interpretable Faces |  | https://arxiv.org/pdf/2009.00149v2.pdf |
+| Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network |  | https://arxiv.org/pdf/2104.08403v1.pdf |
+| WarpGAN: Automatic Caricature Generation |  | https://arxiv.org/pdf/1811.10100v3.pdf |
+| Towards Fast, Accurate and Stable 3D Dense Face Alignment |  | https://arxiv.org/pdf/2009.09960v2.pdf |
+| AvatarMe: Realistically Renderable 3D Facial Reconstruction “in-the-wild” |  | https://arxiv.org/pdf/2003.13845v1.pdf |
+| Learning an Animatable Detailed 3D Face Model from In-The-Wild Images |  | https://arxiv.org/pdf/2012.04012v1.pdf |
+| PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network |  | https://arxiv.org/pdf/2104.05458v1.pdf |
+| Few-Shot Unsupervised Image-to-Image Translation |  | https://arxiv.org/pdf/1905.01723v2.pdf |
+| EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning |  | https://arxiv.org/pdf/1901.00212v3.pdf |
+| SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color |  | https://arxiv.org/pdf/1902.06838v1.pdf |
+| PFLD: A Practical Facial Landmark Detector |  | https://arxiv.org/pdf/1902.10859v2.pdf |
+| Texture Memory-Augmented Deep Patch-Based Image Inpainting |  | https://arxiv.org/pdf/2009.13240v1.pdf |
+| Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN |  | https://arxiv.org/pdf/1706.03319v2.pdf |
+| ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks |  | https://arxiv.org/pdf/1809.00219v2.pdf |
+| Residual Dense Network for Image Super-Resolution |  | https://arxiv.org/pdf/1802.08797v2.pdf |
+| Learning Texture Transformer Network for Image Super-Resolution |  | https://arxiv.org/pdf/2006.04139v2.pdf |
 |  |  |  |
 |  |  |  |
 |  |  |  |
