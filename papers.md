@@ -150,3 +150,10 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :page_facing_up: FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking |  | https://arxiv.org/abs/2004.01888 |
 | SMOT: Single-Shot Multi Object Tracking |  | https://arxiv.org/pdf/2010.16031v1.pdf |
 | Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation |  | https://arxiv.org/pdf/1905.08094.pdf |
+| Tiny Video Networks |  | https://arxiv.org/pdf/1910.06961v1.pdf |
+| VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text |  | https://arxiv.org/pdf/2104.11178v1.pdf |
+| Multiscale Vision Transformers |  | https://arxiv.org/pdf/2104.11227v1.pdf |
+| A Comprehensive Study of Deep Video Action Recognition |  | https://arxiv.org/pdf/2012.06567v1.pdf |
+| Is Space-Time Attention All You Need for Video Understanding? |  | https://arxiv.org/pdf/2102.05095v3.pdf |
+| ECO: Efficient Convolutional Network for Online Video Understanding |  | https://arxiv.org/pdf/1804.09066v2.pdf |
+| Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  | https://arxiv.org/pdf/1707.07998v3.pdf |
