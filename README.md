@@ -185,6 +185,7 @@
 | IntellijIdea Java IDE | https://www.jetbrains.com/idea/download/ |
 | Android Studio IDE | https://developer.android.com/studio |
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
+| Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
  
 #### Development
 
