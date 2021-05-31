@@ -63,7 +63,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  | https://arxiv.org/pdf/1804.07723.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  | https://arxiv.org/pdf/1512.03385.pdf |
 | :blue_book: PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN) |  | https://arxiv.org/abs/1710.10196 | 
-| High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs |  | https://arxiv.org/pdf/1711.11585.pdf |
+| :blue_book: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Pix2PixHD) |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  | https://arxiv.org/pdf/1411.4038.pdf | 
 | Analyzing and Improving the Image Quality of StyleGAN |  | https://arxiv.org/pdf/1912.04958.pdf | 
 | Semantic Image Synthesis with Spatially-Adaptive Normalization |  | https://arxiv.org/pdf/1903.07291.pdf | 
