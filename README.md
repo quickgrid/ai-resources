@@ -298,6 +298,7 @@
 | DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
 | AI Papers as Webpage, Personalized Library | https://www.groundai.com/ |
 | Visual Explanation of ML Research | https://distill.pub/ |
+| MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 
 
 ### Research Blogs
