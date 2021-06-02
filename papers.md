@@ -191,3 +191,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Searching for MobileNetV3 |  | https://arxiv.org/pdf/1905.02244v5.pdf |
 | Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  | https://arxiv.org/pdf/2104.05376v2.pdf |
 | Learning to Simulate Dynamic Environments with GameGAN (GameGAN) |  | https://arxiv.org/pdf/2005.12126.pdf |
+| Unsupervised Image-to-Image Translation Networks |  | https://arxiv.org/pdf/1703.00848.pdf |
