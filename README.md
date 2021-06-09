@@ -198,6 +198,7 @@
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module | 
 | ML Model Training and Export Offline | https://lobe.ai/ |
 | Python Cross Platfrom App Development | https://kivy.org/ |
+| Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
 
 
 #### General Purpose (ML DL CV etc.)
