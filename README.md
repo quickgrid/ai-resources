@@ -423,7 +423,7 @@
 | Tensorflow TFRecord Format | https://www.tensorflow.org/tutorials/load_data/tfrecord <br> https://keras.io/examples/keras_recipes/tfrecord/ <br> https://www.skcript.com/svr/why-every-tensorflow-developer-should-know-about-tfrecord/ |
 | Object Detection Bounding Box Annotation | http://vision.stanford.edu/pdf/bbox_submission.pdf |
 | What is logits and relation to loss function | https://datascience.stackexchange.com/questions/31041/what-does-logits-in-machine-learning-mean <br> https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/16 <br> https://keras.io/api/losses/ |
-
+| Basic information on MKL, BLAS, LAPACK | https://en.wikipedia.org/wiki/Math_Kernel_Library <br> https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms <br> https://en.wikipedia.org/wiki/LAPACK |
 
 <br>
 
