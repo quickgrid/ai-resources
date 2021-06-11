@@ -192,4 +192,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  | https://arxiv.org/pdf/2104.05376v2.pdf |
 | Learning to Simulate Dynamic Environments with GameGAN (GameGAN) |  | https://arxiv.org/pdf/2005.12126.pdf |
 | Unsupervised Image-to-Image Translation Networks |  | https://arxiv.org/pdf/1703.00848.pdf |
-| Semantic Image Inpainting with Deep Generative Models | https://arxiv.org/pdf/1607.07539.pdf |
+| Semantic Image Inpainting with Deep Generative Models |  | https://arxiv.org/pdf/1607.07539.pdf |
