@@ -196,3 +196,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | ResMLP: Feedforward networks for image classification with data-efficient training |  | https://arxiv.org/pdf/2105.03404.pdf |
 | TransGAN: Two Transformers Can Make One Strong GAN |  | https://arxiv.org/pdf/2102.07074.pdf |
 | Generative Adversarial Transformers |  | https://arxiv.org/pdf/2103.01209.pdf |
+| Transformer in Transformer |  | https://arxiv.org/pdf/2103.00112.pdf |
+| IBRNet: Learning Multi-View Image-Based Rendering |  | https://arxiv.org/pdf/2102.13090.pdf |
+| Bottleneck Transformers for Visual Recognition |  | https://arxiv.org/pdf/2101.11605.pdf |
+| LAMBDA NETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION |  | https://arxiv.org/pdf/2102.08602.pdf |
