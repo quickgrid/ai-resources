@@ -200,3 +200,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | IBRNet: Learning Multi-View Image-Based Rendering |  | https://arxiv.org/pdf/2102.13090.pdf |
 | Bottleneck Transformers for Visual Recognition |  | https://arxiv.org/pdf/2101.11605.pdf |
 | LAMBDA NETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION |  | https://arxiv.org/pdf/2102.08602.pdf |
+| Contrastive Learning for Unpaired Image-to-Image Translation |  | https://arxiv.org/pdf/2007.15651.pdf |
+| CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION |  | https://arxiv.org/pdf/1711.03213.pdf |
+| Learning from Simulated and Unsupervised Images through Adversarial Training |  | https://arxiv.org/pdf/1612.07828.pdf |
+| A Review of Single-Source Deep Unsupervised Visual Domain Adaptation |  | https://arxiv.org/pdf/2009.00155v3.pdf |
+| Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks |  | https://arxiv.org/pdf/1612.05424v2.pdf |
