@@ -193,3 +193,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Learning to Simulate Dynamic Environments with GameGAN (GameGAN) |  | https://arxiv.org/pdf/2005.12126.pdf |
 | Unsupervised Image-to-Image Translation Networks |  | https://arxiv.org/pdf/1703.00848.pdf |
 | Semantic Image Inpainting with Deep Generative Models |  | https://arxiv.org/pdf/1607.07539.pdf |
+| ResMLP: Feedforward networks for image classification with data-efficient training |  | https://arxiv.org/pdf/2105.03404.pdf |
+| TransGAN: Two Transformers Can Make One Strong GAN |  | https://arxiv.org/pdf/2102.07074.pdf |
+| Generative Adversarial Transformers |  | https://arxiv.org/pdf/2103.01209.pdf |
