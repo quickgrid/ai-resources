@@ -208,3 +208,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Domain-Adversarial Training of Neural Networks |  | https://arxiv.org/pdf/1505.07818v4.pdf |
 | Object Contour Detection with a Fully Convolutional Encoder-Decoder Network |  | https://arxiv.org/pdf/1603.04530.pdf |
 | Enhancing photorealism enhancement |  | https://arxiv.org/pdf/2105.04619.pdf |
+| Group Normalization |  | https://arxiv.org/pdf/1803.08494.pdf |
+| Instance Normalization: The Missing Ingredient for Fast Stylization |  | https://arxiv.org/pdf/1607.08022.pdf |
