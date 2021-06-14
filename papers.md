@@ -205,3 +205,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Learning from Simulated and Unsupervised Images through Adversarial Training |  | https://arxiv.org/pdf/1612.07828.pdf |
 | A Review of Single-Source Deep Unsupervised Visual Domain Adaptation |  | https://arxiv.org/pdf/2009.00155v3.pdf |
 | Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks |  | https://arxiv.org/pdf/1612.05424v2.pdf |
+| Domain-Adversarial Training of Neural Networks |  | https://arxiv.org/pdf/1505.07818v4.pdf |
+| Object Contour Detection with a Fully Convolutional Encoder-Decoder Network |  | https://arxiv.org/pdf/1603.04530.pdf |
+| Enhancing photorealism enhancement |  | https://arxiv.org/pdf/2105.04619.pdf |
