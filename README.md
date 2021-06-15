@@ -43,7 +43,8 @@
 | --- | --- |
 | Tesserect Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
 | FastText NLP Pretrained Vectors | https://fasttext.cc/docs/en/crawl-vectors.html |
-| OpenVino Pretrained Models for Various Tasks | https://github.com/opencv/open_model_zoo |
+| OpenVino Pretrained Models for Various Tasks | https://github.com/opencv/open_model_zoo <br> https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md <br> https://download.01.org/opencv/2021/openvinotoolkit/2021.2/open_model_zoo/models_bin/3/ |
+| OpenVino Public Models | https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md |
 | ONNX Models | https://github.com/onnx/models |
 | Tensorflow Hub ML Models | https://tfhub.dev/ |
 
