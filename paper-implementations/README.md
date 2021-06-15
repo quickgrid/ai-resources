@@ -10,7 +10,7 @@ Implementation of various AI papers with related sections, notes, comments etc.
 
 | Category | Link |
 | --- | --- |
-| Generative Adverserial Networks (GAN) | [GAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/gan) <br> [DCGAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/dcgan) <br> [WGAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/wgan) <br> [WGAN-GP](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/wgan-gp) <br> [ProGAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/progan) |
+| Generative Adverserial Networks (GAN) | [GAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/gan) <br><br> [DCGAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/dcgan) <br> [WGAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/wgan) <br> [WGAN-GP](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/wgan-gp) <br> [ProGAN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/progan) |
 | Activation Functions | [SIREN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/siren) |
 
 <br>
