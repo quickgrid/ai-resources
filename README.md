@@ -15,28 +15,19 @@ A repository of various AI related resource, paper links as well as some paper i
 
 <br>
 
-## `# ai-resources`
+## [`# ai-resources`](https://github.com/quickgrid/AI-Resources/blob/master/ai-resources.md)
 
 A collection of various links related to AI. This includes various high quality AI courses, dataset, pretrained model websites, research blogs, paper, research news, books, libraries, tools, youtube links and more.
 
-| Link |
-| --- |
-| https://github.com/quickgrid/AI-Resources/blob/master/ai-resources.md |
-
 <br>
 
-## `# papers`
+## [`# papers`](https://github.com/quickgrid/AI-Resources/blob/master/papers.md)
 
 Collection of AI papers that I intend to read or already checked out. Most papers are based on Deep Learning, Computer Vision and NLP.
 
-
-| Link |
-| --- |
-| https://github.com/quickgrid/AI-Resources/blob/master/papers.md |
-
 <br>
 
-## `# paper-implementations`
+## [`# paper-implementations`](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations)
 
 It contains `pytorch` and `keras` code that I tried to implement a paper. These may not be fully correct so should be also checked with other trusted sources. These are my best effort by reading the whole paper, looking into other tutorials, articles and documenting most code sections with relevant paper references. 
 
@@ -46,27 +37,18 @@ It contains `pytorch` and `keras` code that I tried to implement a paper. These 
 - Most codes will be self contained in a single file and should be the only thing required to get it running expect for dataset.
 - Codes will try follow similar pattern such that it is easy to jump from one implementation to another.
 
-| Link |
-| --- |
-| https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations |
-
 <br>
 
-## `# contributing`
+## [`# contributing`](https://github.com/quickgrid/AI-Resources/blob/master/contributing.md)
 
 I will be glad to receive help with the repo. As this repository is for my personal learning I will only accept limited PR. 
 
 - I will accept changes in `ai-resouces.md` organizing links to correct categories, adding relevant links.
 - I will accept changes for `paper-implementations` fixing documentations, paper references mistakes and bugs.
 - I will not accept changes to `papers.md` at this moment.
-
-
-| Link |
-| --- |
-| https://github.com/quickgrid/AI-Resources/blob/master/contributing.md |
-
+- 
 <br>
 
-## `# LICENSE`
+## [`# LICENSE`](https://github.com/quickgrid/AI-Resources/blob/master/LICENSE)
 
 MIT License
