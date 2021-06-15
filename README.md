@@ -1,6 +1,6 @@
 # AI-Resources
 
-A repository of various AI related resource, paper links as well as some paper implementation that I tried to do for learning.
+A repository of various AI related resource, paper links as well as paper implementations that I tried to do for learning.
 
 <br>
 
