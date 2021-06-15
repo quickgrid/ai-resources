@@ -210,3 +210,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Enhancing photorealism enhancement |  | https://arxiv.org/pdf/2105.04619.pdf |
 | Group Normalization |  | https://arxiv.org/pdf/1803.08494.pdf |
 | Instance Normalization: The Missing Ingredient for Fast Stylization |  | https://arxiv.org/pdf/1607.08022.pdf |
+| Communication-Efficient Learning of Deep Networks from Decentralized Data (Federated Learning) |  | https://arxiv.org/pdf/1602.05629.pdf |
+
