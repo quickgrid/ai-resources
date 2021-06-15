@@ -67,6 +67,6 @@ I will be glad to receive help with the repo. As this repository is for my perso
 
 <br>
 
-## [`# LICENSE`](https://github.com/quickgrid/AI-Resources/blob/master/LICENSE)
+## `# LICENSE`
 
 MIT License
