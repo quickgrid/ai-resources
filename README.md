@@ -8,7 +8,7 @@ A repository of various AI related resource, paper links as well as some paper i
 - [Table of Contents](#table-of-contents)
   * [`# ai-resources`](#-ai-resources)
   * [`# papers`](#-papers)
-  * [`# Paper Implementations`](#-paper-implementations)
+  * [`# paper-implementations`](#-paper-implementations)
   * [`# contributing`](#-contributing)
   * [`# LICENSE`](#-license)
 
@@ -36,7 +36,7 @@ Collection of AI papers that I intend to read or already checked out. Most paper
 
 <br>
 
-## `# Paper Implementations`
+## `# paper-implementations`
 
 It contains `pytorch` and `keras` code that I tried to implement a paper. These may not be fully correct so should be also checked with other trusted sources. These are my best effort by reading the whole paper, looking into other tutorials, articles and documenting most code sections with relevant paper references. 
 
