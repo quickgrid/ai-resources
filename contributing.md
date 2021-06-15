@@ -1,3 +1,3 @@
 # Contributing Guideline
 
-1. Sort links submitted in wrong category.
+1. Help with organizing links into correct category in `resources.md`.
