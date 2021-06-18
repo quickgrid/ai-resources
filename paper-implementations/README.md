@@ -47,7 +47,7 @@ Implementation of various AI papers with related sections, notes, comments etc.
 
 ## Papers of Interest
 
-papers links are available here, https://github.com/quickgrid/AI-Resources/blob/master/papers.md.
+Papers links are available here, https://github.com/quickgrid/AI-Resources/blob/master/papers.md.
 
 
 ## About
