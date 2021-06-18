@@ -18,7 +18,7 @@ Implementation of various AI papers with related sections, notes, comments etc.
       - [SIREN](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/siren)
   * `# Keras`
     + Object Detection
-      - [RetinaNet](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/gan)
+      - [RetinaNet](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/keras/retinanet)
 -->
 
 - [Table of Contents](#table-of-contents)
@@ -41,7 +41,7 @@ Implementation of various AI papers with related sections, notes, comments etc.
 
 | Topic | Code |
 | --- | --- |
-| **Object Detection** | [Focal Loss for Dense Object Detection (RetinaNet)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/gan) |
+| **Object Detection** | [Focal Loss for Dense Object Detection (RetinaNet)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/keras/retinanet) |
 |  |  |
 
 
