@@ -212,4 +212,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Instance Normalization: The Missing Ingredient for Fast Stylization |  | https://arxiv.org/pdf/1607.08022.pdf |
 | Communication-Efficient Learning of Deep Networks from Decentralized Data (Federated Learning) |  | https://arxiv.org/pdf/1602.05629.pdf |
 | Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images |  | https://arxiv.org/pdf/2106.07873.pdf |
-| Animating Pictures with Eulerian Motion Fields | https://arxiv.org/abs/2011.15128 |
+| Animating Pictures with Eulerian Motion Fields |  | https://arxiv.org/abs/2011.15128 |
