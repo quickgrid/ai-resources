@@ -395,6 +395,7 @@
 | Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
 | Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
 | Deep Learning Book by Goodfellow et el. | https://www.deeplearningbook.org/ |
+| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
 
 <br>
