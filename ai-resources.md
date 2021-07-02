@@ -467,4 +467,4 @@
 | :gem: Transformers & Attention: Keys, Values, Queries | https://www.youtube.com/watch?v=tIvKXrEDMhk |
 | :gem: Transformers & Attention: Multi Head Attention | https://www.youtube.com/watch?v=23XUv0T9L5c |
 | :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
-
+| :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
