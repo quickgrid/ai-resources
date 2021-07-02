@@ -462,3 +462,4 @@
 | :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
 | :gem: Softmax, Negative Log Likelihood with Derivative | https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/ |
 | Attention | https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html |
+| Transformers & Attention | https://www.youtube.com/watch?v=yGTUuEx3GkA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=10 <br> https://www.youtube.com/watch?v=tIvKXrEDMhk&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=11 <br> https://www.youtube.com/watch?v=23XUv0T9L5c&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=12 <br> https://www.youtube.com/watch?v=EXNBy8G43MM&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&index=13 |
