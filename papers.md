@@ -31,7 +31,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Improved Training of Wasserstein GANs (WGAN-GP) | 2017 | https://arxiv.org/abs/1704.00028 | 
 | Simple Online and Realtime Tracking (SORT) | 2016 | https://arxiv.org/abs/1602.00763 |
 | Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) | 2017 | https://arxiv.org/abs/1703.07402 |
-| Attention Is All You Need |  | https://arxiv.org/abs/1706.03762 |
+| Attention Is All You Need | 2017 | https://arxiv.org/abs/1706.03762 |
 
 <br>
 
