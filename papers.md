@@ -215,3 +215,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Animating Pictures with Eulerian Motion Fields |  | https://arxiv.org/abs/2011.15128 |
 | Image Transformer |  | https://arxiv.org/pdf/1802.05751.pdf |
 | How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers |  | https://arxiv.org/pdf/2106.10270.pdf |
+| You Only Learn One Representation: Unified Network for Multiple Tasks |  | https://arxiv.org/pdf/2105.04206.pdf |
