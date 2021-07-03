@@ -214,3 +214,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images |  | https://arxiv.org/pdf/2106.07873.pdf |
 | Animating Pictures with Eulerian Motion Fields |  | https://arxiv.org/abs/2011.15128 |
 | Image Transformer |  | https://arxiv.org/pdf/1802.05751.pdf |
+| How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers | https://arxiv.org/pdf/2106.10270.pdf |
