@@ -366,6 +366,8 @@
 | CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
 | MIT CSAIL 6.819/6.869: Advances in Computer Vision | http://6.869.csail.mit.edu/sp21/schedule.html |
 | Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
+| Computer Vision III: Detection, Segmentation and Tracking (CV3DST) | https://dvl.in.tum.de/teaching/cv3dst-ss20/ |
+| Advanced Deep Learning for Computer vision (ADL4CV) | https://dvl.in.tum.de/teaching/adl4cv-ss20/ |
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
 | :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
