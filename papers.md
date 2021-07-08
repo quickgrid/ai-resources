@@ -216,3 +216,11 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Image Transformer |  | https://arxiv.org/pdf/1802.05751.pdf |
 | How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers |  | https://arxiv.org/pdf/2106.10270.pdf |
 | You Only Learn One Representation: Unified Network for Multiple Tasks |  | https://arxiv.org/pdf/2105.04206.pdf |
+| First Order Motion Model for Image Animation |  | https://arxiv.org/pdf/2003.00196.pdf |
+| Interactive Video Stylization Using Few-Shot Patch-Based Training |  | https://arxiv.org/pdf/2004.14489.pdf |
+| Exemplar-Based 3D Portrait Stylization |  | https://arxiv.org/pdf/2104.14559.pdf |
+| Cross-Domain and Disentangled Face Manipulation with 3D Guidance |  | https://arxiv.org/pdf/2104.11228.pdf |
+| Motion Representations for Articulated Animation |  | https://arxiv.org/pdf/2104.11280.pdf |
+| Everybody Dance Now |  | https://arxiv.org/pdf/1808.07371.pdf |
+| Flow Guided Transformable Bottleneck Networks for Motion Retargeting |  | https://arxiv.org/pdf/2106.07771.pdf |
+
