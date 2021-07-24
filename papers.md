@@ -1,8 +1,8 @@
 # Papers
 
-**TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES.**
+**TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES.**
 
-The year column represents publishing year in arxiv and not the year of latest revision.
+The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below.
 
 ## Papers Read
 
@@ -224,3 +224,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Everybody Dance Now |  | https://arxiv.org/pdf/1808.07371.pdf |
 | Flow Guided Transformable Bottleneck Networks for Motion Retargeting |  | https://arxiv.org/pdf/2106.07771.pdf |
 | MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis |  | https://arxiv.org/pdf/2104.04767.pdf |
+| FaceBlit: Instant Real-time Example-based Style Transfer to Facial Videos |  | https://dcgi.fel.cvut.cz/home/sykorad/Texler21-I3D.pdf |
+| GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields |  | http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf |
+| Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale |  | https://arxiv.org/pdf/2012.09004.pdf |
+| SimSwap: An Efficient Framework For High Fidelity Face Swapping |  | https://arxiv.org/pdf/2106.06340v1.pdf |
+| Alias-Free Generative Adversarial Networks |  | https://nvlabs-fi-cdn.nvidia.com/alias-free-gan/alias-free-gan-paper.pdf |
