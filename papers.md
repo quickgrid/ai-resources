@@ -223,4 +223,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Motion Representations for Articulated Animation |  | https://arxiv.org/pdf/2104.11280.pdf |
 | Everybody Dance Now |  | https://arxiv.org/pdf/1808.07371.pdf |
 | Flow Guided Transformable Bottleneck Networks for Motion Retargeting |  | https://arxiv.org/pdf/2106.07771.pdf |
-
+| MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis |  | https://arxiv.org/pdf/2104.04767.pdf |
