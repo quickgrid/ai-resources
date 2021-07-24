@@ -39,7 +39,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
-| ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) |  | 2012 |  | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
+| ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 |  | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
 
 <!-- 
 |  |  |  |  | 
