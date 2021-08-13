@@ -150,6 +150,7 @@
 | :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
 | AI Articles on Latest Papers | https://ai-scholar.tech/en |
 | Buy, Sell, Get Free AI Models | https://modelplace.ai/ |
+| AI Overview | https://montrealartificialintelligence.com/academy/ |
 
 
 ### Dataset Search
