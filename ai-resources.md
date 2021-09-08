@@ -151,6 +151,7 @@
 | AI Articles on Latest Papers | https://ai-scholar.tech/en |
 | Buy, Sell, Get Free AI Models | https://modelplace.ai/ |
 | AI Overview | https://montrealartificialintelligence.com/academy/ |
+| High Quality Python Tutorials | https://realpython.com/ |
 
 
 ### Dataset Search
