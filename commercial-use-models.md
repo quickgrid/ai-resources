@@ -1,4 +1,4 @@
-# List of AI models for Commercial Usage
+# List of AI Models for Commercial Usage
 
 ### Warning: `This is just for reference. There may be mistakes due to misinterpretation. Usage license for each link must be confirmed before use. Also often there is other conditions mentioned in license that must be followed.`
 
