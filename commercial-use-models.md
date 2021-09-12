@@ -12,7 +12,7 @@
 |  | https://github.com/cmusatyalab/openface |  |
 |  | https://github.com/wy1iu/sphereface |  |
 |  | https://github.com/openvinotoolkit/open_model_zoo/tree/master/models/public/face-recognition-resnet100-arcface-onnx |  |
-|  | https://docs.opencv.org/4.5.3/da/d60/tutorial_face_main.html <br> https://docs.opencv.org/4.5.3/dd/d65/classcv_1_1face_1_1FaceRecognizer.html | Seems non deep learning based algorithms only available as of 9-12-2021 |
+|  | https://docs.opencv.org/4.5.3/da/d60/tutorial_face_main.html <br> https://docs.opencv.org/4.5.3/dd/d65/classcv_1_1face_1_1FaceRecognizer.html | Seems only non deep learning based algorithms available as of 9-12-2021. |
 | **Maybe** | https://github.com/davidsandberg/facenet |  |
 |  | https://github.com/wy1iu/sphereface |  |
 | **No** | https://www.robots.ox.ac.uk/~vgg/software/vgg_face/ |  |
