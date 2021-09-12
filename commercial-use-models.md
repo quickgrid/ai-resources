@@ -15,6 +15,7 @@
 |  | https://docs.opencv.org/4.5.3/da/d60/tutorial_face_main.html <br> https://docs.opencv.org/4.5.3/dd/d65/classcv_1_1face_1_1FaceRecognizer.html | Seems only non deep learning based algorithms available as of 9-12-2021. |
 | **Maybe** | https://github.com/davidsandberg/facenet |  |
 |  | https://github.com/wy1iu/sphereface |  |
+|  | https://github.com/onnx/models/tree/master/vision/body_analysis/arcface |  |
 | **No** | https://www.robots.ox.ac.uk/~vgg/software/vgg_face/ |  |
 |  | https://github.com/deepinsight/insightface |  | 
 
