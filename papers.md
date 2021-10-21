@@ -32,6 +32,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Simple Online and Realtime Tracking (SORT) | 2016 |  | https://arxiv.org/abs/1602.00763 |
 | Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) | 2017 |  | https://arxiv.org/abs/1703.07402 |
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
+| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) |  |  | https://arxiv.org/abs/1609.04802 |
 
 <br>
 
@@ -132,7 +133,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | MobileNetV2: Inverted Residuals and Linear Bottlenecks |  |  | https://arxiv.org/abs/1801.04381 |
 | YOLOv4: Optimal Speed and Accuracy of Object Detection |  |  | https://arxiv.org/pdf/2004.10934.pdf |
 | Conditional Image Synthesis with Auxiliary Classifier GANs |  |  | https://arxiv.org/pdf/1610.09585.pdf |
-| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network |  |  | https://arxiv.org/abs/1609.04802 |
 | Multimodal Unsupervised Image-to-Image Translation |  |  | https://arxiv.org/abs/1804.04732 |
 | StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks |  |  | https://arxiv.org/abs/1612.03242 |
 | Data Augmentation Generative Adversarial Networks |  |  | https://arxiv.org/abs/1711.04340 |
