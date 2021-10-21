@@ -32,7 +32,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Simple Online and Realtime Tracking (SORT) | 2016 |  | https://arxiv.org/abs/1602.00763 |
 | Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) | 2017 |  | https://arxiv.org/abs/1703.07402 |
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
-| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) |  |  | https://arxiv.org/abs/1609.04802 |
+| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
 
 <br>
 
