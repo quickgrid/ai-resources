@@ -230,3 +230,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | SimSwap: An Efficient Framework For High Fidelity Face Swapping |  |  | https://arxiv.org/pdf/2106.06340v1.pdf |
 | Alias-Free Generative Adversarial Networks (StyleGAN 3) |  |  | https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf |
 | ~~Convolutions~~ ~~Attention~~ ~~MLPs~~ Patches Are All You Need? |  |  | https://openreview.net/pdf?id=TVHS5Y4dNvM |
+| VECTOR-QUANTIZED IMAGE MODELING WITH IMPROVED VQGAN |  |  | https://openreview.net/pdf?id=pfNyExj7z2 |
