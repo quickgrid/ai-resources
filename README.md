@@ -9,11 +9,11 @@ A repository of various AI related resources, paper links, attempted paper imple
 
 | Section | Description |
 | --- | --- |
-| [`ai‑resources`](https://github.com/quickgrid/AI-Resources/blob/master/ai-resources.md) | A collection of various links related to AI. This includes various high quality AI courses, dataset, pretrained model websites, research blogs, paper, research news, books, libraries, tools, youtube links and more. |
+| [`ai‑resources.md`](https://github.com/quickgrid/AI-Resources/blob/master/ai-resources.md) | A collection of various links related to AI. This includes various high quality AI courses, dataset, pretrained model websites, research blogs, paper, research news, books, libraries, tools, youtube links and more. |
 | [`setup‑guide`](https://github.com/quickgrid/AI-Resources/tree/master/setup-guide) | FAQ, how to, general information, build and setup for various tools etc. |
 | [`code‑lab`](https://github.com/quickgrid/AI-Resources/tree/master/code-lab) | Code examples, demos, snippets, information related to general programming, AI codes etc. |
 | [`paper‑implementations`](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations) | My attempts at trying to implement various papers with pytorch, tensorflow etc. I try to document every piece of confusing and hard to understand codes with paper reference and images. |
-| [`papers`](https://github.com/quickgrid/AI-Resources/blob/master/papers.md) | Collection of AI papers that I intend to read or already checked out. Most papers are based on Deep Learning, Computer Vision, Computer Graphics and NLP. |
+| [`papers.md`](https://github.com/quickgrid/AI-Resources/blob/master/papers.md) | Collection of AI papers that I intend to read or already checked out. Most papers are based on Deep Learning, Computer Vision, Computer Graphics and NLP. |
 | [`commercial‑use‑models.md`](https://github.com/quickgrid/AI-Resources/blob/master/commercial-use-models.md) | Collection of AI models that can or cannot be be used for commercial purposes. |
 
 
