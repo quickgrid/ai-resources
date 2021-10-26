@@ -12,26 +12,36 @@ Some results are not good because these were collected from web and these types 
 
 ![Mask](results/a1.png "Mask")
 ![Image](results/a2.png "Image")
+![Foreground](results/a3.png "Foreground")
+![Background](results/a4.png "Background")
 
 <br>
 
 ![Mask](results/b1.png "Mask")
 ![Image](results/b2.png "Image")
+![Foreground](results/b3.png "Foreground")
+![Background](results/b4.png "Background")
 
 <br>
 
 ![Mask](results/c1.png "Mask")
 ![Image](results/c2.png "Image")
+![Foreground](results/c3.png "Foreground")
+![Background](results/c4.png "Background")
 
 <br>
 
 ![Mask](results/d1.png "Mask")
 ![Image](results/d2.png "Image")
+![Foreground](results/d3.png "Foreground")
+![Background](results/d4.png "Background")
 
 <br>
 
 ![Mask](results/e1.png "Mask")
 ![Image](results/e2.png "Image")
+![Foreground](results/e3.png "Foreground")
+![Background](results/e4.png "Background")
 
 
 ## TODO
