@@ -4,7 +4,7 @@ import albumentations as A
 from albumentations.pytorch import ToTensorV2
 import torch
 import torchvision
-from pytorch_unet_implementation import UNET
+from pytorch_unet_train import UNET
 
 
 IMAGE_HEIGHT = 160
