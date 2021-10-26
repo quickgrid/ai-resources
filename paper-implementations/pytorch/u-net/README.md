@@ -34,6 +34,10 @@ Some results are not good because these were collected from web and these types 
 ![Image](results/e2.png "Image")
 
 
+## TODO
+
+- Make the implementation simplified.
+- Organize codes.
 
 ## References
 
