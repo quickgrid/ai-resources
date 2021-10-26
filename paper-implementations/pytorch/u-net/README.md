@@ -8,6 +8,29 @@ Using `3 epochs` and `IMAGE_HEIGHT = 160, IMAGE_WIDTH = 240` it was enough to ge
 
 ## Results
 
+![Mask](results/a1.png "Mask")
+![Image](results/a2.png "Image")
+
+<br>
+
+![Mask](results/b1.png "Mask")
+![Image](results/b2.png "Image")
+
+<br>
+
+![Mask](results/c1.png "Mask")
+![Image](results/c2.png "Image")
+
+<br>
+
+![Mask](results/d1.png "Mask")
+![Image](results/d2.png "Image")
+
+<br>
+
+![Mask](results/e1.png "Mask")
+![Image](results/e2.png "Image")
+
 
 
 ## References
