@@ -8,6 +8,8 @@ Using `3 epochs` and `IMAGE_HEIGHT = 160, IMAGE_WIDTH = 240` it was enough to ge
 
 ## Results
 
+Some results are not good because these were collected from web and these types of images were not in the dataset.
+
 ![Mask](results/a1.png "Mask")
 ![Image](results/a2.png "Image")
 
