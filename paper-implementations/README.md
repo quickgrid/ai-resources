@@ -33,7 +33,7 @@ Implementation of various AI papers with related sections, notes, comments etc.
 |  | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/dcgan) |
 |  | [Wasserstein GAN (WGAN)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/wgan) |
 |  | [Improved Training of Wasserstein GANs (WGAN-GP)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/wgan-gp) |
-<!--|  | [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/progan) |-->
+|  | [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/progan) |
 |  |  |
 | **Image Segmentation** | [U-Net Image Segmentation](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/u-net) |
 |  |  |
