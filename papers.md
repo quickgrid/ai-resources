@@ -33,6 +33,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) | 2017 |  | https://arxiv.org/abs/1703.07402 |
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
+| Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) |  |  | https://arxiv.org/pdf/1903.07291.pdf | 
 
 <br>
 
@@ -67,7 +68,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :blue_book: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Pix2PixHD) |  |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  |  | https://arxiv.org/pdf/1411.4038.pdf | 
 | Analyzing and Improving the Image Quality of StyleGAN |  |  | https://arxiv.org/pdf/1912.04958.pdf | 
-| Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) |  |  | https://arxiv.org/pdf/1903.07291.pdf | 
 | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models |  |  | https://arxiv.org/pdf/1905.08233.pdf | 
 | Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling |  |  | https://arxiv.org/pdf/1610.07584.pdf | 
 | LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS |  |  | https://arxiv.org/pdf/1809.11096.pdf | 
