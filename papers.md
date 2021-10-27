@@ -231,3 +231,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Alias-Free Generative Adversarial Networks (StyleGAN 3) |  |  | https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf |
 | ~~Convolutions~~ ~~Attention~~ ~~MLPs~~ Patches Are All You Need? |  |  | https://openreview.net/pdf?id=TVHS5Y4dNvM |
 | VECTOR-QUANTIZED IMAGE MODELING WITH IMPROVED VQGAN |  |  | https://openreview.net/pdf?id=pfNyExj7z2 |
+| State of the Art on Neural Rendering |  |  | https://arxiv.org/pdf/2004.03805.pdf |
+| Differentiable Rendering: A Survey |  |  | https://arxiv.org/pdf/2006.12057.pdf |
