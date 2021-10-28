@@ -16,14 +16,17 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Feature Pyramid Networks for Object Detection (FPN) | 2016 |  | https://arxiv.org/abs/1612.03144 |
 | COIN: COmpression with Implicit Neural representations | 2021 |  | https://arxiv.org/abs/2103.03123 |
 | MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 |  | https://arxiv.org/abs/1907.11922 |
-| Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 |  | https://arxiv.org/abs/1609.06647 |
-| Conditional Generative Adversarial Nets | 2014 |  | https://arxiv.org/abs/1411.1784 | 
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 |  | https://arxiv.org/abs/2010.11929 |
-| :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 |  | https://arxiv.org/abs/2104.14294 |
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 |  | https://arxiv.org/abs/1907.05047 |
-| Instant Motion Tracking and Its Applications to Augmented Reality | 2019 |  | https://arxiv.org/abs/1907.06796 |
-| Improved Training of Wasserstein GANs (WGAN-GP) | 2017 |  | https://arxiv.org/abs/1704.00028 | 
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
+
+<br>
+
+### Image Captioning
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647) | 2016 |  |
 
 
 <br>
@@ -34,11 +37,12 @@ The year column represents publishing year in arxiv and not the year of latest r
 | --- | --- | --- |
 | [Simple Online and Realtime Tracking (SORT)](https://arxiv.org/abs/1602.00763) | 2016 |  |
 | [Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)](https://arxiv.org/abs/1703.07402) | 2017 |  |
+| [Instant Motion Tracking and Its Applications to Augmented Reality](https://arxiv.org/abs/1907.06796) | 2019 |  |
 
 
 <br>
 
-### Image Segmentation
+### Image Super Resolution
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -71,6 +75,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | --- | --- | --- |
 | [Generative Adversarial Networks (GANs)](https://arxiv.org/abs/1406.2661) | 2014 |  |
 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  |
+| [Improved Training of Wasserstein GANs (WGAN-GP)](https://arxiv.org/abs/1704.00028) | 2017 |  | 
+| [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014 |  | 
 
 <br>
 
