@@ -6,7 +6,11 @@ The implementation does not exactly match the paper. Gatys 2016, paper goes into
 
 ## Results
 
-![Real MNIST Images](results/real_mnist_images.png "MNIST real Images")
+![Content](data/content_image.png "Content") ![Style](data/style_image.png "Style")
+
+<br>
+
+![Generated](generated.png "Generated")
 
 
 ## TODO
