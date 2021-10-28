@@ -6,7 +6,8 @@ The implementation does not exactly match the paper. Gatys 2016, paper goes into
 
 ## Results
 
-![Content](data/content_image.png "Content") ![Style](data/style_image.png "Style")
+![Content](data/content_image.png "Content" | width=256) 
+![Style](data/style_image.png "Style" | width=256)
 
 <br>
 
