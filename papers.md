@@ -94,7 +94,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 | Topic | Year | Conference |
 | --- | --- | --- |
-| [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br> [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | 2016 <br> 2015 | CVPR <br> |
+| [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br> [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | 2016 <br> 2015 | CVPR <br> - |
 
 
 <!-- 
