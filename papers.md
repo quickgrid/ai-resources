@@ -34,6 +34,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
 | Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) | 2019 | CVPR | https://arxiv.org/abs/1903.07291 | 
+| A Neural Algorithm of Artistic Style |  |  | https://arxiv.org/abs/1508.06576 |
 
 <br>
 
@@ -86,7 +87,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Zero-Shot Text-to-Image Generation (DALL-E) |  |  | https://arxiv.org/pdf/2102.12092.pdf |
 | Learning Transferable Visual Models From Natural Language Supervision (CLIP) |  |  | https://arxiv.org/pdf/2103.00020.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  |  | https://arxiv.org/pdf/2006.10738v4.pdf |
-| A Neural Algorithm of Artistic Style |  |  | https://arxiv.org/abs/1508.06576 |
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  |  | https://arxiv.org/abs/1603.08155 |
 | Visualizing and Understanding Convolutional Networks |  |  | https://arxiv.org/pdf/1311.2901.pdf |
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  |  | https://arxiv.org/pdf/1705.06830.pdf |
