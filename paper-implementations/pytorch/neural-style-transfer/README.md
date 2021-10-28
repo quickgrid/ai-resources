@@ -2,7 +2,7 @@
 
 Only two images are required to obtain a generated image result. Cycle GAN paper mentions NST(Neural Style Transfer) is between two images and image-to-image translation networks such as Cycle GAN can learn the artistic style between collections of images.
 
-The implementation does not exactly match the paper. Gatys 2016, paper goes into more detail on the implementation.
+The implementation does not exactly match the paper. Gatys 2016, paper goes into more detail on the implementation. Result is generated at around 200 steps.
 
 ## Results
 
