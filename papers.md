@@ -141,7 +141,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Learning Transferable Visual Models From Natural Language Supervision (CLIP) |  |  | https://arxiv.org/pdf/2103.00020.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  |  | https://arxiv.org/pdf/2006.10738v4.pdf |
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  |  | https://arxiv.org/abs/1603.08155 |
-| Visualizing and Understanding Convolutional Networks |  |  | https://arxiv.org/pdf/1311.2901.pdf |
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  |  | https://arxiv.org/pdf/1705.06830.pdf |
 | Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  |  | https://arxiv.org/abs/2002.07514 |
 | Self-Normalizing Neural Networks |  |  | https://arxiv.org/abs/1706.02515 |
@@ -237,7 +236,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | PFLD: A Practical Facial Landmark Detector |  |  | https://arxiv.org/pdf/1902.10859v2.pdf |
 | Texture Memory-Augmented Deep Patch-Based Image Inpainting |  |  | https://arxiv.org/pdf/2009.13240v1.pdf |
 | Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN |  |  | https://arxiv.org/pdf/1706.03319v2.pdf |
-| ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks |  |  | https://arxiv.org/pdf/1809.00219v2.pdf |
 | Residual Dense Network for Image Super-Resolution |  |  | https://arxiv.org/pdf/1802.08797v2.pdf |
 | Learning Texture Transformer Network for Image Super-Resolution |  |  | https://arxiv.org/pdf/2006.04139v2.pdf |
 | SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE |  |  | https://arxiv.org/pdf/1602.07360v4.pdf |
@@ -288,3 +286,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Differentiable Rendering: A Survey |  |  | https://arxiv.org/pdf/2006.12057.pdf |
 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf) | 2015 |  |  |
 | [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) | 2018 |  |  |
+| [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) |  |  |  |
+| [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219v2.pdf) |  |  |  |
