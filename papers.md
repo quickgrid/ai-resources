@@ -35,6 +35,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
 | Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) | 2019 | CVPR | https://arxiv.org/abs/1903.07291 | 
 | A Neural Algorithm of Artistic Style |  |  | https://arxiv.org/abs/1508.06576 |
+| Image Style Transfer Using Convolutional Neural Networks | 2016 | CVPR | https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf |
 
 <br>
 
