@@ -2,48 +2,94 @@
 
 **TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES.**
 
-The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below. Sections are divided into arxiv and non-arxiv due to formatting issues with large url.
+The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below. A paper may fall into multiple categories but organized into a general one.
 
 ## Papers Read
 
 :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
 
+### Uncategorized
+
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
-| Image-to-Image Translation with Conditional Adversarial Networks (pix2pix) | 2016 |  | https://arxiv.org/abs/1611.07004 |
-| Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN) | 2017 |  | https://arxiv.org/abs/1703.10593 |
 | Focal Loss for Dense Object Detection (RetinaNet) | 2017 |  | https://arxiv.org/abs/1708.02002 |
 | Feature Pyramid Networks for Object Detection (FPN) | 2016 |  | https://arxiv.org/abs/1612.03144 |
 | COIN: COmpression with Implicit Neural representations | 2021 |  | https://arxiv.org/abs/2103.03123 |
-| Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | 2016 |  | https://arxiv.org/abs/1602.07261 |
 | MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 |  | https://arxiv.org/abs/1907.11922 |
-| VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG) | 2014 |  | https://arxiv.org/abs/1409.1556 |
-| U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet) | 2015 |  | https://arxiv.org/abs/1505.04597 |
 | Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge | 2016 |  | https://arxiv.org/abs/1609.06647 |
 | Conditional Generative Adversarial Nets | 2014 |  | https://arxiv.org/abs/1411.1784 | 
-| Going deeper with convolutions (Inception/GoogLeNet) | 2014 |  | https://arxiv.org/abs/1409.4842 |
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 |  | https://arxiv.org/abs/2010.11929 |
 | :page_facing_up: Emerging Properties in Self-Supervised Vision Transformers (DINO) | 2021 |  | https://arxiv.org/abs/2104.14294 |
-| Generative Adversarial Networks (GANs) | 2014 |  | https://arxiv.org/abs/1406.2661 |
-| Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) | 2015 |  | https://arxiv.org/abs/1511.06434 |
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 |  | https://arxiv.org/abs/1907.05047 |
 | Instant Motion Tracking and Its Applications to Augmented Reality | 2019 |  | https://arxiv.org/abs/1907.06796 |
 | Improved Training of Wasserstein GANs (WGAN-GP) | 2017 |  | https://arxiv.org/abs/1704.00028 | 
-| Simple Online and Realtime Tracking (SORT) | 2016 |  | https://arxiv.org/abs/1602.00763 |
-| Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT) | 2017 |  | https://arxiv.org/abs/1703.07402 |
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
-| Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
-| Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) | 2019 | CVPR | https://arxiv.org/abs/1903.07291 | 
-| A Neural Algorithm of Artistic Style | 2015 |  | https://arxiv.org/abs/1508.06576 |
+
 
 <br>
 
-### Non Arxiv
+### Object Tracking
 
-| Topic | Year | Conference | Paper Link |
-| --- | --- | --- | --- |
-| ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 |  | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
-| Image Style Transfer Using Convolutional Neural Networks | 2016 | CVPR | https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf |
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [Simple Online and Realtime Tracking (SORT)](https://arxiv.org/abs/1602.00763) | 2016 |  |
+| [Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)](https://arxiv.org/abs/1703.07402) | 2017 |  |
+
+
+<br>
+
+### Image Segmentation
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)](https://arxiv.org/abs/1609.04802) | 2016 |  |
+
+<br>
+
+### Image Segmentation
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)](https://arxiv.org/abs/1505.04597) | 2015 |  |
+
+<br>
+
+### Convolutional Neural Network (CNN) Architectures
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf) | 2012 |  |
+| [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) | 2016 |  |
+| [Going deeper with convolutions (Inception/GoogLeNet)](https://arxiv.org/abs/1409.4842) | 2014 |  |
+| [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG)](https://arxiv.org/abs/1409.1556) | 2014 |  |
+
+<br>
+
+### Generative Adversarial Network (GAN)
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [Generative Adversarial Networks (GANs)](https://arxiv.org/abs/1406.2661) | 2014 |  |
+| [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  |
+
+<br>
+
+### Image to Image Translation
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)](https://arxiv.org/abs/1611.07004) | 2016 |  |
+| [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593) | 2017 |  |
+| [Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE)](https://arxiv.org/abs/1903.07291) | 2019 | CVPR | 
+
+<br>
+
+### Neural Style Transfer (NST)
+
+| Topic | Year | Conference |
+| --- | --- | --- |
+| [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br> [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | 2016 <br> 2015 | CVPR <br> |
+
 
 <!-- 
 |  |  |  |  | 
