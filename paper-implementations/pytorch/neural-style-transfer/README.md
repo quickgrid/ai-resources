@@ -2,9 +2,17 @@
 
 Only two images are required to obtain a generated image result. Cycle GAN paper mentions NST(Neural Style Transfer) is between two images and image-to-image translation networks such as Cycle GAN can learn the artistic style between collections of images.
 
+The implementation does not exactly match the paper. Gatys 2016, paper goes into more detail on the implementation.
+
 ## Results
 
-TODO.
+![Real MNIST Images](results/real_mnist_images.png "MNIST real Images")
+
+
+## TODO
+
+- Put the code in python file.
+- Try to implement as shown in Gatys 2016.
 
 ## References
 
