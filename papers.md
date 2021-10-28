@@ -34,7 +34,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
 | Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) | 2019 | CVPR | https://arxiv.org/abs/1903.07291 | 
-| A Neural Algorithm of Artistic Style |  |  | https://arxiv.org/abs/1508.06576 |
+| A Neural Algorithm of Artistic Style | 2015 |  | https://arxiv.org/abs/1508.06576 |
 
 <br>
 
