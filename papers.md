@@ -2,7 +2,7 @@
 
 **TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES.**
 
-The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below.
+The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below. Sections are divided into arxiv and non-arxiv due to formatting issues with large url.
 
 ## Papers Read
 
@@ -35,7 +35,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) | 2016 |  | https://arxiv.org/abs/1609.04802 |
 | Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE) | 2019 | CVPR | https://arxiv.org/abs/1903.07291 | 
 | A Neural Algorithm of Artistic Style |  |  | https://arxiv.org/abs/1508.06576 |
-| Image Style Transfer Using Convolutional Neural Networks | 2016 | CVPR | https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf |
 
 <br>
 
@@ -44,6 +43,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
 | ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) | 2012 |  | https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf |
+| Image Style Transfer Using Convolutional Neural Networks | 2016 | CVPR | https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf |
 
 <!-- 
 |  |  |  |  | 
