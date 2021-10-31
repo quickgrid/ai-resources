@@ -626,7 +626,7 @@ p = subprocess.Popen(
 
 ## Install Pytorch3D in Windows 10
 
-Needs, `Visual Studio 2019` with C++ compiler, CUDA Toolkit, Pytorch, Miniconda/Anaconda installed. Tested with VS2019 version 16.11.5, Pytorch 1.8.1 and CUDA Toolkit 11.0, CuDNN etc. as required in the tensorflow install guideline. It is possible I may have missed something or some things mention here is not needed as it was installed after a lot of trial and error.
+Needs, `Visual Studio 2019` with C++ compiler, CUDA Toolkit, Pytorch, Miniconda/Anaconda, Python 3.9 installed. Tested with VS2019 version 16.11.5, Pytorch 1.8.1 and CUDA Toolkit 11.0, CuDNN etc. as required in the tensorflow install guideline. It is possible I may have missed something or some things mention here is not needed as it was installed after a lot of trial and error.
 
 Flags used based on findings from various github issues. Compiled code from github source at, https://github.com/facebookresearch/pytorch3d/tree/bfeb82efa38f29ed5b9cf8d8986fab744fe559ea.
 
