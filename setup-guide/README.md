@@ -622,3 +622,38 @@ p = subprocess.Popen(
     stdout=subprocess.PIPE, stderr=subprocess.PIPE
 )
 ```
+
+
+## Install Pytorch3D in Windows 10
+
+Needs, `Visual Studio 2019` with C++ compiler, CUDA Toolkit, Pytorch, Miniconda/Anaconda installed. Tested with VS2019 version 16.11.5, Pytorch 1.8.1 and CUDA Toolkit 11.0, CuDNN etc. as required in the tensorflow install guideline. It is possible I may have missed something or some things mention here is not needed as it was installed after a lot of trial and error.
+
+Flags used based on findings from various github issues. Compiled code from github source at, https://github.com/facebookresearch/pytorch3d/tree/bfeb82efa38f29ed5b9cf8d8986fab744fe559ea.
+
+System enviroment variables,
+
+```
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\libnvvp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\extras\CUPTI\lib64
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x86
+```
+
+Needs path to `cl.exe` if used from anaconda prompt. Host should be x64 and path inside must be x86, as the x64 based `cl.exe` gives error.
+
+Flags used,
+
+```
+PYTORCH3D_NO_NINJA 1
+CUDA_PATH_V11_0 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0
+CUDA_PATH C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0
+CUB_HOME C:\portable\cub-1.9.9
+```
+
+CUB version was important as it needs to have CUDA compatible version.
+
+Pytorch source code `setup.py` was modified with the list variable `nvcc_args` modified. `"-std=c++14"` in the `nvcc_args` was commented out and it compiled successfully after some time. There was not any need to modify any other code or header files.
+
+
