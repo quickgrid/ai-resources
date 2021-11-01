@@ -288,3 +288,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) | 2018 |  |  |
 | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) | 2013 |  |  |
 | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219v2.pdf) | 2018 |  |  |
+| [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) | 2020 |  |  |
