@@ -1,6 +1,6 @@
 # Papers
 
-**TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES.**
+**TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES, REMOVE PAPERS NOT NEEDED.**
 
 The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below. A paper may fall into multiple categories but organized into a general one.
 
