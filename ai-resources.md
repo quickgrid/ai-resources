@@ -381,6 +381,13 @@
 | DeepMind Intro to RL | https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver |
 | DeepMind RL Lecture Series 2018 | https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018 |
 | IBM Deep Learning and Reinforcement Learning | https://www.coursera.org/learn/deep-learning-reinforcement-learning |
+| Geometric Algorithms | https://www.coursera.org/learn/geometric-algorithms | 
+| Discrete Optimization | https://www.coursera.org/learn/discrete-optimization |  
+| Robotics Perception, Computer Vision Topics | https://www.coursera.org/learn/robotics-perception?specialization=robotics |  
+| C++, Data Structures, Algorithms | https://www.coursera.org/specializations/cs-fundamentals |
+| Algorithms by Tim Roughgarden | https://www.coursera.org/specializations/algorithms |
+| Algorithms Part 1 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part1 |
+| Algorithms Part 2 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part2 | 
 
 
 
