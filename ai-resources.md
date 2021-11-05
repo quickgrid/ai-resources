@@ -388,6 +388,7 @@
 | Algorithms by Tim Roughgarden | https://www.coursera.org/specializations/algorithms |
 | Algorithms Part 1 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part1 |
 | Algorithms Part 2 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part2 | 
+| Self Driving Car Specialization with Computer Vision Topics, Applications | https://www.coursera.org/specializations/self-driving-cars |
 
 
 
