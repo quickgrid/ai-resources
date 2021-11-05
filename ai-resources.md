@@ -68,6 +68,7 @@
 | --- | --- |
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
 | DeepMind Practicals | https://github.com/deep-learning-indaba/indaba-pracs-2019 <br> https://github.com/khipu-ai/practicals-2019 <br> https://github.com/nassma2019/PracticalSessions <br> https://github.com/eemlcommunity/PracticalSessions2020 |
+| OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
  
 <br>
 
