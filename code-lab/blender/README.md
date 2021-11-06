@@ -6,6 +6,7 @@
 
 - Use blender python code with modal to prevent UI from locking up when running code.
 - Enable `Python Tooltips` from `Preferences > Interface`. This will python code when hovered on an object control and others. 
+- Pressing `Ctrl + C` on any dropdown menu option will copy that python code into clipboard. For example, in `Edit Mode` selecting `Subdivide` from `Edge` menu.
 
 ## Blender Depth Map and Object Segmentation Mask:
 
