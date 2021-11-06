@@ -32,11 +32,13 @@ Tested for EEVEE. Assign material to object and choose Principled BSDF. In `Prin
 
 ### Semantic Segmentation and Instance Segmentation Mask with Only View Layers and Alpha
 
-This process was tested on eevee and must read all above before trying this. I have found this to be easiest process for generating segmentation masks without using compositing based method described above.
+This process was tested on eevee and must read all above before trying this. I have found this to be easiest process for generating segmentation masks without using compositing based method described above. But compositing is still required if the mask images are needed to be saved instead of only viewing. 
 
 Both semantic segmentation mask and instance segmentation mask can be generated the same way using view layers. Have a view layer with all objects in scene and create view layers for each object groups. If an example scene is, multiple persons, background, houses then for semantic segmentation assign holdout, same for houses and background. 
 
 Now rendering will provide images with multiple passes. To get a mask for a view layer just choose that view layer on render window and select display channels as `Alpha`. For instance segmentation process is same. This time instead of moving all persons to a single view layer move each person to their own view layer. Now the masks can be used to colorize based on classes.
+
+In compositing tab ticking use nodes will have render layers node. Select a view layer in it and connect it with a file output node. In node properties select color as `BW`. Now black and white mask will be saved.
 
 
 ### References:
