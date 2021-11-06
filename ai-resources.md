@@ -308,6 +308,7 @@
 | Visual Explanation of ML Research | https://distill.pub/ |
 | MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 | DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
+| Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
 
 
 ### Research Blogs
