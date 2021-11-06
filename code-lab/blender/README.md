@@ -30,6 +30,15 @@ Tested for EEVEE. Assign material to object and choose Principled BSDF. In `Prin
 ![blender_dataset_generation_2](readme/blender_dataset_generation_2.png)
 ![blender_dataset_generation_3](readme/blender_dataset_generation_3.png)
 
+### Semantic Segmentation and Instance Segmentation Mask with Only View Layers and Alpha
+
+This process was tested on eevee and must read all above before trying this. I have found this to be easiest process for generating segmentation masks without using compositing based method described above.
+
+Both semantic segmentation mask and instance segmentation mask can be generated the same way using view layers. Have a view layer with all objects in scene and create view layers for each object groups. If an example scene is, multiple persons, background, houses then for semantic segmentation assign holdout, same for houses and background. 
+
+Now rendering will provide images with multiple passes. To get a mask for a view layer just choose that view layer on render window and select display channels as `Alpha`. For instance segmentation process is same. This time instead of moving all persons to a single view layer move each person to their own view layer. Now the masks can be used to colorize based on classes.
+
+
 ### References:
 
 - Mist Pass, https://www.youtube.com/watch?v=PzQMgbSEynU
