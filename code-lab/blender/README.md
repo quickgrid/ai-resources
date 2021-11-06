@@ -5,6 +5,7 @@
 ## Tips:
 
 - Use blender python code with modal to prevent UI from locking up when running code.
+- Enable `Python Tooltips` from `Preferences > Interface`. This will python code when hovered on an object control and others. 
 
 ## Blender Depth Map and Object Segmentation Mask:
 
