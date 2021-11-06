@@ -8,7 +8,7 @@
 
 ## Blender Depth Map and Object Segmentation Mask:
 
-Can be useful for deep learning. Enable `EEVEE` as `Render Engine`. In `View layer properties > Passes > Data` turn on `Mist`, from `viewport shading` dropdown in 3d viewport change `Render Pass` from `Combined` to `Mist`. Further control available under `Word Properties > Mist Pass`.
+Can be useful for deep learning. Enable `EEVEE` as `Render Engine` and `Viewport Shading` as material preview or `render preview`. In `View layer properties > Passes > Data` turn on `Mist`, from `viewport shading` dropdown in 3d viewport change `Render Pass` from `Combined` to `Mist`. Further control available under `World Properties > Mist Pass`. This will allow to see the passes in viewport.
 
 In the `Render Results` pop up window when `F12` is pressed, change from `Composite` to `View Layer`. Then change `combined` dropdown to mist. In next drop down `Color` will give a depth map and selecting `Z-buffer` will give object segmentation mask. Though this method will not differentiate different object types. 
 
@@ -29,6 +29,17 @@ Tested for EEVEE. Assign material to object and choose Principled BSDF. In `Prin
 ![blender_dataset_generation_1](readme/blender_dataset_generation_1.png)
 ![blender_dataset_generation_2](readme/blender_dataset_generation_2.png)
 ![blender_dataset_generation_3](readme/blender_dataset_generation_3.png)
+
+### Semantic Segmentation and Instance Segmentation Mask with Only View Layers and Alpha
+
+This process was tested on eevee and must read all above before trying this. I have found this to be easiest process for generating segmentation masks without using compositing based method described above. But compositing is still required if the mask images are needed to be saved instead of only viewing. 
+
+Both semantic segmentation mask and instance segmentation mask can be generated the same way using view layers. Have a view layer with all objects in scene and create view layers for each object groups. If an example scene is, multiple persons, background, houses then for semantic segmentation assign holdout, same for houses and background. 
+
+Now rendering will provide images with multiple passes. To get a mask for a view layer just choose that view layer on render window and select display channels as `Alpha`. For instance segmentation process is same. This time instead of moving all persons to a single view layer move each person to their own view layer. Now the masks can be used to colorize based on classes.
+
+In compositing tab ticking use nodes will have render layers node. Select a view layer in it and connect it with a file output node. In node properties select color as `BW`. Now black and white mask will be saved.
+
 
 ### References:
 

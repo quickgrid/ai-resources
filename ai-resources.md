@@ -41,7 +41,7 @@
 
 | Description | Link |
 | --- | --- |
-| Tesserect Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
+| Tesseract Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
 | FastText NLP Pretrained Vectors | https://fasttext.cc/docs/en/crawl-vectors.html |
 | OpenVino Pretrained Models for Various Tasks | https://github.com/opencv/open_model_zoo <br> https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md <br> https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md <br> https://download.01.org/opencv/2021/openvinotoolkit/2021.2/open_model_zoo/models_bin/3/ |
 | OpenVino Public Models | https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md |
@@ -68,6 +68,7 @@
 | --- | --- |
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
 | DeepMind Practicals | https://github.com/deep-learning-indaba/indaba-pracs-2019 <br> https://github.com/khipu-ai/practicals-2019 <br> https://github.com/nassma2019/PracticalSessions <br> https://github.com/eemlcommunity/PracticalSessions2020 |
+| OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
  
 <br>
 
@@ -131,7 +132,7 @@
 | :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
 | Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
 | Host ML Results | https://tensorboard.dev/ |
-| Pretrined Models & Code | https://modelzoo.co/ |
+| Pretrained Models & Code | https://modelzoo.co/ |
 | Kaggle ML Competitions | https://www.kaggle.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 | Awesome Public Datasets | https://github.com/awesomedata/awesome-public-datasets |
@@ -201,7 +202,7 @@
 | Wit.ai NLP | https://wit.ai/ |
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module | 
 | ML Model Training and Export Offline | https://lobe.ai/ |
-| Python Cross Platfrom App Development | https://kivy.org/ |
+| Python Cross Platform App Development | https://kivy.org/ |
 | Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
 
 
@@ -302,10 +303,11 @@
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
-| DeepMind Coursers, Pratical Notebooks | https://deepmind.com/learning-resources |
+| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
 | AI Papers as Webpage, Personalized Library | https://www.groundai.com/ |
 | Visual Explanation of ML Research | https://distill.pub/ |
 | MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
+| DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
 
 
 ### Research Blogs
@@ -380,6 +382,14 @@
 | DeepMind Intro to RL | https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver |
 | DeepMind RL Lecture Series 2018 | https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018 |
 | IBM Deep Learning and Reinforcement Learning | https://www.coursera.org/learn/deep-learning-reinforcement-learning |
+| Geometric Algorithms | https://www.coursera.org/learn/geometric-algorithms | 
+| Discrete Optimization | https://www.coursera.org/learn/discrete-optimization |  
+| Robotics Perception, Computer Vision Topics | https://www.coursera.org/learn/robotics-perception?specialization=robotics |  
+| C++, Data Structures, Algorithms | https://www.coursera.org/specializations/cs-fundamentals |
+| Algorithms by Tim Roughgarden | https://www.coursera.org/specializations/algorithms |
+| Algorithms Part 1 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part1 |
+| Algorithms Part 2 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part2 | 
+| Self Driving Car Specialization with Computer Vision Topics, Applications | https://www.coursera.org/specializations/self-driving-cars |
 
 
 
@@ -399,7 +409,7 @@
 | :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
 | Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
 | Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
-| Deep Learning Book by Goodfellow et el. | https://www.deeplearningbook.org/ |
+| Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
 | Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
 
@@ -424,7 +434,7 @@
 
 | Description | Link |
 | --- | --- |
-| :triangular_flag_on_post: Google Programming Language Style Guide(Python, C++, Java etc.) | https://google.github.io/styleguide/ <br> https://google.github.io/styleguide/pyguide.html <br> https://google.github.io/styleguide/cppguide.html |
+| :triangular_flag_on_post: Google Programming Language Style Guide (Python, C++, Java etc.) | https://google.github.io/styleguide/ <br> https://google.github.io/styleguide/pyguide.html <br> https://google.github.io/styleguide/cppguide.html |
 | Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
 | Tensorflow graph freezing, frozen graph, checkpoint, saved model to onnx conversion | https://github.com/onnx/tensorflow-onnx |

@@ -663,3 +663,12 @@ CUB version was important as it needs to have CUDA compatible version. Get CUB s
 Pytorch source code `setup.py` was modified with the list variable `nvcc_args` modified. `"-std=c++14"` in the `nvcc_args` was commented out and it compiled successfully after some time. There was not any need to modify any other code or header files.
 
 Detailed information here, https://stackoverflow.com/questions/62304087/installing-pytorch3d-fails-with-anaconda-and-pip/69791359#69791359.
+
+## Stack Overflow Posts Backup
+
+Running the query below will generate post dump. Entering the query on, https://data.stackexchange.com/, will give input box to enter numeric stack overflow id. After running it csv can downloaded for backup.
+
+```
+DECLARE @UserId int = ##UserId##
+select * from Posts where OwnerUserId = @UserID
+```
