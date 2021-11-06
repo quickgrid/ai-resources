@@ -40,6 +40,10 @@ Now rendering will provide images with multiple passes. To get a mask for a view
 
 In compositing tab ticking use nodes will have render layers node. Select a view layer in it and connect it with a file output node. In node properties select color as `BW`. Now black and white mask will be saved.
 
+![blender_segmentation_scene.png](readme/blender_segmentation_scene.png)
+![blender_segmentation_mask.gif](readme/blender_segmentation_mask.gif)
+![blender_segmentation_output.png](readme/blender_segmentation_output.png)
+
 
 ### References:
 
