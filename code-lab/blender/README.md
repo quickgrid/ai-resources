@@ -1,6 +1,6 @@
 # Blender
 
-**TODO: Add instance segmentaion, object keypoint, orientation, 2d, 3d bounding box etc. Add images/video of the tasks.**
+**TODO: Add object keypoint, orientation, 2d, 3d bounding box etc. Add images/video of the tasks.**
 
 ## Tips:
 
