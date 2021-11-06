@@ -8,7 +8,7 @@
 
 ## Blender Depth Map and Object Segmentation Mask:
 
-Can be useful for deep learning. Enable `EEVEE` as `Render Engine`. In `View layer properties > Passes > Data` turn on `Mist`, from `viewport shading` dropdown in 3d viewport change `Render Pass` from `Combined` to `Mist`. Further control available under `Word Properties > Mist Pass`.
+Can be useful for deep learning. Enable `EEVEE` as `Render Engine` and `Viewport Shading` as material preview or `render preview`. In `View layer properties > Passes > Data` turn on `Mist`, from `viewport shading` dropdown in 3d viewport change `Render Pass` from `Combined` to `Mist`. Further control available under `World Properties > Mist Pass`. This will allow to see the passes in viewport.
 
 In the `Render Results` pop up window when `F12` is pressed, change from `Composite` to `View Layer`. Then change `combined` dropdown to mist. In next drop down `Color` will give a depth map and selecting `Z-buffer` will give object segmentation mask. Though this method will not differentiate different object types. 
 
