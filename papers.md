@@ -19,6 +19,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 |  | https://arxiv.org/abs/2010.11929 |
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 |  | https://arxiv.org/abs/1907.05047 |
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
+| [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) <br> [Supplementary](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer) | 2018 <br> - |  |
+
 
 <br>
 
@@ -285,7 +287,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [State of the Art on Neural Rendering](https://arxiv.org/pdf/2004.03805.pdf) |  |  |  |
 | [Differentiable Rendering: A Survey](https://arxiv.org/pdf/2006.12057.pdf) |  |  |  |
 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf) | 2015 |  |  |
-| [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) | 2018 |  |  |
 | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) | 2013 |  |  |
 | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219v2.pdf) | 2018 |  |  |
 | [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) | 2020 |  |  |
