@@ -130,11 +130,11 @@
 
 | Name | Link |
 | --- | --- |
-| CGTrader (No sign up to download) | https://www.cgtrader.com/free-3d-models |
-| PolyHaven (No sign up to download) | https://polyhaven.com/models |
-| Free3D No sign up to download) | https://free3d.com/3d-models/blender |
-| BlendFile (No sign up to download) | https://www.blendfile.com/ |
-| BlenderBoom (No sign up to download) | https://www.blenderboom.com/product-category/free/ |
+| CGTrader (No sign up required) | https://www.cgtrader.com/free-3d-models |
+| PolyHaven (No sign up required) | https://polyhaven.com/models |
+| Free3D (No sign up required) | https://free3d.com/3d-models/blender |
+| BlendFile (No sign up required) | https://www.blendfile.com/ |
+| BlenderBoom (No sign up required) | https://www.blenderboom.com/product-category/free/ |
 | BlenderKit (sign up required) | https://www.blenderkit.com/asset-gallery?query=category_subtree:model%20order:-created%20is_free:true |
 | BlenderSwap (sign up required) | https://www.blendswap.com/ |
 
