@@ -51,3 +51,4 @@ In compositing tab ticking use nodes will have render layers node. Select a view
 
 - Mist Pass, https://www.youtube.com/watch?v=PzQMgbSEynU
 - EEVEE Render only shadows, https://b3d.interplanety.org/en/how-to-render-only-the-objects-shadow-in-eevee/
+- Blender scripting for artists series, https://www.youtube.com/playlist?list=PLa1F2ddGya_8acrgoQr1fTeIuQtkSd6BW
