@@ -9,6 +9,8 @@
     + [3D ML, Data Processing, Visualization](#3d-machine-learning-data-processing-visualization)
     + [3D Computer Vision and Graphics](#3D-computer-vision-and-graphics)
     + [Reinforcement Learning](#reinforcement-learning)
+  * [`# 3D Resources`](#-3d-resources)
+    + [Free Models and Asset Sites](#free-models-and-asset-sites)  
   * [`# Tools`](#-tools)
     + [Online](#online)
     + [Dataset Search](#dataset-search)
@@ -122,6 +124,20 @@
 
 <br>
 
+## `# 3D Resources`
+
+### Free Models and Asset Sites
+
+| Name | Link |
+| --- | --- |
+| CGTrader (No sign up to download) | https://www.cgtrader.com/free-3d-models |
+| PolyHaven (No sign up to download) | https://polyhaven.com/models |
+| Free3D No sign up to download) | https://free3d.com/3d-models/blender |
+| BlendFile (No sign up to download) | https://www.blendfile.com/ |
+| BlenderBoom (No sign up to download) | https://www.blenderboom.com/product-category/free/ |
+| BlenderKit (sign up required) | https://www.blenderkit.com/asset-gallery?query=category_subtree:model%20order:-created%20is_free:true |
+| BlenderSwap (sign up required) | https://www.blendswap.com/ |
+
 
 ## `# Tools`
 
@@ -153,6 +169,7 @@
 | Buy, Sell, Get Free AI Models | https://modelplace.ai/ |
 | AI Overview | https://montrealartificialintelligence.com/academy/ |
 | High Quality Python Tutorials | https://realpython.com/ |
+
 
 
 ### Dataset Search
