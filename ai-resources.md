@@ -130,7 +130,7 @@
 
 | Name | Link |
 | --- | --- |
-| CGTrader (No sign up required) | https://www.cgtrader.com/free-3d-models |
+| CGTrader (Sign up required) | https://www.cgtrader.com/free-3d-models |
 | PolyHaven (No sign up required) | https://polyhaven.com/models |
 | Free3D (No sign up required) | https://free3d.com/3d-models/blender |
 | BlendFile (No sign up required) | https://www.blendfile.com/ |
