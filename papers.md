@@ -112,12 +112,12 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
-| Is Space-Time Attention All You Need for Video Understanding? |  |  | https://arxiv.org/pdf/2102.05095v3.pdf |
+| Is Space-Time Attention All You Need for Video Understanding? |  |  | https://arxiv.org/pdf/2102.05095.pdf |
 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis |  |  | https://arxiv.org/abs/2003.08934 |
 | :blue_book: Implicit Neural Representations with Periodic Activation Functions (SIREN) |  |  | https://arxiv.org/abs/2006.09661 |
 | pixelNeRF: Neural Radiance Fields from One or Few Images |  |  | https://arxiv.org/abs/2012.02190 |
 | Neural Sparse Voxel Fields |  |  | https://arxiv.org/abs/2007.11571 |
-| Generating Diverse High-Fidelity Images with VQ-VAE-2 |  |  | https://arxiv.org/pdf/1906.00446v1.pdf |
+| Generating Diverse High-Fidelity Images with VQ-VAE-2 |  |  | https://arxiv.org/pdf/1906.00446.pdf |
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  |  | https://arxiv.org/pdf/1804.07723.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  |  | https://arxiv.org/pdf/1512.03385.pdf |
 | :blue_book: PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN) |  |  | https://arxiv.org/abs/1710.10196 | 
@@ -141,7 +141,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  |  | https://arxiv.org/pdf/2008.00951.pdf |
 | Zero-Shot Text-to-Image Generation (DALL-E) |  |  | https://arxiv.org/pdf/2102.12092.pdf |
 | Learning Transferable Visual Models From Natural Language Supervision (CLIP) |  |  | https://arxiv.org/pdf/2103.00020.pdf |
-| Differentiable Augmentation for Data-Efficient GAN Training |  |  | https://arxiv.org/pdf/2006.10738v4.pdf |
+| Differentiable Augmentation for Data-Efficient GAN Training |  |  | https://arxiv.org/pdf/2006.10738.pdf |
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  |  | https://arxiv.org/abs/1603.08155 |
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  |  | https://arxiv.org/pdf/1705.06830.pdf |
 | Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  |  | https://arxiv.org/abs/2002.07514 |
@@ -162,7 +162,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | The Fréchet Distance between Multivariate Normal Distributions |  |  | https://core.ac.uk/reader/82269844 |
 | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (FID) |  |  | https://arxiv.org/pdf/1706.08500.pdf |
 | Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (FreezeD) |  |  | https://arxiv.org/abs/2002.10964 |
-| THE LOTTERY TICKET HYPOTHESIS:FINDING SPARSE, TRAINABLE NEURAL NETWORKS |  |  | https://arxiv.org/pdf/1803.03635v5.pdf |
+| THE LOTTERY TICKET HYPOTHESIS:FINDING SPARSE, TRAINABLE NEURAL NETWORKS |  |  | https://arxiv.org/pdf/1803.03635.pdf |
 | Bag of Tricks for Image Classification with Convolutional Neural Networks |  |  | https://arxiv.org/pdf/1812.01187.pdf |
 | CenterNet: Keypoint Triplets for Object Detection |  |  | https://arxiv.org/abs/1904.08189 |
 | pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis |  |  | https://arxiv.org/abs/2012.00926 |
@@ -174,7 +174,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Training Generative Adversarial Networks with Limited Data |  |  | https://arxiv.org/pdf/2006.06676.pdf |
 | MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks |  |  | https://arxiv.org/pdf/1903.06048.pdf |
 | Barlow Twins: Self-Supervised Learning via Redundancy Reduction |  |  | https://arxiv.org/pdf/2103.03230.pdf |
-| MLP-Mixer: An all-MLP Architecture for Vision |  |  | https://arxiv.org/pdf/2105.01601v1.pdf |
+| MLP-Mixer: An all-MLP Architecture for Vision |  |  | https://arxiv.org/pdf/2105.01601.pdf |
 | Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations |  |  | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf |
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift |  |  | https://arxiv.org/abs/1502.03167 |
 | Denoising Diffusion Probabilistic Models |  |  | https://arxiv.org/abs/2006.11239 |
@@ -203,46 +203,46 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :blue_book: Adaptive NMS: Refining Pedestrian Detection in a Crowd |  |  | https://arxiv.org/pdf/1904.03629.pdf |
 | OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks |  |  | https://arxiv.org/pdf/1312.6229.pdf |
 | :page_facing_up: FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking |  |  | https://arxiv.org/abs/2004.01888 |
-| SMOT: Single-Shot Multi Object Tracking |  |  | https://arxiv.org/pdf/2010.16031v1.pdf |
+| SMOT: Single-Shot Multi Object Tracking |  |  | https://arxiv.org/pdf/2010.16031.pdf |
 | Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation |  |  | https://arxiv.org/pdf/1905.08094.pdf |
-| Tiny Video Networks |  |  | https://arxiv.org/pdf/1910.06961v1.pdf |
-| VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text |  |  | https://arxiv.org/pdf/2104.11178v1.pdf |
-| Multiscale Vision Transformers |  |  | https://arxiv.org/pdf/2104.11227v1.pdf |
-| A Comprehensive Study of Deep Video Action Recognition |  |  | https://arxiv.org/pdf/2012.06567v1.pdf |
-| ECO: Efficient Convolutional Network for Online Video Understanding |  |  | https://arxiv.org/pdf/1804.09066v2.pdf |
-| Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  |  | https://arxiv.org/pdf/1707.07998v3.pdf |
-| FastReID: A Pytorch Toolbox for General Instance Re-identification |  |  | https://arxiv.org/pdf/2006.02631v4.pdf |
-| TransReID: Transformer-based Object Re-Identification |  |  | https://arxiv.org/pdf/2102.04378v2.pdf |
-| MOGAN: Morphologic-structure-aware Generative Learning from a Single Image |  |  | https://arxiv.org/pdf/2103.02997v1.pdf |
-| EigenGAN: Layer-Wise Eigen-Learning for GANs |  |  | https://arxiv.org/pdf/2104.12476v1.pdf |
-| Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation |  |  | https://arxiv.org/pdf/2008.12606v1.pdf |
-| Animating Arbitrary Objects via Deep Motion Transfer |  |  | https://arxiv.org/pdf/1812.08861v3.pdf |
-| Interpreting the Latent Space of GANs for Semantic Face Editing |  |  | https://arxiv.org/pdf/1907.10786v3.pdf |
-| StyleGAN2 Distillation for Feed-forward Image Manipulation |  |  | https://arxiv.org/pdf/2003.03581v2.pdf |
-| In-Domain GAN Inversion for Real Image Editing |  |  | https://arxiv.org/pdf/2004.00049v3.pdf |
-| GAN Inversion: A Survey |  |  | https://arxiv.org/pdf/2101.05278v2.pdf |
-| Alive Caricature from 2D to 3D |  |  | https://arxiv.org/pdf/1803.06802v3.pdf |
-| Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model |  |  | https://arxiv.org/pdf/2004.09190v2.pdf |
-| Generating 3D faces using Convolutional Mesh Autoencoders |  |  | https://arxiv.org/pdf/1807.10267v3.pdf |
-| Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images |  |  | https://arxiv.org/pdf/2003.08124v1.pdf |
-| GIF: Generative Interpretable Faces |  |  | https://arxiv.org/pdf/2009.00149v2.pdf |
-| Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network |  |  | https://arxiv.org/pdf/2104.08403v1.pdf |
-| WarpGAN: Automatic Caricature Generation |  |  | https://arxiv.org/pdf/1811.10100v3.pdf |
-| Towards Fast, Accurate and Stable 3D Dense Face Alignment |  |  | https://arxiv.org/pdf/2009.09960v2.pdf |
-| AvatarMe: Realistically Renderable 3D Facial Reconstruction “in-the-wild” |  |  | https://arxiv.org/pdf/2003.13845v1.pdf |
-| Learning an Animatable Detailed 3D Face Model from In-The-Wild Images |  |  | https://arxiv.org/pdf/2012.04012v1.pdf |
-| PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network |  |  | https://arxiv.org/pdf/2104.05458v1.pdf |
-| Few-Shot Unsupervised Image-to-Image Translation |  |  | https://arxiv.org/pdf/1905.01723v2.pdf |
-| EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning |  |  | https://arxiv.org/pdf/1901.00212v3.pdf |
-| SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color |  |  | https://arxiv.org/pdf/1902.06838v1.pdf |
-| PFLD: A Practical Facial Landmark Detector |  |  | https://arxiv.org/pdf/1902.10859v2.pdf |
-| Texture Memory-Augmented Deep Patch-Based Image Inpainting |  |  | https://arxiv.org/pdf/2009.13240v1.pdf |
-| Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN |  |  | https://arxiv.org/pdf/1706.03319v2.pdf |
-| Residual Dense Network for Image Super-Resolution |  |  | https://arxiv.org/pdf/1802.08797v2.pdf |
-| Learning Texture Transformer Network for Image Super-Resolution |  |  | https://arxiv.org/pdf/2006.04139v2.pdf |
-| SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE |  |  | https://arxiv.org/pdf/1602.07360v4.pdf |
-| Searching for MobileNetV3 |  |  | https://arxiv.org/pdf/1905.02244v5.pdf |
-| Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  |  | https://arxiv.org/pdf/2104.05376v2.pdf |
+| Tiny Video Networks |  |  | https://arxiv.org/pdf/1910.06961.pdf |
+| VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text |  |  | https://arxiv.org/pdf/2104.11178.pdf |
+| Multiscale Vision Transformers |  |  | https://arxiv.org/pdf/2104.11227.pdf |
+| A Comprehensive Study of Deep Video Action Recognition |  |  | https://arxiv.org/pdf/2012.06567.pdf |
+| ECO: Efficient Convolutional Network for Online Video Understanding |  |  | https://arxiv.org/pdf/1804.09066.pdf |
+| Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering |  |  | https://arxiv.org/pdf/1707.07998.pdf |
+| FastReID: A Pytorch Toolbox for General Instance Re-identification |  |  | https://arxiv.org/pdf/2006.02631.pdf |
+| TransReID: Transformer-based Object Re-Identification |  |  | https://arxiv.org/pdf/2102.04378.pdf |
+| MOGAN: Morphologic-structure-aware Generative Learning from a Single Image |  |  | https://arxiv.org/pdf/2103.02997.pdf |
+| EigenGAN: Layer-Wise Eigen-Learning for GANs |  |  | https://arxiv.org/pdf/2104.12476.pdf |
+| Deep Spatial Transformation for Pose-Guided Person Image Generation and Animation |  |  | https://arxiv.org/pdf/2008.12606.pdf |
+| Animating Arbitrary Objects via Deep Motion Transfer |  |  | https://arxiv.org/pdf/1812.08861.pdf |
+| Interpreting the Latent Space of GANs for Semantic Face Editing |  |  | https://arxiv.org/pdf/1907.10786.pdf |
+| StyleGAN2 Distillation for Feed-forward Image Manipulation |  |  | https://arxiv.org/pdf/2003.03581.pdf |
+| In-Domain GAN Inversion for Real Image Editing |  |  | https://arxiv.org/pdf/2004.00049.pdf |
+| GAN Inversion: A Survey |  |  | https://arxiv.org/pdf/2101.05278.pdf |
+| Alive Caricature from 2D to 3D |  |  | https://arxiv.org/pdf/1803.06802.pdf |
+| Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model |  |  | https://arxiv.org/pdf/2004.09190.pdf |
+| Generating 3D faces using Convolutional Mesh Autoencoders |  |  | https://arxiv.org/pdf/1807.10267.pdf |
+| Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images |  |  | https://arxiv.org/pdf/2003.08124.pdf |
+| GIF: Generative Interpretable Faces |  |  | https://arxiv.org/pdf/2009.00149.pdf |
+| Accurate 3D Facial Geometry Prediction by Multi-Task, Multi-Modal, and Multi-Representation Landmark Refinement Network |  |  | https://arxiv.org/pdf/2104.08403.pdf |
+| WarpGAN: Automatic Caricature Generation |  |  | https://arxiv.org/pdf/1811.10100.pdf |
+| Towards Fast, Accurate and Stable 3D Dense Face Alignment |  |  | https://arxiv.org/pdf/2009.09960.pdf |
+| AvatarMe: Realistically Renderable 3D Facial Reconstruction “in-the-wild” |  |  | https://arxiv.org/pdf/2003.13845.pdf |
+| Learning an Animatable Detailed 3D Face Model from In-The-Wild Images |  |  | https://arxiv.org/pdf/2012.04012.pdf |
+| PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network |  |  | https://arxiv.org/pdf/2104.05458.pdf |
+| Few-Shot Unsupervised Image-to-Image Translation |  |  | https://arxiv.org/pdf/1905.01723.pdf |
+| EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning |  |  | https://arxiv.org/pdf/1901.00212.pdf |
+| SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color |  |  | https://arxiv.org/pdf/1902.06838.pdf |
+| PFLD: A Practical Facial Landmark Detector |  |  | https://arxiv.org/pdf/1902.10859.pdf |
+| Texture Memory-Augmented Deep Patch-Based Image Inpainting |  |  | https://arxiv.org/pdf/2009.13240.pdf |
+| Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN |  |  | https://arxiv.org/pdf/1706.03319.pdf |
+| Residual Dense Network for Image Super-Resolution |  |  | https://arxiv.org/pdf/1802.08797.pdf |
+| Learning Texture Transformer Network for Image Super-Resolution |  |  | https://arxiv.org/pdf/2006.04139.pdf |
+| SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH 50X FEWER PARAMETERS AND <0.5MB MODEL SIZE |  |  | https://arxiv.org/pdf/1602.07360.pdf |
+| Searching for MobileNetV3 |  |  | https://arxiv.org/pdf/1905.02244.pdf |
+| Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer |  |  | https://arxiv.org/pdf/2104.05376.pdf |
 | Learning to Simulate Dynamic Environments with GameGAN (GameGAN) |  |  | https://arxiv.org/pdf/2005.12126.pdf |
 | Unsupervised Image-to-Image Translation Networks |  |  | https://arxiv.org/pdf/1703.00848.pdf |
 | Semantic Image Inpainting with Deep Generative Models |  |  | https://arxiv.org/pdf/1607.07539.pdf |
@@ -256,9 +256,9 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Contrastive Learning for Unpaired Image-to-Image Translation |  |  | https://arxiv.org/pdf/2007.15651.pdf |
 | CYCADA: CYCLE-CONSISTENT ADVERSARIAL DOMAIN ADAPTATION |  |  | https://arxiv.org/pdf/1711.03213.pdf |
 | Learning from Simulated and Unsupervised Images through Adversarial Training |  |  | https://arxiv.org/pdf/1612.07828.pdf |
-| A Review of Single-Source Deep Unsupervised Visual Domain Adaptation |  |  | https://arxiv.org/pdf/2009.00155v3.pdf |
-| Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks |  |  | https://arxiv.org/pdf/1612.05424v2.pdf |
-| Domain-Adversarial Training of Neural Networks |  |  | https://arxiv.org/pdf/1505.07818v4.pdf |
+| A Review of Single-Source Deep Unsupervised Visual Domain Adaptation |  |  | https://arxiv.org/pdf/2009.00155.pdf |
+| Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks |  |  | https://arxiv.org/pdf/1612.05424.pdf |
+| Domain-Adversarial Training of Neural Networks |  |  | https://arxiv.org/pdf/1505.07818.pdf |
 | Object Contour Detection with a Fully Convolutional Encoder-Decoder Network |  |  | https://arxiv.org/pdf/1603.04530.pdf |
 | Enhancing photorealism enhancement |  |  | https://arxiv.org/pdf/2105.04619.pdf |
 | Group Normalization |  |  | https://arxiv.org/pdf/1803.08494.pdf |
@@ -280,7 +280,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | FaceBlit: Instant Real-time Example-based Style Transfer to Facial Videos |  |  | https://dcgi.fel.cvut.cz/home/sykorad/Texler21-I3D.pdf |
 | GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields |  |  | http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf |
 | Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale |  |  | https://arxiv.org/pdf/2012.09004.pdf |
-| SimSwap: An Efficient Framework For High Fidelity Face Swapping |  |  | https://arxiv.org/pdf/2106.06340v1.pdf |
+| SimSwap: An Efficient Framework For High Fidelity Face Swapping |  |  | https://arxiv.org/pdf/2106.06340.pdf |
 | [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) |  |  |  |
 | ~~Convolutions~~ ~~Attention~~ ~~MLPs~~ Patches Are All You Need? |  |  | https://openreview.net/pdf?id=TVHS5Y4dNvM |
 | VECTOR-QUANTIZED IMAGE MODELING WITH IMPROVED VQGAN |  |  | https://openreview.net/pdf?id=pfNyExj7z2 |
@@ -288,5 +288,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Differentiable Rendering: A Survey](https://arxiv.org/pdf/2006.12057.pdf) |  |  |  |
 | [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044.pdf) | 2015 |  |  |
 | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) | 2013 |  |  |
-| [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219v2.pdf) | 2018 |  |  |
+| [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/pdf/1809.00219.pdf) | 2018 |  |  |
 | [Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) | 2020 |  |  |
