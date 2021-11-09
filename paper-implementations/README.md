@@ -37,7 +37,7 @@ Implementation of various AI papers with related sections, notes, comments etc.
 |  |  |
 | **Image Segmentation** | [U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/u-net) |
 |  |  |
-| **Activation Functions** | [Implicit Neural Representations with Periodic Activation Functions (SIREN)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/siren) |
+| **Implicit Representations** | [Implicit Neural Representations with Periodic Activation Functions (SIREN)](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations/pytorch/siren) |
 
 ## `# Keras`
 
