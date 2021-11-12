@@ -171,6 +171,7 @@
 | Buy, Sell, Get Free AI Models | https://modelplace.ai/ |
 | AI Overview | https://montrealartificialintelligence.com/academy/ |
 | High Quality Python Tutorials | https://realpython.com/ |
+| GAN Papers Summerized | https://www.casualganpapers.com/ |
 
 
 
