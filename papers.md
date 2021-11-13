@@ -293,3 +293,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [In-Domain GAN Inversion for Real Image Editing](https://arxiv.org/pdf/2004.00049.pdf) | 2020 |  |  |
 | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/pdf/1903.08527.pdf) | 2019 |  |  |
 | [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://arxiv.org/abs/2109.07161) | 2021 |  |  |
+| [Image Super-Resolution via Iterative Refinement](https://arxiv.org/pdf/2104.07636.pdf) | 2021 |  |  | 
