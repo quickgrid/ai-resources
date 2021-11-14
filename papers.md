@@ -20,7 +20,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 |  | https://arxiv.org/abs/1907.05047 |
 | Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
 | [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) <br> [Supplementary](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer) | 2018 <br> - |  |
-
+| :page_facing_up: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  |
+| :page_facing_up: [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |  |
 
 <br>
 
@@ -68,6 +69,15 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) | 2016 |  |
 | [Going deeper with convolutions (Inception/GoogLeNet)](https://arxiv.org/abs/1409.4842) | 2014 |  |
 | [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG)](https://arxiv.org/abs/1409.1556) | 2014 |  |
+
+<br>
+
+
+### GAN Inversion
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [GAN Inversion: A Survey](https://arxiv.org/abs/2101.05278) | 2021 |  |
 
 <br>
 
@@ -177,8 +187,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | MLP-Mixer: An all-MLP Architecture for Vision |  |  | https://arxiv.org/pdf/2105.01601.pdf |
 | Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations |  |  | http://robotics.stanford.edu/~ang/papers/icml09-ConvolutionalDeepBeliefNetworks.pdf |
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift |  |  | https://arxiv.org/abs/1502.03167 |
-| Denoising Diffusion Probabilistic Models |  |  | https://arxiv.org/abs/2006.11239 |
-| Improved Denoising Diffusion Probabilistic Models |  |  | https://arxiv.org/abs/2102.09672 |
 | Diffusion Models Beat GANs on Image Synthesis |  |  | https://arxiv.org/abs/2105.05233 |
 | DeepFace: Closing the Gap to Human-Level Performance in Face Verification |  |  | https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf |
 | FaceNet: A Unified Embedding for Face Recognition and Clustering |  |  | https://arxiv.org/pdf/1503.03832.pdf |
@@ -220,7 +228,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Interpreting the Latent Space of GANs for Semantic Face Editing |  |  | https://arxiv.org/pdf/1907.10786.pdf |
 | StyleGAN2 Distillation for Feed-forward Image Manipulation |  |  | https://arxiv.org/pdf/2003.03581.pdf |
 | In-Domain GAN Inversion for Real Image Editing |  |  | https://arxiv.org/pdf/2004.00049.pdf |
-| GAN Inversion: A Survey |  |  | https://arxiv.org/pdf/2101.05278.pdf |
 | Alive Caricature from 2D to 3D |  |  | https://arxiv.org/pdf/1803.06802.pdf |
 | Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model |  |  | https://arxiv.org/pdf/2004.09190.pdf |
 | Generating 3D faces using Convolutional Mesh Autoencoders |  |  | https://arxiv.org/pdf/1807.10267.pdf |
