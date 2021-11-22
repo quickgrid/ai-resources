@@ -156,7 +156,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  |  | https://arxiv.org/pdf/1705.06830.pdf |
 | Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  |  | https://arxiv.org/abs/2002.07514 |
 | Self-Normalizing Neural Networks |  |  | https://arxiv.org/abs/1706.02515 |
-| Layer Normalization |  |  | https://arxiv.org/abs/1607.06450 |
 | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization |  |  | https://arxiv.org/pdf/1610.02391.pdf |
 | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs |  |  | https://arxiv.org/pdf/1606.00915.pdf |
 | Mask R-CNN |  |  | https://arxiv.org/abs/1703.06870 |
