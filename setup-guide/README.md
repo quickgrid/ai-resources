@@ -1,3 +1,5 @@
+## UPDATE: Moved from, https://github.com/quickgrid/Setup-Guide, to reduce fragmentation.
+
 # Setup-Guide
 
 A build and setup guide for various libraries, tools, cloud usage etc.
