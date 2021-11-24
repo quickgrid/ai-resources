@@ -1,4 +1,4 @@
-## **UPDATE: Moved from, https://github.com/quickgrid/CodeLab, to reduce fragmentation.
+## UPDATE: Moved from, https://github.com/quickgrid/CodeLab, to reduce fragmentation.
 
 # CodeLab
 
