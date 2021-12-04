@@ -302,3 +302,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Image Super-Resolution via Iterative Refinement](https://arxiv.org/pdf/2104.07636.pdf) | 2021 |  |  | 
 | [F,B, Alpha Matting](https://arxiv.org/pdf/2003.07711.pdf) | 2020 |  |  |
 | [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf) | 2017 |  |  |
+| [IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING](https://arxiv.org/pdf/2010.09125.pdf) | 2021 |  |  |
+| [EditGAN: High-Precision Semantic Image Editing](https://arxiv.org/pdf/2111.03186.pdf) | 2021 |  |  |
