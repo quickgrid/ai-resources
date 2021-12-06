@@ -466,6 +466,7 @@
 | Basic information on MKL, BLAS, LAPACK | https://en.wikipedia.org/wiki/Math_Kernel_Library <br> https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms <br> https://en.wikipedia.org/wiki/LAPACK |
 | Basic information on pthreads, OpenMP, TBB | https://en.wikipedia.org/wiki/POSIX_Threads <br> https://en.wikipedia.org/wiki/OpenMP <br> https://en.wikipedia.org/wiki/Threading_Building_Blocks |
 | Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
+| Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
 
 <br>
 
