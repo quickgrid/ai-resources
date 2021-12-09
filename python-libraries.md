@@ -8,13 +8,13 @@ It could be really useful if a site like this existed with libraries, its applic
 
 | Task | Link |
 | --- | --- |
-| **Machine Learning, Deep Learning** <br> Use: `Neural Networks`, `Training`, `Inference` etc. | https://github.com/pytorch/pytorch |
+| **Machine Learning, Deep Learning** <br> Tag: `Neural Networks`, `Training`, `Inference` etc. | https://github.com/pytorch/pytorch |
 | | https://github.com/tensorflow/tensorflow |
 | **Computer Vision** and **Image Processing** | https://github.com/opencv/opencv |
 | | https://github.com/scikit-image/scikit-image |
 | | https://github.com/python-pillow/Pillow |
-| **Image Hashing** <br> Use: `Image Similarity` | https://github.com/JohannesBuchner/imagehash |
-| **Scientific Computation** <br> Use: `Fast Mathematics` | https://github.com/numpy/numpy |
-| **Python Speedup** <br> Use: `Compilation`, `Parallelization`, `Hardware Acceleation` | https://github.com/numba/numba |
+| **Image Hashing** <br> Tag: `Image Similarity` | https://github.com/JohannesBuchner/imagehash |
+| **Scientific Computation** <br> Tag: `Fast Mathematics` | https://github.com/numpy/numpy |
+| **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation` | https://github.com/numba/numba |
 | | https://github.com/cython/cython | 
 | | https://github.com/serge-sans-paille/pythran | 
