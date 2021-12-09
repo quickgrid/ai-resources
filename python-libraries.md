@@ -13,7 +13,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Computer Vision** and **Image Processing** | https://github.com/opencv/opencv |
 | | https://github.com/scikit-image/scikit-image |
 | | https://github.com/python-pillow/Pillow |
-| **Image Hashing** <br> Tag: `Image Similarity` | https://github.com/JohannesBuchner/imagehash |
+| **Image Similarity** <br> Tag: `Image Hashing` | https://github.com/JohannesBuchner/imagehash |
 | **Scientific Computation** <br> Tag: `Fast Mathematics` | https://github.com/numpy/numpy |
 | **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation` | https://github.com/numba/numba |
 | | https://github.com/cython/cython | 
