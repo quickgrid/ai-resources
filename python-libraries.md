@@ -22,3 +22,8 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation` | https://github.com/numba/numba |
 | | https://github.com/cython/cython | 
 | | https://github.com/serge-sans-paille/pythran | 
+|  |  |
+| **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering` | https://github.com/facebookresearch/faiss |
+| | https://github.com/spotify/annoy | 
+| | https://github.com/nmslib/nmslib |
+| | https://github.com/nmslib/hnswlib |
