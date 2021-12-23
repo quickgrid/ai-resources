@@ -467,6 +467,7 @@
 | Basic information on pthreads, OpenMP, TBB | https://en.wikipedia.org/wiki/POSIX_Threads <br> https://en.wikipedia.org/wiki/OpenMP <br> https://en.wikipedia.org/wiki/Threading_Building_Blocks |
 | Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
 | Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
+| Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
 
 <br>
 
