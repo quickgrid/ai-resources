@@ -27,3 +27,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/spotify/annoy | 
 | | https://github.com/nmslib/nmslib |
 | | https://github.com/nmslib/hnswlib |
+| | https://github.com/hora-search/hora |
+| | https://github.com/yahoojapan/NGT |
+| | https://github.com/kakao/n2 |
+|  |  |
