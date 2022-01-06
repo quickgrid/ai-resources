@@ -14,6 +14,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Computer Vision** and **Image Processing** | https://github.com/opencv/opencv |
 | | https://github.com/scikit-image/scikit-image |
 | | https://github.com/python-pillow/Pillow |
+| | https://github.com/open-mmlab/mmcv <br> https://github.com/open-mmlab/mmediting |
 |  |  |
 | **Image Similarity** <br> Tag: `Image Hashing` | https://github.com/JohannesBuchner/imagehash |
 |  |  |
@@ -31,4 +32,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/yahoojapan/NGT |
 | | https://github.com/kakao/n2 |
 | | https://github.com/google-research/google-research/tree/master/scann |
+|  |  |
+| **Generative Adverserial Networks** <br> Tag: `GAN` | https://github.com/PaddlePaddle/PaddleGAN |
+| | https://github.com/lucidrains/lightweight-gan |
 |  |  |
