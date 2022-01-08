@@ -14,7 +14,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Computer Vision** and **Image Processing** | https://github.com/opencv/opencv |
 | | https://github.com/scikit-image/scikit-image |
 | | https://github.com/python-pillow/Pillow |
-| | https://github.com/open-mmlab/mmcv <br> https://github.com/open-mmlab/mmediting |
+| | https://github.com/open-mmlab/mmcv |
 |  |  |
 | **Image Similarity** <br> Tag: `Image Hashing` | https://github.com/JohannesBuchner/imagehash |
 |  |  |
@@ -33,8 +33,14 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/kakao/n2 |
 | | https://github.com/google-research/google-research/tree/master/scann |
 |  |  |
-| **Image Generation** <br> Tag: `GAN`, `Image Interpolation` | https://github.com/PaddlePaddle/PaddleGAN |
-| | https://github.com/lucidrains/lightweight-gan |
+| **Image Generation** <br> Tag: `GAN`, `Image Interpolation` | https://github.com/lucidrains/lightweight-gan |
+| | https://github.com/open-mmlab/mmgeneration |
 |  |  |
 | **Image Background Removal** <br> Tag: `Image Matting`, `Image Segmentation` | https://github.com/danielgatis/rembg |
+|  |  |
+| **Combined Image and Video Manipulation** <br> Tag: `GAN`, `Image Editing`, `Super Resolution`, `Matting`, `Inpainting`, `Generation`, `Image Animation`, `Style Transfer` | https://github.com/PaddlePaddle/PaddleGAN |
+| | https://github.com/open-mmlab/mmediting |
+|  |  |
+| **3D Reconstruction** <br> Tag: `Mesh Processing`, `Photogrammetry`, `Image Stiching`, `3D Model` | https://github.com/cnr-isti-vclab/meshlab |
+| | https://github.com/alicevision/meshroom |
 |  |  |
