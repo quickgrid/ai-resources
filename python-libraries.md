@@ -24,7 +24,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/cython/cython | 
 | | https://github.com/serge-sans-paille/pythran | 
 |  |  |
-| **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering` | https://github.com/facebookresearch/faiss |
+| **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering`, `Embedding Similarity` | https://github.com/facebookresearch/faiss |
 | | https://github.com/spotify/annoy | 
 | | https://github.com/nmslib/nmslib |
 | | https://github.com/nmslib/hnswlib |
@@ -33,6 +33,8 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/kakao/n2 |
 | | https://github.com/google-research/google-research/tree/master/scann |
 |  |  |
-| **Generative Adverserial Networks** <br> Tag: `GAN` | https://github.com/PaddlePaddle/PaddleGAN |
+| **Image Generation** <br> Tag: `GAN`, `Image Interpolation` | https://github.com/PaddlePaddle/PaddleGAN |
 | | https://github.com/lucidrains/lightweight-gan |
+|  |  |
+| **Image Background Removal** <br> Tag: `Image Matting`, `Image Segmentation` | https://github.com/danielgatis/rembg |
 |  |  |
