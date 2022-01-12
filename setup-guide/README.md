@@ -162,6 +162,19 @@ print(dlib.__version__)
 print(dlib.DLIB_USE_CUDA)
 ```
 
+To use `dlib` import directly make a folder named `dlib` inside conda envs `Lib/site-packages`. Copy `__init__.py.in` from dlib source `tools\python\dlib` to `site-packages` dlib folder and rename it to `__init__.py`.
+
+Inside `__init__.py` change `@DLIB_USE_CUDA@` to `OFF` or `ON` based on dlib cuda compilation setting. Also set `@cudnn@` to for example `C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.0/lib/x64/cudnn.lib` and `@CUDA_CUDART_LIBRARY@` to  `C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.0/lib/x64/cudart.lib`.
+
+If everything was setup correctly the following code should work.
+
+```
+import dlib
+print(dlib.__version__)
+print(dlib.DLIB_USE_CUDA
+```
+
+
 
 ### NCNN
 
