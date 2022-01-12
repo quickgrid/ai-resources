@@ -141,6 +141,28 @@ To enable jpg support set C/C++ > General > Additional Include Directories, to e
 
 Example for testing, http://dlib.net/dnn_face_recognition_ex.cpp.html
 
+
+### Dlib with Conda Python
+
+- Clone dlib repo. 
+- In cmake gui set source code path to `dlib/tools/python`. 
+- Make a folder named `build` inside dlib source folder and set this as build folder for cmake. 
+- Run `configure` once, and set `PYTHON_EXECUTABLE` to conda `envs` `python.exe`.
+- From here cuda can also be enabled on disabled for build.
+- Again run `configure` and `generate`.
+- From build folder open `dlib_python_bindings.sln` and run `ALL_BUILD` in `Release` mode.
+- Copy the generated `*.pyd` file from `build` to conda `envs\{env_name}\Lib\site-packages`.
+- ~~Rename for example `_dlib_pybind11.cp39-win_amd64.pyd` to `dlib.cp39-win_amd64.pyd`.~~ (Import does not work on renamed file.)
+
+If code below run then dlib was sucessfully compiled.
+
+```
+import _dlib_pybind11 as dlib
+print(dlib.__version__)
+print(dlib.DLIB_USE_CUDA)
+```
+
+
 ### NCNN
 
 https://github.com/Tencent/ncnn/wiki/how-to-build
