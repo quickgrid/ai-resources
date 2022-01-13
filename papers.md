@@ -304,3 +304,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf) | 2017 |  |  |
 | [IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING](https://arxiv.org/pdf/2010.09125.pdf) | 2021 |  |  |
 | [EditGAN: High-Precision Semantic Image Editing](https://arxiv.org/pdf/2111.03186.pdf) | 2021 |  |  |
+| [Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/pdf/2201.04127.pdf) | 2022 |  |  |
