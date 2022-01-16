@@ -47,6 +47,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Object Tracking** <br> Tag: `Bounding Box Tracking` | https://github.com/tryolabs/norfair |
 | | https://github.com/ifzhang/ByteTrack |
 | | https://github.com/adipandas/multi-object-tracker |
+| | https://github.com/wmuron/motpy |
 |  |  |
 
 
