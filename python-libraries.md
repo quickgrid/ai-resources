@@ -1,6 +1,6 @@
 # Python Libraries 
 
-This contains python libraries, frameworks for various tasks. The links will be mostly of the github repositories. Some may belong in multiple groups but put in general one.
+This contains python libraries, frameworks, tools for various tasks. The links will be mostly of the github repositories. Some may belong in multiple groups but put in general one.
 
 It could be really useful if a site like this existed with libraries, its application and brief description etc.
 
@@ -44,3 +44,9 @@ It could be really useful if a site like this existed with libraries, its applic
 | **3D Reconstruction** <br> Tag: `Mesh Processing`, `Photogrammetry`, `Image Stiching`, `3D Model` | https://github.com/cnr-isti-vclab/meshlab |
 | | https://github.com/alicevision/meshroom |
 |  |  |
+| **Object Tracking** <br> Tag: `Bounding Box Tracking` | https://github.com/tryolabs/norfair |
+| | https://github.com/ifzhang/ByteTrack |
+| | https://github.com/adipandas/multi-object-tracker |
+|  |  |
+
+
