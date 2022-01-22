@@ -1,4 +1,4 @@
-## UPDATE: Moved from, https://github.com/quickgrid/Setup-Guide, to reduce fragmentation.
+#### UPDATE 1: Moved from, https://github.com/quickgrid/Setup-Guide, to reduce fragmentation.
 
 # Setup-Guide
 
