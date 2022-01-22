@@ -13,9 +13,9 @@ A repository of various AI related resources, paper links, attempted paper imple
 | [`papers.md`](https://github.com/quickgrid/AI-Resources/blob/master/papers.md) | Collection of AI papers that I intend to read or already checked out. Most papers are based on Deep Learning, Computer Vision, Computer Graphics and NLP. |
 | [`python-libraries.md`](https://github.com/quickgrid/AI-Resources/blob/master/python-libraries.md) | Links to task specific python library repositories. |
 | [`commercial‑use‑models.md`](https://github.com/quickgrid/AI-Resources/blob/master/commercial-use-models.md) | Collection of AI models that can or cannot be be used for commercial purposes. |
-| [`setup‑guide`](https://github.com/quickgrid/AI-Resources/tree/master/setup-guide) | FAQ, how to, general information, build and setup for various tools etc. |
-| [`code‑lab`](https://github.com/quickgrid/AI-Resources/tree/master/code-lab) | Code examples, demos, snippets, information related to general programming, AI codes etc. |
-| [`paper‑implementations`](https://github.com/quickgrid/AI-Resources/tree/master/paper-implementations) | My attempts at trying to implement various papers with pytorch, tensorflow etc. I try to document every piece of confusing and hard to understand codes with paper reference and images. |
+| [`setup‑guide.md`](https://github.com/quickgrid/AI-Resources/tree/master/setup-guide) | FAQ, how to, general information, build and setup for various tools etc. |
+| [`code‑lab`](https://github.com/quickgrid/CodeLab/tree/master/code-lab) | Code examples, demos, snippets, information related to general programming, AI codes etc. |
+| [`paper‑implementations`](https://github.com/quickgrid/CodeLab/tree/master/paper-implementations) | My attempts at trying to implement various papers with pytorch, tensorflow etc. I try to document every piece of confusing and hard to understand codes with paper reference and images. |
 
 ## Contributing
 
