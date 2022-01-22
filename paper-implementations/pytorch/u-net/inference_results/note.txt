@@ -1,1 +1,0 @@
-This will show result of inference using the inference code.
