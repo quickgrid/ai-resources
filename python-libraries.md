@@ -25,6 +25,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/serge-sans-paille/pythran | 
 |  |  |
 | **Similarity Search** <br> Tag: `Neural Search`, `Image Search`, `Reverse Image Search`, `Semantic Search`, `Vector Search`, `Multi Modal Search` | https://github.com/jina-ai/jina |
+|  | https://github.com/jina-ai/docarray |
 |  | https://github.com/neuml/txtai |
 |  | https://github.com/milvus-io/milvus |
 |  |  |
