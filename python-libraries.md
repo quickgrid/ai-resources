@@ -20,9 +20,11 @@ It could be really useful if a site like this existed with libraries, its applic
 |  |  |
 | **Scientific Computation** <br> Tag: `Fast Mathematics` | https://github.com/numpy/numpy |
 |  |  |
-| **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation` | https://github.com/numba/numba |
+| **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation`, `JIT`, `GPU` | https://github.com/numba/numba |
 | | https://github.com/cython/cython | 
 | | https://github.com/serge-sans-paille/pythran | 
+| | https://github.com/dask/dask |
+| | https://github.com/cupy/cupy |
 |  |  |
 | **Similarity Search** <br> Tag: `Neural Search`, `Image Search`, `Reverse Image Search`, `Semantic Search`, `Vector Search`, `Multi Modal Search` | https://github.com/jina-ai/jina |
 |  | https://github.com/jina-ai/docarray |
