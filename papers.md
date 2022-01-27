@@ -8,7 +8,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
 
-### Uncategorized
+#### Uncategorized
 
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Image Captioning
+#### Image Captioning
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -34,7 +34,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Object Tracking
+#### Object Tracking
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -45,7 +45,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Image Super Resolution
+#### Image Super Resolution
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -53,7 +53,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Image Segmentation
+#### Image Segmentation
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -61,7 +61,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Convolutional Neural Network (CNN) Architectures
+#### Convolutional Neural Network (CNN) Architectures
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -73,7 +73,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 <br>
 
 
-### GAN Inversion
+#### GAN Inversion
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -81,7 +81,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Generative Adversarial Network (GAN)
+#### Generative Adversarial Network (GAN)
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -92,7 +92,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Image to Image Translation
+#### Image to Image Translation
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -102,7 +102,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-### Neural Style Transfer (NST)
+#### Neural Style Transfer (NST)
 
 | Topic | Year | Conference |
 | --- | --- | --- |
