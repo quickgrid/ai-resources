@@ -57,5 +57,6 @@ It could be really useful if a site like this existed with libraries, its applic
 | | https://github.com/adipandas/multi-object-tracker |
 | | https://github.com/wmuron/motpy |
 |  |  |
+| **Code Simplification** <br> Tag: `Tensor Operations`, `Shorthand Notations` | https://github.com/arogozhnikov/einops |
 
 
