@@ -43,6 +43,7 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Image Generation** <br> Tag: `GAN`, `Image Interpolation` | https://github.com/lucidrains/lightweight-gan |
 | | https://github.com/lucidrains/stylegan2-pytorch |
 | | https://github.com/open-mmlab/mmgeneration |
+| | https://github.com/NVlabs/stylegan3 |
 |  |  |
 | **Image Background Removal** <br> Tag: `Image Matting`, `Image Segmentation` | https://github.com/danielgatis/rembg |
 |  |  |
