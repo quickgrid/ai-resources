@@ -22,7 +22,7 @@ A repository of various AI related resources, paper links, attempted paper imple
 
 ## Contributing
 
-Look into, [contributing.md](https://github.com/quickgrid/AI-Resources/blob/master/contributing.md).
+Look into, [CONTRIBUTING.md](https://github.com/quickgrid/AI-Resources/blob/master/CONTRIBUTING.md).
 
 ## LICENSE
 
