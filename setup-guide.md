@@ -316,7 +316,7 @@ Also paste, `openpose.dll` from build folder. Search for it not found. Now each 
 
 #### Face Keypoint Sample Image
 
-https://github.com/quickgrid/Build-Guide/blob/master/openpose_face_keypoints_sample.jpg
+https://github.com/quickgrid/AI-Resources/blob/master/resources/setup-guide/openpose_face_keypoints_sample.jpg
 
 <br>
 
