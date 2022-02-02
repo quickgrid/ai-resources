@@ -4,6 +4,10 @@
 
 The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below. A paper may fall into multiple categories but organized into a general one.
 
+Some notes based on read papers can be found here, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
+
+Annotated and highlighted papers for the notes are here, https://github.com/quickgrid/annotated-papers.
+
 ## Papers Read
 
 :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
