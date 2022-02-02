@@ -93,6 +93,9 @@ Annotated and highlighted papers for the notes are here, https://github.com/quic
 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  |
 | [Improved Training of Wasserstein GANs (WGAN-GP)](https://arxiv.org/abs/1704.00028) | 2017 |  | 
 | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014 |  | 
+| [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
+| [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
+| [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  |
 
 <br>
 
@@ -137,7 +140,6 @@ Annotated and highlighted papers for the notes are here, https://github.com/quic
 | :blue_book: PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN) |  |  | https://arxiv.org/abs/1710.10196 | 
 | :blue_book: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Pix2PixHD) |  |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  |  | https://arxiv.org/pdf/1411.4038.pdf | 
-| Analyzing and Improving the Image Quality of StyleGAN |  |  | https://arxiv.org/pdf/1912.04958.pdf | 
 | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models |  |  | https://arxiv.org/pdf/1905.08233.pdf | 
 | Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling |  |  | https://arxiv.org/pdf/1610.07584.pdf | 
 | LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS |  |  | https://arxiv.org/pdf/1809.11096.pdf | 
@@ -184,7 +186,6 @@ Annotated and highlighted papers for the notes are here, https://github.com/quic
 | Dual Contrastive Loss and Attention for GANs |  |  | https://arxiv.org/pdf/2103.16748.pdf |
 | Top-k Training of GANs: Improving GAN Performance by Throwing Away Bad Samples |  |  | https://arxiv.org/pdf/2002.06224.pdf |
 | Image Augmentations for GAN Training |  |  | https://arxiv.org/pdf/2006.02595.pdf |
-| Training Generative Adversarial Networks with Limited Data |  |  | https://arxiv.org/pdf/2006.06676.pdf |
 | MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks |  |  | https://arxiv.org/pdf/1903.06048.pdf |
 | Barlow Twins: Self-Supervised Learning via Redundancy Reduction |  |  | https://arxiv.org/pdf/2103.03230.pdf |
 | MLP-Mixer: An all-MLP Architecture for Vision |  |  | https://arxiv.org/pdf/2105.01601.pdf |
@@ -291,7 +292,6 @@ Annotated and highlighted papers for the notes are here, https://github.com/quic
 | GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields |  |  | http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf |
 | Sketch Generation with Drawing Process Guided by Vector Flow and Grayscale |  |  | https://arxiv.org/pdf/2012.09004.pdf |
 | SimSwap: An Efficient Framework For High Fidelity Face Swapping |  |  | https://arxiv.org/pdf/2106.06340.pdf |
-| [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) |  |  |  |
 | ~~Convolutions~~ ~~Attention~~ ~~MLPs~~ Patches Are All You Need? |  |  | https://openreview.net/pdf?id=TVHS5Y4dNvM |
 | VECTOR-QUANTIZED IMAGE MODELING WITH IMPROVED VQGAN |  |  | https://openreview.net/pdf?id=pfNyExj7z2 |
 | [State of the Art on Neural Rendering](https://arxiv.org/pdf/2004.03805.pdf) |  |  |  |
