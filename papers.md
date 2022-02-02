@@ -14,18 +14,18 @@ Annotated and highlighted papers for the notes are here, https://github.com/quic
 
 #### Uncategorized
 
-| Topic | Year | Conference | Paper Link |
-| --- | --- | --- | --- |
-| Focal Loss for Dense Object Detection (RetinaNet) | 2017 |  | https://arxiv.org/abs/1708.02002 |
-| Feature Pyramid Networks for Object Detection (FPN) | 2016 |  | https://arxiv.org/abs/1612.03144 |
-| COIN: COmpression with Implicit Neural representations | 2021 |  | https://arxiv.org/abs/2103.03123 |
-| MaskGAN: Towards Diverse and Interactive Facial Image Manipulation | 2019 |  | https://arxiv.org/abs/1907.11922 |
-| AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer) | 2020 |  | https://arxiv.org/abs/2010.11929 |
-| BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace) | 2019 |  | https://arxiv.org/abs/1907.05047 |
-| Attention Is All You Need | 2017 |  | https://arxiv.org/abs/1706.03762 |
+| Topic | Year | Conference |
+| --- | --- | --- |
+| [Focal Loss for Dense Object Detection (RetinaNet)](https://arxiv.org/abs/1708.02002) | 2017 |  |  
+| [Feature Pyramid Networks for Object Detection (FPN)](https://arxiv.org/abs/1612.03144) | 2016 |  |
+| [COIN: COmpression with Implicit Neural representations](https://arxiv.org/abs/2103.03123) | 2021 |  |  
+| [MaskGAN: Towards Diverse and Interactive Facial Image Manipulation](https://arxiv.org/abs/1907.11922) | 2019 |  |  
+| [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer)](https://arxiv.org/abs/2010.11929) | 2020 |  |  
+| [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace)](https://arxiv.org/abs/1907.05047) | 2019 |  |  
+| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017 |  |  
 | [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) <br> [Supplementary](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer) | 2018 <br> - |  |
-| :page_facing_up: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  |
-| :page_facing_up: [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |  |
+| :page_facing_up: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  
+| :page_facing_up: [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |  
 
 <br>
 
@@ -309,3 +309,7 @@ Annotated and highlighted papers for the notes are here, https://github.com/quic
 | [IMAGE GANS MEET DIFFERENTIABLE RENDERING FOR INVERSE GRAPHICS AND INTERPRETABLE 3D NEURAL RENDERING](https://arxiv.org/pdf/2010.09125.pdf) | 2021 |  |  |
 | [EditGAN: High-Precision Semantic Image Editing](https://arxiv.org/pdf/2111.03186.pdf) | 2021 |  |  |
 | [Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/pdf/2201.04127.pdf) | 2022 |  |  |
+| [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://arxiv.org/abs/2103.17249) | 2021 |  |  |
+| [StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows](https://arxiv.org/abs/2008.02401) | 2020 |  |  |
+| [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | 2021 |  |  |
+| [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544) | 2019 |  |  |
