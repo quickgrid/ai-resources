@@ -6,7 +6,7 @@ Notes from reading various deep learning, computer vision etc. papers.
 
 ## Style GAN Family
 
-Recommend skimming all of the papers except Style GAN 2 ADA to get an overall understanding.
+Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
 
 ### ProGAN
 
