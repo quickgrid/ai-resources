@@ -50,16 +50,32 @@ They use improved wasserstein loss.
 
 ## StyleGAN
 
-TODO
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan1.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan2.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan3.png)
 
 ## StyleGAN 2
 
-TODO
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-1.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-2.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-3.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-4.png)
 
 ## StyleGAN 2 ADA
 
-TODO
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-1.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-2.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-3.png)
 
 ## StyleGAN 3
 
-TODO
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan3/stylegan3-1.png)
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan3/stylegan3-2.png)
