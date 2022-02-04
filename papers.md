@@ -91,9 +91,11 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  |
 | [Improved Training of Wasserstein GANs (WGAN-GP)](https://arxiv.org/abs/1704.00028) | 2017 |  | 
 | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014 |  | 
-| [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
+| [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
 | [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
 | [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  |
+| [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://arxiv.org/abs/1710.10196) | 2018 |  | 
+| [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/pdf/1812.04948.pdf) | 2019 |  |
 
 <br>
 
@@ -135,13 +137,11 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | Generating Diverse High-Fidelity Images with VQ-VAE-2 |  |  | https://arxiv.org/pdf/1906.00446.pdf |
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  |  | https://arxiv.org/pdf/1804.07723.pdf |
 | Deep Residual Learning for Image Recognition (ResNet) |  |  | https://arxiv.org/pdf/1512.03385.pdf |
-| :blue_book: PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN) |  |  | https://arxiv.org/abs/1710.10196 | 
 | :blue_book: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Pix2PixHD) |  |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  |  | https://arxiv.org/pdf/1411.4038.pdf | 
 | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models |  |  | https://arxiv.org/pdf/1905.08233.pdf | 
 | Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling |  |  | https://arxiv.org/pdf/1610.07584.pdf | 
 | LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS |  |  | https://arxiv.org/pdf/1809.11096.pdf | 
-| A Style-Based Generator Architecture for Generative Adversarial Networks |  |  | https://arxiv.org/pdf/1812.04948.pdf |
 | UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS |  |  | https://arxiv.org/pdf/1511.06434.pdf | 
 | Interpreting the Latent Space of GANs for Semantic Face Editing |  |  | https://arxiv.org/pdf/1907.10786.pdf | 
 | Wasserstein GAN (WGAN) |  |  | https://arxiv.org/pdf/1701.07875.pdf | 
