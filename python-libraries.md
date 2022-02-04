@@ -29,7 +29,6 @@ It could be really useful if a site like this existed with libraries, its applic
 | **Similarity Search** <br> Tag: `Neural Search`, `Image Search`, `Reverse Image Search`, `Semantic Search`, `Vector Search`, `Multi Modal Search` | https://github.com/jina-ai/jina |
 |  | https://github.com/jina-ai/docarray |
 |  | https://github.com/neuml/txtai |
-|  | https://github.com/milvus-io/milvus |
 |  |  |
 | **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering`, `Embedding Similarity` | https://github.com/facebookresearch/faiss |
 | | https://github.com/spotify/annoy | 
