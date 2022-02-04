@@ -75,13 +75,26 @@ Pixelwise feature vector normalization aka `pixel norm` is applied in generator 
 
 All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
 
+
+#### Network Details
+
 As shown in above diagram the 3 layer blocks are repeated multiple time for both network. For G it is `(upsample, conv, conv)` and for D it is `(conv, conv, downsample)`. This will be block that is reused in code to generate the repeated layers.
 
 The last conv block is `toRGB` in generator. Uses `1x1` convolution to map feature map to 3 channels for RGB image. Similarly for discriminator the first block with `1x1` convolution is `fromRGB` which takes an RGB 3-channel image and maps to desired feature map size.
 
-Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and images are normalized to `[-1, 1]`. As shown in table 2 all layers use leaky relu with negative slope of `0.2` except last layer using linear activation.
+Upsampling uses `2x2` replication and downsampling is `2x2` average pooling. As shown in table 2 all layers use leaky relu with negative slope of `0.2` except last layer using linear activation.
 
-For loss WGAN-GP is used. G and D optimization is alternate on per minibatch basis. Upsampling uses `2x2` replication and downsampling is `2x2` average pooling.
+#### Training Details
+
+G and D optimization is alternate on per minibatch basis.
+
+Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and images are normalized to `[-1, 1]`. 
+
+#### Loss Function
+
+WGAN-GP.
+
+#### Weight Initialization
 
 Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
 
