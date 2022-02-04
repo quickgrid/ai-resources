@@ -12,7 +12,7 @@ Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an
 
 ## [ProGAN](https://arxiv.org/abs/1710.10196)
 
-**Status: Complete.**
+**Status: Mostly complete.**
 
 Key idea is growing both Generator `G`, Discriminator `D` progressively. Starting from easier low-resolution images, and add new layers that introduce higher-resolution details as the training progresses.
 
