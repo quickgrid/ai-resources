@@ -1,6 +1,8 @@
 # AI Notes
 
-Notes from reading various deep learning, computer vision etc. papers. Many of the text are copied from paper as is and others with some modifications. Figures are from paper.
+Notes from reading various deep learning, computer vision etc. papers. 
+
+Many of the text are copied from paper as is and others with some modifications. Figures are from paper. Highlighted portions should be read and only some of the highlighted parts are expanded as notes.
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
@@ -10,7 +12,9 @@ Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an
 
 ## ProGAN
 
-Key idea is growing both generator, discriminator progressively. Starting from easier low-resolution images, and add new layers that introduce higher-resolution details as the training progresses.
+Key idea is growing both Generator `G`, Discriminator `D` progressively. Starting from easier low-resolution images, and add new layers that introduce higher-resolution details as the training progresses.
+
+This incremental nature allows the training to first discover large-scale structure of the image distribution and then shift attention to increasingly finer scale detail, instead of having to learn all scales simultaneously.
 
 #### Background
 
@@ -30,23 +34,42 @@ Several ways were proposed by others to measure degrees of variation in generati
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan1.png)
 
-### Implementation Details
-
-They use improved wasserstein loss.
-
-![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
 ### Progressive Growing
 
+Here, N is from 4, 8, 16, ... to 1024.
+
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan5.png)
+
+
+### Implementation Details
+
+All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
+
+As shown in above diagram the 3 layer blocks are repeated multiple time for both network. For G it is `(upsample, conv, conv)` and for D it is `(conv, conv, downsample)`. This will be block that is reused in code to generate the repeated layers.
+
+The last conv block is `toRGB` in generator. Uses `1x1` convolution to map feature map to 3 channels for RGB image. Similarly for discriminator the first block with `1x1` convolution is `fromRGB` which takes an RGB 3-channel image and maps to desired feature map size.
+
+Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and images are normalized to `[-1, 1]`. As shown in table 2 all layers use leaky relu with negative slope of `0.2` except last layer using linear activation.
+
+For loss WGAN-GP is used. G and D optimization is alternate on per minibatch basis. Upsampling uses `2x2` replication and downsampling is `2x2` average pooling.
+
+Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
+
 
 ### Layer Fading
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan3.png)
 
+
+
 ### Dataset Generation
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan4.png)
+
+<hr>
 
 ## StyleGAN
 
