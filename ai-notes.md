@@ -71,7 +71,7 @@ Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and i
 
 For loss WGAN-GP is used. G and D optimization is alternate on per minibatch basis. Upsampling uses `2x2` replication and downsampling is `2x2` average pooling.
 
-Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
+Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
 
