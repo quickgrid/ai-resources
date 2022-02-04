@@ -19,9 +19,7 @@ Key idea is growing both Generator `G`, Discriminator `D` progressively. Startin
 This incremental nature allows the training to first discover large-scale structure of the image distribution and then shift attention to increasingly finer scale detail, instead of having to learn all scales simultaneously.
 
 It is shown on figure 4 that earlier layers take less time to train. With progressive growing the existing low-resolution layers are likely to have already converged early on,
-so the networks are only tasked with refining the representations by increasingly smaller-scale effects as new layers are introduced.
-
-Without progressive growing, all layers of the generator and discriminator are tasked with simultaneously finding succinct intermediate representations for both the large-scale variation and the small-scale detail. 
+so the networks are only tasked with refining the representations by increasingly smaller-scale effects as new layers are introduced. Without progressive growing, all layers of the generator and discriminator are tasked with simultaneously finding succinct intermediate representations for both the large-scale variation and the small-scale detail. 
 
 #### Background
 
@@ -37,7 +35,8 @@ High resolution image generation is difficult because it easier to distinguish g
 
 Several ways were proposed by others to measure degrees of variation in generative model such as, `Multi-Scale Structural Similarity (MS-SSIM)`, `Inception Score (IS)`.
 
-#### Multi-Scale Structural Similarity
+
+#### Evaluation Metric
 
 MS-SSIM is able to find large-scale mode collapses reliably but fail to react to smaller effects such as loss of variation in colors or textures, and they also do not directly assess image quality in terms of similarity to the training set.
 
@@ -52,8 +51,6 @@ A small Wasserstein distance indicates that the distribution of the patches is s
 
 
 ### Progressive Growing
-
-Here, N is from 4, 8, 16, ... to 1024.
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan5.png)
 
@@ -84,11 +81,15 @@ The last conv block is `toRGB` in generator. Uses `1x1` convolution to map featu
 
 Upsampling uses `2x2` replication and downsampling is `2x2` average pooling. As shown in table 2 all layers use leaky relu with negative slope of `0.2` except last layer using linear activation.
 
+No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
+
 #### Training Details
 
 G and D optimization is alternate on per minibatch basis.
 
 Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and images are normalized to `[-1, 1]`. 
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan7.png)
 
 #### Loss Function
 
@@ -96,7 +97,7 @@ WGAN-GP.
 
 #### Weight Initialization
 
-Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
+Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. 
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
