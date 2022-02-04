@@ -10,7 +10,7 @@ Many of the text are copied from paper as is and others with some modifications.
 
 Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
 
-## [ProGAN](https://arxiv.org/abs/1710.10196)
+# [ProGAN](https://arxiv.org/abs/1710.10196)
 
 **Status: Mostly complete.**
 
@@ -21,7 +21,7 @@ This incremental nature allows the training to first discover large-scale struct
 It is shown on figure 4 that earlier layers take less time to train. With progressive growing the existing low-resolution layers are likely to have already converged early on,
 so the networks are only tasked with refining the representations by increasingly smaller-scale effects as new layers are introduced. Without progressive growing, all layers of the generator and discriminator are tasked with simultaneously finding succinct intermediate representations for both the large-scale variation and the small-scale detail. 
 
-#### Background
+### Background
 
 Generative methods that produce novel samples from high-dimensional data distributions. They include,
 
@@ -36,7 +36,7 @@ High resolution image generation is difficult because it easier to distinguish g
 Several ways were proposed by others to measure degrees of variation in generative model such as, `Multi-Scale Structural Similarity (MS-SSIM)`, `Inception Score (IS)`.
 
 
-#### Evaluation Metric
+### Evaluation Metric
 
 MS-SSIM is able to find large-scale mode collapses reliably but fail to react to smaller effects such as loss of variation in colors or textures, and they also do not directly assess image quality in terms of similarity to the training set.
 
@@ -45,22 +45,22 @@ Patches are extracted based on section 5 for which statistical similarity is mea
 A small Wasserstein distance indicates that the distribution of the patches is similar, meaning that the training images and generator samples appear similar in both appearance and variation at this spatial resolution. The distance between the patch sets extracted from the lowest resolution images indicate similarity in large-scale image structures.
 
 
-### Network Structure
+## Network Structure
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan1.png)
 
 
-### Progressive Growing
+## Progressive Growing
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan5.png)
 
 
-### Layer Fading
+## Layer Fading
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan3.png)
 
 
-### Pixelwise Normalization
+## Pixelwise Normalization
 
 Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
 
@@ -68,12 +68,12 @@ Pixelwise feature vector normalization aka `pixel norm` is applied in generator 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
 
 
-### Implementation Details
+## Implementation Details
 
 All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
 
 
-#### Network Details
+### Network Details
 
 As shown in above diagram the 3 layer blocks are repeated multiple time for both network. For G it is `(upsample, conv, conv)` and for D it is `(conv, conv, downsample)`. This will be block that is reused in code to generate the repeated layers.
 
@@ -83,7 +83,7 @@ Upsampling uses `2x2` replication and downsampling is `2x2` average pooling. As 
 
 No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
 
-#### Training Details
+### Training Details
 
 G and D optimization is alternate on per minibatch basis.
 
@@ -91,11 +91,11 @@ Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and i
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan7.png)
 
-#### Loss Function
+### Loss Function
 
 WGAN-GP.
 
-#### Weight Initialization
+### Weight Initialization
 
 Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. 
 
@@ -103,7 +103,7 @@ Weight initialization is performed with bias set to 0 and all weights from norma
 
 
 
-### Dataset Generation
+## Dataset Generation
 
 In this paper a higher quality version 1024x1024 CelebA dataset with 30000 images is used.
 
@@ -115,7 +115,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 <hr>
 
-## [StyleGAN](https://arxiv.org/abs/1812.04948)
+# [StyleGAN](https://arxiv.org/abs/1812.04948)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan1.png)
 
@@ -123,7 +123,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan3.png)
 
-## [StyleGAN 2](https://arxiv.org/abs/1912.04958)
+# [StyleGAN 2](https://arxiv.org/abs/1912.04958)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-1.png)
 
@@ -133,7 +133,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-4.png)
 
-## [StyleGAN 2 ADA](https://arxiv.org/abs/2006.06676)
+# [StyleGAN 2 ADA](https://arxiv.org/abs/2006.06676)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-1.png)
 
@@ -141,7 +141,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-3.png)
 
-## [StyleGAN 3](https://arxiv.org/abs/2106.12423)
+# [StyleGAN 3](https://arxiv.org/abs/2106.12423)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan3/stylegan3-1.png)
 
