@@ -60,17 +60,13 @@ A small Wasserstein distance indicates that the distribution of the patches is s
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan3.png)
 
 
-## Pixelwise Normalization
-
-Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
-
-
-![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
-
 
 ## Implementation Details
 
 All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
+
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
 
 ### Network Details
@@ -82,6 +78,15 @@ The last conv block is `toRGB` in generator. Uses `1x1` convolution to map featu
 Upsampling uses `2x2` replication and downsampling is `2x2` average pooling. As shown in table 2 all layers use leaky relu with negative slope of `0.2` except last layer using linear activation.
 
 No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
+
+#### Pixelwise Normalization
+
+Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
+
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
+
+
 
 ### Training Details
 
@@ -99,7 +104,6 @@ WGAN-GP.
 
 Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. 
 
-![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
 
 
