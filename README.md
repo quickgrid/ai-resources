@@ -2,7 +2,7 @@
 
 Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Programming etc. for my learning purposes.
 
-`WARNING:` Codes and docs here may not be fully correct or best approaches. These should be checked with other trusted sources.
+**WARNING:** Notes here may not be fully correct or best approaches. These should be verified with other sources.
 
 
 ## Table of Contents
