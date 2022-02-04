@@ -42,6 +42,11 @@ Here, N is from 4, 8, 16, ... to 1024.
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan5.png)
 
 
+### Layer Fading
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan3.png)
+
+
 ### Implementation Details
 
 All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
@@ -59,13 +64,14 @@ Weight initialization is performed with bias set to 0 and all weights from norma
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
 
-### Layer Fading
-
-![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan3.png)
-
-
 
 ### Dataset Generation
+
+In this paper a higher quality version 1024x1024 CelebA dataset is used.
+
+To improve the overall image quality, JPEG images were processed with two pre-trained neural networks: a convolutional autoencoder trained to remove JPEG artifacts in natural images and an adversarially-trained 4x super-resolution network. 
+
+Based on face landmarks a rotated bounding box is selected and it is then orientated, cropped to generate training image.
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan4.png)
 
