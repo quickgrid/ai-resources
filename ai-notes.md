@@ -16,6 +16,11 @@ Key idea is growing both Generator `G`, Discriminator `D` progressively. Startin
 
 This incremental nature allows the training to first discover large-scale structure of the image distribution and then shift attention to increasingly finer scale detail, instead of having to learn all scales simultaneously.
 
+It is shown on figure 4 that earlier layers take less time to train. With progressive growing the existing low-resolution layers are likely to have already converged early on,
+so the networks are only tasked with refining the representations by increasingly smaller-scale effects as new layers are introduced.
+
+Without progressive growing, all layers of the generator and discriminator are tasked with simultaneously finding succinct intermediate representations for both the large-scale variation and the small-scale detail. 
+
 #### Background
 
 Generative methods that produce novel samples from high-dimensional data distributions. They include,
@@ -67,7 +72,7 @@ Weight initialization is performed with bias set to 0 and all weights from norma
 
 ### Dataset Generation
 
-In this paper a higher quality version 1024x1024 CelebA dataset is used.
+In this paper a higher quality version 1024x1024 CelebA dataset with 30000 images is used.
 
 To improve the overall image quality, JPEG images were processed with two pre-trained neural networks: a convolutional autoencoder trained to remove JPEG artifacts in natural images and an adversarially-trained 4x super-resolution network. 
 
