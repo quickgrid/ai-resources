@@ -10,7 +10,9 @@ Many of the text are copied from paper as is and others with some modifications.
 
 Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
 
-## ProGAN
+## [ProGAN](https://arxiv.org/abs/1710.10196)
+
+**Status: Complete.**
 
 Key idea is growing both Generator `G`, Discriminator `D` progressively. Starting from easier low-resolution images, and add new layers that introduce higher-resolution details as the training progresses.
 
@@ -34,6 +36,8 @@ A GAN consists of two networks: `generator` and `discriminator (aka critic)`. Th
 High resolution image generation is difficult because it easier to distinguish generated samples from real. Also larger samples require using smaller minibatches due to memory cosideration further compromising training quality. 
 
 Several ways were proposed by others to measure degrees of variation in generative model such as, `Multi-Scale Structural Similarity (MS-SSIM)`, `Inception Score (IS)`.
+
+#### Multi-Scale Structural Similarity
 
 MS-SSIM is able to find large-scale mode collapses reliably but fail to react to smaller effects such as loss of variation in colors or textures, and they also do not directly assess image quality in terms of similarity to the training set.
 
@@ -59,6 +63,14 @@ Here, N is from 4, 8, 16, ... to 1024.
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan3.png)
 
 
+### Pixelwise Normalization
+
+Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
+
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
+
+
 ### Implementation Details
 
 All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
@@ -72,10 +84,6 @@ Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and i
 For loss WGAN-GP is used. G and D optimization is alternate on per minibatch basis. Upsampling uses `2x2` replication and downsampling is `2x2` average pooling.
 
 Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. Weights are initialized based on `he/kaiming initializer`. For pytorch it is `kaiming_normal_`. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
-
-![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
-
-Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
@@ -93,7 +101,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 <hr>
 
-## StyleGAN
+## [StyleGAN](https://arxiv.org/abs/1812.04948)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan1.png)
 
@@ -101,7 +109,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan/stylegan3.png)
 
-## StyleGAN 2
+## [StyleGAN 2](https://arxiv.org/abs/1912.04958)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-1.png)
 
@@ -111,7 +119,7 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2/stylegan2-4.png)
 
-## StyleGAN 2 ADA
+## [StyleGAN 2 ADA](https://arxiv.org/abs/2006.06676)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-1.png)
 
@@ -119,8 +127,10 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan2-ada/stylegan2-ada-3.png)
 
-## StyleGAN 3
+## [StyleGAN 3](https://arxiv.org/abs/2106.12423)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan3/stylegan3-1.png)
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/stylegan3/stylegan3-2.png)
+
+
