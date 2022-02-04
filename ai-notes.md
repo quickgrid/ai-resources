@@ -35,6 +35,13 @@ High resolution image generation is difficult because it easier to distinguish g
 
 Several ways were proposed by others to measure degrees of variation in generative model such as, `Multi-Scale Structural Similarity (MS-SSIM)`, `Inception Score (IS)`.
 
+MS-SSIM is able to find large-scale mode collapses reliably but fail to react to smaller effects such as loss of variation in colors or textures, and they also do not directly assess image quality in terms of similarity to the training set.
+
+Patches are extracted based on section 5 for which statistical similarity is measured by computing their sliced Wasserstein distance `SWD`. 
+
+A small Wasserstein distance indicates that the distribution of the patches is similar, meaning that the training images and generator samples appear similar in both appearance and variation at this spatial resolution. The distance between the patch sets extracted from the lowest resolution images indicate similarity in large-scale image structures.
+
+
 ### Network Structure
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan1.png)
@@ -65,6 +72,10 @@ Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and i
 For loss WGAN-GP is used. G and D optimization is alternate on per minibatch basis. Upsampling uses `2x2` replication and downsampling is `2x2` average pooling.
 
 Weight initialization is performed with bias set to 0 and all weights from normal distribution with unit variance. No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixel norm is used.
+
+![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan6.png)
+
+Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
 
 ![alt text](https://github.com/quickgrid/AI-Resources/blob/master/resources/ai-notes/gan/progan/progan2.png)
 
