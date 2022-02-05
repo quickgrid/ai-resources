@@ -161,7 +161,20 @@ AdaIN first normalizes each channel to zero mean and unit variance, and only the
 
 ![alt text](figures/stylegan/stylegan4.png)
 
-### Configuration
+### Style Mixing and Mixing Regularization
+
+In mixing regularization a given percentage of `image are generated from two random latent code` instead of one. 
+
+Two random latent code `z1` and `z2` are passed to mapping network and generate corresponding `w1` and `w2`. When generating these images one latent code is switched with another refered to as `style mixing`.
+
+![alt text](figures/stylegan/stylegan5.png)
+
+Figure 3 shows example. If two sets of images from their latent source `A`, `B` are generated then through style mixing attribute of one image set can be passed to the other. In style mixing a subset of style is taken from one source style and rest from another source style. Taking styles of an image with source `B` from coarse spatial resolution `4x4`, `8x8` gives high level aspects such as face shape, hair style, eyeglasses etc. to another image from source `A`. Here, the fine details such as eye, lighting are from source `A` but face shape, hair style, eyeglasses are from source `B`. 
+
+Mixing the styles of middle layers from `16x16`, `32x32` with another source results allows inheriting small scale facial features, eye open closing etc. Mixing style from `64x64` to `1024x1024` allows changing the microstructure, lighting of one source and apply it to the other. 
+
+
+### Configurations
 
 - Config A is baseline configuration is previous ProGAN with same network, hyperparameters.
 - Config B is improved baseline with using bilinear up/down sampling and longer training, tuned hyperparameters.
