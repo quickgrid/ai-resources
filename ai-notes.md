@@ -6,7 +6,7 @@ Many of the text are copied from paper as is and others with some modifications.
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
-## Contents
+## Notes
 
 | Link | Topic |
 | --- | --- |
