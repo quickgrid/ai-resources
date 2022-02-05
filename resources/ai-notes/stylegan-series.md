@@ -17,6 +17,8 @@ Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an
 - https://github.com/lucidrains/stylegan2-pytorch
 - https://www.youtube.com/watch?v=nkQHASviYac
 - https://nn.labml.ai/gan/stylegan/index.html
+- https://github.com/manicman1999/StyleGAN-Tensorflow-2.0
+- https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0
 
 ### TODO
 
