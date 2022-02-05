@@ -135,13 +135,15 @@ For quantifying the amount of disentanglement in latent space `Perceptual Path L
 
 It is shown that new generator gets more linear, less entangled representation of different factors of variation than previous. Also a high quality human faces dataset `FFHQ` is proposed.
 
-## ProGAN vs StyleGAN Generator
+## Implementation Details
+
+### ProGAN vs StyleGAN Generator
 
 ![alt text](figures/stylegan/stylegan1.png)
 
 Previously latent code was provided to generator via input layer. This time the generator is made up of `two sub networks`. One is `Mapping Network` another is `Synthesis Network`. 
 
-Previous approach of taking latent via input layer is discarded and instead a `learned constant` is used in the `synthesis network`. 
+Previous approach of taking latent via input layer is discarded and instead a `learned constant` is used in the `synthesis network`. This is due to `configuration C` where it is discovered network no longer benefits from feeding latent representation to first convolution layer.
 
 Latent code `z` from input latent space `Z` is fed via `mapping network` represented by `f` which in this paper is a 8 layer MLP. Mapping layer `f` takes `z` and outputs intermediate representation `w` from intermediate space `W`. The dimension of both `z` and `w` is 512.
 
@@ -151,11 +153,32 @@ Generator is also provided with explicit noise inputs which provides direct mean
 
 `Noise image` is `broadcasted to all feature maps` using `learned per-feature scaling factors (B)` and then added to the output of the corresponding convolution.
 
-## AdaIN (Adaptive Instance Normalization)
+### AdaIN (Adaptive Instance Normalization)
 
 As I understand `y_s` and `y_b` are scale and bias of the `style (y)`. If is calculated for each feature map according to formula. 
 
+AdaIN first normalizes each channel to zero mean and unit variance, and only then applies scales and biases based on style.
+
 ![alt text](figures/stylegan/stylegan4.png)
+
+### Configuration
+
+- Config A is baseline configuration is previous ProGAN with same network, hyperparameters.
+- Config B is improved baseline with using bilinear up/down sampling and longer training, tuned hyperparameters.
+- Config C adds Mapping Network and AdaIN.
+- Config D removes direct latent code input layer in synthesis network and image synthesis instead starts from learned `4x4x512` constant tensor.
+- Config E noise inputs are added that are fed after each convolution network after passing though `B`.
+- Config F novel mixing regularization that decorrelates neighboring styles and enables more fine grained control over the generated imagery.
+
+### Loss 
+
+- WGAN-GP on CelebA-HQ.
+- WGAN-GP on FFHQ with config A.
+- `Non saturating loss` with with R1 regularization for config B-F.
+
+## Sampling 
+
+To avoid sampling from extreme regions of intermediate space `W` the `truncation trick` is used. It is mentioned generator allows applying truncation trick selectively at low resolutions only to avoid affecting high resolution details.
 
 ![alt text](figures/stylegan/stylegan2.png)
 
