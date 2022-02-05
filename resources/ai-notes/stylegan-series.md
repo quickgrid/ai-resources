@@ -178,7 +178,6 @@ In mixing regularization a given percentage of `image are generated from two ran
 Two random latent code `z1` and `z2` are passed to mapping network and generate corresponding `w1` and `w2`. When generating these images one latent code is switched with another refered to as `style mixing`.
 
 <img src="figures/stylegan/stylegan5.png" width=70% height=70%>
-<!--![alt text](figures/stylegan/stylegan5.png)-->
 
 Figure 3 shows example. If two sets of images from their latent source `A`, `B` are generated then through style mixing attribute of one image set can be passed to the other. In style mixing a subset of style is taken from one source style and rest from another source style. Taking styles of an image with source `B` from coarse spatial resolution `4x4`, `8x8` gives high level aspects such as face shape, hair style, eyeglasses etc. to another image from source `A`. Here, the fine details such as eye, lighting are from source `A` but face shape, hair style, eyeglasses are from source `B`. 
 
@@ -207,7 +206,6 @@ To avoid sampling from extreme regions of intermediate space `W` the `truncation
 ### Disentanglement
 
 <img src="figures/stylegan/stylegan2.png" width=60% height=60%>
-<!--![alt text](figures/stylegan/stylegan2.png)-->
 
 Common goal of latent space is changes control single factors of variation. Sampling from `Z` needs to match training distribution. If something does not exist in training data the latent space is curved to avoid sampling from invalid combinations. 
 
@@ -218,7 +216,6 @@ Previous methods required an encoder that mapped images to latent codes for quan
 ### Perceptual Path Length
 
 <img src="figures/stylegan/stylegan6.png" width=50% height=50%>
-<!--![alt text](figures/stylegan/stylegan6.png)-->
 
 A problem mentioned is interpolation in latent space may yield non linear changes. Interpolating between two vectors features absent in both may appear in middle of linear interpolation path. This is sign of latent space entanglement and factors of variation not properly separated.
 
@@ -229,30 +226,30 @@ Perceptualy based pairwise distance is calculated as weighted difference between
 ### Truncation Trick
 
 <img src="figures/stylegan/stylegan3.png" width=60% height=60%>
-<!--![alt text](figures/stylegan/stylegan3.png)-->
+
+<img src="figures/stylegan/stylegan7.png" width=60% height=60%>
 
 # [StyleGAN 2](https://arxiv.org/abs/1912.04958)
 
-![alt text](figures/stylegan2/stylegan2-1.png)
+<img src="figures/stylegan2/stylegan2-1.png" width=100% height=100%>
 
-![alt text](figures/stylegan2/stylegan2-2.png)
+<img src="figures/stylegan2/stylegan2-2.png" width=100% height=100%>
 
-![alt text](figures/stylegan2/stylegan2-3.png)
+<img src="figures/stylegan2/stylegan2-3.png" width=60% height=60%>
 
-![alt text](figures/stylegan2/stylegan2-4.png)
+<img src="figures/stylegan2/stylegan2-4.png" width=60% height=60%>
+
 
 # [StyleGAN 2 ADA](https://arxiv.org/abs/2006.06676)
 
-![alt text](figures/stylegan2-ada/stylegan2-ada-1.png)
+<img src="figures/stylegan2-ada/stylegan2-ada-1.png" width=90% height=90%>
 
-![alt text](figures/stylegan2-ada/stylegan2-ada-2.png)
+<img src="figures/stylegan2-ada/stylegan2-ada-2.png" width=90% height=90%>
 
-![alt text](figures/stylegan2-ada/stylegan2-ada-3.png)
+<img src="figures/stylegan2-ada/stylegan2-ada-3.png" width=90% height=90%>
 
 # [StyleGAN 3](https://arxiv.org/abs/2106.12423)
 
-![alt text](figures/stylegan3/stylegan3-1.png)
+<img src="figures/stylegan3/stylegan3-1.png" width=90% height=90%>
 
-![alt text](figures/stylegan3/stylegan3-2.png)
-
-
+<img src="figures/stylegan3/stylegan3-2.png" width=90% height=90%>
