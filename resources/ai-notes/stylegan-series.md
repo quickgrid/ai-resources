@@ -91,8 +91,8 @@ No batch, layer, weight norm is used but after each `3x3` conv layer in `G` pixe
 
 Pixelwise feature vector normalization aka `pixel norm` is applied in generator after each conv layer to prevent `G` and `D` magnitute spiral out of control. Each pixel in channel/feature map dimension is normalized using simple formula in section 4.2.
 
-
-![alt text](figures/progan/progan6.png)
+<img src="figures/progan/progan6.png" width=80% height=80%>
+<!--![alt text](figures/progan/progan6.png)-->
 
 
 
@@ -102,7 +102,8 @@ G and D optimization is alternate on per minibatch basis.
 
 Training start with `4x4` resolution. Latent vector `z` is 512 dimensional and images are normalized to `[-1, 1]`. 
 
-![alt text](figures/progan/progan7.png)
+<img src="figures/progan/progan7.png" width=80% height=80%>
+<!--![alt text](figures/progan/progan7.png)-->
 
 ### Loss Function
 
@@ -123,7 +124,8 @@ To improve the overall image quality, JPEG images were processed with two pre-tr
 
 Based on face landmarks a rotated bounding box is selected and it is then orientated, cropped to generate training image.
 
-![alt text](figures/progan/progan4.png)
+<img src="figures/progan/progan4.png" width=80% height=80%>
+<!--![alt text](figures/progan/progan4.png)-->
 
 <hr>
 
