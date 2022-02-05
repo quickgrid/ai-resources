@@ -52,17 +52,20 @@ A small Wasserstein distance indicates that the distribution of the patches is s
 
 ## Network Structure
 
-![alt text](figures/progan/progan1.png)
+<img src="figures/progan/progan1.png" width=90% height=90%>
+<!--![alt text](figures/progan/progan1.png)-->
 
 
 ## Progressive Growing
 
-![alt text](figures/progan/progan5.png)
+<img src="figures/progan/progan5.png" width=90% height=90%>
+<!--![alt text](figures/progan/progan5.png)-->
 
 
 ## Layer Fading
 
-![alt text](figures/progan/progan3.png)
+<img src="figures/progan/progan3.png" width=90% height=90%>
+<!--![alt text](figures/progan/progan3.png)-->
 
 
 
@@ -70,8 +73,8 @@ A small Wasserstein distance indicates that the distribution of the patches is s
 
 All layers of both network remain trainable throught training process and newly added layers are fade in smoothly. Both G and D are mirrors of each other and grow in synchrony.
 
-
-![alt text](figures/progan/progan2.png)
+<img src="figures/progan/progan2.png" width=80% height=80%>
+<!--![alt text](figures/progan/progan2.png)-->
 
 
 ### Network Details
@@ -198,8 +201,8 @@ To avoid sampling from extreme regions of intermediate space `W` the `truncation
 
 ### Disentanglement
 
-
-![alt text](figures/stylegan/stylegan2.png)
+<img src="figures/stylegan/stylegan2.png" width=50% height=50%>
+<!--![alt text](figures/stylegan/stylegan2.png)-->
 
 Common goal of latent space is changes control single factors of variation. Sampling from `Z` needs to match training distribution. If something does not exist in training data the latent space is curved to avoid sampling from invalid combinations. 
 
@@ -209,13 +212,16 @@ Previous methods required an encoder that mapped images to latent codes for quan
 
 ### Perceptual Path Length
 
-![alt text](figures/stylegan/stylegan6.png)
+<img src="figures/stylegan/stylegan6.png" width=40% height=40%>
+<!--![alt text](figures/stylegan/stylegan6.png)-->
 
 A problem mentioned is interpolation in latent space may yield non linear changes. Interpolating between two vectors features absent in both may appear in middle of linear interpolation path. This is sign of latent space entanglement and factors of variation not properly separated.
 
 Entanglement can be quantified by the amount of drastic change as interpolation is performed in latent space. A less curved/more disentangled latent space should provide more smooth trainsition than highly curved/entangled latent space.
 
 Perceptualy based pairwise distance is calculated as weighted difference between two VGG16 embeddings. `slerp (spherical linear interpolation)` is used for interpolating in latent space `Z` and for interpolation in `W`, `lerp (linear interpolation)` is used.
+
+### Truncation Trick
 
 ![alt text](figures/stylegan/stylegan3.png)
 
