@@ -121,6 +121,16 @@ Based on face landmarks a rotated bounding box is selected and it is then orient
 
 # [StyleGAN](https://arxiv.org/abs/1812.04948)
 
+An `alternate generator structure` is proposed that leads unsupervised separation of high level attributes such as pose, identity for faces, `stochastic variation` such as freckles, hair etc. The `discriminator, loss function stays same` from previous work.
+
+New generator `starts from a learned constant input` and adjusts the `style` of the image at each convolution layer based on the latent code, therefore directly controlling the strength of image features at different scales.
+
+The input latent space must follow the probability density of the training data. It is said that this leads to some degree of unavoidable entanglement. To overcome this generator embeds latent code into intermediate space. This intermediate space is free from restriction thus allowed to be disentangled.
+
+For quantifying the amount of disentanglement in latent space `Perceptual Path Length` and `Linear Separability` is proposed to quantify these aspects in generator.
+
+It is shown that new generator gets more linear, less entangled representation of different factors of variation than previous. Also a high quality human faces dataset `FFHQ` is proposed.
+
 ![alt text](figures/stylegan/stylegan1.png)
 
 ![alt text](figures/stylegan/stylegan2.png)
