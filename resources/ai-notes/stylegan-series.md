@@ -164,7 +164,7 @@ Adding per pixel noise after convolution allows the network to `sidestep` proble
 
 ### AdaIN (Adaptive Instance Normalization)
 
-As I understand `y_s` and `y_b` are scale and bias of the `style (y)`. If is calculated for each feature map according to formula. 
+As I understand y<sub>s</sub> and y<sub>b</sub> are scale and bias of the `style (y)`. If is calculated for each feature map according to formula. 
 
 AdaIN first normalizes each channel to zero mean and unit variance, and only then applies scales and biases based on style.
 
