@@ -10,6 +10,13 @@ Many of the text are copied from paper verbatim, others with some modifications 
 
 Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
 
+### Code Implementation Resources
+
+- https://keras.io/examples/generative/stylegan/
+- https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/ProGAN
+- https://github.com/lucidrains/stylegan2-pytorch
+- https://www.youtube.com/watch?v=nkQHASviYac
+
 ### TODO
 
 - [ ] Organize notes such that everything can be found easily for implementation.
