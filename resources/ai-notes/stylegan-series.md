@@ -145,7 +145,8 @@ It is shown that new generator gets more linear, less entangled representation o
 
 ### ProGAN vs StyleGAN Generator
 
-![alt text](figures/stylegan/stylegan1.png)
+<img src="figures/stylegan/stylegan1.png" width=60% height=60%>
+<!--![alt text](figures/stylegan/stylegan1.png)-->
 
 Previously latent code was provided to generator via input layer. This time the generator is made up of `two sub networks`. One is `Mapping Network` another is `Synthesis Network`. 
 
@@ -167,7 +168,8 @@ As I understand `y_s` and `y_b` are scale and bias of the `style (y)`. If is cal
 
 AdaIN first normalizes each channel to zero mean and unit variance, and only then applies scales and biases based on style.
 
-![alt text](figures/stylegan/stylegan4.png)
+<img src="figures/stylegan/stylegan4.png" width=50% height=50%>
+<!--![alt text](figures/stylegan/stylegan4.png)-->
 
 ### Style Mixing and Mixing Regularization
 
@@ -175,7 +177,8 @@ In mixing regularization a given percentage of `image are generated from two ran
 
 Two random latent code `z1` and `z2` are passed to mapping network and generate corresponding `w1` and `w2`. When generating these images one latent code is switched with another refered to as `style mixing`.
 
-![alt text](figures/stylegan/stylegan5.png)
+<img src="figures/stylegan/stylegan5.png" width=70% height=70%>
+<!--![alt text](figures/stylegan/stylegan5.png)-->
 
 Figure 3 shows example. If two sets of images from their latent source `A`, `B` are generated then through style mixing attribute of one image set can be passed to the other. In style mixing a subset of style is taken from one source style and rest from another source style. Taking styles of an image with source `B` from coarse spatial resolution `4x4`, `8x8` gives high level aspects such as face shape, hair style, eyeglasses etc. to another image from source `A`. Here, the fine details such as eye, lighting are from source `A` but face shape, hair style, eyeglasses are from source `B`. 
 
@@ -225,7 +228,8 @@ Perceptualy based pairwise distance is calculated as weighted difference between
 
 ### Truncation Trick
 
-![alt text](figures/stylegan/stylegan3.png)
+<img src="figures/stylegan/stylegan3.png" width=50% height=50%>
+<!--![alt text](figures/stylegan/stylegan3.png)-->
 
 # [StyleGAN 2](https://arxiv.org/abs/1912.04958)
 
