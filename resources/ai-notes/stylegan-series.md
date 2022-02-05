@@ -16,6 +16,7 @@ Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an
 - https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/ProGAN
 - https://github.com/lucidrains/stylegan2-pytorch
 - https://www.youtube.com/watch?v=nkQHASviYac
+- https://nn.labml.ai/gan/stylegan/index.html
 
 ### TODO
 
