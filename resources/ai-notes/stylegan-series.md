@@ -206,7 +206,7 @@ To avoid sampling from extreme regions of intermediate space `W` the `truncation
 
 ### Disentanglement
 
-<img src="figures/stylegan/stylegan2.png" width=50% height=50%>
+<img src="figures/stylegan/stylegan2.png" width=60% height=60%>
 <!--![alt text](figures/stylegan/stylegan2.png)-->
 
 Common goal of latent space is changes control single factors of variation. Sampling from `Z` needs to match training distribution. If something does not exist in training data the latent space is curved to avoid sampling from invalid combinations. 
@@ -217,7 +217,7 @@ Previous methods required an encoder that mapped images to latent codes for quan
 
 ### Perceptual Path Length
 
-<img src="figures/stylegan/stylegan6.png" width=40% height=40%>
+<img src="figures/stylegan/stylegan6.png" width=50% height=50%>
 <!--![alt text](figures/stylegan/stylegan6.png)-->
 
 A problem mentioned is interpolation in latent space may yield non linear changes. Interpolating between two vectors features absent in both may appear in middle of linear interpolation path. This is sign of latent space entanglement and factors of variation not properly separated.
@@ -228,7 +228,7 @@ Perceptualy based pairwise distance is calculated as weighted difference between
 
 ### Truncation Trick
 
-<img src="figures/stylegan/stylegan3.png" width=50% height=50%>
+<img src="figures/stylegan/stylegan3.png" width=60% height=60%>
 <!--![alt text](figures/stylegan/stylegan3.png)-->
 
 # [StyleGAN 2](https://arxiv.org/abs/1912.04958)
