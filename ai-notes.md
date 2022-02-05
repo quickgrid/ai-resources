@@ -38,9 +38,9 @@ Several ways were proposed by others to measure degrees of variation in generati
 
 ### Evaluation Metric
 
-MS-SSIM is able to find large-scale mode collapses reliably but fail to react to smaller effects such as loss of variation in colors or textures, and they also do not directly assess image quality in terms of similarity to the training set.
+MS-SSIM is able to find large-scale `mode collapses` reliably but fail to react to smaller effects such as loss of variation in colors or textures, and they also do not directly assess image quality in terms of similarity to the training set.
 
-Patches are extracted based on section 5 for which statistical similarity is measured by computing their sliced Wasserstein distance `SWD`. 
+Patches are extracted based on section 5 for which statistical similarity is measured by computing their `sliced Wasserstein distance (SWD)`. 
 
 A small Wasserstein distance indicates that the distribution of the patches is similar, meaning that the training images and generator samples appear similar in both appearance and variation at this spatial resolution. The distance between the patch sets extracted from the lowest resolution images indicate similarity in large-scale image structures.
 
@@ -107,7 +107,7 @@ Weight initialization is performed with bias set to 0 and all weights from norma
 
 
 
-## Dataset Generation
+## Dataset Generation (Optional)
 
 In this paper a higher quality version 1024x1024 CelebA dataset with 30000 images is used.
 
