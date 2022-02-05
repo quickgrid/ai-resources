@@ -6,6 +6,10 @@ Many of the text are copied from paper as is and others with some modifications.
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
+### TODO
+
+- [ ] Organize notes such that everything can be found easily for implementation.
+
 # StyleGAN Family
 
 Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
@@ -131,7 +135,21 @@ For quantifying the amount of disentanglement in latent space `Perceptual Path L
 
 It is shown that new generator gets more linear, less entangled representation of different factors of variation than previous. Also a high quality human faces dataset `FFHQ` is proposed.
 
+## ProGAN vs StyleGAN Generator
+
 ![alt text](figures/stylegan/stylegan1.png)
+
+Previously latent code was provided to generator via input layer. This time the generator is made up of `two sub networks`. One is `Mapping Network` another is `Synthesis Network`. 
+
+Previous approach of taking latent via input layer is discarded and instead a `learned constant` is used in the `synthesis network`. 
+
+Latent code `z` from input latent space `Z` is fed via `mapping network` represented by `f` which in this paper is a 8 layer MLP. Mapping layer `f` takes `z` and outputs intermediate representation `w` from intermediate space `W`. The dimension of both `z` and `w` is 512.
+
+Learned affine transforms take `w` and output `styles` that control `adaptive instance normalization (AdaIN)` in generator.
+
+## AdaIN (Adaptive Instance Normalization)
+
+![alt text](figures/stylegan/stylegan4.png)
 
 ![alt text](figures/stylegan/stylegan2.png)
 
