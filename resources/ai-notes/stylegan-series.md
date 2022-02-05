@@ -2,17 +2,18 @@
 
 Notes from reading various deep learning, computer vision etc. papers. 
 
-Many of the text are copied from paper as is and others with some modifications. Figures are from paper. Highlighted portions should be read and only some of the highlighted parts are expanded as notes.
+Many of the text are copied from paper verbatim, others with some modifications and rephrasing. Figures are from paper. Highlighted portions should be read and only some of the highlighted parts are expanded as notes.
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
+
+# StyleGAN Family
+
+Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
 
 ### TODO
 
 - [ ] Organize notes such that everything can be found easily for implementation.
 
-# StyleGAN Family
-
-Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an overall understanding.
 
 # [ProGAN](https://arxiv.org/abs/1710.10196)
 
@@ -151,7 +152,9 @@ Learned affine transforms take `w` and output `style (y)` that control `adaptive
 
 Generator is also provided with explicit noise inputs which provides direct means to generate `stochastic detail`. These are `single channel images` containing `uncorrelated gaussian noise` is fed after each convolution in the synthesis network.
 
-`Noise image` is `broadcasted to all feature maps` using `learned per-feature scaling factors (B)` and then added to the output of the corresponding convolution.
+`Noise image` is `broadcasted to all feature maps` using `learned per-feature scaling factors (B)` and then added to the output of the corresponding convolution. The noise affects only stochastic details, leaving overall composition and high-level aspects such as identity intact.
+
+Adding per pixel noise after convolution allows the network to `sidestep` problem of `repeated patterns` in generated images. It is mention the effect of network appears tightly localized in network.
 
 ### AdaIN (Adaptive Instance Normalization)
 
@@ -193,7 +196,26 @@ Mixing the styles of middle layers from `16x16`, `32x32` with another source res
 
 To avoid sampling from extreme regions of intermediate space `W` the `truncation trick` is used. It is mentioned generator allows applying truncation trick selectively at low resolutions only to avoid affecting high resolution details.
 
+### Disentanglement
+
+
 ![alt text](figures/stylegan/stylegan2.png)
+
+Common goal of latent space is changes control single factors of variation. Sampling from `Z` needs to match training distribution. If something does not exist in training data the latent space is curved to avoid sampling from invalid combinations. 
+
+Intermediate latent space `W` does not have to sample according to fixed distribution instead mapping network provides sampling.
+
+Previous methods required an encoder that mapped images to latent codes for quantifying disentanglement. For this authors proposed `perceptual path length (PPL)` and linear separability.
+
+### Perceptual Path Length
+
+![alt text](figures/stylegan/stylegan6.png)
+
+A problem mentioned is interpolation in latent space may yield non linear changes. Interpolating between two vectors features absent in both may appear in middle of linear interpolation path. This is sign of latent space entanglement and factors of variation not properly separated.
+
+Entanglement can be quantified by the amount of drastic change as interpolation is performed in latent space. A less curved/more disentangled latent space should provide more smooth trainsition than highly curved/entangled latent space.
+
+Perceptualy based pairwise distance is calculated as weighted difference between two VGG16 embeddings. `slerp (spherical linear interpolation)` is used for interpolating in latent space `Z` and for interpolation in `W`, `lerp (linear interpolation)` is used.
 
 ![alt text](figures/stylegan/stylegan3.png)
 
