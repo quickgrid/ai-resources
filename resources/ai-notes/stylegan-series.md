@@ -145,9 +145,15 @@ Previous approach of taking latent via input layer is discarded and instead a `l
 
 Latent code `z` from input latent space `Z` is fed via `mapping network` represented by `f` which in this paper is a 8 layer MLP. Mapping layer `f` takes `z` and outputs intermediate representation `w` from intermediate space `W`. The dimension of both `z` and `w` is 512.
 
-Learned affine transforms take `w` and output `styles` that control `adaptive instance normalization (AdaIN)` in generator.
+Learned affine transforms take `w` and output `style (y)` that control `adaptive instance normalization (AdaIN)` in generator.
+
+Generator is also provided with explicit noise inputs which provides direct means to generate `stochastic detail`. These are `single channel images` containing `uncorrelated gaussian noise` is fed after each convolution in the synthesis network.
+
+`Noise image` is `broadcasted to all feature maps` using `learned per-feature scaling factors (B)` and then added to the output of the corresponding convolution.
 
 ## AdaIN (Adaptive Instance Normalization)
+
+As I understand `y_s` and `y_b` are scale and bias of the `style (y)`. If is calculated for each feature map according to formula. 
 
 ![alt text](figures/stylegan/stylegan4.png)
 
