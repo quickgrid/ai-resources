@@ -39,12 +39,19 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 <br>
 
+#### Text to Image Generation
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| :dart: [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) | 2021 |  |
+
+<br>
+
 #### Multimodal Deep Learning
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
-| :dart: [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) |  |  |
-| :dart: [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) |  |  |  |
+| :dart: [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) | 2021 |  | 
 
 <br>
 
