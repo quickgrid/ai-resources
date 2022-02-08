@@ -2,7 +2,7 @@
 
 **TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES, REMOVE PAPERS NOT NEEDED.**
 
-The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is not included in the links below. A paper may fall into multiple categories but organized into a general one.
+The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is mostly not included in the links below. A paper may fall into multiple categories but organized into a general one.
 
 Some notes based on read papers can be found here, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
 
@@ -43,8 +43,8 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
-| [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) |  |  |
-| [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) |  |  |  |
+| :dart: [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) |  |  |
+| :dart: [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) |  |  |  |
 
 <br>
 
