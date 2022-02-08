@@ -8,7 +8,10 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 ## Papers Read
 
-:page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
+- :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
+- :dart: Represents further review is needed and partially annotated papers.
+- :triangular_flag_on_post: Represents fully annotated papers while reviewing.
+
 
 #### Uncategorized
 
@@ -33,6 +36,15 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | --- | --- | --- |
 | [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge](https://arxiv.org/abs/1609.06647) | 2016 |  |
 
+
+<br>
+
+#### Multimodal Deep Learning
+
+| Topic | Year | Conference | 
+| --- | --- | --- |
+| [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) |  |  |
+| [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) |  |  |  |
 
 <br>
 
@@ -91,11 +103,11 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  |
 | [Improved Training of Wasserstein GANs (WGAN-GP)](https://arxiv.org/abs/1704.00028) | 2017 |  | 
 | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014 |  | 
-| [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
-| [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
-| [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  |
-| [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://arxiv.org/abs/1710.10196) | 2017 |  | 
-| [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/pdf/1812.04948.pdf) | 2018 |  |
+| :triangular_flag_on_post: [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
+| :triangular_flag_on_post: [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
+| :triangular_flag_on_post: [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  |
+| :triangular_flag_on_post: [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://arxiv.org/abs/1710.10196) | 2017 |  | 
+| :triangular_flag_on_post: [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/pdf/1812.04948.pdf) | 2018 |  |
 
 <br>
 
@@ -153,8 +165,6 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization |  |  | https://arxiv.org/pdf/2104.05833.pdf |
 | Xception: Deep Learning with Depthwise Separable Convolutions |  |  | https://arxiv.org/pdf/1610.02357.pdf |
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  |  | https://arxiv.org/pdf/2008.00951.pdf |
-| Zero-Shot Text-to-Image Generation (DALL-E) |  |  | https://arxiv.org/pdf/2102.12092.pdf |
-| Learning Transferable Visual Models From Natural Language Supervision (CLIP) |  |  | https://arxiv.org/pdf/2103.00020.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  |  | https://arxiv.org/pdf/2006.10738.pdf |
 | Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  |  | https://arxiv.org/abs/1603.08155 |
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  |  | https://arxiv.org/pdf/1705.06830.pdf |
@@ -311,3 +321,4 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows](https://arxiv.org/abs/2008.02401) | 2020 |  |  |
 | [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | 2021 |  |  |
 | [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544) | 2019 |  |  |
+| [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | 2021 |  |  |
