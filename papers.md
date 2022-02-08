@@ -11,7 +11,7 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 - :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
 - :dart: Represents further review is needed and partially annotated papers.
 - :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing. 
-
+- :blue_book: Represents partially read papers or currently reviewing.
 
 #### Uncategorized
 
@@ -135,9 +135,6 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 <br>
 
 ## Reading List
-
-:blue_book: Represents partially read papers.
-
 
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
@@ -321,4 +318,4 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows](https://arxiv.org/abs/2008.02401) | 2020 |  |  |
 | [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | 2021 |  |  |
 | [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544) | 2019 |  |  |
-| [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | 2021 |  |  |
+| :blue_book: [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | 2021 |  |  |
