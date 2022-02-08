@@ -10,7 +10,7 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 - :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
 - :dart: Represents further review is needed and partially annotated papers.
-- :triangular_flag_on_post: Represents fully annotated papers while reviewing.
+- :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing. 
 
 
 #### Uncategorized
