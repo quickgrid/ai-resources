@@ -145,7 +145,6 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 | Topic | Year | Conference | Paper Link |
 | --- | --- | --- | --- |
-| Is Space-Time Attention All You Need for Video Understanding? |  |  | https://arxiv.org/pdf/2102.05095.pdf |
 | NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis |  |  | https://arxiv.org/abs/2003.08934 |
 | :blue_book: Implicit Neural Representations with Periodic Activation Functions (SIREN) |  |  | https://arxiv.org/abs/2006.09661 |
 | pixelNeRF: Neural Radiance Fields from One or Few Images |  |  | https://arxiv.org/abs/2012.02190 |
