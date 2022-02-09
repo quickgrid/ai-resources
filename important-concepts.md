@@ -20,5 +20,5 @@ Some useful links for understanding various concepts.
 
 | Concept | Links |
 | --- | --- |
-| **Byte Pair Encoding (BPE)** <br> Tag: | https://en.wikipedia.org/wiki/Byte_pair_encoding |
+| **Byte Pair Encoding (BPE)** <br> Tag: `Data Compression` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
 |  |  |
