@@ -14,3 +14,11 @@ Some useful links for understanding various concepts.
 |  | https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries |
 |  | https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
 |  |  |
+
+
+### NLP
+
+| Concept | Links |
+| --- | --- |
+| **Byte Pair Encoding (BPE)** <br> Tag: | https://en.wikipedia.org/wiki/Byte_pair_encoding |
+|  |  |
