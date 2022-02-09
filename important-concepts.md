@@ -20,6 +20,6 @@ Some useful links for understanding various concepts.
 
 | Concept | Links |
 | --- | --- |
-| **Byte Pair Encoding (BPE)** <br> Tag: `Data Compression` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
+| **Byte Pair Encoding (BPE)** <br> Tag: `Data Compression`, `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
 |  | https://www.freecodecamp.org/news/evolution-of-tokenization/ |
 |  |  |
