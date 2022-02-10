@@ -34,7 +34,7 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 | Topic | Year | Conference |
 | --- | --- | --- |
-| [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  |
+| :triangular_flag_on_post: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  |
 
 <br>
 
