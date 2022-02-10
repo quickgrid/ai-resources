@@ -30,6 +30,14 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 <br>
 
+#### Face Recognition, Clutering, Verification
+
+| Topic | Year | Conference |
+| --- | --- | --- |
+| [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  |
+
+<br>
+
 #### Image Captioning
 
 | Topic | Year | Conference | 
@@ -204,7 +212,6 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift |  |  | https://arxiv.org/abs/1502.03167 |
 | Diffusion Models Beat GANs on Image Synthesis |  |  | https://arxiv.org/abs/2105.05233 |
 | DeepFace: Closing the Gap to Human-Level Performance in Face Verification |  |  | https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf |
-| FaceNet: A Unified Embedding for Face Recognition and Clustering |  |  | https://arxiv.org/pdf/1503.03832.pdf |
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks |  |  | https://arxiv.org/abs/1905.11946 |
 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications |  |  | https://arxiv.org/abs/1704.04861 |
 | MobileNetV2: Inverted Residuals and Linear Bottlenecks |  |  | https://arxiv.org/abs/1801.04381 |
