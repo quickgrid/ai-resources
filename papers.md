@@ -333,3 +333,4 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | 2021 |  |  |
 | [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544) | 2019 |  |  |
 | :blue_book: [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | 2021 |  |  |
+| [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/pdf/2001.04193.pdf) | 2021 |  |  |
