@@ -17,7 +17,7 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 | [**important-concepts.md**](https://github.com/quickgrid/AI-Resources/blob/master/important-concepts.md) | Topic specific practical and theory concept links. |
 | [**commercial‑use‑models.md**](https://github.com/quickgrid/AI-Resources/blob/master/commercial-use-models.md) | Collection of AI models that can or cannot be be used for commercial purposes. |
 | | |
-| [**code‑lab**](https://github.com/quickgrid/CodeLab/tree/master/code-lab) | Code examples, demos, information related to general programming, AI codes etc. |
+| [**code‑lab**](https://github.com/quickgrid/code-lab) | Code examples, demos, information related to general programming, AI codes etc. |
 | [**paper‑implementations**](https://github.com/quickgrid/paper-implementations) | My attempts at trying to implement various papers with pytorch, tensorflow etc. |
 
 ## Contributing
