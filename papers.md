@@ -106,6 +106,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Going deeper with convolutions (Inception/GoogLeNet)](https://arxiv.org/abs/1409.4842) | 2014 |  |
 | [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG)](https://arxiv.org/abs/1409.1556) | 2014 |  |
 | :triangular_flag_on_post: [Wide Residual Networks](https://arxiv.org/abs/1605.07146) | 2016 |  |
+| :triangular_flag_on_post: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/pdf/1512.03385.pdf) | 2015 |  |
 
 <br>
 
@@ -167,7 +168,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Neural Sparse Voxel Fields |  |  | https://arxiv.org/abs/2007.11571 |
 | Generating Diverse High-Fidelity Images with VQ-VAE-2 |  |  | https://arxiv.org/pdf/1906.00446.pdf |
 | Image Inpainting for Irregular Holes Using Partial Convolutions |  |  | https://arxiv.org/pdf/1804.07723.pdf |
-| Deep Residual Learning for Image Recognition (ResNet) |  |  | https://arxiv.org/pdf/1512.03385.pdf |
 | :blue_book: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Pix2PixHD) |  |  | https://arxiv.org/pdf/1711.11585.pdf |
 | Fully Convolutional Networks for Semantic Segmentation |  |  | https://arxiv.org/pdf/1411.4038.pdf | 
 | Few-Shot Adversarial Learning of Realistic Neural Talking Head Models |  |  | https://arxiv.org/pdf/1905.08233.pdf | 
