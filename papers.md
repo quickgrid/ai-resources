@@ -105,7 +105,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) | 2016 |  |
 | [Going deeper with convolutions (Inception/GoogLeNet)](https://arxiv.org/abs/1409.4842) | 2014 |  |
 | [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG)](https://arxiv.org/abs/1409.1556) | 2014 |  |
-| :triangular_flag_on_post: [Wide Residual Networks](https://arxiv.org/abs/1605.07146) | 2016 |  |
+| :triangular_flag_on_post: [Wide Residual Networks (WRN)](https://arxiv.org/abs/1605.07146) | 2016 |  |
 | :triangular_flag_on_post: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/pdf/1512.03385.pdf) | 2015 |  |
 
 <br>
