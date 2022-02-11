@@ -19,7 +19,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 - :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
 - :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
 
-#### Uncategorized
+### Uncategorized
 
 | Topic | Year | Conference |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Object Recognition, Clutering, Verification
+### Object Recognition, Clutering, Verification
 
 | Topic | Year | Conference |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Image Captioning
+### Image Captioning
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -54,7 +54,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Text to Image Generation
+### Text to Image Generation
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -62,7 +62,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Multimodal Deep Learning
+### Multimodal Deep Learning
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -70,7 +70,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Object Tracking
+### Object Tracking
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -81,7 +81,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Image Super Resolution
+### Image Super Resolution
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -89,7 +89,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Image Segmentation
+### Image Segmentation
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -97,7 +97,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Convolutional Neural Network (CNN) Architectures
+### Convolutional Neural Network (CNN) Architectures
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -111,7 +111,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 <br>
 
 
-#### GAN Inversion
+### GAN Inversion
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -119,7 +119,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Generative Adversarial Network (GAN)
+### Generative Adversarial Network (GAN)
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -135,7 +135,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Image to Image Translation
+### Image to Image Translation
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
@@ -145,7 +145,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
-#### Neural Style Transfer (NST)
+### Neural Style Transfer (NST)
 
 | Topic | Year | Conference |
 | --- | --- | --- |
