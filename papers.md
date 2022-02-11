@@ -223,7 +223,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks |  |  | https://arxiv.org/abs/1905.11946 |
 | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications |  |  | https://arxiv.org/abs/1704.04861 |
 | MobileNetV2: Inverted Residuals and Linear Bottlenecks |  |  | https://arxiv.org/abs/1801.04381 |
-| YOLOv4: Optimal Speed and Accuracy of Object Detection |  |  | https://arxiv.org/pdf/2004.10934.pdf |
 | Conditional Image Synthesis with Auxiliary Classifier GANs |  |  | https://arxiv.org/pdf/1610.09585.pdf |
 | Multimodal Unsupervised Image-to-Image Translation |  |  | https://arxiv.org/abs/1804.04732 |
 | StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks |  |  | https://arxiv.org/abs/1612.03242 |
@@ -237,7 +236,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks |  |  | https://arxiv.org/abs/1711.10485 |
 | Patch-Based Image Inpainting with Generative Adversarial Networks |  |  | https://arxiv.org/abs/1803.07422 |
 | FNet: Mixing Tokens with Fourier Transforms |  |  | https://arxiv.org/abs/2105.03824 |
-| OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks |  |  | https://arxiv.org/pdf/1312.6229.pdf |
 | SMOT: Single-Shot Multi Object Tracking |  |  | https://arxiv.org/pdf/2010.16031.pdf |
 | Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation |  |  | https://arxiv.org/pdf/1905.08094.pdf |
 | Tiny Video Networks |  |  | https://arxiv.org/pdf/1910.06961.pdf |
