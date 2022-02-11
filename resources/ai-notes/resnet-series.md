@@ -56,3 +56,17 @@ Many of the text are copied from paper verbatim, others with some modifications 
 ## Residual Block Experiments
 
 <img src="figures/wide-resnet/wide_resnet_4.png" width=70% height=70%>
+
+
+# ResNeXt
+
+## ResNet vs ResNeXt Architecture
+
+<img src="figures/resnext/resnext_1.png" width=70% height=70%>
+
+## Aggregated Transform and Equivalent Blocks
+
+<img src="figures/resnext/resnext_2.png" width=70% height=70%>
+
+
+<img src="figures/resnext/resnext_3.png" width=70% height=70%>
