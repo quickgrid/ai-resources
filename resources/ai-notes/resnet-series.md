@@ -14,6 +14,7 @@ Many of the text are copied from paper verbatim, others with some modifications 
 | --- | --- | --- |
 | [Wide Residual Networks (WRN)](https://arxiv.org/abs/1605.07146) | 2016 |  |
 | [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/pdf/1512.03385.pdf) | 2015 |  |
+| [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) | 2016 |  |
 
 # ResNet 
 
