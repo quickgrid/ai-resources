@@ -107,6 +107,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG)](https://arxiv.org/abs/1409.1556) | 2014 |  |
 | :triangular_flag_on_post: [Wide Residual Networks (WRN)](https://arxiv.org/abs/1605.07146) | 2016 |  |
 | :triangular_flag_on_post: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/pdf/1512.03385.pdf) | 2015 |  |
+| :triangular_flag_on_post: [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) | 2016 |  |
 
 <br>
 
