@@ -194,7 +194,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs |  |  | https://arxiv.org/pdf/1606.00915.pdf |
 | Mask R-CNN |  |  | https://arxiv.org/abs/1703.06870 |
 | Learning a Similarity Metric Discriminatively, with Application to Face Verification |  |  | http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf |
-| Dimensionality Reduction by Learning an Invariant Mapping |  |  | http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf |
+| Dimensionality Reduction by Learning an Invariant Mapping (Contrastive Loss) |  |  | http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf |
 | Coupled Generative Adversarial Networks |  |  | https://arxiv.org/abs/1606.07536 |
 | The Unusual Effectiveness of Averaging in GAN Training |  |  | https://arxiv.org/abs/1806.04498v2 |
 | Hyperspherical Variational Auto-Encoders |  |  | https://arxiv.org/abs/1804.00891 |
