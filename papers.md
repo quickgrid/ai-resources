@@ -1,17 +1,23 @@
 # Papers
 
-**TODO: SORT PAPERS INTO RESPECTIVE CATEGORIES, ADD CONFERENCE/JOURNAL NAMES, REMOVE PAPERS NOT NEEDED.**
-
 The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is mostly not included in the links below. A paper may fall into multiple categories but organized into a general one.
 
-Some notes based on read papers can be found here, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
+### TODO: 
+
+- [ ] Sort papers into respective categories.
+- [ ] Add conference/journal names.
+- [ ] Remove papers not needed.
+- [ ] Remove paper link column.
+- [ ] Use meaningful icons and switch existing ones.
 
 ## Papers Read
 
-- :page_facing_up: Represents confusion regarding implementation, equations, details, or seems too hard etc.
-- :dart: Represents further review is needed and partially annotated papers.
+- :warning: Represents too much confusion regarding implementation, equations, details, or seems too hard etc.
+- :dart: Represents at least one full pass is made, further review is needed and partially annotated, understood papers.
 - :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing. 
-- :blue_book: Represents partially read papers or currently reviewing.
+- :blue_book: Represents partially read papers or currently reviewing but not made a whole pass.
+- :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
+- :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
 
 #### Uncategorized
 
@@ -25,8 +31,8 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace)](https://arxiv.org/abs/1907.05047) | 2019 |  |  
 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017 |  |  
 | [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) <br> [Supplementary](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer) | 2018 <br> - |  |
-| :page_facing_up: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  
-| :page_facing_up: [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |  
+| :warning: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  
+| :warning: [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |  
 
 <br>
 
@@ -34,7 +40,7 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 | Topic | Year | Conference |
 | --- | --- | --- |
-| :triangular_flag_on_post: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  |
+| :rocket: :triangular_flag_on_post: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  |
 | :triangular_flag_on_post: [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | 2015 |  |
 
 <br>
@@ -87,7 +93,7 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
-| [U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)](https://arxiv.org/abs/1505.04597) | 2015 |  |
+| :rocket: [U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)](https://arxiv.org/abs/1505.04597) | 2015 |  |
 
 <br>
 
@@ -99,6 +105,7 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) | 2016 |  |
 | [Going deeper with convolutions (Inception/GoogLeNet)](https://arxiv.org/abs/1409.4842) | 2014 |  |
 | [VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION (VGG)](https://arxiv.org/abs/1409.1556) | 2014 |  |
+| :triangular_flag_on_post: [Wide Residual Networks](https://arxiv.org/abs/1605.07146) | 2016 |  |
 
 <br>
 
@@ -119,8 +126,8 @@ Some notes based on read papers can be found here, https://github.com/quickgrid/
 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  |
 | [Improved Training of Wasserstein GANs (WGAN-GP)](https://arxiv.org/abs/1704.00028) | 2017 |  | 
 | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014 |  | 
-| :triangular_flag_on_post: [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
-| :triangular_flag_on_post: [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
+| :notebook: :triangular_flag_on_post: [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
+| :notebook: :triangular_flag_on_post: [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
 | :triangular_flag_on_post: [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  |
 | :triangular_flag_on_post: [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://arxiv.org/abs/1710.10196) | 2017 |  | 
 | :triangular_flag_on_post: [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/pdf/1812.04948.pdf) | 2018 |  |
