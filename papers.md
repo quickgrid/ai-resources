@@ -236,11 +236,8 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Pose Guided Person Image Generation  |  |  | https://arxiv.org/abs/1705.09368 |
 | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks |  |  | https://arxiv.org/abs/1711.10485 |
 | Patch-Based Image Inpainting with Generative Adversarial Networks |  |  | https://arxiv.org/abs/1803.07422 |
-| :blue_book: FeatureNMS: Non-Maximum Suppression by Learning Feature Embeddings |  |  | https://arxiv.org/pdf/2002.07662.pdf |
 | FNet: Mixing Tokens with Fourier Transforms |  |  | https://arxiv.org/abs/2105.03824 |
-| :blue_book: Adaptive NMS: Refining Pedestrian Detection in a Crowd |  |  | https://arxiv.org/pdf/1904.03629.pdf |
 | OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks |  |  | https://arxiv.org/pdf/1312.6229.pdf |
-| :page_facing_up: FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking |  |  | https://arxiv.org/abs/2004.01888 |
 | SMOT: Single-Shot Multi Object Tracking |  |  | https://arxiv.org/pdf/2010.16031.pdf |
 | Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation |  |  | https://arxiv.org/pdf/1905.08094.pdf |
 | Tiny Video Networks |  |  | https://arxiv.org/pdf/1910.06961.pdf |
