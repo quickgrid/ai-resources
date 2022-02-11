@@ -20,6 +20,16 @@ Recommend skimming all of the papers except Style GAN 2 ADA (optional) to get an
 - https://github.com/manicman1999/StyleGAN-Tensorflow-2.0
 - https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0
 
+### Papers
+
+| Paper | Year | Conference |
+| --- | --- | --- |
+| [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  | 
+| [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  |
+| [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  |
+| [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://arxiv.org/abs/1710.10196) | 2017 |  | 
+| [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/pdf/1812.04948.pdf) | 2018 |  |
+
 ### TODO
 
 - [ ] Organize notes such that everything can be found easily for implementation.
