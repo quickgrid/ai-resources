@@ -338,3 +338,5 @@ The year column represents publishing year in arxiv and not the year of latest r
 | :blue_book: [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | 2021 |  |  |
 | [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/pdf/2001.04193.pdf) | 2021 |  |  |
 | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://arxiv.org/abs/2003.08936) | 2020 |  |  |
+| [Taming Transformers for High-Resolution Image Synthesis (VQGAN)](https://arxiv.org/pdf/2012.09841.pdf) | 2021 |  |  |
+| [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) | 2021 |  |  |
