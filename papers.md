@@ -337,3 +337,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Image2StyleGAN++: How to Edit the Embedded Images?](https://arxiv.org/abs/1911.11544) | 2019 |  |  |
 | :blue_book: [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | 2021 |  |  |
 | [Deep Learning for Person Re-identification: A Survey and Outlook](https://arxiv.org/pdf/2001.04193.pdf) | 2021 |  |  |
+| [GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://arxiv.org/abs/2003.08936) | 2020 |  |  |
