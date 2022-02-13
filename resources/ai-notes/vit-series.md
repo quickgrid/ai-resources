@@ -6,6 +6,10 @@ Many of the text are copied from paper verbatim, others with some modifications 
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
+### TODO
+
+- Fill in important highlighted missing details.
+
 # Vision Transformer Family
 
 ### Papers
