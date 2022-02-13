@@ -6,7 +6,7 @@ Many of the text are copied from paper verbatim, others with some modifications 
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
-# Vision Transform Family
+# Vision Transformer Family
 
 ### Papers
 
@@ -16,12 +16,20 @@ Many of the text are copied from paper verbatim, others with some modifications 
 
 # Vision Transformer (ViT) 
 
-<img src="figures/vit/vit_1.png" width=50% height=50%>
+## Architecture
 
-<img src="figures/vit/vit_2.png" width=50% height=50%>
+<img src="figures/vit/vit_1.png" width=80% height=80%>
 
-<img src="figures/vit/vit_3.png" width=50% height=50%>
+## Implementation Details
 
-<img src="figures/vit/vit_4.png" width=50% height=50%>
+<img src="figures/vit/vit_2.png" width=80% height=80%>
 
-<img src="figures/vit/vit_5.png" width=50% height=50%>
+<img src="figures/vit/vit_3.png" width=80% height=80%>
+
+## Multihead Self Attention (MSA)
+
+<img src="figures/vit/vit_4.png" width=80% height=80%>
+
+## Axial Attention
+
+<img src="figures/vit/vit_5.png" width=80% height=80%>
