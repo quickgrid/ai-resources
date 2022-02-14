@@ -27,7 +27,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Feature Pyramid Networks for Object Detection (FPN)](https://arxiv.org/abs/1612.03144) | 2016 |  |
 | [COIN: COmpression with Implicit Neural representations](https://arxiv.org/abs/2103.03123) | 2021 |  |  
 | [MaskGAN: Towards Diverse and Interactive Facial Image Manipulation](https://arxiv.org/abs/1907.11922) | 2019 |  |  
-| [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (Vision Transformer)](https://arxiv.org/abs/2010.11929) | 2020 |  |  
 | [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs (BlazeFace)](https://arxiv.org/abs/1907.05047) | 2019 |  |  
 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017 |  |  
 | [Deep Image Prior](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) <br> [Supplementary](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer) | 2018 <br> - |  |
@@ -36,12 +35,20 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
+### Vision Transformers
+
+| Topic | Year | Conference |
+| --- | --- | --- |
+| :rocket: [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE <br> (Vision Transformer, ViT)](https://arxiv.org/abs/2010.11929) | 2020 |  |  
+
+<br>
+
 ### Object Recognition, Clutering, Verification
 
 | Topic | Year | Conference |
 | --- | --- | --- |
 | :rocket: :triangular_flag_on_post: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  |
-| :triangular_flag_on_post: [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | 2015 |  |
+| :rocket: :triangular_flag_on_post: [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | 2015 |  |
 
 <br>
 
