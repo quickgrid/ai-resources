@@ -12,5 +12,5 @@ Many of the text are copied from paper as is and others with some modifications.
 | --- | --- |
 | [stylegan-series.md](resources/ai-notes/stylegan-series.md) | ProGAN, StyleGAN, StyleGAN 2, StyleGAN 2 ADA, StyleGAN 3 |
 | [resnet-series.md](resources/ai-notes/resnet-series.md) | ResNet, Wide ResNet (WRN), ResNeXt|
-| [vit-series.md](resources/ai-notes/vit-series.md) | VIT |
+| [vision-transformer-series.md](resources/ai-notes/vit-series.md) | ViT |
 
