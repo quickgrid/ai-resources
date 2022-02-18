@@ -18,5 +18,5 @@ Many of the text are copied from paper verbatim, others with some modifications 
 | --- | --- | --- |
 | :triangular_flag_on_post: [Distilling the Knowledge in a Neural Network (Knowledge Distillation)](https://arxiv.org/abs/1503.02531) | 2015 |  |
 
-# Distilling the Knowledge in a Neural Network (Knowledge Distillation)
+# Distilling the Knowledge in a Neural Network
 
