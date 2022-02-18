@@ -16,4 +16,4 @@ Short form name refers to original paper, otherwise if short form not avialable 
 | [resnet-series.md](resources/ai-notes/resnet-series.md) | ResNet, Wide ResNet (WRN), ResNeXt|
 | [vision-transformer-series.md](resources/ai-notes/vit-series.md) | ViT |
 | [gaugan-series](resources/ai-notes/gaugan-series.md) | GauGAN/SPADE |
-| [knowledge-distillation-series](resources/ai-notes/knowledge-distillation-series) | Distilling the Knowledge in a Neural Network |
+| [knowledge-distillation-series](resources/ai-notes/knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network |
