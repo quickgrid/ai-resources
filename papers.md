@@ -43,6 +43,15 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 <br>
 
+### Knowledge Distillation
+
+
+| Topic | Year | Conference |
+| --- | --- | --- |
+| :triangular_flag_on_post: [Distilling the Knowledge in a Neural Network (Knowledge Distillation)](https://arxiv.org/abs/1503.02531) | 2015 |  |
+
+<br>
+
 ### Object Recognition, Clutering, Verification
 
 | Topic | Year | Conference |
