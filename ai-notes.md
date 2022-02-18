@@ -4,6 +4,8 @@ Notes from reading various deep learning, computer vision etc. papers.
 
 Many of the text are copied from paper as is and others with some modifications. Figures are from paper. Highlighted portions should be read and only some of the highlighted parts are expanded as notes.
 
+Short form name refers to original paper, otherwise if short form not avialable then full paper name is used.
+
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
 ## Notes
@@ -14,3 +16,4 @@ Many of the text are copied from paper as is and others with some modifications.
 | [resnet-series.md](resources/ai-notes/resnet-series.md) | ResNet, Wide ResNet (WRN), ResNeXt|
 | [vision-transformer-series.md](resources/ai-notes/vit-series.md) | ViT |
 | [gaugan-series](resources/ai-notes/gaugan-series.md) | GauGAN/SPADE |
+| [knowledge-distillation-series](resources/ai-notes/knowledge-distillation-series)] | Distilling the Knowledge in a Neural Network |
