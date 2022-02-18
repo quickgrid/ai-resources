@@ -39,7 +39,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 | Topic | Year | Conference |
 | --- | --- | --- |
-| :rocket: [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE <br> (Vision Transformer, ViT)](https://arxiv.org/abs/2010.11929) | 2020 |  |  
+| :rocket: :triangular_flag_on_post: [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE <br> (Vision Transformer, ViT)](https://arxiv.org/abs/2010.11929) | 2020 |  |  
 
 <br>
 
