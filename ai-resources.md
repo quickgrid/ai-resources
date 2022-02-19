@@ -440,12 +440,16 @@
 
 | Name | Link |
 | --- | --- |
-| :triangular_flag_on_post: ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
+| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
 | ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
 | Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
-| :triangular_flag_on_post: ML Paper Code Implementation From Scratch With Pytorch, Tensorflow | https://www.youtube.com/c/AladdinPersson/videos |
+| ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
 | Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
-| :triangular_flag_on_post: Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
+| Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
+| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
+| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
 
 <br>
 
