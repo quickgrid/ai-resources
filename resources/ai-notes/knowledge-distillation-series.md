@@ -19,3 +19,11 @@
 ## Experiment Details
 
 <img src="figures/knowledge-distillation/knowledge_distillation_3.png" width=80% height=80%>
+
+# On the Efficacy of Knowledge Distillation
+
+Bigger models with more accuracy does not mean they are good teachers.
+
+
+# Does Knowledge Distillation ReallyWork?
+
