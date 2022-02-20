@@ -4,11 +4,10 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 ### TODO: 
 
-- [ ] Sort papers into respective categories.
-- [ ] Add conference/journal names.
-- [ ] Remove papers not needed.
-- [ ] Remove paper link column.
-- [ ] Use meaningful icons and switch existing ones.
+- Sort papers into respective categories.
+- Add conference/journal names.
+- Remove papers not needed.
+- Remove paper link column.
 
 ## Papers Read
 
