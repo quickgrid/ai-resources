@@ -5,6 +5,8 @@
 | Topic | Year | Conference |
 | --- | --- | --- |
 | [Distilling the Knowledge in a Neural Network (Knowledge Distillation)](https://arxiv.org/abs/1503.02531) | 2015 |  |
+| [On the Efficacy of Knowledge Distillation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf) | 2019 |  |  |
+| [Does Knowledge Distillation Really Work?](https://openreview.net/pdf?id=7J-fKoXiReA) | 2021 |  |  |
 
 # Distilling the Knowledge in a Neural Network
 
