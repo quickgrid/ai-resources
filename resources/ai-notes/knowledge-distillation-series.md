@@ -22,6 +22,9 @@
 
 <img src="figures/knowledge-distillation/knowledge_distillation_3.png" width=80% height=80%>
 
+
+<br>
+<hr>
 <br>
 
 # On the Efficacy of Knowledge Distillation
@@ -53,8 +56,13 @@ Bigger models with more accuracy does not mean they are good teachers. Early sto
 <img src="figures/knowledge-distillation/knowledge_distillation_efficacy_6.png" width=50% height=50%>
 
 <br>
+<hr>
+<br>
 
 # Does Knowledge Distillation Really Work?
 
-Optimization is a key reason for student not matching teacher and matching teacher does not mean better student generalization.
+Optimization is a key reason for student not matching teacher and matching teacher does not mean better student generalization. `Fidelity` students ability to match teacher predictions, `generalization` performance on unseen data.
 
+<img src="figures/knowledge-distillation/distillation_really_work_1.png" width=80% height=80%>
+
+<img src="figures/knowledge-distillation/distillation_really_work_2.png" width=80% height=80%>
