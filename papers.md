@@ -356,3 +356,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://arxiv.org/abs/2003.08936) | 2020 |  |  |
 | [Taming Transformers for High-Resolution Image Synthesis (VQGAN)](https://arxiv.org/pdf/2012.09841.pdf) | 2021 |  |  |
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) | 2021 |  |  |
+| [On the Efficacy of Knowledge Distillation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf) | 2019 |  |  |
+| [Does Knowledge Distillation Really Work?](https://openreview.net/pdf?id=7J-fKoXiReA) | 2021 |  |  |
+| [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf) | 2020 |  |  |
