@@ -30,4 +30,4 @@ Short form name refers to original paper, otherwise if short form not avialable 
 | [gaugan-series.md](resources/ai-notes/gaugan-series.md) | GauGAN/SPADE |
 | [knowledge-distillation-series.md](resources/ai-notes/knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network
 | | On the Efficacy of Knowledge Distillation |
-| | Does Knowledge Distillation ReallyWork? |
+| | Does Knowledge Distillation Really Work? |
