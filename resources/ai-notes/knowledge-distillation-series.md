@@ -25,5 +25,5 @@
 Bigger models with more accuracy does not mean they are good teachers.
 
 
-# Does Knowledge Distillation ReallyWork?
+# Does Knowledge Distillation Really Work?
 
