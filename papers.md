@@ -49,7 +49,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | --- | --- | --- |
 | :triangular_flag_on_post: [Distilling the Knowledge in a Neural Network (Knowledge Distillation)](https://arxiv.org/abs/1503.02531) | 2015 |  |
 | :triangular_flag_on_post: [On the Efficacy of Knowledge Distillation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cho_On_the_Efficacy_of_Knowledge_Distillation_ICCV_2019_paper.pdf) | 2019 |  |  |
-| :triangular_flag_on_post: [Does Knowledge Distillation Really Work?](https://openreview.net/pdf?id=7J-fKoXiReA) | 2021 |  |  |
+| :triangular_flag_on_post: :warning: [Does Knowledge Distillation Really Work?](https://openreview.net/pdf?id=7J-fKoXiReA) | 2021 |  |  |
 
 <br>
 
