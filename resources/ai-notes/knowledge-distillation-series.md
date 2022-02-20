@@ -20,10 +20,39 @@
 
 <img src="figures/knowledge-distillation/knowledge_distillation_3.png" width=80% height=80%>
 
+<br>
+
 # On the Efficacy of Knowledge Distillation
 
 Bigger models with more accuracy does not mean they are good teachers. Early stopped teachers are better.
 
+## Knowledge Distillation Diagram
+
+<img src="figures/knowledge-distillation/knowledge_distillation_efficacy_1.png" width=50% height=50%>
+
+## Knowledge Distillation Loss Function
+
+<img src="figures/knowledge-distillation/knowledge_distillation_efficacy_3.png" width=50% height=50%>
+
+## Abstract and Model Simplification
+
+<img src="figures/knowledge-distillation/knowledge_distillation_efficacy_2.png" width=50% height=50%>
+
+<!--
+<img src="figures/knowledge-distillation/knowledge_distillation_efficacy_4.png" width=90% height=90%>
+-->
+
+## Knowledge Distillation gets Worse than Scratch
+
+<img src="figures/knowledge-distillation/knowledge_distillation_efficacy_5.png" width=50% height=50%>
+
+## Early Teacher Training Stopping
+
+<img src="figures/knowledge-distillation/knowledge_distillation_efficacy_6.png" width=50% height=50%>
+
+<br>
 
 # Does Knowledge Distillation Really Work?
+
+Optimization is a key reason for student not matching teacher and matching teacher does not mean better student generalization.
 
