@@ -22,7 +22,7 @@
 
 # On the Efficacy of Knowledge Distillation
 
-Bigger models with more accuracy does not mean they are good teachers.
+Bigger models with more accuracy does not mean they are good teachers. Early stopped teachers are better.
 
 
 # Does Knowledge Distillation Really Work?
