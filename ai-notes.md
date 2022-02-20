@@ -18,8 +18,16 @@ Short form name refers to original paper, otherwise if short form not avialable 
 
 | Link | Topic |
 | --- | --- |
-| [stylegan-series.md](resources/ai-notes/stylegan-series.md) | ProGAN, StyleGAN, StyleGAN 2, StyleGAN 2 ADA, StyleGAN 3 |
-| [resnet-series.md](resources/ai-notes/resnet-series.md) | ResNet, Wide ResNet (WRN), ResNeXt|
+| [stylegan-series.md](resources/ai-notes/stylegan-series.md) | ProGAN |
+| | StyleGAN |
+| | StyleGAN 2 |
+| | StyleGAN 2 ADA |
+| | StyleGAN 3 |
+| [resnet-series.md](resources/ai-notes/resnet-series.md) | ResNet |
+| | Wide ResNet (WRN) |
+| | ResNeXt |
 | [vision-transformer-series.md](resources/ai-notes/vit-series.md) | ViT |
-| [gaugan-series](resources/ai-notes/gaugan-series.md) | GauGAN/SPADE |
-| [knowledge-distillation-series](resources/ai-notes/knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network |
+| [gaugan-series.md](resources/ai-notes/gaugan-series.md) | GauGAN/SPADE |
+| [knowledge-distillation-series.md](resources/ai-notes/knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network
+| | On the Efficacy of Knowledge Distillation |
+| | Does Knowledge Distillation ReallyWork? |
