@@ -168,7 +168,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Topic | Year | Conference |
 | --- | --- | --- |
 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br> [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | 2016 <br> 2015 | CVPR <br> - |
-| [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br> [Supplementary](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf) | 2016 |  |
+| :triangular_flag_on_post: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br> :triangular_flag_on_post: [Supplementary](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf) | 2016 |  |
 
 
 <!-- 
