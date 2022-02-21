@@ -15,6 +15,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 - :dart: Represents at least one full pass is made, further review is needed and partially annotated, understood papers.
 - :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing. 
 - :blue_book: Represents partially read papers or currently reviewing but not made a whole pass.
+- :gem: Represents papers easy to read, almost self contained paper with most details to understand the papers are in it. 
 - :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
 - :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
 
@@ -168,7 +169,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Topic | Year | Conference |
 | --- | --- | --- |
 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br> [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | 2016 <br> 2015 | CVPR <br> - |
-| :triangular_flag_on_post: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br> :triangular_flag_on_post: [Supplementary](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf) | 2016 |  |
+| :gem: :triangular_flag_on_post: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br> :gem: :triangular_flag_on_post: [Supplementary](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf) | 2016 |  |
 
 
 <!-- 
