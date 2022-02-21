@@ -39,6 +39,15 @@
 
 <img src="figures/gaugan/gaugan_7.png" width=50% height=50%>
 
+
+
+## Spatially Adaptive Denormalization (SPADE)
+
+<img src="figures/gaugan/gaugan_11.png" width=90% height=90%>
+
+<img src="figures/gaugan/gaugan_12.png" width=50% height=50%>
+
+
 ## Discriminator
 
 <img src="figures/gaugan/gaugan_3.png" width=50% height=50%>
@@ -47,10 +56,3 @@
 
 <img src="figures/gaugan/gaugan_8.png" width=50% height=50%>
 
-
-
-## Spatially Adaptive Denormalization (SPADE)
-
-<img src="figures/gaugan/gaugan_11.png" width=90% height=90%>
-
-<img src="figures/gaugan/gaugan_12.png" width=50% height=50%>
