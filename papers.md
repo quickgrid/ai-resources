@@ -15,7 +15,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 - :dart: Represents at least one full pass is made, further review is needed and partially annotated, understood papers.
 - :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing. 
 - :blue_book: Represents partially read papers or currently reviewing but not made a whole pass.
-- :gem: Represents papers easy to read, almost self contained paper with most details to understand the papers are in it. 
+- :gem: Represents papers easy to read, understand, almost self contained paper with most details to implement the papers are in it. 
 - :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
 - :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
 
