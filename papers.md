@@ -11,7 +11,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 ## Papers Read
 
-- :warning: Represents too much confusion regarding implementation, equations, details, or seems too hard etc.
+- :warning: Represents too much confusion regarding implementation, equations, details, complicated structure, language or seems too hard etc.
 - :dart: Represents at least one full pass is made, further review is needed and partially annotated, understood papers.
 - :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing. 
 - :blue_book: Represents partially read papers or currently reviewing but not made a whole pass.
