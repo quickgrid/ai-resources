@@ -168,6 +168,7 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Topic | Year | Conference |
 | --- | --- | --- |
 | [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) <br> [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) | 2016 <br> 2015 | CVPR <br> - |
+| [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br> [Supplementary](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf) | 2016 |  |
 
 
 <!-- 
@@ -203,7 +204,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 | Xception: Deep Learning with Depthwise Separable Convolutions |  |  | https://arxiv.org/pdf/1610.02357.pdf |
 | Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation |  |  | https://arxiv.org/pdf/2008.00951.pdf |
 | Differentiable Augmentation for Data-Efficient GAN Training |  |  | https://arxiv.org/pdf/2006.10738.pdf |
-| Perceptual Losses for Real-Time Style Transfer and Super-Resolution |  |  | https://arxiv.org/abs/1603.08155 |
 | Exploring the structure of a real-time, arbitrary neural artistic stylization network |  |  | https://arxiv.org/pdf/1705.06830.pdf |
 | Balancing reconstruction error and Kullback-Leibler divergence in Variational Autoencoders |  |  | https://arxiv.org/abs/2002.07514 |
 | Self-Normalizing Neural Networks |  |  | https://arxiv.org/abs/1706.02515 |
