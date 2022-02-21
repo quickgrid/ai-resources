@@ -26,8 +26,9 @@ Short form name refers to original paper, otherwise if short form not avialable 
 | [resnet-series.md](resources/ai-notes/resnet-series.md) | ResNet |
 | | Wide ResNet (WRN) |
 | | ResNeXt |
+| [neural-style-series.md](resources/ai-notes/nst-series.md) | Perceptual Losses for Real-Time Style Transfer and Super-Resolution |
 | [vision-transformer-series.md](resources/ai-notes/vit-series.md) | ViT |
 | [gaugan-series.md](resources/ai-notes/gaugan-series.md) | GauGAN/SPADE |
-| [knowledge-distillation-series.md](resources/ai-notes/knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network
+| [knowledge-distillation-series.md](resources/ai-notes/knowledge-distillation-series.md) | Distilling the Knowledge in a Neural Network |
 | | On the Efficacy of Knowledge Distillation |
 | | Does Knowledge Distillation Really Work? |
