@@ -8,4 +8,4 @@
 
 # Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 
-Proposed is many times faster than previous and result is generated in single forward pass with optimization on output image at test time. Instead of using pixel wise loss they use perceptual loss. Perceptual loss uses intermediate layers features of pretrained network to calculate loss between various input images.
+Proposed method is orders of magnitude faster than previous and result is generated in single forward pass without explicit optimization on output image at test time. Instead of using pixel wise loss they use perceptual loss. Perceptual loss uses intermediate layers features of pretrained network to calculate loss between various input images.
