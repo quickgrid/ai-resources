@@ -359,3 +359,4 @@ The year column represents publishing year in arxiv and not the year of latest r
 | [Taming Transformers for High-Resolution Image Synthesis (VQGAN)](https://arxiv.org/pdf/2012.09841.pdf) | 2021 |  |  |
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) | 2021 |  |  |
 | [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/pdf/2004.05937.pdf) | 2020 |  |  |
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) | 2018 |  |  |
