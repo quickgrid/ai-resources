@@ -16,7 +16,6 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 | [**ai-notes.md**](ai-notes.md) | My personal ai notes with figures, text based on papers, articles etc. |
 | [**blender-notes.md**](blender-notes.md) | My personal blender notes that can be applied for AI tasks etc. |
 | [**important-concepts.md**](important-concepts.md) | Topic specific practical and theory concept links. |
-| [**useful_commands.md**](useful_commands.md) | Usage example of some useful linux commands. |
 | | |
 | [**code‑lab**](https://github.com/quickgrid/code-lab) | Code examples, demos, information related to general programming, AI codes etc. |
 | [**paper‑implementations**](https://github.com/quickgrid/paper-implementations) | My attempts at trying to implement various papers mostly in pytorch etc. |
