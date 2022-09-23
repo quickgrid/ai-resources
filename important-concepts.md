@@ -63,8 +63,11 @@ Some useful links for understanding various concepts.
   Running above command on chosen conda enviroment on conda prompt will start Tensorboard on port 8088. It can be accessed from browser on, `http://localhost:8088`.
   Here, I have used absolute path. Reference, https://stackoverflow.com/questions/40106949/unable-to-open-tensorboard-in-browser.
 
+<br>
 
-### Example move processed zip file from kaggle to google colab and then from colab move to google drive.
+# Colab
+
+Example move processed zip file from kaggle to google colab and then from colab move to google drive.
 
 #### From Kaggle
 
