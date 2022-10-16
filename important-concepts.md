@@ -80,29 +80,6 @@ drive.mount('/content/drive')
 
 A build and setup guide for various libraries, tools, cloud usage etc. Moved from, https://github.com/quickgrid/Setup-Guide, to reduce fragmentation.
 
-
-## Tools Required
-
-Download the installer or zip version of cmake. Dlib 19.19 from official website had bug with opencv `cv_image` which is fixed on github source.
-
-- CMake, https://cmake.org/download/
-- Visual Studio 2019 Community Edition
-- Vulkan SDK, https://vulkan.lunarg.com/sdk/home
-- Cuda and cuDNN with `CUDA_PATH` environment variable set
-- Dlib source code from github, https://github.com/davisking/dlib
-- Anaconda, https://www.anaconda.com/products/individual
-- NCNN source, https://github.com/Tencent/ncnn
-- OpenCV source, https://github.com/opencv/opencv
-- OpenCV contrib source, https://github.com/opencv/opencv_contrib
-
-<br>
-
-## Android
-
-Note in order to make latest version of all three working in same project the easiest way for beginner is to setup opencv contrib/opencv, next setup dlib after changing target project name, cmake, ndk paths, finally setup ncnn.
-
-`NOTE:` Must create C++ android project to make these all work together.
-
 ### OpenCV Contrib
 
 Build instructions for opencv contrib,
