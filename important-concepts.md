@@ -127,23 +127,6 @@ Download the installer or zip version of cmake. Dlib 19.19 from official website
 
 <br>
 
-## Projects Tested
-
-These are some of the projects I have tested. Most or all of these can be implemented in both pc and android. 
-
-| Name | Link |
-| --- | --- |
-| Very fast and accurate rotation-invariant face detector | https://github.com/MagicJackStone/FaceKit/tree/master/PCN |
-| Ultra light face detector OpenCV DNN | https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB/tree/master/opencv_dnn |
-| Ultra light face detector NCNN | https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB/tree/master/ncnn/src |
-| Object Tracking | https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/ |
-| Facial Landmarks with Dlib | http://dlib.net/face_landmark_detection_ex.cpp.html |
-| Facial Landmarks with OpenCV Contrib | https://docs.opencv.org/master/de/d27/tutorial_table_of_content_face.html <br> https://github.com/kurnianggoro/GSOC2017 |
-| YoloFace face detection | https://github.com/sthanhng/yoloface |
-| OpenCV DNN Object Detection and Localizaiton | Pretrained darknet yolo (cfg, weights), Caffe (prototxt, caffemodel) etc. |
-
-<br>
-
 ## Android
 
 Note in order to make latest version of all three working in same project the easiest way for beginner is to setup opencv contrib/opencv, next setup dlib after changing target project name, cmake, ndk paths, finally setup ncnn.
