@@ -1,10 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  * [`# Pretrained Models`](#-pretrained-models)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
   * [`# Code Examples`](#-code-examples)
   * [`# Topics`](#-topics)
-    + [Object Detection](#object-detection)
     + [Generative Adversarial Network](#generative-adversarial-network)
     + [3D ML, Data Processing, Visualization](#3d-machine-learning-data-processing-visualization)
     + [3D Computer Vision and Graphics](#3D-computer-vision-and-graphics)
@@ -37,19 +35,6 @@
   * [`# Techniques`](#-techniques)
   * [`# Theory`](#-theory)
 
-<br>
-
-## `# Pretrained Models`
-
-| Description | Link |
-| --- | --- |
-| Tesseract Models | https://github.com/tesseract-ocr/tessdata <br> https://github.com/tesseract-ocr/tessdata_best |
-| FastText NLP Pretrained Vectors | https://fasttext.cc/docs/en/crawl-vectors.html |
-| OpenVino Pretrained Models for Various Tasks | https://github.com/opencv/open_model_zoo <br> https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md <br> https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md <br> https://download.01.org/opencv/2021/openvinotoolkit/2021.2/open_model_zoo/models_bin/3/ |
-| OpenVino Public Models | https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md |
-| ONNX Models | https://github.com/onnx/models |
-| Tensorflow Hub ML Models | https://tfhub.dev/ |
-
 
 <br>
 
@@ -75,14 +60,6 @@
 <br>
 
 ## `# Topics`
-
-### Object Detection
-
-| Description | Link |
-| --- | --- |
-| Tensorflow Object Detection API Training | https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html |
-| Darknet Yolo v4 Object Detection Training | https://github.com/AlexeyAB/darknet |
-| Pytorch Yolo v5 Object Detection Training | https://github.com/ultralytics/yolov5 |
 
 
 ### Generative Adversarial Network
