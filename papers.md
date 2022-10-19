@@ -24,7 +24,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 | [MaskGAN: Towards Diverse and Interactive Facial Image Manipulation](https://arxiv.org/abs/1907.11922) | 2019 |  |  
 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017 |  |  
 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  
-| [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |  
+| [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |
+| [Deep Image Prior](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf) <br> [Supplementary](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2711-supp.pdf) | 2018 |  |
 
 <br>
 
