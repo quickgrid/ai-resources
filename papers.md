@@ -7,7 +7,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 ## Papers Read
 
-- :dart: Represents partially read or at least one full pass is made, further review is needed and partially annotated, understood papers.
+- :dart: Represents at least one full pass is made, further review is needed and partially understood papers.
 - :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing.
 - :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
 - :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
