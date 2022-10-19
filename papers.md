@@ -112,7 +112,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 <br>
 
 
-### GAN Inversion
+### Survey/Review Papers
 
 | Topic | Year | Conference | 
 | --- | --- | --- |
