@@ -659,7 +659,7 @@ select * from Posts where OwnerUserId = @UserID
 
 ## Pytorch Low Memory Training and Inference
 
-Good resource, [huggingface performance](https://huggingface.co/docs/transformers/performance), [single gpu guide](https://huggingface.co/docs/transformers/perf_train_gpu_one) and [deepspeed guide](https://huggingface.co/docs/transformers/main_classes/deepspeed).
+Good resources, [huggingface performance](https://huggingface.co/docs/transformers/performance), [single gpu guide](https://huggingface.co/docs/transformers/perf_train_gpu_one) and [deepspeed guide](https://huggingface.co/docs/transformers/main_classes/deepspeed).
 
 - Gradient checkpointing selected modules lowering vram requirement at the cost of speed. 
 - During training set batch size to 1 and accumulate gradient in loop N times at the cost of training speed.
@@ -696,9 +696,14 @@ Good resource, [huggingface performance](https://huggingface.co/docs/transformer
 Some of the things described above for reducing gpu memory requirement is also applicable to improve speed.
 
 - Convert model to onnx for inference.
-- Prune model.
+- Prune model with pytorch, [NNI](https://github.com/microsoft/nni) etc.
 - Quantize model.
 - Distillation.
+- TensorRT.
+- Jit model.
+- Avoid custom python functions, loops and use native functions.
+- Use numba, cython if applicable.
+- Custom cpp cuda extensions.
 
 ## Azure ML Training
 
