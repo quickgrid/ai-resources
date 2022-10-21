@@ -657,6 +657,48 @@ DECLARE @UserId int = ##UserId##
 select * from Posts where OwnerUserId = @UserID
 ```
 
+## Pytorch Low Memory Training and Inference
+
+Good resource, [huggingface performance](https://huggingface.co/docs/transformers/performance), [single gpu guide](https://huggingface.co/docs/transformers/perf_train_gpu_one) and [deepspeed guide](https://huggingface.co/docs/transformers/main_classes/deepspeed).
+
+- Gradient checkpointing selected modules lowering vram requirement at the cost of speed. 
+- During training set batch size to 1 and accumulate gradient in loop N times at the cost of training speed.
+- During inference set batch size to 1.
+- Set torch to eval mode during inference.
+- Use torch.no_grad() during inference.
+- Delete models or other memory intersive calculated variables with del, then garbage collect and cuda empty cache. Often deleting a variable will not release memory. Like deleting a dict `output` variable then garbage collect and empty cache may still retain memory and cause cuda memory error. In this case using `del output['predictions']` and following rest of the process will work.
+
+  `output` variable,
+  ```
+  {'predictions': tensor([[ 0.6208, -0.7106],
+           [ 0.6987, -0.7888],
+           [ 1.3222, -1.4706]], device='cuda:0'),
+   'targets': tensor([0, 1, 1], device='cuda:0')}
+  ```
+
+  releasing memory,
+  ```
+  del output['predictions']
+  import gc
+  gc.collect()
+  torch.cuda.empty_cache()
+  ``` 
+- A single model may contain parts which are not all used at the same time. Discard or not loading those keys will save memory for training and inference.
+- During inference optimizer states, scheduler etc. are not needed, only loading the (multiple if applicable) state_dict will reduce memory.
+- Prunning to compress model and reduce memory.
+- Knowledge distillation to distill from large teacher model to a small student model. It will speed up and reduce memory size at the cost of some accuracy.
+- Model quantization from FP32 to FP16, INT8 will speedup processing. It will also reduce memory size (not sure yet!!!).
+- Using low memory requirement alternative of various modules like self attention. There are alternatives that are equally good but requires lot less memory.
+- Use deepspeed (TODO).
+
+## Pytorch Faster Inference
+
+Some of the things described above for reducing gpu memory requirement is also applicable to improve speed.
+
+- Convert model to onnx for inference.
+- Prune model.
+- Quantize model.
+- Distillation.
 
 ## Azure ML Training
 
