@@ -657,3 +657,7 @@ DECLARE @UserId int = ##UserId##
 select * from Posts where OwnerUserId = @UserID
 ```
 
+
+## Azure ML Training
+
+Todo
