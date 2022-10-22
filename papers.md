@@ -160,6 +160,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 ## Reading List
 
-| Topic | Year | Conference | Paper Link |
-| --- | --- | --- | --- |
-|  |  |  |  |
+| Topic | Year | Conference |
+| --- | --- | --- |
+| [SELF-ATTENTION DOES NOT NEED O(n2) MEMORY](https://arxiv.org/pdf/2112.05682v2.pdf) |  |  |
+| [Escaping the Big Data Paradigm with Compact Transformers](https://arxiv.org/pdf/2104.05704.pdf) |  |  |
+| [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |  |
