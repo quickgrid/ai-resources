@@ -166,7 +166,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 | [Escaping the Big Data Paradigm with Compact Transformers](https://arxiv.org/pdf/2104.05704.pdf) |  |  |
 | [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |  |
 | [cosFormer: Rethinking Softmax in Attention](https://arxiv.org/pdf/2202.08791.pdf) | 2022 | ICLR |
-| [MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER]([https://arxiv.org/pdf/2202.08791.pdf](https://openreview.net/pdf?id=vh-0sUt8HlG)) | 2022 | ICLR |
+| [MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE, AND MOBILE-FRIENDLY VISION TRANSFORMER](https://openreview.net/pdf?id=vh-0sUt8HlG) | 2022 | ICLR |
 | [Mega: Moving Average Equipped Gated Attention](https://arxiv.org/pdf/2209.10655.pdf) |  |  |
 | [MAXIM: Multi-Axis MLP for Image Processing](https://arxiv.org/pdf/2201.02973.pdf) |  |  |
 | [MaxViT: Multi-Axis Vision Transformer](https://arxiv.org/pdf/2204.01697.pdf) |  |  |
