@@ -7,7 +7,6 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 | Section | Description |
 | --- | --- |
 | [**ai‑resources.md**](ai-resources.md) | A collection of various resources related to Machine Learning, Deep Learning, Computer Vision. |
-| [**python-libraries.md**](https://github.com/quickgrid?tab=stars) | Links to task specific python library repositories. |
 | [**ai-notes.md**](ai-notes.md) | My personal ai notes with figures, text based on papers, articles etc. |
 | [**blender-notes.md**](blender-notes.md) | My personal blender notes that can be applied for AI tasks etc. |
 | [**papers.md**](papers.md) | Add only papers worth implementing, important concepts that can be applied in future or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. |
