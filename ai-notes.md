@@ -10,10 +10,6 @@ Short form name refers to original paper, otherwise if short form not avialable 
 
 **WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
-### Todo
-
-- Fill missing parts and details from papers that were highlighted but not extracted.
-
 ## Notes
 
 | Link | Topic |
