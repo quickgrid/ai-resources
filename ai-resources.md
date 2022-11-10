@@ -78,17 +78,13 @@
 | Name | Link |
 | --- | --- |
 | :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
-| Seedbank Interactive ML Examples | https://research.google.com/seedbank/ |
 | Host ML Results | https://tensorboard.dev/ |
 | Pretrained Models & Code | https://modelzoo.co/ |
 | Kaggle ML Competitions | https://www.kaggle.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
-| Awesome Public Datasets | https://github.com/awesomedata/awesome-public-datasets |
-| Annotation Tool List | https://www.datasetlist.com/tools/ |
 | :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
-| MWML AI articles, links etc. | https://madewithml.com/ |
 | AI models & code | https://www.catalyzex.com/ |
 | :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
@@ -97,11 +93,7 @@
 | In Browser Collaborative IDE | https://repl.it/ | 
 | ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
 | :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
-| AI Articles on Latest Papers | https://ai-scholar.tech/en |
-| Buy, Sell, Get Free AI Models | https://modelplace.ai/ |
-| AI Overview | https://montrealartificialintelligence.com/academy/ |
 | High Quality Python Tutorials | https://realpython.com/ |
-| GAN Papers Summerized | https://www.casualganpapers.com/ |
 
 
 
