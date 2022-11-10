@@ -3,7 +3,7 @@
 # AI Resources
 
 
-## `# Cheetsheets & Glossary`
+## `Cheetsheets & Glossary`
 
 | Description | Link |
 | --- | --- |
@@ -13,14 +13,61 @@
 <br>
 
 
-## `# Code Examples | Scratch Implementations`
+## `Code Examples | Scratch Implementations`
 
 | Description | Link |
 | --- | --- |
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
 | OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
 | Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
- 
+
+
+<br>
+
+## `Youtube Paper Review`
+
+| Name | Link |
+| --- | --- |
+| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
+| ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
+| Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
+| ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
+| Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
+| Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
+| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
+| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
+
+<br>
+
+## `Dataset Search`
+
+| Name | Link |
+| --- | --- |
+| Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
+| Google Dataset Search | https://datasetsearch.research.google.com/ |
+| Kaggle Datasets | https://www.kaggle.com/datasets |
+| Coco Dataset | https://cocodataset.org/ |
+| Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
+| Open Images Dataset | https://storage.googleapis.com/openimages/web/index.html |
+
+<br>
+
+## `Enviornment | Softwares`
+
+| Name | Link |
+| --- | --- |
+| :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
+| Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
+| :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
+| VSCodium Editor | https://github.com/VSCodium/vscodium |
+| Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
+| :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
+| Photo Editor | https://krita.org/ |
+| Android Studio IDE | https://developer.android.com/studio |
+| :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
+
 <br>
 
 ## `# Topics`
@@ -78,39 +125,12 @@
 
 
 
-### Dataset Search
 
-| Name | Link |
-| --- | --- |
-| Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
-| Google Dataset Search | https://datasetsearch.research.google.com/ |
-| Kaggle Datasets | https://www.kaggle.com/datasets |
-| Coco Dataset | https://cocodataset.org/ |
-| Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
-| Open Images Dataset | https://storage.googleapis.com/openimages/web/index.html |
 
 
 ### Installation
 
-#### Enviornment
 
-| Name | Link |
-| --- | --- |
-| :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
-| Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
-
-### Softwares
-
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
-| VSCodium Editor | https://github.com/VSCodium/vscodium |
-| Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
-| :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
-| Photo Editor | https://krita.org/ |
-| Android Studio IDE | https://developer.android.com/studio |
-| :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
-| Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
  
 #### Development
 
@@ -120,6 +140,7 @@
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module |
 | Python Cross Platform App Development | https://kivy.org/ |
 | Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
+| Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
 
 
 #### General Purpose (ML DL CV etc.)
@@ -295,22 +316,6 @@
 | Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
 
-<br>
-
-## `# Paper Review`
-
-| Name | Link |
-| --- | --- |
-| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
-| ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
-| Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
-| ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
-| Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
-| Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
-| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
-| DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
-| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
-| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
 
 <br>
 
