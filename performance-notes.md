@@ -6,7 +6,7 @@ This needs to improved as it may have mistakes and some texts needs to separated
 
 # Python
 
-- Use python 3.11+ as there are reported improvement in speed.
+- Use python 3.11+ as there are [reported improvement](https://docs.python.org/3/whatsnew/3.11.html) in speed.
 - Use [dis module](https://docs.python.org/3/library/dis.html) of python to disassemble and inspect bytecode.
 
 # C++
