@@ -1,6 +1,6 @@
 # AI-Resources
 
-Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Programming etc. for my learning purposes.
+Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Programming etc. for my learning purposes. These may contain mistakes, corrections are welcome.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 | [**blender-notes.md**](blender-notes.md) | My personal blender notes that can be applied for AI tasks etc. |
 | [**papers.md**](papers.md) | Add only papers worth implementing, important concepts that can be applied in future or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. |
 | [**setup-guide.md**](setup-guide.md) | FAQ, how to, general information, build and setup for various tools etc. from my practical experience. Moved from and up to date version of, https://github.com/quickgrid/Setup-Guide. |
-| [**performance-notes.md**](blender-notes.md) | My notes on various practical programming performance improvement methods I learned etc. |
+| [**performance-notes.md**](performance-notes.md) | My notes on various practical programming performance improvement methods I learned etc. |
 | | |
 | [**code‑lab**](https://github.com/quickgrid/code-lab) | Code examples, demos, information related to general programming, AI codes etc. |
 | [**paper‑implementations**](https://github.com/quickgrid/paper-implementations) | My attempts at trying to implement various papers mostly in pytorch etc. |
