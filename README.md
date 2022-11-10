@@ -10,7 +10,7 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 | [**ai-notes.md**](ai-notes.md) | My personal ai notes with figures, text based on papers, articles etc. |
 | [**blender-notes.md**](blender-notes.md) | My personal blender notes that can be applied for AI tasks etc. |
 | [**papers.md**](papers.md) | Add only papers worth implementing, important concepts that can be applied in future or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. |
-| [**setup-guide.md**](setup-guide.md) | FAQ, how to, general information, build and setup for various tools etc. from my practical experience. Moved from and up to date version of, https://github.com/quickgrid/Setup-Guide. |
+| [**setup-guide.md**](setup-guide.md) | FAQ, how to, general information, build and setup for various tools etc. from my practical experience.  |
 | [**performance-notes.md**](performance-notes.md) | My notes on various practical programming performance improvement methods I learned etc. |
 | | |
 | [**code‑lab**](https://github.com/quickgrid/code-lab) | Code examples, demos, information related to general programming, AI codes etc. |
