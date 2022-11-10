@@ -379,18 +379,6 @@ This contains python libraries, frameworks, tools for various tasks. The links w
 
 | Task | Link |
 | --- | --- |
-| **Machine Learning, Deep Learning** <br> Tag: `Neural Networks`, `Training`, `Inference` etc. | https://github.com/pytorch/pytorch |
-| | https://github.com/tensorflow/tensorflow |
-|  |  |
-| **Computer Vision** and **Image Processing** | https://github.com/opencv/opencv |
-| | https://github.com/scikit-image/scikit-image |
-| | https://github.com/python-pillow/Pillow |
-| | https://github.com/open-mmlab/mmcv |
-|  |  |
-| **Image Similarity** <br> Tag: `Image Hashing` | https://github.com/JohannesBuchner/imagehash |
-|  |  |
-| **Scientific Computation** <br> Tag: `Fast Mathematics` | https://github.com/numpy/numpy |
-|  |  |
 | **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation`, `JIT`, `GPU` | https://github.com/numba/numba |
 | | https://github.com/cython/cython | 
 | | https://github.com/serge-sans-paille/pythran | 
