@@ -70,6 +70,12 @@
 
 <br>
 
+
+
+<hr>
+<br>
+<br>
+
 ## `# Topics`
 
 ### 3D Machine Learning, Data Processing, Visualization
@@ -143,7 +149,7 @@
 | Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
 
 
-#### General Purpose (ML DL CV etc.)
+#### `General Purpose (ML, DL) | Computer Vision | Image Processing`
 
 | Name | Link |
 | --- | --- |
@@ -154,18 +160,11 @@
 | Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
 | Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
-
-
-#### Computer Vision & Image Processing
-
-| Name | Link |
-| --- | --- |
 | :triangular_flag_on_post: OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
 | Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
 | ImageIO | https://imageio.github.io/ |
 | Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
-| Gluon CV | https://gluon-cv.mxnet.io/ |
 | EasyOCR | https://github.com/JaidedAI/EasyOCR |
 
 
