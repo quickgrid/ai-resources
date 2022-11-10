@@ -83,6 +83,23 @@
 
 <br>
 
+
+## `Research Paper Tools | News`
+
+| Name | Link |
+| --- | --- |
+| AI models & code | https://www.catalyzex.com/ |
+| :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
+| :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
+| :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
+| ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
+| Open Peer Review | https://openreview.net/ |
+| :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
+
+
+<br>
+
+
 <br>
 <br>
 
@@ -137,17 +154,11 @@
 | Pretrained Models & Code | https://modelzoo.co/ |
 | Kaggle ML Competitions | https://www.kaggle.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
-| :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
-| AI models & code | https://www.catalyzex.com/ |
-| :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
-| Open Peer Review | https://openreview.net/ |
 | In Browser Collaborative IDE | https://repl.it/ | 
-| ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
-| :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
 | High Quality Python Tutorials | https://realpython.com/ |
 | OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 
@@ -243,12 +254,6 @@
 | Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
 
 
-
-### Research News
-
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
 
 
 
