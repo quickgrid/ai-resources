@@ -114,14 +114,21 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <hr>
 <br>
 
 **TODO: Cleanup and remove links not needed.**
 
-<br>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -246,7 +253,6 @@
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
 | DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
-| Visual Explanation of ML Research | https://distill.pub/ |
 | MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 | DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
 | Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
@@ -264,7 +270,7 @@
 | Paperspace AI Articles | https://blog.paperspace.com/ |
 | Christopher Olah's Blog | https://colah.github.io/ |
 | Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
-
+| Visual Explanation of ML Research | https://distill.pub/ |
 
 
 
