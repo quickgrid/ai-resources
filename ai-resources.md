@@ -281,7 +281,6 @@
 | Name | Link |
 | --- | --- |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
-| Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Paperspace AI Articles | https://blog.paperspace.com/ |
 | Christopher Olah's Blog | https://colah.github.io/ |
 | Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
