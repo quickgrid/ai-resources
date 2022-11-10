@@ -6,7 +6,6 @@
 | Description | Link |
 | --- | --- |
 | Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
-| ML Cheatsheet | https://ml-cheatsheet.readthedocs.io/en/latest/index.html |
 
 <br>
 
@@ -46,9 +45,7 @@
 | Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Kaggle Datasets | https://www.kaggle.com/datasets |
-| Coco Dataset | https://cocodataset.org/ |
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
-| Open Images Dataset | https://storage.googleapis.com/openimages/web/index.html |
 
 <br>
 
@@ -63,7 +60,6 @@
 | Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
 | :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
 | Photo Editor | https://krita.org/ |
-| Android Studio IDE | https://developer.android.com/studio |
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
 
 <br>
