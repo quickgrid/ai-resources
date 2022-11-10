@@ -13,12 +13,13 @@
 <br>
 
 
-## `# Code Examples`
+## `# Code Examples | Scratch Implementations`
 
 | Description | Link |
 | --- | --- |
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
 | OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
+| Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
  
 <br>
 
@@ -45,12 +46,6 @@
 | OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
 | Free Human Motion BVH Files | https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture/cmu-bvh-conversion |
 
-
-### Reinforcement Learning
-
-| Description | Link |
-| --- | --- |
-| OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 
 <br>
 
@@ -79,6 +74,7 @@
 | ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
 | :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
 | High Quality Python Tutorials | https://realpython.com/ |
+| OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 
 
 
@@ -284,13 +280,6 @@
 | Algorithms Part 2 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part2 | 
 | Self Driving Car Specialization with Computer Vision Topics, Applications | https://www.coursera.org/specializations/self-driving-cars |
 
-
-
-### Code Implementations
-
-| Name | Link |
-| --- | --- |
-| Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
 
 
 <br>
