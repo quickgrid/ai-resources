@@ -218,16 +218,9 @@
 | --- | --- |
 | :triangular_flag_on_post: Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
-| Javascript NLP Library | https://github.com/spencermountain/compromise |
-| Chatterbot NLP | https://github.com/gunthercox/ChatterBot |
 | Rasa NLP | https://rasa.com/ |
-| PolyGlot NLP | https://github.com/aboSamoor/polyglot |
-| Snips NLP | https://github.com/snipsco/snips-nlu |
 | Stanford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
-| AllenNLP | https://github.com/allenai/allennlp |
 | Flair NLP | https://github.com/flairNLP/flair |
-| DeepPavlov NLP | https://github.com/deepmipt/DeepPavlov |
-| Gluon NLP | https://gluon-nlp.mxnet.io/ |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 
 
@@ -243,17 +236,10 @@
 
 ### Data Collection, Generation & Augmentation
 
-:bulb: Also look into [GAN Section](#generative-adversarial-network) for generative data augmentation.
-
 | Name | Link |
 | --- | --- |
-| Synthetic Image Data Generation | https://github.com/Belval/TextRecognitionDataGenerator |
-| NLU Dataset Generator | https://rodrigopivi.github.io/Chatito/ |
-| Open Images V4 Image Downloader | https://github.com/EscVM/OIDv4_ToolKit |
 | Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
-| Various Object Detection Image Augmentations | https://github.com/Paperspace/DataAugmentationForObjectDetection |
 | Image Augmentation Library | https://github.com/aleju/imgaug |
-| Image Augmentation Library | https://github.com/mdbloice/Augmentor |
 
 
 
@@ -275,7 +261,6 @@
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
 | DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
-| AI Papers as Webpage, Personalized Library | https://www.groundai.com/ |
 | Visual Explanation of ML Research | https://distill.pub/ |
 | MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 | DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
