@@ -324,9 +324,6 @@
 | --- | --- |
 | Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
 | About saving models in Tensorflow to continue training and deployment as Checkpoints and saved model | https://www.tensorflow.org/guide/checkpoint <br> https://www.tensorflow.org/guide/saved_model |
-| Tensorflow graph freezing, frozen graph, checkpoint, saved model to onnx conversion | https://github.com/onnx/tensorflow-onnx |
-| ML Dataset List with Various Information | https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research |
-| Tensorflow TFRecord Format | https://www.tensorflow.org/tutorials/load_data/tfrecord <br> https://keras.io/examples/keras_recipes/tfrecord/ <br> https://www.skcript.com/svr/why-every-tensorflow-developer-should-know-about-tfrecord/ |
 | Object Detection Bounding Box Annotation | http://vision.stanford.edu/pdf/bbox_submission.pdf |
 | What is logits and relation to loss function | https://datascience.stackexchange.com/questions/31041/what-does-logits-in-machine-learning-mean <br> https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/16 <br> https://keras.io/api/losses/ |
 | Basic information on MKL, BLAS, LAPACK | https://en.wikipedia.org/wiki/Math_Kernel_Library <br> https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms <br> https://en.wikipedia.org/wiki/LAPACK |
