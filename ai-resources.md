@@ -99,7 +99,7 @@
 
 <br>
 
-## `# Books`
+## `Books`
 
 | Name | Link |
 | --- | --- |
