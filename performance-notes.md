@@ -4,6 +4,10 @@ Notes on various programming performance improvements methods I learned. This wi
 
 This needs to improved as it may have mistakes and some texts needs to separated to appropriate categories to be more meaningful. Also need to fix duplicates of same text in multiple categories.
 
+# Language Independent Concepts
+
+- Todo.
+
 # Python
 
 - Use python 3.11+ as there are [reported improvement](https://docs.python.org/3/whatsnew/3.11.html) in speed.
