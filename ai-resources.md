@@ -1,43 +1,6 @@
 **TODO: Cleanup and remove links not needed.**
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-  * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
-  * [`# Code Examples`](#-code-examples)
-  * [`# Topics`](#-topics)
-    + [3D ML, Data Processing, Visualization](#3d-machine-learning-data-processing-visualization)
-    + [3D Computer Vision and Graphics](#3D-computer-vision-and-graphics)
-    + [Reinforcement Learning](#reinforcement-learning)
-  * [`# 3D Resources`](#-3d-resources)
-    + [Free Models and Asset Sites](#free-models-and-asset-sites)  
-  * [`# Tools`](#-tools)
-    + [Online](#online)
-    + [Dataset Search](#dataset-search)
-    + [Installation](#installation)
-      - [Enviornment](#enviornment)
-      - [Softwares](#softwares)      
-      - [Development](#development)
-      - [General Purpose (ML DL)](#general-purpose-ml-dl)
-      - [Computer Vision & Image Processing](#computer-vision--image-processing)
-      - [NLP](#nlp)
-    + [Data Annotation](#data-annotation)
-    + [Data Collection, Generation & Augmentation](#data-collection-generation--augmentation)
-  * [`# Websites`](#-websites)
-    + [AI Sites](#ai-sites)
-    + [Research Blogs](#research-blogs)
-    + [AI Blogs](#ai-blogs)
-    + [AI Articles](#ai-articles)
-    + [Research News](#research-news)
-    + [Courses](#courses)
-    + [Code Implementations](#code-implementations)
-  * [`# Books`](#-books)
-  * [`# Paper Review`](#-paper-review)
-  * [`# FAQ`](#-faq)
-  * [`# Techniques`](#-techniques)
-  * [`# Theory`](#-theory)
-
-
-<br>
+# AI Resources
 
 
 ## `# Cheetsheets & Glossary`
@@ -256,7 +219,6 @@
 | Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
-| Google AI Education | https://ai.google/education/ |
 | Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
 | Edx | https://www.edx.org/ |
@@ -389,9 +351,7 @@
 
 <br>
 
-## `# FAQ`
-
-### General
+## `# FAQ | Techniques | Theory`
 
 | Description | Link |
 | --- | --- |
@@ -415,24 +375,10 @@
 | **Static libraies vs Dynamic/shared libraries** <br> Tag: `Static Linking vs Dynmaic Linking`, `*.so, *.dll vs *.a, *.lib files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 |
 |  | https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries |
 |  | https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
-
-<br>
-
-## `# Techniques`
-
-| Description | Link |
-| --- | --- |
 | Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
 | Vectorization, SIMD, Intrinsics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
 | Test Time Augmentation | https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/ <br> https://stepup.ai/test_time_data_augmentation/ |
 | Pytorch Einstein Summation (einsum) | https://rockt.github.io/2018/04/30/einsum |
-
-<br>
-
-## `# Theory`
-
-| Description | Link |
-| --- | --- |
 | :gem: Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
 | Expected value vs. Average | https://math.stackexchange.com/questions/904343/what-is-the-difference-between-average-and-expected-value/1355657#1355657 |
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
