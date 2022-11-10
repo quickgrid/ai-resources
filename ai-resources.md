@@ -284,15 +284,12 @@
 | Computer Vision III: Detection, Segmentation and Tracking (CV3DST) | https://dvl.in.tum.de/teaching/cv3dst-ss20/ |
 | Advanced Deep Learning for Computer vision (ADL4CV) | https://dvl.in.tum.de/teaching/adl4cv-ss20/ |
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
-| NYU Deep Learning with Pytorch | https://atcold.github.io/pytorch-Deep-Learning/ |
 | :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
 | GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
 | :triangular_flag_on_post: Tensorflow Advanced Techniques (deeplearning.ai) | https://www.coursera.org/specializations/tensorflow-advanced-techniques |
 | :triangular_flag_on_post: First Principles of Computer Vision Specialization | https://www.coursera.org/specializations/firstprinciplesofcomputervision |
 | Deepmind Deep Learning Lectures 2020 | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020 |
 | DeepMind Intro to RL | https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver |
-| DeepMind RL Lecture Series 2018 | https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018 |
-| IBM Deep Learning and Reinforcement Learning | https://www.coursera.org/learn/deep-learning-reinforcement-learning |
 | Geometric Algorithms | https://www.coursera.org/learn/geometric-algorithms | 
 | Discrete Optimization | https://www.coursera.org/learn/discrete-optimization |  
 | Robotics Perception, Computer Vision Topics | https://www.coursera.org/learn/robotics-perception?specialization=robotics |  
