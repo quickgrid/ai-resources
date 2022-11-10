@@ -246,9 +246,7 @@
 | Name | Link |
 | --- | --- |
 | Christopher Olah's Blog | https://colah.github.io/ |
-| Blog on Computer Vision | https://gombru.github.io/ |
 | Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
-| Tutorial on CV ML & more | https://maelfabien.github.io |
 
 ### AI Articles
 
