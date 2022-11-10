@@ -56,21 +56,6 @@
 
 ## `# 3D Resources`
 
-### Free Models and Asset Sites
-
-`*` means sign up is required.
-
-| Name | Link |
-| --- | --- |
-| `*` CGTrader | https://www.cgtrader.com/free-3d-models |
-| PolyHaven | https://polyhaven.com/models |
-| Free3D | https://free3d.com/3d-models/blender |
-| BlendFile | https://www.blendfile.com/ |
-| BlenderBoom | https://www.blenderboom.com/product-category/free/ |
-| `*` BlenderKit | https://www.blenderkit.com/asset-gallery?query=category_subtree:model%20order:-created%20is_free:true |
-| `*` BlenderSwap | https://www.blendswap.com/ |
-
-
 ## `# Tools`
 
 ### Online
