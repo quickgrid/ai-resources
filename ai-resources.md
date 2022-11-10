@@ -1,5 +1,3 @@
-**TODO: Cleanup and remove links not needed.**
-
 # AI Resources
 
 
@@ -69,12 +67,13 @@
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
 
 <br>
-
+<br>
 
 
 <hr>
 <br>
 <br>
+**TODO: Cleanup and remove links not needed.**
 
 ## `# Topics`
 
