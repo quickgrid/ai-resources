@@ -419,8 +419,6 @@ This contains python libraries, frameworks, tools for various tasks. The links w
 |  |  |
 | **Image Background Removal** <br> Tag: `Image Matting`, `Image Segmentation` | https://github.com/danielgatis/rembg |
 |  |  |
-| **3D** <br> Tag: `Mesh Processing`, `Photogrammetry`, `Image Stiching`, `3D Model` | https://github.com/cnr-isti-vclab/meshlab |
-|  |  |
 | **Code Simplification** <br> Tag: `Tensor Operations`, `Shorthand Notations` | https://github.com/arogozhnikov/einops |
 
 
