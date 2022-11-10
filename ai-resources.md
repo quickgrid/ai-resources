@@ -11,6 +11,13 @@
 
 <br>
 
+## `Learning Programming`
+
+| Description | Link |
+| --- | --- |
+| High Quality Python Tutorials | https://realpython.com/ |
+
+<br>
 
 ## `Code Examples | Scratch Implementations`
 
@@ -188,7 +195,6 @@
 | Interactive Jupyter Notebook | https://mybinder.org/ |
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
 | In Browser Collaborative IDE | https://repl.it/ | 
-| High Quality Python Tutorials | https://realpython.com/ |
 | OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 
 
