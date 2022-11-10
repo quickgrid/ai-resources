@@ -96,6 +96,17 @@
 | Open Peer Review | https://openreview.net/ |
 | :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
 
+<br>
+
+## `# Books`
+
+| Name | Link |
+| --- | --- |
+| :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
+| Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
+| Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
+| Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
+| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
 <br>
 
@@ -300,17 +311,7 @@
 
 
 
-<br>
 
-## `# Books`
-
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
-| Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
-| Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
-| Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
-| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
 
 
