@@ -38,7 +38,7 @@
 
 <br>
 
-## `Dataset Search`
+## `Dataset Search | Annotation | Augmentation`
 
 | Name | Link |
 | --- | --- |
@@ -46,6 +46,12 @@
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Kaggle Datasets | https://www.kaggle.com/datasets |
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
+|  |  |
+| VoTT Image Annotation | https://github.com/microsoft/VoTT |
+| Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
+|  |  |
+| Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
+| Image Augmentation Library | https://github.com/aleju/imgaug |
 
 <br>
 
@@ -197,21 +203,8 @@
 
 
 
-### Data Annotation
-
-| Name | Link |
-| --- | --- |
-| VoTT Image Annotation | https://github.com/microsoft/VoTT |
-| Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
 
 
-
-### Data Collection, Generation & Augmentation
-
-| Name | Link |
-| --- | --- |
-| Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
-| Image Augmentation Library | https://github.com/aleju/imgaug |
 
 
 
@@ -224,8 +217,6 @@
 
 | Name | Link |
 | --- | --- |
-| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
-| Computer Vision Tutorials | https://www.learnopencv.com/ |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
 | Udacity | https://www.udacity.com |
@@ -241,19 +232,16 @@
 
 
 
-### AI Blogs
+### AI Blogs | Tutorials | Articles
 
 | Name | Link |
 | --- | --- |
+| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
+| Computer Vision Tutorials | https://www.learnopencv.com/ |
+| Paperspace AI Articles | https://blog.paperspace.com/ |
 | Christopher Olah's Blog | https://colah.github.io/ |
 | Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
 
-### AI Articles
-
-| Name | Link |
-| --- | --- |
-| Nanonets AI articles | https://nanonets.com/blog/ |
-| Paperspace AI Articles | https://blog.paperspace.com/ |
 
 
 ### Research News
