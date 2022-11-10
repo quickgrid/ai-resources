@@ -1,7 +1,7 @@
 # AI Resources
 
 
-## `Cheetsheets & Glossary`
+## `Cheetsheets | Glossary`
 
 | Description | Link |
 | --- | --- |
@@ -67,13 +67,29 @@
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
 
 <br>
+
+## `Research Blogs`
+
+| Name | Link |
+| --- | --- |
+| Facebook AI | https://ai.facebook.com/ |
+| OpenAI Blog | https://openai.com/blog/ |
+| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
+| Microsoft Research | https://www.microsoft.com/en-us/research/ |
+| Google Research | https://research.google/ |
+| Deepmind Research | https://deepmind.com/research |
+
 <br>
 
 
 <hr>
 <br>
-<br>
+
 **TODO: Cleanup and remove links not needed.**
+
+<br>
+
+
 
 ## `# Topics`
 
@@ -221,16 +237,7 @@
 | Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
 
 
-### Research Blogs
 
-| Name | Link |
-| --- | --- |
-| Facebook AI | https://ai.facebook.com/ |
-| OpenAI Blog | https://openai.com/blog/ |
-| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
-| Microsoft Research | https://www.microsoft.com/en-us/research/ |
-| Google Research | https://research.google/ |
-| Deepmind Research | https://deepmind.com/research |
 
 
 ### AI Blogs
