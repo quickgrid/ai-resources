@@ -197,7 +197,6 @@
 
 | Name | Link |
 | --- | --- |
-| Skorch | https://github.com/skorch-dev/skorch |
 | :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
 | Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
@@ -205,10 +204,6 @@
 | Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
 | Dlib | http://dlib.net/ |
 | MXNet | https://mxnet.apache.org/ |
-| Tencent NCNN | https://github.com/Tencent/ncnn |
-| Alibaba MNN | https://github.com/alibaba/MNN |
-| AutoKeras | https://autokeras.com/ |
-| TPOT AutoML Tool | http://epistasislab.github.io/tpot/ |
 
 
 #### Computer Vision & Image Processing
