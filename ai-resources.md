@@ -129,6 +129,32 @@
 | Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
 | Problem Solving, Coding Interview Preparation | https://leetcode.com/ |
 
+<br>
+
+
+## `Course Sites`
+
+| Description | Link |
+| --- | --- |
+| Udacity | https://www.udacity.com |
+| Coursera | https://coursera.org |
+| Edx | https://www.edx.org/ |
+| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
+| Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
+| Stanford AI Course List | https://ai.stanford.edu/courses/ |
+
+
+<br>
+
+## `AI Blogs | Tutorials | Articles`
+
+| Name | Link |
+| --- | --- |
+| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
+| Paperspace AI Articles | https://blog.paperspace.com/ |
+| Visual Explanation of ML Research | https://distill.pub/ |
+
+<br>
 
 
 <br>
@@ -260,27 +286,14 @@
 
 | Name | Link |
 | --- | --- |
-| Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
-| Udacity | https://www.udacity.com |
-| Coursera | https://coursera.org |
-| Edx | https://www.edx.org/ |
-| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
 | MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 
 
 
 
 
-### AI Blogs | Tutorials | Articles
 
-| Name | Link |
-| --- | --- |
-| Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
-| Paperspace AI Articles | https://blog.paperspace.com/ |
-| Christopher Olah's Blog | https://colah.github.io/ |
-| Blog on DL, RL | https://lilianweng.github.io/lil-log/ |
-| Visual Explanation of ML Research | https://distill.pub/ |
 
 
 
@@ -289,7 +302,6 @@
 
 | Name | Link |
 | --- | --- |
-| Stanford AI Course List | https://ai.stanford.edu/courses/ |
 | EPFL Computer Vision Course | https://www.epfl.ch/labs/cvlab/teaching/ <br> https://moodle.epfl.ch/course/view.php?id=472#section-8 |
 | TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html <br> https://vision.in.tum.de/teaching/online |
 | CMU 11-785 Introduction to Deep Learning | https://deeplearning.cs.cmu.edu/S21/index.html |
