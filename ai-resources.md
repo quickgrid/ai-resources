@@ -90,7 +90,6 @@
 
 | Name | Link |
 | --- | --- |
-| AI models & code | https://www.catalyzex.com/ |
 | :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
 | :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
 | :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
