@@ -186,8 +186,6 @@
 | Name | Link |
 | --- | --- |
 | :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
-| Host ML Results | https://tensorboard.dev/ |
-| Pretrained Models & Code | https://modelzoo.co/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
