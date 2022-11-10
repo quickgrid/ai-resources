@@ -112,6 +112,17 @@
 <br>
 
 
+## `Skill Evaluation | Problem Solving | Contests`
+
+| Description | Link |
+| --- | --- |
+| Kaggle ML Competitions | https://www.kaggle.com/ |
+| DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
+| Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
+| Problem Solving, Coding Interview Preparation | https://leetcode.com/ |
+
+
+
 <br>
 <br>
 <br>
@@ -171,7 +182,6 @@
 | :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
 | Host ML Results | https://tensorboard.dev/ |
 | Pretrained Models & Code | https://modelzoo.co/ |
-| Kaggle ML Competitions | https://www.kaggle.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
@@ -254,8 +264,6 @@
 | Edx | https://www.edx.org/ |
 | DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
 | MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
-| DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
-| Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
 
 
 
