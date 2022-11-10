@@ -171,8 +171,6 @@
 | Name | Link |
 | --- | --- |
 | MPI Perceiving Systems | https://ps.is.mpg.de/ |
-| MPI Intelligent Systems | https://is.mpg.de/ |
-| Michael J. Black (Distinguished Researcher) | https://ps.is.mpg.de/~black |
 | OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
 | Free Human Motion BVH Files | https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture/cmu-bvh-conversion |
 
