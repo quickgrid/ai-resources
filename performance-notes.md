@@ -2,7 +2,16 @@
 
 Notes on various programming performance improvements methods I learned. This will generally contain topic, brief description and may have links for detailed exploration.
 
-This needs to improved as it may have mistakes and some texts needs to separated to appropriate categories to be more meaningful.
+This needs to improved as it may have mistakes and some texts needs to separated to appropriate categories to be more meaningful. Also need to fix duplicates of same text in multiple categories.
+
+# Python
+
+- Use python 3.11+ as there are reported improvement in speed.
+- Use [dis module](https://docs.python.org/3/library/dis.html) of python to disassemble and inspect bytecode.
+
+# C++
+
+- Use compiler optimization flags. In gcc compiler there are [flags](https://www.rapidtables.com/code/linux/gcc/gcc-o.html) like `-O2`, `-O3` and others. There is tradeoff between compile time, memory usage, code size vs execution time.
 
 # Pytorch 
 
@@ -55,8 +64,6 @@ Some of the things described above for reducing gpu memory requirement is also a
 - Custom cpp cuda extensions.
 
 # Running ML Models in Real Time
-
-
 
 - Try INT8, FP16 quantization.
 - Use ONNX runtime, OpenCV DNN, TFLite, openvino.
