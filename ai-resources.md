@@ -148,14 +148,10 @@
 | --- | --- |
 | Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
-| Computer Vision Datasets | https://computervisiononline.com/ |
-| Dataset List | https://www.datasetlist.com/ |
 | Kaggle Datasets | https://www.kaggle.com/datasets |
 | Coco Dataset | https://cocodataset.org/ |
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
 | Open Images Dataset | https://storage.googleapis.com/openimages/web/index.html |
-| Computer Vision Dataset Discovery | https://www.visualdata.io/ |
-| Public Computer Vision Datasets in Various Formats | https://public.roboflow.com/ |
 
 
 ### Installation
