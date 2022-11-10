@@ -172,7 +172,6 @@
 | Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
 | :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
 | Photo Editor | https://krita.org/ |
-| IntellijIdea Java IDE | https://www.jetbrains.com/idea/download/ |
 | Android Studio IDE | https://developer.android.com/studio |
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
 | Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
@@ -182,9 +181,7 @@
 | Description | Link |
 | --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
-| Wit.ai NLP | https://wit.ai/ |
-| Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module | 
-| ML Model Training and Export Offline | https://lobe.ai/ |
+| Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module |
 | Python Cross Platform App Development | https://kivy.org/ |
 | Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
 
