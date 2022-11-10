@@ -237,10 +237,6 @@
 | Name | Link |
 | --- | --- |
 | VoTT Image Annotation | https://github.com/microsoft/VoTT |
-| Make Sense Image Annotation | https://www.makesense.ai/ <br> https://github.com/SkalskiP/make-sense |
-| Computer Vision Annotation CVAT | https://github.com/opencv/cvat |
-| Labelme Image and Video Annotation | https://github.com/wkentaro/labelme |
-| LabelImg Image Annotation | https://github.com/tzutalin/labelImg |
 | Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
 
 
