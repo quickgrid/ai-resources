@@ -1,9 +1,10 @@
+**TODO: Cleanup and remove links not needed.**
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   * [`# Cheetsheets & Glossary`](#-cheetsheets--glossary)
   * [`# Code Examples`](#-code-examples)
   * [`# Topics`](#-topics)
-    + [Generative Adversarial Network](#generative-adversarial-network)
     + [3D ML, Data Processing, Visualization](#3d-machine-learning-data-processing-visualization)
     + [3D Computer Vision and Graphics](#3D-computer-vision-and-graphics)
     + [Reinforcement Learning](#reinforcement-learning)
@@ -59,16 +60,6 @@
 <br>
 
 ## `# Topics`
-
-
-### Generative Adversarial Network
-
-| Description | Link |
-| --- | --- |
-| stylegan2-ada, Image data generation through pretrained, custom model | https://github.com/NVlabs/stylegan2-ada |
-| stylegan2 pytorch, Image data generation from custom model | https://github.com/lucidrains/stylegan2-pytorch | 
-
-
 
 ### 3D Machine Learning, Data Processing, Visualization
 
@@ -498,3 +489,53 @@
 | Loss Function Equations with Code Snippets | https://kevinmusgrave.github.io/pytorch-metric-learning/losses/ |
 | **Byte Pair Encoding (BPE)** <br> Tag: `Data Compression`, `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
 |  | https://www.freecodecamp.org/news/evolution-of-tokenization/ |
+
+
+# Python Libraries 
+
+This contains python libraries, frameworks, tools for various tasks. The links will be mostly of the github repositories. Some may belong in multiple groups but put in general one.
+
+<br>
+
+| Task | Link |
+| --- | --- |
+| **Machine Learning, Deep Learning** <br> Tag: `Neural Networks`, `Training`, `Inference` etc. | https://github.com/pytorch/pytorch |
+| | https://github.com/tensorflow/tensorflow |
+|  |  |
+| **Computer Vision** and **Image Processing** | https://github.com/opencv/opencv |
+| | https://github.com/scikit-image/scikit-image |
+| | https://github.com/python-pillow/Pillow |
+| | https://github.com/open-mmlab/mmcv |
+|  |  |
+| **Image Similarity** <br> Tag: `Image Hashing` | https://github.com/JohannesBuchner/imagehash |
+|  |  |
+| **Scientific Computation** <br> Tag: `Fast Mathematics` | https://github.com/numpy/numpy |
+|  |  |
+| **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation`, `JIT`, `GPU` | https://github.com/numba/numba |
+| | https://github.com/cython/cython | 
+| | https://github.com/serge-sans-paille/pythran | 
+| | https://github.com/dask/dask |
+| | https://github.com/cupy/cupy |
+|  |  |
+| **Similarity Search** <br> Tag: `Neural Search`, `Image Search`, `Reverse Image Search`, `Semantic Search`, `Vector Search`, `Multi Modal Search` | https://github.com/jina-ai/jina |
+|  | https://github.com/jina-ai/docarray |
+|  | https://github.com/neuml/txtai |
+|  |  |
+| **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering`, `Embedding Similarity` | https://github.com/facebookresearch/faiss |
+| | https://github.com/spotify/annoy | 
+| | https://github.com/nmslib/nmslib |
+| | https://github.com/nmslib/hnswlib |
+| | https://github.com/hora-search/hora |
+| | https://github.com/yahoojapan/NGT |
+| | https://github.com/kakao/n2 |
+| | https://github.com/google-research/google-research/tree/master/scann |
+|  |  |
+| **Image Background Removal** <br> Tag: `Image Matting`, `Image Segmentation` | https://github.com/danielgatis/rembg |
+|  |  |
+| **3D** <br> Tag: `Mesh Processing`, `Photogrammetry`, `Image Stiching`, `3D Model` | https://github.com/cnr-isti-vclab/meshlab |
+| | https://github.com/alicevision/meshroom |
+|  |  |
+| **Code Simplification** <br> Tag: `Tensor Operations`, `Shorthand Notations` | https://github.com/arogozhnikov/einops |
+
+
+
