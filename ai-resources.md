@@ -80,19 +80,6 @@
 
 <br>
 
-## `Research Blogs`
-
-| Name | Link |
-| --- | --- |
-| Facebook AI | https://ai.facebook.com/ |
-| OpenAI Blog | https://openai.com/blog/ |
-| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
-| Microsoft Research | https://www.microsoft.com/en-us/research/ |
-| Google Research | https://research.google/ |
-| Deepmind Research | https://deepmind.com/research |
-
-<br>
-
 
 ## `Research Paper Tools | News`
 
@@ -151,9 +138,19 @@
 
 | Name | Link |
 | --- | --- |
+| <h3>Research Blogs</h3> |  |
+| Facebook AI | https://ai.facebook.com/ |
+| OpenAI Blog | https://openai.com/blog/ |
+| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
+| Microsoft Research | https://www.microsoft.com/en-us/research/ |
+| Google Research | https://research.google/ |
+| Deepmind Research | https://deepmind.com/research |
+| Visual Explanation of ML Research | https://distill.pub/ |
+|  |  |
+| <h3>Articles, Tutorials</h3> |  |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Paperspace AI Articles | https://blog.paperspace.com/ |
-| Visual Explanation of ML Research | https://distill.pub/ |
+
 
 <br>
 
