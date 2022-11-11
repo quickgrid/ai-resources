@@ -299,17 +299,9 @@
 
 
 
-## `3D Graphics | CV | ML`
-
-| Name | Link |
-| --- | --- |
-| MPI Perceiving Systems | https://ps.is.mpg.de/ |
-| OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
-
 
 <br>
 
-## `# Tools`
 
 ### Online
 
@@ -320,20 +312,8 @@
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
 | OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
-| MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
-
-
-
-
-
-### Installation
-
-
- 
-#### Development
-
-| Description | Link |
-| --- | --- |
+| MPI Perceiving Systems | https://ps.is.mpg.de/ |
+| OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
 | ML Tool Building | https://www.streamlit.io/ |
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module |
 | Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
@@ -426,7 +406,6 @@ This contains python libraries, frameworks, tools for various tasks. The links w
 |  |  |
 | **Similarity Search** <br> Tag: `Neural Search`, `Image Search`, `Reverse Image Search`, `Semantic Search`, `Vector Search`, `Multi Modal Search` | https://github.com/jina-ai/jina |
 |  | https://github.com/jina-ai/docarray |
-|  | https://github.com/neuml/txtai |
 |  |  |
 | **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering`, `Embedding Similarity` | https://github.com/facebookresearch/faiss |
 | | https://github.com/spotify/annoy | 
