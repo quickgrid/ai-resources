@@ -197,6 +197,9 @@
 | Flair NLP | https://github.com/flairNLP/flair |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 |  |  |
+| <h3>ML APP UI<h3/> |  |
+| ML Tool Building | https://www.streamlit.io/ |
+|  |  |  
 | <h3>3D Graphics, ML, CV<h3/> |  | 
 | Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
 | Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
@@ -340,7 +343,7 @@
 <br>
 <br>
 <br>
-  <br>
+<br>
 <br>
 <br>
 <br>
@@ -366,14 +369,12 @@
 
 | Name | Link |
 | --- | --- |
-
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
 | OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
 | Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
 | MPI Perceiving Systems | https://ps.is.mpg.de/ |
 | OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
-| ML Tool Building | https://www.streamlit.io/ |
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module |
 | Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
 
