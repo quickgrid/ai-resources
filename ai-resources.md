@@ -185,8 +185,9 @@
 | CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html <br> https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
 | Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e <br> https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
 | Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 <br> https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries <br> https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
+| Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
 |  |  |
-| <h3>ML, DL</h3> |  |
+| <h3>ML, Deep Learning</h3> |  |
 | Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
 | Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
@@ -209,6 +210,8 @@
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Test Time Augmentation | https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/ <br> https://stepup.ai/test_time_data_augmentation/ |
 | Easy Article on Various Inception Network Architectures | https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202 |
+| :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
+| Pytorch Einstein Summation (einsum) | https://rockt.github.io/2018/04/30/einsum |
 |  |  |
 | <h3>Computer Graphics</h3> |  |
 | Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
@@ -219,10 +222,7 @@
 | <h3>CV, Image Processing</h3> |  |
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
 | Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
-|  |  |
-| Pytorch Einstein Summation (einsum) | https://rockt.github.io/2018/04/30/einsum |
-| Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
-| :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
+
 
 
 
