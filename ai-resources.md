@@ -173,18 +173,26 @@
 
 | Description | Link |
 | --- | --- |
-| Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
-| What is logits and relation to loss function | https://datascience.stackexchange.com/questions/31041/what-does-logits-in-machine-learning-mean <br> https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/16 <br> https://keras.io/api/losses/ |
+|<h3>Programming Performance</h3>  |  |
 | Basic information on MKL, BLAS, LAPACK | https://en.wikipedia.org/wiki/Math_Kernel_Library <br> https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms <br> https://en.wikipedia.org/wiki/LAPACK |
 | Basic information on pthreads, OpenMP, TBB | https://en.wikipedia.org/wiki/POSIX_Threads <br> https://en.wikipedia.org/wiki/OpenMP <br> https://en.wikipedia.org/wiki/Threading_Building_Blocks |
 | Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
-| Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
-| Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
+| Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
+| Vectorization, SIMD, Intrinsics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
+|  |  |
+| <h3>Programming</h3> |  |
 | CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html <br> https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
 | Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e <br> https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
 | Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 <br> https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries <br> https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
-| Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
-| Vectorization, SIMD, Intrinsics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
+|  |  |
+| <h3>ML, CV Theory</h3> |  |
+| Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
+| Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
+|  |  |
+| Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
+| What is logits and relation to loss function | https://datascience.stackexchange.com/questions/31041/what-does-logits-in-machine-learning-mean <br> https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/16 <br> https://keras.io/api/losses/ |
+| Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
+| Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
 | Test Time Augmentation | https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/ <br> https://stepup.ai/test_time_data_augmentation/ |
 | Pytorch Einstein Summation (einsum) | https://rockt.github.io/2018/04/30/einsum |
 | :gem: Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
@@ -192,8 +200,6 @@
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
 | Linear Function Definition and ReLU Linearity | https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function/26481#26481 |
 | Linear Functions vs. Affine Functions | https://math.stackexchange.com/questions/275310/what-is-the-difference-between-linear-and-affine-function |
-| Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
-| Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
 | LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
