@@ -371,11 +371,11 @@
 | Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
 | Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
 | Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
-| **CMake build system** <br> Tag: `CMakeLists.txt` | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html |
+| CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html |
 |  | https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
-| **Python source code protection** <br> Tag: `Python Compilation`, `Cython` | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e |
+| Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e |
 | | https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
-| **Static libraies vs Dynamic/shared libraries** <br> Tag: `Static Linking vs Dynmaic Linking`, `*.so, *.dll vs *.a, *.lib files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 |
+| Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 |
 |  | https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries |
 |  | https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
 | Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
@@ -405,7 +405,7 @@
 | :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
 | :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
 | Loss Function Equations with Code Snippets | https://kevinmusgrave.github.io/pytorch-metric-learning/losses/ |
-| **Byte Pair Encoding (BPE)** <br> Tag: `Data Compression`, `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
+| Byte Pair Encoding (BPE) <br> Tag: `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
 |  | https://www.freecodecamp.org/news/evolution-of-tokenization/ |
 
 
@@ -431,7 +431,6 @@ This contains python libraries, frameworks, tools for various tasks. The links w
 | | https://github.com/spotify/annoy | 
 | | https://github.com/nmslib/nmslib |
 | | https://github.com/nmslib/hnswlib |
-| | https://github.com/hora-search/hora |
 | | https://github.com/yahoojapan/NGT |
 | | https://github.com/kakao/n2 |
 | | https://github.com/google-research/google-research/tree/master/scann |
