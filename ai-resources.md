@@ -168,6 +168,35 @@
 
 <br>
 
+## `ML | DL | Computer Vision | Image Processing`
+
+| Name | Link |
+| --- | --- |
+| <h3>ML, Computer Vision<h3/> |  |
+| :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
+| Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
+| :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
+| Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
+| Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
+| Dlib | http://dlib.net/ |
+| MXNet | https://mxnet.apache.org/ |
+| :triangular_flag_on_post: OpenCV | https://opencv.org/ |
+| Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
+| Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
+| ImageIO | https://imageio.github.io/ |
+|  |  |
+| <h3>OCR<h3/> |  |
+| Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
+| EasyOCR | https://github.com/JaidedAI/EasyOCR |
+|  |  |
+| <h3>NLP<h3/> |  |
+| :triangular_flag_on_post: Spacy | https://spacy.io/ |
+| NLTK | https://www.nltk.org/ |
+| Rasa NLP | https://rasa.com/ |
+| Flair NLP | https://github.com/flairNLP/flair |
+| HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
+
+<br>
 
 ## `FAQ | Techniques | Theory`
 
@@ -310,35 +339,7 @@
 
 
 
-#### `General Purpose (ML, DL) | Computer Vision | Image Processing`
 
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
-| Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
-| :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
-| Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
-| Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
-| Dlib | http://dlib.net/ |
-| MXNet | https://mxnet.apache.org/ |
-| :triangular_flag_on_post: OpenCV | https://opencv.org/ |
-| Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
-| Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
-| ImageIO | https://imageio.github.io/ |
-| Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
-| EasyOCR | https://github.com/JaidedAI/EasyOCR |
-
-
-#### NLP
-
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: Spacy | https://spacy.io/ |
-| NLTK | https://www.nltk.org/ |
-| Rasa NLP | https://rasa.com/ |
-| Stanford NLP | https://stanfordnlp.github.io/stanfordnlp/ |
-| Flair NLP | https://github.com/flairNLP/flair |
-| HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 
 
 
