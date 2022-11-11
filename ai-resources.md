@@ -104,6 +104,7 @@
 | ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
 | Open Peer Review | https://openreview.net/ |
 | :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
+| Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 
 <br>
 
@@ -274,6 +275,7 @@
 | Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
 |  |  |
 | <h3>Programming</h3> |  |
+| Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
 | CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html <br> https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
 | Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e <br> https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
 | Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 <br> https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries <br> https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
@@ -338,6 +340,12 @@
 <br>
 <br>
 <br>
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <hr>
 <br>
@@ -345,12 +353,7 @@
 **TODO: Cleanup and remove links not needed.**
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
@@ -363,7 +366,7 @@
 
 | Name | Link |
 | --- | --- |
-| Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
+
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
 | OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
@@ -372,7 +375,6 @@
 | OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
 | ML Tool Building | https://www.streamlit.io/ |
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module |
-| Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
 | Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
 
 
