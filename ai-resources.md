@@ -405,8 +405,7 @@
 | :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
 | :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
 | Loss Function Equations with Code Snippets | https://kevinmusgrave.github.io/pytorch-metric-learning/losses/ |
-| Byte Pair Encoding (BPE) <br> Tag: `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding |
-|  | https://www.freecodecamp.org/news/evolution-of-tokenization/ |
+| Byte Pair Encoding (BPE) <br> Tag: `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding <br> https://www.freecodecamp.org/news/evolution-of-tokenization/ |
 
 
 # Python Libraries 
