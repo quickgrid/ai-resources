@@ -157,6 +157,17 @@
 <br>
 
 
+## `Online Programming Tools`
+
+| Name | Link |
+| --- | --- |
+| :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
+| Interactive Jupyter Notebook | https://mybinder.org/ |
+| Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
+| In Browser Collaborative IDE | https://repl.it/ | 
+
+
+
 <br>
 <br>
 <br>
@@ -191,9 +202,8 @@
 
 
 
-## `# Topics`
 
-### 3D Machine Learning, Data Processing, Visualization
+## `3D Graphics | CV | ML`
 
 | Name | Link |
 | --- | --- |
@@ -202,19 +212,11 @@
 | Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
 | Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
 | 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
-
-
-### 3D Computer Vision, Graphics and ML
-
-| Name | Link |
-| --- | --- |
 | MPI Perceiving Systems | https://ps.is.mpg.de/ |
 | OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
 
 
 <br>
-
-## `# 3D Resources`
 
 ## `# Tools`
 
@@ -222,15 +224,12 @@
 
 | Name | Link |
 | --- | --- |
-| :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 | IEEE Publication Templates Selector | https://template-selector.ieee.org/ |
 | IEEE Publication Recommender | https://publication-recommender.ieee.org/home |
-| Interactive Jupyter Notebook | https://mybinder.org/ |
-| Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
-| In Browser Collaborative IDE | https://repl.it/ | 
 | OpenAI Spinningup RL Resources | https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is |
-
+| Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
+| MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 
 
 
@@ -246,9 +245,9 @@
 | --- | --- |
 | ML Tool Building | https://www.streamlit.io/ |
 | Fake bpy Blender Code Completion | https://github.com/nutti/fake-bpy-module |
-| Python Cross Platform App Development | https://kivy.org/ |
 | Create Bundled Python Applications | https://github.com/pyinstaller/pyinstaller |
 | Windows Unofficial Python Wheels | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
+
 
 
 #### `General Purpose (ML, DL) | Computer Vision | Image Processing`
@@ -289,16 +288,6 @@
 
 
 <br>
-
-
-## `# Websites`
-
-### AI Sites
-
-| Name | Link |
-| --- | --- |
-| Max Plank Institute Computer Vision Codes, Data | https://ps.is.tuebingen.mpg.de/ |
-| MPI Graphics Vision and Video Publications | https://gvv.mpi-inf.mpg.de/GVV_Projects.html |
 
 
 
