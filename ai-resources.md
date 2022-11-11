@@ -233,13 +233,11 @@
 | TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html |
 | Computer Vision III: Detection, Segmentation and Tracking (CV3DST) | https://dvl.in.tum.de/teaching/cv3dst-ss20/ |
 | Advanced Deep Learning for Computer vision (ADL4CV) | https://dvl.in.tum.de/teaching/adl4cv-ss20/ |
-|  |  |
 | CMU 11-785 Introduction to Deep Learning | https://deeplearning.cs.cmu.edu/S21/index.html |
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
-| Stanford Machine Learning Course | http://cs229.stanford.edu/ <br> http://cs229.stanford.edu/syllabus-spring2021.html |
 | Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
-| CS236G Generative Adversarial Networks (GANs) | https://cs236g.stanford.edu/ |
 | CS224n: Natural Language Processing with Deep Learning | https://web.stanford.edu/class/cs224n/ |
+|  |  |
 | CS224W: Machine Learning with Graphs | https://web.stanford.edu/class/cs224w/ |
 | CS234: Reinforcement Learning | https://web.stanford.edu/class/cs234/ |
 | CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
