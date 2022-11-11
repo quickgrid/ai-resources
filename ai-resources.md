@@ -369,13 +369,9 @@
 | Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
 | Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
 | Nearest Neighbours Benchmark | https://github.com/erikbern/ann-benchmarks/ |
-| CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html |
-|  | https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
-| Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e |
-| | https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
-| Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 |
-|  | https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries |
-|  | https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
+| CMake build system | https://www.jetbrains.com/help/clion/cmakelists-txt-file.html <br> https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html#new-project |
+| Python source code protection | https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e <br> https://stackoverflow.com/questions/62388701/are-executables-produced-with-cython-really-free-of-the-source-code |
+| Static libraies vs Dynamic/shared libraries <br> Tag: `Static Linking vs Dynmaic Linking`, `*.a, *.lib vs *.so, *.dll files` | https://medium.com/@StueyGK/static-libraries-vs-dynamic-libraries-af78f0b5f1e4 <br> https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries <br> https://stackoverflow.com/questions/30186256/what-is-the-difference-between-o-a-and-so-files |
 | Python DL Vectorization (Week 2 Videos) | https://www.coursera.org/lecture/neural-networks-deep-learning/vectorization-NYnog |
 | Vectorization, SIMD, Intrinsics (Week 2 Videos) | https://www.coursera.org/learn/parallelism-ia/lecture/RsNCP/2-1-vector-operations |
 | Test Time Augmentation | https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/ <br> https://stepup.ai/test_time_data_augmentation/ |
