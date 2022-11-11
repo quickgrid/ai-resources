@@ -230,6 +230,7 @@
 
 | Name | Link |
 | --- | --- |
+| <h3>University Advanced CV, DL, Graphics</h3> |  | 
 | TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html |
 | Computer Vision III: Detection, Segmentation and Tracking (CV3DST) | https://dvl.in.tum.de/teaching/cv3dst-ss20/ |
 | Advanced Deep Learning for Computer vision (ADL4CV) | https://dvl.in.tum.de/teaching/adl4cv-ss20/ |
@@ -241,14 +242,13 @@
 | CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
 | CMU 16-385 Computer Vision | http://16385.courses.cs.cmu.edu/spring2021/ |
 | CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
+| University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r |
 |  |  |
-| University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
+| <h3>Coursera</h3> |  |
 | :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
 | GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
 | :triangular_flag_on_post: Tensorflow Advanced Techniques (deeplearning.ai) | https://www.coursera.org/specializations/tensorflow-advanced-techniques |
 | :triangular_flag_on_post: First Principles of Computer Vision Specialization | https://www.coursera.org/specializations/firstprinciplesofcomputervision |
-| Deepmind Deep Learning Lectures 2020 | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020 |
-| DeepMind Intro to RL | https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver |
 | Geometric Algorithms | https://www.coursera.org/learn/geometric-algorithms | 
 | Discrete Optimization | https://www.coursera.org/learn/discrete-optimization |  
 | Robotics Perception, Computer Vision Topics | https://www.coursera.org/learn/robotics-perception?specialization=robotics |  
