@@ -202,7 +202,28 @@
 | Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
 | Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
 | 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
+|  |  |
+| <h3>Python Speedup</h3> |  | 
+| Numba | https://github.com/numba/numba |
+| Cython | https://github.com/cython/cython | 
+| Pythran | https://github.com/serge-sans-paille/pythran | 
+| Dask | https://github.com/dask/dask |
+| CuPy | https://github.com/cupy/cupy |
+|  |  |
+| <h3>Similarity, Image Search</h3> |  | 
+| JinaAI | https://github.com/jina-ai/jina |
+| DocArray | https://github.com/jina-ai/docarray |
+|  |  |
+| <h3>Approximate Nearest Neighbours</h3> |  | 
+| Faiss | https://github.com/facebookresearch/faiss |
+| Annoy | https://github.com/spotify/annoy | 
+| NMSLib | https://github.com/nmslib/nmslib |
+| HSNWLib | https://github.com/nmslib/hnswlib |
+| NGT | https://github.com/yahoojapan/NGT |
+| N2 | https://github.com/kakao/n2 |
+| ScaNN | https://github.com/google-research/google-research/tree/master/scann |
 
+  
 <br>
 
 ## `FAQ | Techniques | Theory`
@@ -383,41 +404,6 @@
 
 
 
-
-
-
-
-<br>
-
-
-# Python Libraries 
-
-This contains python libraries, frameworks, tools for various tasks. The links will be mostly of the github repositories. Some may belong in multiple groups but put in general one.
-
-<br>
-
-| Task | Link |
-| --- | --- |
-| **Python Speedup** <br> Tag: `Compilation`, `Parallelization`, `Hardware Acceleation`, `JIT`, `GPU` | https://github.com/numba/numba |
-| | https://github.com/cython/cython | 
-| | https://github.com/serge-sans-paille/pythran | 
-| | https://github.com/dask/dask |
-| | https://github.com/cupy/cupy |
-|  |  |
-| **Similarity Search** <br> Tag: `Neural Search`, `Image Search`, `Reverse Image Search`, `Semantic Search`, `Vector Search`, `Multi Modal Search` | https://github.com/jina-ai/jina |
-|  | https://github.com/jina-ai/docarray |
-|  |  |
-| **Approximate Nearest Neighbours** <br> Tag: `Similarity Search`, `Vector Clustering`, `Embedding Similarity` | https://github.com/facebookresearch/faiss |
-| | https://github.com/spotify/annoy | 
-| | https://github.com/nmslib/nmslib |
-| | https://github.com/nmslib/hnswlib |
-| | https://github.com/yahoojapan/NGT |
-| | https://github.com/kakao/n2 |
-| | https://github.com/google-research/google-research/tree/master/scann |
-|  |  |
-| **Image Background Removal** <br> Tag: `Image Matting`, `Image Segmentation` | https://github.com/danielgatis/rembg |
-|  |  |
-| **Code Simplification** <br> Tag: `Tensor Operations`, `Shorthand Notations` | https://github.com/arogozhnikov/einops |
 
 
 
