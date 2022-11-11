@@ -237,17 +237,11 @@
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
 | Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
 | CS224n: Natural Language Processing with Deep Learning | https://web.stanford.edu/class/cs224n/ |
-|  |  |
 | CS224W: Machine Learning with Graphs | https://web.stanford.edu/class/cs224w/ |
-| CS234: Reinforcement Learning | https://web.stanford.edu/class/cs234/ |
 | CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
-| CS 348E: Character Animation: Modeling, Simulation, and Control of Human Motion | https://ckllab.stanford.edu/cs-348e-character-animation |
-| CS221: Artificial Intelligence: Principles and Techniques | https://stanford-cs221.github.io/ <br> https://stanford-cs221.github.io/spring2021/ |
-| CS348I: Computer Graphics in the Era of AI | http://cs348i.stanford.edu/ |
 | CMU 16-385 Computer Vision | http://16385.courses.cs.cmu.edu/spring2021/ |
 | CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
-| MIT CSAIL 6.819/6.869: Advances in Computer Vision | http://6.869.csail.mit.edu/sp21/schedule.html |
-| Washington University Deep Learning | https://github.com/jeffheaton/t81_558_deep_learning | 
+|  |  |
 | University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r | 
 | :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
 | GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
