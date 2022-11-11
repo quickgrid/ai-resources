@@ -196,6 +196,14 @@
 | LogSumExp Trick | http://gregorygundersen.com/blog/2020/02/09/log-sum-exp/ |
 | L1, L2 Norm | https://www.kaggle.com/residentmario/l1-norms-versus-l2-norms |
 | What is logits and relation to loss function | https://datascience.stackexchange.com/questions/31041/what-does-logits-in-machine-learning-mean <br> https://discuss.pytorch.org/t/bceloss-vs-bcewithlogitsloss/33586/16 <br> https://keras.io/api/losses/ |
+| Depthwise Separable Convolution | https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/ |
+| :gem: Softmax, Negative Log Likelihood with Derivative | https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/ |
+| Transformers & Attention | http://jalammar.github.io/illustrated-transformer/ <br> https://d2l.ai/chapter_attention-mechanisms/index.html <br> https://www.youtube.com/watch?v=KN3ZL65Dze0 |
+| :gem: Transformers & Attention: Self Attention | https://www.youtube.com/watch?v=yGTUuEx3GkA |
+| :gem: Transformers & Attention: Keys, Values, Queries | https://www.youtube.com/watch?v=tIvKXrEDMhk |
+| :gem: Transformers & Attention: Multi Head Attention | https://www.youtube.com/watch?v=23XUv0T9L5c |
+| :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
+| :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
 |  |  |
 | <h3>Computer Graphics</h3> |  |
 | Normal, Bump, Displacement and Height Map Explanation | https://www.cgdirector.com/normal-vs-displacement-vs-bump-maps/ |
@@ -203,7 +211,7 @@
 | <h3>NLP</h3> |  |
 | Byte Pair Encoding (BPE) <br> Tag: `Word vs Character vs Subword Tokenization` | https://en.wikipedia.org/wiki/Byte_pair_encoding <br> https://www.freecodecamp.org/news/evolution-of-tokenization/ |
 |  |  |
-| <h3>Computer Vision, Image Processing</h3> |  |
+| <h3>CV, Image Processing</h3> |  |
 | Object Detection IOU, mAP | https://blog.paperspace.com/mean-average-precision/ |
 | Overview of Bounding Box Formats | https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/ |
 |  |  |
@@ -214,15 +222,8 @@
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Easy Article on Various Inception Network Architectures | https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202 |
 | Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
-| Depthwise Separable Convolution | https://www.geeksforgeeks.org/depth-wise-separable-convolutional-neural-networks/ |
 | :gem: LSTM Visual Explanation with Equations | https://www.coursera.org/learn/deep-learning-reinforcement-learning/lecture/aN0uk/long-short-term-memory-lstm-networks |
-| :gem: Softmax, Negative Log Likelihood with Derivative | https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/ |
-| Transformers & Attention | http://jalammar.github.io/illustrated-transformer/ <br> https://d2l.ai/chapter_attention-mechanisms/index.html <br> https://www.youtube.com/watch?v=KN3ZL65Dze0 |
-| :gem: Transformers & Attention: Self Attention | https://www.youtube.com/watch?v=yGTUuEx3GkA |
-| :gem: Transformers & Attention: Keys, Values, Queries | https://www.youtube.com/watch?v=tIvKXrEDMhk |
-| :gem: Transformers & Attention: Multi Head Attention | https://www.youtube.com/watch?v=23XUv0T9L5c |
-| :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
-| :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
+
 
 
 
