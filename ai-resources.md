@@ -168,7 +168,7 @@
 
 <br>
 
-## `ML | DL | Computer Vision | Image Processing`
+## `Python Libraries`
 
 | Name | Link |
 | --- | --- |
@@ -195,6 +195,13 @@
 | Rasa NLP | https://rasa.com/ |
 | Flair NLP | https://github.com/flairNLP/flair |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
+|  |  |
+| <h3>3D Graphics, ML, CV<h3/> |  | 
+| Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
+| Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
+| Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
+| Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
+| 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
 
 <br>
 
@@ -296,11 +303,6 @@
 
 | Name | Link |
 | --- | --- |
-| Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
-| Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
-| Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
-| Python 3D Mesh Analysis, Manipulation | https://github.com/mikedh/trimesh |
-| 3D Game Engine for Python and C++ | https://github.com/panda3d/panda3d |
 | MPI Perceiving Systems | https://ps.is.mpg.de/ |
 | OSU Open Motion Capture Data | https://accad.osu.edu/research/motion-lab/mocap-system-and-data |
 
