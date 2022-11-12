@@ -6,8 +6,9 @@
 | Description | Link |
 | --- | --- |
 | Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
-| Python Style Guide | https://google.github.io/styleguide/pyguide.html |
-| C++ Style Guide | https://google.github.io/styleguide/cppguide.html |
+| Google Python Style Guide | https://google.github.io/styleguide/pyguide.html |
+| Google C++ Style Guide | https://google.github.io/styleguide/cppguide.html |
+| Linux Kernel Code Style | https://www.kernel.org/doc/html/v4.10/process/coding-style.html |
 
 <br>
 
