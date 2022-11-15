@@ -77,7 +77,7 @@
 | Photo Editor | https://krita.org/ |
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
 | 3D Reconstruction, Photogrammetry | https://github.com/alicevision/meshroom |
-| Nvidia Neural Network IDE | https://developer.nvidia.com/nsight-dl-designer |
+| Nsight Deep Learning Designer | https://developer.nvidia.com/nsight-dl-designer |
 | Intel OneAPI Base Toolkit | https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html |
 | Cuda Toolkit | https://developer.nvidia.com/cuda-toolkit |
 | Clang LLVM Compiler | https://clang.llvm.org/ |
