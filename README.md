@@ -1,6 +1,6 @@
 # AI-Resources
 
-Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Programming etc. for my learning purposes. These may contain mistakes, corrections are welcome.
+Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Programming etc. for my learning purposes.
 
 ## Table of Contents
 
