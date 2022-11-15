@@ -71,12 +71,17 @@
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 | Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
 | :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
-| VSCodium Editor | https://github.com/VSCodium/vscodium |
+| VSCode Editor | https://github.com/microsoft/vscode |
 | Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
 | :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
 | Photo Editor | https://krita.org/ |
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
 | 3D Reconstruction, Photogrammetry | https://github.com/alicevision/meshroom |
+| Nvidia Neural Network IDE | https://developer.nvidia.com/nsight-dl-designer |
+| Intel OneAPI Base Toolkit | https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html |
+| Cuda Toolkit | https://developer.nvidia.com/cuda-toolkit |
+| Clang LLVM Compiler | https://clang.llvm.org/ |
+| GCC Compiler and Other Tools for Windows | https://www.mingw-w64.org/ |
 
 <br>
 
