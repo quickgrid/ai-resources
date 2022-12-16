@@ -13,8 +13,6 @@ Various resources for AI, Deep Learning, Computer Vision, Computer Graphics, Pro
 | [**setup-guide.md**](setup-guide.md) | FAQ, how to, general information, build and setup for various tools etc. from my practical experience.  |
 | [**performance-notes.md**](performance-notes.md) | My notes on various practical programming performance improvement methods I learned etc. |
 | | |
-| [**projects.md**](https://github.com/quickgrid/ai-resources/blob/master/projects.md) | keeping track of some of my repo projects that I may update. |
-| | |
 | [**code‑lab**](https://github.com/quickgrid/code-lab) | Code examples, demos, information related to general programming, AI codes etc. |
 | [**paper‑implementations**](https://github.com/quickgrid/paper-implementations) | My attempts at trying to implement various papers mostly in pytorch etc. |
 
