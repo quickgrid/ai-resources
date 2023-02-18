@@ -287,6 +287,7 @@
 | Dynamic Programming, Top Down, Bottom Up, Divide and Conquer, Memoization | https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming |
 |  |  |
 | <h3>ML, Deep Learning</h3> |  |
+| Text Embedding, Pooled Embedding (Per Token vs. Sentence Embedding) | https://blog.ml6.eu/the-art-of-pooling-embeddings-c56575114cf8 |
 | Neural Net Weight Initialization (Xavier/Glorot, He etc.) | https://visualstudiomagazine.com/articles/2019/09/05/neural-network-glorot.aspx |
 | Computation Graph | https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4WdOY/computation-graph <br> https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph |
 | Hadamard Product | https://en.wikipedia.org/wiki/Hadamard_product_(matrices) |
