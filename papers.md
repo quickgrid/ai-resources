@@ -23,6 +23,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2020 |  |  
 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | 2021 |  |
 | [Deep Image Prior](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf) <br> [Supplementary](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2711-supp.pdf) | 2018 |  |
+| [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | 2023 |  |
+| [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://arxiv.org/abs/2106.09685) | 2021 |  |
 
 <br>
 
