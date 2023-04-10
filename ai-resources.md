@@ -243,17 +243,11 @@
 | --- | --- |
 | <h3>University Advanced CV, DL, Graphics</h3> |  | 
 | TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html |
-| Computer Vision III: Detection, Segmentation and Tracking (CV3DST) | https://dvl.in.tum.de/teaching/cv3dst-ss20/ |
-| Advanced Deep Learning for Computer vision (ADL4CV) | https://dvl.in.tum.de/teaching/adl4cv-ss20/ |
-| CMU 11-785 Introduction to Deep Learning | https://deeplearning.cs.cmu.edu/S21/index.html |
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
 | Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
 | CS224n: Natural Language Processing with Deep Learning | https://web.stanford.edu/class/cs224n/ |
 | CS224W: Machine Learning with Graphs | https://web.stanford.edu/class/cs224w/ |
 | CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
-| CMU 16-385 Computer Vision | http://16385.courses.cs.cmu.edu/spring2021/ |
-| CMU 15-462/662 Computer Graphics | http://15462.courses.cs.cmu.edu/spring2021/ |
-| University of Michigan Deep Learning for Computer Vision Youtube | https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r |
 |  |  |
 | <h3>Coursera</h3> |  |
 | :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
