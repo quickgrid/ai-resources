@@ -160,14 +160,18 @@
 <br>
 
 
-## `Online Programming Tools`
+## `Online Services`
 
 | Name | Link |
 | --- | --- |
+| <h3>Programming Tools</h3> |  |
 | :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
 | Jupyter Notebook Viewer | https://nbviewer.jupyter.org/ |
 | In Browser Collaborative IDE | https://repl.it/ | 
+|  |  |
+| <h3>Vector Database</h3> |  |
+| Easy Vector Database | https://www.pinecone.io/ |
 
 <br>
 
@@ -229,7 +233,6 @@
 | N2 | https://github.com/kakao/n2 |
 | ScaNN | https://github.com/google-research/google-research/tree/master/scann |
 
-  
 <br>
   
 ## `Courses`
