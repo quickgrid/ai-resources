@@ -51,6 +51,7 @@
 
 | Name | Link |
 | --- | --- |
+| Huggingface Datasets | https://huggingface.co/datasets |
 | Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
 | Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Kaggle Datasets | https://www.kaggle.com/datasets |
@@ -155,6 +156,7 @@
 | <h3>Articles, Tutorials</h3> |  |
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Paperspace AI Articles | https://blog.paperspace.com/ |
+| Huggingface Tutorials and Docs | https://huggingface.co/docs/transformers/index |
 
 
 <br>
