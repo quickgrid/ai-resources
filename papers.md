@@ -160,7 +160,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 | Topic | Year | 
 | --- | --- | 
 | [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | 2018 |
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 2018 |  
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805) | 2018 |  
+| [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | 2019 |
 
 <!-- 
 |  |  |  |  | 
