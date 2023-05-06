@@ -17,20 +17,6 @@
 | OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
 | Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
 
-<br>
-
-## `Dataset Search | Annotation | Augmentation`
-
-| Name | Link |
-| --- | --- |
-| Huggingface Datasets | https://huggingface.co/datasets |
-| Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
-| Kaggle Datasets | https://www.kaggle.com/datasets |
-| Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
-|  |  |
-| Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
-|  |  |
-| Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
 
 <br>
 
@@ -38,6 +24,7 @@
 
 | Name | Link |
 | --- | --- |
+| <h3>System Tools</h3> |  |
 | :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 | Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
 | :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
@@ -52,6 +39,7 @@
 | Cuda Toolkit | https://developer.nvidia.com/cuda-toolkit |
 | Clang LLVM Compiler | https://clang.llvm.org/ |
 | GCC Compiler and Other Tools for Windows | https://www.mingw-w64.org/ |
+| Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
 
 <br>
 
@@ -113,6 +101,12 @@
 | <h3>Vector Database</h3> |  |
 | Easy Vector Database | https://www.pinecone.io/ |
 |  |  |
+| <h3>Dataset Search</h3> |  |
+| Huggingface Datasets | https://huggingface.co/datasets |
+| Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
+| Kaggle Datasets | https://www.kaggle.com/datasets |
+| Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
+|  |  |
 | <h3>Skill Evaluation, Problem Solving</h3> |  |
 | Kaggle ML Competitions | https://www.kaggle.com/ |
 | DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
@@ -132,9 +126,6 @@
 | Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
 | :triangular_flag_on_post: OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org |
-|  |  |
-| <h3>OCR</h3> |  |
-| EasyOCR | https://github.com/JaidedAI/EasyOCR |
 |  |  |
 | <h3>NLP</h3> |  |
 | :triangular_flag_on_post: Spacy | https://spacy.io/ |
@@ -167,6 +158,9 @@
 | NGT | https://github.com/yahoojapan/NGT |
 | N2 | https://github.com/kakao/n2 |
 | ScaNN | https://github.com/google-research/google-research/tree/master/scann |
+|  |  |
+| <h3>Data Augmentation</h3> |  | 
+| Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
 
 <br>
   
