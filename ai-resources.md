@@ -53,15 +53,12 @@
 | --- | --- |
 | Huggingface Datasets | https://huggingface.co/datasets |
 | Papers With Code Dataset Search | https://www.paperswithcode.com/datasets |
-| Google Dataset Search | https://datasetsearch.research.google.com/ |
 | Kaggle Datasets | https://www.kaggle.com/datasets |
 | Tensorflow Dataset Overview | https://www.tensorflow.org/datasets/catalog/overview |
 |  |  |
-| VoTT Image Annotation | https://github.com/microsoft/VoTT |
 | Multi Type Data Annotation Tool | https://github.com/heartexlabs/label-studio |
 |  |  |
 | Python CV DL Image Augmentation | https://github.com/albumentations-team/albumentations |
-| Image Augmentation Library | https://github.com/aleju/imgaug |
 
 <br>
 
