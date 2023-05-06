@@ -149,10 +149,8 @@
 | <h3>Approximate Nearest Neighbours</h3> |  | 
 | Faiss | https://github.com/facebookresearch/faiss |
 | Annoy | https://github.com/spotify/annoy | 
-| NMSLib | https://github.com/nmslib/nmslib |
 | HSNWLib | https://github.com/nmslib/hnswlib |
 | NGT | https://github.com/yahoojapan/NGT |
-| N2 | https://github.com/kakao/n2 |
 | ScaNN | https://github.com/google-research/google-research/tree/master/scann |
 |  |  |
 | <h3>Data Augmentation</h3> |  | 
