@@ -139,7 +139,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 | --- | --- | 
 | [Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)](https://arxiv.org/abs/1611.07004) | 2016 |  
 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593) | 2017 |  
-| :notebook: :triangular_flag_on_post: [Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE)](https://arxiv.org/abs/1903.07291) | 2019 |
+| :triangular_flag_on_post: [Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE)](https://arxiv.org/abs/1903.07291) | 2019 |
 
 <br>
 
