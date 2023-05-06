@@ -270,7 +270,13 @@
 
 | Description | Link |
 | --- | --- |
-|<h3>Programming Performance</h3>  |  |
+| <h3>Data Structures</h3> |  |
+| Bloom Filters | https://brilliant.org/wiki/bloom-filter/ |
+|  |  |
+| <h3>Evaluation Metrics</h3> |  |
+| Perplexity | https://medium.com/nlplanet/two-minutes-nlp-perplexity-explained-with-simple-probabilities-6cdc46884584 <br> https://en.wikipedia.org/wiki/Perplexity |
+|  |  |
+| <h3>Programming Performance</h3>  |  |
 | Basic information on MKL, BLAS, LAPACK | https://en.wikipedia.org/wiki/Math_Kernel_Library <br> https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms <br> https://en.wikipedia.org/wiki/LAPACK |
 | Basic information on pthreads, OpenMP, TBB | https://en.wikipedia.org/wiki/POSIX_Threads <br> https://en.wikipedia.org/wiki/OpenMP <br> https://en.wikipedia.org/wiki/Threading_Building_Blocks |
 | Python Concurrency: Multiprocessing, Threading, AsyncIO | https://leimao.github.io/blog/Python-Concurrency-High-Level/ |
