@@ -2,13 +2,9 @@
 
 Notes from reading various deep learning, computer vision etc. papers. 
 
-Many of the text are copied from paper as is and others with some modifications. Figures are from paper. Highlighted portions should be read and only some of the highlighted parts are expanded as notes.
+Many of the text are copied from paper as is and others with some modifications. Figures are from paper. Highlighted portions should be read and only some of the highlighted parts are expanded as notes. Many of the images are merged into single image from different parts of paper. Short form name refers to original paper, otherwise if short form not avialable then full paper name is used.
 
-Many of the images are merged into single image from different parts of paper.
-
-Short form name refers to original paper, otherwise if short form not avialable then full paper name is used.
-
-**WARNING:** These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
+These notes may contain errors due to misinterpretation, lack of understanding, missing details etc. 
 
 ## Notes
 
