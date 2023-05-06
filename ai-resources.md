@@ -55,21 +55,6 @@
 
 <br>
 
-## `Books`
-
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
-| Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
-| Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
-| Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
-| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
-
-
-
-
-<br>
-
 ## `AI Blogs | Tutorials | Articles`
 
 | Name | Link |
@@ -212,7 +197,13 @@
 | C++, Data Structures, Algorithms | https://www.coursera.org/specializations/cs-fundamentals |
 | Algorithms Part 1 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part1 |
 | Algorithms Part 2 by Robert Sedgewick | https://www.coursera.org/learn/algorithms-part2 | 
-
+|  |  |
+| <h3>Books</h3> |  |
+| :triangular_flag_on_post: Interactive Deep Learning Book with Code | https://d2l.ai/ |
+| Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
+| Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
+| Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
+| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |  
   
 <br>
 
