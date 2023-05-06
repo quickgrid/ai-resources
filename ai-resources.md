@@ -16,15 +16,8 @@
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
 | OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
 | Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
-
-
-<br>
-
-## `Softwares`
-
-| Name | Link |
-| --- | --- |
-| <h3>System Tools</h3> |  |
+|  |  |
+| <h3>Softwares, Tools</h3> |  |
 | Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
 | :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
 | VSCode Editor | https://github.com/microsoft/vscode |
