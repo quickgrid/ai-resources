@@ -83,21 +83,6 @@
 
 <br>
 
-
-## `Research Paper Tools | News`
-
-| Name | Link |
-| --- | --- |
-| :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
-| :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
-| :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
-| ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
-| Open Peer Review | https://openreview.net/ |
-| :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
-| Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
-
-<br>
-
 ## `Books`
 
 | Name | Link |
@@ -154,7 +139,15 @@
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Paperspace AI Articles | https://blog.paperspace.com/ |
 | Huggingface Tutorials and Docs | https://huggingface.co/docs/transformers/index |
-
+|  |  |
+| <h3>Research Tools, News</h3> |  |
+| :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
+| :triangular_flag_on_post: Find Connected Papers as List & Graph | https://www.connectedpapers.com/ |
+| :triangular_flag_on_post: State of the Art Papers with Topic and Subtopics | https://www.paperswithcode.com/sota |
+| ArXiv Papers as Web Page | https://www.arxiv-vanity.com/ |
+| Open Peer Review | https://openreview.net/ |
+| :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
+| Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
 
 <br>
 
