@@ -123,7 +123,6 @@
 | :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
 | Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
-| Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
 | :triangular_flag_on_post: OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org |
 |  |  |
