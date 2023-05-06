@@ -159,7 +159,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- | 
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 2019 |  
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 2018 |  
 
 <!-- 
 |  |  |  |  | 
