@@ -74,9 +74,7 @@
 | ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
 | Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
 | Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
-| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
 | DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
-| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
 | CV Lectures | https://www.youtube.com/user/cvprtum/videos |
 |  |  |
 | <h3>Glossary</h3> |  |
