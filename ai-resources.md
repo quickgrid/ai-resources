@@ -171,7 +171,7 @@
 
 | Name | Link |
 | --- | --- |
-| <h3>ML, Computer Vision<h3/> |  |
+| <h3>ML, Computer Vision</h3> |  |
 | :triangular_flag_on_post: PyTorch | https://pytorch.org/ |
 | Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
@@ -179,18 +179,18 @@
 | :triangular_flag_on_post: OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org |
 |  |  |
-| <h3>OCR<h3/> |  |
+| <h3>OCR</h3> |  |
 | EasyOCR | https://github.com/JaidedAI/EasyOCR |
 |  |  |
-| <h3>NLP<h3/> |  |
+| <h3>NLP</h3> |  |
 | :triangular_flag_on_post: Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 |  |  |
-| <h3>ML APP UI<h3/> |  |
+| <h3>ML APP UI</h3> |  |
 | ML Tool Building | https://www.streamlit.io/ |
 |  |  |  
-| <h3>3D Graphics, ML, CV<h3/> |  | 
+| <h3>3D Graphics, ML, CV</h3> |  | 
 | Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
 | Python 3D Data Processing, Visualization | https://github.com/intel-isl/Open3D |
 | Pytorch 3D Deep Learning | https://github.com/facebookresearch/pytorch3d <br> https://pytorch3d.org/ |
