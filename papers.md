@@ -4,9 +4,6 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 Adding only papers worth implementing, important concepts that can be applied in future with high quality or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. Not adding paper if concept not understood, too hard or anything meaningful not found.
 
-Some of my notes and papers implementation attempts,
-- https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md
-- https://github.com/quickgrid/paper-implementations
 
 ## Papers Read
 
