@@ -7,8 +7,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 ## Papers Read
 
-- :dart: Represents at least one full pass is made, further review is needed and partially understood papers.
-- :triangular_flag_on_post: Represents fully annotated with an overall/somewhat good understanding of paper while reviewing.
+- :triangular_flag_on_post: Represents overall good understanding, easier to understand with diagrams, examples or good explanation simple language.
 - :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
 - :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
 
@@ -68,7 +67,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- | 
-| :dart: [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) | 2021 |  
+| [Zero-Shot Text-to-Image Generation (DALL-E)](https://arxiv.org/pdf/2102.12092.pdf) | 2021 |  
 
 <br>
 
@@ -76,7 +75,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- | 
-| :dart: [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) | 2021 |  
+| [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf) | 2021 |  
 
 <br>
 
@@ -159,8 +158,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- | 
-| [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | 2018 |
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805) | 2018 |  
+| :triangular_flag_on_post: [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | 2018 |
+| :triangular_flag_on_post: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805) | 2018 |  
 | [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | 2019 |
 
 <!-- 
