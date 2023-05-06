@@ -169,7 +169,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 ## Reading List
 
-| Topic | Year | Conference |
-| --- | --- | --- |
-| [SELF-ATTENTION DOES NOT NEED O(n^2) MEMORY](https://arxiv.org/pdf/2112.05682v2.pdf) |  |  |
-| [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |  |
+| Topic | Year | 
+| --- | --- | 
+| [SELF-ATTENTION DOES NOT NEED O(n^2) MEMORY](https://arxiv.org/pdf/2112.05682v2.pdf) |  |  
+| [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |  
