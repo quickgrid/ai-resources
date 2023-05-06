@@ -75,17 +75,6 @@
 | Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
 | Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
-<br>
-
-
-## `Skill Evaluation | Problem Solving | Contests`
-
-| Description | Link |
-| --- | --- |
-| Kaggle ML Competitions | https://www.kaggle.com/ |
-| DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
-| Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
-| Problem Solving, Coding Interview Preparation | https://leetcode.com/ |
 
 <br>
 
@@ -158,6 +147,12 @@
 |  |  |
 | <h3>Vector Database</h3> |  |
 | Easy Vector Database | https://www.pinecone.io/ |
+|  |  |
+| <h3>Skill Evaluation, Problem Solving</h3> |  |
+| Kaggle ML Competitions | https://www.kaggle.com/ |
+| DL/ML Engineer, Researcher Assesment, Certification | https://workera.ai/ |
+| Google Coding Competetions | https://codingcompetitions.withgoogle.com/ |
+| Problem Solving, Coding Interview Preparation | https://leetcode.com/ |
 
 <br>
 
