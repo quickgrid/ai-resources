@@ -2,14 +2,15 @@
 
 The year column represents publishing year in arxiv and not the year of latest revision. `Supplementary` pdf/docs is mostly not included in the links below. A paper may fall into multiple categories but organized into a general one.
 
-Add only papers worth implementing, important concepts that can be applied in future with high quality or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas.
+Adding only papers worth implementing, important concepts that can be applied in future with high quality or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. Not adding paper if concept not understood, too hard or anything meaningful not found.
 
+Some of my notes and papers implementation attempts,
+- https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md
+- https://github.com/quickgrid/paper-implementations
 
 ## Papers Read
 
 - :triangular_flag_on_post: Represents overall good understanding, easier to understand with diagrams, examples or good explanation simple language.
-- :notebook: Represents notes taken from papers is in, https://github.com/quickgrid/AI-Resources/blob/master/ai-notes.md.
-- :rocket: Represents paper or parts of paper implementation attempt in, https://github.com/quickgrid/paper-implementations.
 
 ### Uncategorized
 
@@ -31,7 +32,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- | 
-| :rocket: :triangular_flag_on_post: [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE <br> (Vision Transformer, ViT)](https://arxiv.org/abs/2010.11929) | 2020 |  
+| :triangular_flag_on_post: [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE <br> (Vision Transformer, ViT)](https://arxiv.org/abs/2010.11929) | 2020 |  
 
 <br>
 
@@ -49,8 +50,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- |
-| :rocket: :triangular_flag_on_post: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  
-| :rocket: :triangular_flag_on_post: [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | 2015 |  
+| :triangular_flag_on_post: [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) | 2015 |  
+| :triangular_flag_on_post: [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) | 2015 |  
 
 <br>
 
@@ -92,7 +93,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 
 | Topic | Year | 
 | --- | --- | 
-| :rocket: [U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)](https://arxiv.org/abs/1505.04597) | 2015 |  
+| [U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)](https://arxiv.org/abs/1505.04597) | 2015 |  
 
 <br>
 
@@ -127,8 +128,8 @@ Add only papers worth implementing, important concepts that can be applied in fu
 | [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434) | 2015 |  
 | [Improved Training of Wasserstein GANs (WGAN-GP)](https://arxiv.org/abs/1704.00028) | 2017 |   
 | [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | 2014 |  
-| :notebook: :triangular_flag_on_post: [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  
-| :notebook: :triangular_flag_on_post: [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  
+| :triangular_flag_on_post: [Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2)](https://arxiv.org/pdf/1912.04958.pdf) | 2019 |  
+| :triangular_flag_on_post: [Training Generative Adversarial Networks with Limited Data (StyleGAN 2 ADA)](https://arxiv.org/pdf/2006.06676.pdf) | 2020 |  
 | :triangular_flag_on_post: [Alias-Free Generative Adversarial Networks (StyleGAN 3)](https://nvlabs-fi-cdn.nvidia.com/stylegan3/stylegan3-paper.pdf) | 2021 |  
 | :triangular_flag_on_post: [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION (ProGAN)](https://arxiv.org/abs/1710.10196) | 2017 |  
 | :triangular_flag_on_post: [A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)](https://arxiv.org/pdf/1812.04948.pdf) | 2018 |  
@@ -141,7 +142,7 @@ Add only papers worth implementing, important concepts that can be applied in fu
 | --- | --- | 
 | [Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)](https://arxiv.org/abs/1611.07004) | 2016 |  
 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593) | 2017 |  
-| :rocket: :notebook: :triangular_flag_on_post: [Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE)](https://arxiv.org/abs/1903.07291) | 2019 |
+| :notebook: :triangular_flag_on_post: [Semantic Image Synthesis with Spatially-Adaptive Normalization (GauGAN/SPADE)](https://arxiv.org/abs/1903.07291) | 2019 |
 
 <br>
 
