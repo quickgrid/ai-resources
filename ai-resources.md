@@ -176,13 +176,8 @@
 | Scikit Learn Python ML Library | https://scikit-learn.org/stable/ |
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
 | Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
-| Flashlight C++ ML Library | https://github.com/flashlight/flashlight |
-| Dlib | http://dlib.net/ |
-| MXNet | https://mxnet.apache.org/ |
 | :triangular_flag_on_post: OpenCV | https://opencv.org/ |
 | Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
-| Python Pillow | https://pillow.readthedocs.io/en/stable/installation.html |
-| ImageIO | https://imageio.github.io/ |
 |  |  |
 | <h3>OCR<h3/> |  |
 | Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
