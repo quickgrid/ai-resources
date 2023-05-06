@@ -25,11 +25,9 @@
 | Name | Link |
 | --- | --- |
 | <h3>System Tools</h3> |  |
-| :+1: Anaconda (Recommended for installing most libraries) | https://www.anaconda.com/distribution/ |
 | Miniconda (For advanced users) | https://docs.conda.io/en/latest/miniconda.html |
 | :triangular_flag_on_post: PyCharm IDE | https://www.jetbrains.com/pycharm/ |
 | VSCode Editor | https://github.com/microsoft/vscode |
-| Notepad++ Editor | https://notepad-plus-plus.org/downloads/ |
 | :triangular_flag_on_post: Blender 3D Tool | https://www.blender.org/ |
 | Photo Editor | https://krita.org/ |
 | :triangular_flag_on_post: Netron ML Model Visualizer | https://github.com/lutzroeder/Netron |
@@ -50,7 +48,6 @@
 | <h3>Research Blogs</h3> |  |
 | Facebook AI | https://ai.facebook.com/ |
 | OpenAI Blog | https://openai.com/blog/ |
-| BAIR AI Blog | https://bair.berkeley.edu/blog/ |
 | Microsoft Research | https://www.microsoft.com/en-us/research/ |
 | Google Research | https://research.google/ |
 | Deepmind Research | https://deepmind.com/research |
