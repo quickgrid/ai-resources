@@ -223,10 +223,7 @@
 | :gem: Easy explanation of Gradient, Hessian, Jacobian, Laplacian | https://najeebkhan.github.io/blog/VecCal.html |
 | Expected value vs. Average | https://math.stackexchange.com/questions/904343/what-is-the-difference-between-average-and-expected-value/1355657#1355657 |
 | Transformers & Attention | http://jalammar.github.io/illustrated-transformer/ <br> https://d2l.ai/chapter_attention-mechanisms/index.html <br> https://www.youtube.com/watch?v=KN3ZL65Dze0 |
-| :gem: Transformers & Attention: Self Attention | https://www.youtube.com/watch?v=yGTUuEx3GkA |
-| :gem: Transformers & Attention: Keys, Values, Queries | https://www.youtube.com/watch?v=tIvKXrEDMhk |
-| :gem: Transformers & Attention: Multi Head Attention | https://www.youtube.com/watch?v=23XUv0T9L5c |
-| :gem: Transformers & Attention: Transformers | https://www.youtube.com/watch?v=EXNBy8G43MM |
+| :gem: Transformers & Attention | https://www.youtube.com/watch?v=yGTUuEx3GkA <br> https://www.youtube.com/watch?v=tIvKXrEDMhk <br> https://www.youtube.com/watch?v=23XUv0T9L5c <br> https://www.youtube.com/watch?v=EXNBy8G43MM |
 | :gem: Shriking Transformers | https://www.youtube.com/watch?v=hU6lu15uA-o |
 | Neural Network Implementation from scratch | https://peterroelants.github.io/posts/neural-network-implementation-part01/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part02/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part03/ <br> https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
 | Test Time Augmentation | https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/ <br> https://stepup.ai/test_time_data_augmentation/ |
