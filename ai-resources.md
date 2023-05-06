@@ -173,7 +173,6 @@
 |  |  |
 | <h3>NLP</h3> |  |
 | :triangular_flag_on_post: Spacy | https://spacy.io/ |
-| NLTK | https://www.nltk.org/ |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 |  |  |
 | <h3>ML APP UI</h3> |  |
@@ -215,13 +214,9 @@
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
 | Stanford cs231A Computer Vision, From 3D Reconstruction to Recognition | https://web.stanford.edu/class/cs231a/ <br> https://web.stanford.edu/class/cs231a/syllabus.html |
 | CS224n: Natural Language Processing with Deep Learning | https://web.stanford.edu/class/cs224n/ |
-| CS224W: Machine Learning with Graphs | https://web.stanford.edu/class/cs224w/ |
-| CS 330: Deep Multi-Task and Meta Learning | http://web.stanford.edu/class/cs330/ |
 |  |  |
 | <h3>Coursera</h3> |  |
 | :triangular_flag_on_post: Deep Learning Specialization (deeplearning.ai) | https://www.coursera.org/specializations/deep-learning |
-| GAN Specialization (deeplearning.ai) | https://www.coursera.org/specializations/generative-adversarial-networks-gans |
-| :triangular_flag_on_post: Tensorflow Advanced Techniques (deeplearning.ai) | https://www.coursera.org/specializations/tensorflow-advanced-techniques |
 | :triangular_flag_on_post: First Principles of Computer Vision Specialization | https://www.coursera.org/specializations/firstprinciplesofcomputervision |
 | Geometric Algorithms | https://www.coursera.org/learn/geometric-algorithms | 
 | Discrete Optimization | https://www.coursera.org/learn/discrete-optimization |  
