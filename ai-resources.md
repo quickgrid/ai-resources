@@ -169,10 +169,7 @@
 | Name | Link |
 | --- | --- |
 | <h3>Course Sites</h3> |  | 
-| Udacity | https://www.udacity.com |
 | Coursera | https://coursera.org |
-| Edx | https://www.edx.org/ |
-| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
 | Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
 | Stanford AI Course List | https://ai.stanford.edu/courses/ |
 |  |  |
@@ -197,7 +194,6 @@
 | Computer Vision Book by Richard Szeliski | http://szeliski.org/Book/ |
 | Reinforcement Learning Book by Richard S. Sutton | http://incompleteideas.net/book/RLbook2020.pdf |
 | Deep Learning Book by Goodfellow et al. | https://www.deeplearningbook.org/ |
-| Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |  
   
 <br>
 
