@@ -27,24 +27,6 @@
 | OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
 | Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
 
-
-<br>
-
-## `Youtube Paper Review`
-
-| Name | Link |
-| --- | --- |
-| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
-| ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
-| Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
-| ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
-| Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
-| Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
-| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
-| DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
-| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
-| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
-
 <br>
 
 ## `Dataset Search | Annotation | Augmentation`
@@ -148,6 +130,18 @@
 | Open Peer Review | https://openreview.net/ |
 | :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
+|  |  |
+| <h3>Youtube Paper Review</h3> |  |
+| ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
+| ML Paper Overview | https://www.youtube.com/c/WhatsAI/videos |
+| Two Minute Papers | https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos |
+| ML Paper Code Implementation From Scratch | https://www.youtube.com/c/AladdinPersson/videos |
+| Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
+| Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/TheAIEpiphany/videos |
+| DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
+| CV Lectures | https://www.youtube.com/user/cvlibs/videos |
+| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
 
 <br>
 
