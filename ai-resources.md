@@ -1,21 +1,17 @@
 # AI Resources
 
 
-## `Cheetsheets | Glossary | Best Practice`
+## `Programming`
 
 | Description | Link |
 | --- | --- |
-| Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
+| <h3>Cheetsheets, Best Practices</h3> |  |
 | Google Python Style Guide | https://google.github.io/styleguide/pyguide.html |
 | Google C++ Style Guide | https://google.github.io/styleguide/cppguide.html |
-
-<br>
-
-## `Learning Programming`
-
-| Description | Link |
-| --- | --- |
+|  |  |
+| <h3>Learning Programming</h3> |  |
 | High Quality Python Tutorials | https://realpython.com/ |
+
 
 <br>
 
@@ -44,7 +40,7 @@
 
 <br>
 
-## `Enviornment | Softwares`
+## `Softwares`
 
 | Name | Link |
 | --- | --- |
@@ -76,19 +72,6 @@
 | Speech and Language Processing by Jurafsky & Martin | https://web.stanford.edu/~jurafsky/slp3/ |
 
 
-<br>
-
-
-## `Course Sites`
-
-| Description | Link |
-| --- | --- |
-| Udacity | https://www.udacity.com |
-| Coursera | https://coursera.org |
-| Edx | https://www.edx.org/ |
-| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
-| Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
-| Stanford AI Course List | https://ai.stanford.edu/courses/ |
 
 
 <br>
@@ -131,6 +114,9 @@
 | DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
 | CV Lectures | https://www.youtube.com/user/cvlibs/videos |
 | CV Lectures | https://www.youtube.com/user/cvprtum/videos |
+|  |  |
+| <h3>Glossary</h3> |  |
+| Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
 
 <br>
 
@@ -209,6 +195,14 @@
 
 | Name | Link |
 | --- | --- |
+| <h3>Course Sites</h3> |  | 
+| Udacity | https://www.udacity.com |
+| Coursera | https://coursera.org |
+| Edx | https://www.edx.org/ |
+| DeepMind Resources, Practical Notebooks | https://deepmind.com/learning-resources |
+| Deep Learning Courses by Andrew Ng | https://www.deeplearning.ai/ |
+| Stanford AI Course List | https://ai.stanford.edu/courses/ |
+|  |  |
 | <h3>University Advanced CV, DL, Graphics</h3> |  | 
 | TUM Computer Vision and Graphics | https://niessnerlab.org/teaching.html |
 | :triangular_flag_on_post: Stanford CS231n CNN for Visual Recognition | https://cs231n.github.io <br> http://cs231n.stanford.edu/2020/syllabus.html <br> http://cs231n.stanford.edu/schedule.html |
