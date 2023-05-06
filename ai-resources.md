@@ -11,14 +11,8 @@
 |  |  |
 | <h3>Learning Programming</h3> |  |
 | High Quality Python Tutorials | https://realpython.com/ |
-
-
-<br>
-
-## `Code Examples | Scratch Implementations`
-
-| Description | Link |
-| --- | --- |
+|  |  |
+| <h3>Code Examples, Scratch Implementations</h3> |  |
 | Keras Made Easy Code Examples | https://keras.io/examples/ |
 | OpenCV Python, C++ Tutorials with Theory | https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html |
 | Machine Learning Code Collection | https://github.com/aladdinpersson/Machine-Learning-Collection |
