@@ -177,17 +177,14 @@
 | :triangular_flag_on_post: Tensorflow | https://www.tensorflow.org/ |
 | Keras (Part of Tensorflow now as tf.keras) | https://keras.io/ |
 | :triangular_flag_on_post: OpenCV | https://opencv.org/ |
-| Skimage | https://scikit-image.org/docs/dev/api/skimage.html |
+| Skimage | https://scikit-image.org |
 |  |  |
 | <h3>OCR<h3/> |  |
-| Tesserect OCR | https://github.com/tesseract-ocr/tesseract |
 | EasyOCR | https://github.com/JaidedAI/EasyOCR |
 |  |  |
 | <h3>NLP<h3/> |  |
 | :triangular_flag_on_post: Spacy | https://spacy.io/ |
 | NLTK | https://www.nltk.org/ |
-| Rasa NLP | https://rasa.com/ |
-| Flair NLP | https://github.com/flairNLP/flair |
 | HuggingFace Transformers NLP | https://github.com/huggingface/transformers |
 |  |  |
 | <h3>ML APP UI<h3/> |  |
@@ -204,11 +201,9 @@
 | Numba | https://github.com/numba/numba |
 | Cython | https://github.com/cython/cython | 
 | Pythran | https://github.com/serge-sans-paille/pythran | 
-| Dask | https://github.com/dask/dask |
 | CuPy | https://github.com/cupy/cupy |
 |  |  |
 | <h3>Similarity, Image Search</h3> |  | 
-| JinaAI | https://github.com/jina-ai/jina |
 | DocArray | https://github.com/jina-ai/docarray |
 |  |  |
 | <h3>Approximate Nearest Neighbours</h3> |  | 
