@@ -50,6 +50,7 @@
 | Python Computer Vision Tutorials | https://www.pyimagesearch.com/ |
 | Paperspace AI Articles | https://blog.paperspace.com/ |
 | Huggingface Tutorials and Docs | https://huggingface.co/docs/transformers/index |
+| High Quality ML, CV, NLP Concepts Explanation | https://www.pinecone.io/learn/ |
 |  |  |
 | <h3>Research Tools, News</h3> |  |
 | :triangular_flag_on_post: Open Access CVPR, ICCV Papers | http://openaccess.thecvf.com/menu.py |
