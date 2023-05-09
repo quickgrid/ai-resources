@@ -69,7 +69,6 @@
 | Latest AI Research Overview | https://www.youtube.com/c/bycloudAI/videos |
 | Lectures on AI, 3D Vision, Graphics | https://www.youtube.com/c/MatthiasNiessner/videos |
 | DL, CV Paper Review | https://www.youtube.com/c/AICoffeeBreak/videos |
-| CV Lectures | https://www.youtube.com/user/cvprtum/videos |
 |  |  |
 | <h3>Glossary</h3> |  |
 | Google Machine Learning Glossary | https://developers.google.com/machine-learning/glossary |
@@ -81,6 +80,9 @@
 
 | Name | Link |
 | --- | --- |
+| <h3>Chatbot, AI Assistant, LLM</h3> |  |
+| Open Assistant | https://github.com/LAION-AI/Open-Assistant <br> https://open-assistant.io/ |
+|  |  |
 | <h3>Programming Tools</h3> |  |
 | :triangular_flag_on_post: Google Colab | https://colab.research.google.com/ |
 | Interactive Jupyter Notebook | https://mybinder.org/ |
