@@ -96,4 +96,5 @@ Adding only papers worth implementing, important concepts that can be applied in
 | Topic | Year | 
 | --- | --- | 
 | [SELF-ATTENTION DOES NOT NEED O(n^2) MEMORY](https://arxiv.org/pdf/2112.05682v2.pdf) |  |  
-| [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |  
+| [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |
+| [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) | 2023 |
