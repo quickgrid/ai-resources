@@ -123,6 +123,7 @@
 |  |  |
 | <h3>ML APP UI</h3> |  |
 | ML Tool Building | https://www.streamlit.io/ |
+| ML Web App Building | https://github.com/gradio-app/gradio |
 |  |  |  
 | <h3>3D Graphics, ML, CV</h3> |  | 
 | Python 3D Analysis, Visualization | https://github.com/marcomusy/vedo |
@@ -136,6 +137,7 @@
 | Cython | https://github.com/cython/cython | 
 | Pythran | https://github.com/serge-sans-paille/pythran | 
 | CuPy | https://github.com/cupy/cupy |
+| High Performance CPU, GPU Programming Language used with python | https://github.com/taichi-dev/taichi |
 |  |  |
 | <h3>Similarity, Image Search</h3> |  | 
 | DocArray | https://github.com/jina-ai/docarray |
