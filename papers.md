@@ -98,3 +98,21 @@ Adding only papers worth implementing, important concepts that can be applied in
 | [SELF-ATTENTION DOES NOT NEED O(n^2) MEMORY](https://arxiv.org/pdf/2112.05682v2.pdf) |  |  
 | [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/pdf/2111.07624v1.pdf) |  |
 | [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) | 2023 |
+
+<br>
+
+## Summary
+
+### Language Models
+
+### 2018
+
+#### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
+- something something something
+- something something something
+- something something something
+
+#### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- something something something
+- something something something
+- something something something
