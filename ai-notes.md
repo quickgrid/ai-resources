@@ -25,10 +25,3 @@ These notes may contain errors due to misinterpretation, lack of understanding, 
 | | On the Efficacy of Knowledge Distillation |
 | | Does Knowledge Distillation Really Work? |
 
-
-## Summary
-
-#### BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
-- is a denoising autoencoder for pretraining seq to seq models.
-- corrupt text with noising function and learn to reconstruct original.
-- combines bidirectional transformer encoder like BERT and left to right autogressive transformer decoder like GPT.
