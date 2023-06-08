@@ -182,12 +182,13 @@ Adding only papers worth implementing, important concepts that can be applied in
  - MLM enables representations to `fuse left and right context`.
 
  **Special Tokens**
- - `[CLS]` token added in front of every training example.
- - `[SEP]` special separator token. It can be used for separating question and answers.
+ - `[CLS]` token added in front of every training example. Final state corresponding to this token is used as aggregate representation for classification tasks.
+ - `[SEP]` special separator token for separating sentence pairs. It can be used for separating question and answers. 
  
  **Input and Ouput Representations**
  - BERT input representation can unambiguously handle both single and paired sentence `(<question, answer>)` in one token sequence.
  - Here, a sentence is considered as `arbitrary span of contiguous text`, rather than liguistic sentence.
  - Sequence here is referred as `input token sequence` to BERT which can be a `single sentence or pair of sentences packed together`.
+ - `Learned positional embedding` is also added to each tokens for indicating whether it belongs to sentence A or B.
  
  </details>
