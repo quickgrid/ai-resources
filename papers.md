@@ -99,23 +99,47 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 <br>
 
-## Summary
+# Summary
 
 ### Language Models
 
 ### 2018
 
-#### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
+**Basics**
 - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
 - Supervised learning suffer from lack of large data and quality. Learning from raw text removes dependence of on supervised only methods.
-- GPT is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
+
+**GPT**
+- GPT (Generative Pre-Training) is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
 - `Two stages`, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
 - GPT aquires useful linguistic knowledge for `downstream tasks` and outperforms specifically crafted task specific models.
 - Goal is to `learn universal representation` to apply to wide range of tasks with little adaptation.
-- Training requires `large corpus of unlabeled data` and `manually annotated data` for each target task.
+-  Input text is processed as single contiguous sequence of tokens.
+- `Training` requires `large corpus of unlabeled data` and `manually annotated data` for each target task.
+
+**Model**
 - `Transformer` is used for model architecture due ability `handle long-term dependencies` in text.
-- 
+- Multi-layer `transformer decoder` is used for language modeling.
+
+**Unsupervised Pre-training**
+- `Pre-training` acts as `regularizer` providing `better generalization` in deep neural nets. 
+- `Unsupervised pretraining` goal is to find `good initialization point` instead of modifying supervised objective.
+- Unsupervised pretraining objective based on context window of tokens predicts likelihood the next token.
+
+**Supervised Fine-tuning**
+- Uses `labeled dataset` for supervised task. Input sequence of tokens `x1, x2, ..., xN` has output label `y`.
+- An `additional linear ouput layer` is added after final layer of transformer to predict `y` for given task.
+- Uses `label prediction objective` and additionally `language modeling as auxiliary objective` (loss) of unsupervised pre-training for supervised-finetuning.
+- `Extra parameters` added to unsupervised pre-training model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
+
+**Task Specific Input Transformation**
+- Instead of using task specific architectures, the inputs are `converted to sequence of tokens` that the pretrained model can process.
+- Includes start and end tokens for each input to pretrained model, `<s>`, `<e>`.
+- For `text entailment`, premise `p` and hypothesis `h` token sequence inlcude delimiter token `$` between them.
+- For `document QA` (Question Answering) and common sense reasoning include document `z`, a question `q`, a set of answers $a_k$. Document context, question and each individual answer is concatenated with delimiter token in between to produce input data to the pretrained model ($z$, $q$, $\\$$, $a_K$). Softmax layer is used to produce output distribution over all possible answers. 
+- For `sentence similarity` with two sentence sequence of tokens `s1`, `s2` there is no ordering. Start, end tokens are added with delimiter between the sentences to produce output. Also the sentences are swapped to again produce output both which is concatenated before feeding to linear layer.
 
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 - something something something
