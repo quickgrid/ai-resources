@@ -85,8 +85,6 @@ Adding only papers worth implementing, important concepts that can be applied in
 | :triangular_flag_on_post: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) <br> :triangular_flag_on_post: [Supplementary](https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf) | 2016 |  
 |  |  |
 | <h3>Language Models</h3> |  |
-| :triangular_flag_on_post: [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | 2018 |
-| :triangular_flag_on_post: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805) | 2018 |  
 | [Language Models are Unsupervised Multitask Learners (GPT-2)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | 2019 |
 
 <br>
@@ -109,9 +107,11 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 #### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-- For multi-task Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
-- Two stages, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
+- For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
+- `Two stages`, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
 - Outperforms specifically crafted task specific models.
+- Supervised learning suffer from lack of large data and quality. Learning from raw text removes dependence of on supervised only methods.
+- GPT is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
 
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 - something something something
