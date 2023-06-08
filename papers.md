@@ -138,7 +138,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 - `Extra parameters` added to unsupervised pre-training model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
 
 **Input Transformation**
-- Byte Pair Encoding (BPE) used for sub-word tokenization.
+- `Byte Pair Encoding (BPE)` used for sub-word tokenization.
 - Instead of using task specific architectures, the inputs are `converted to sequence of tokens` that the pretrained model can process.
 - Includes `start and end tokens` for each input to pretrained model, `<s>`, `<e>`.
 - For `text entailment`, premise `p` and hypothesis `h` token sequence inlcude delimiter token `$` between them.
