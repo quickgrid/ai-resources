@@ -109,48 +109,48 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 <details>
 
-  **Basics**
-  - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
-  - Some of these tasks are part of [General Language Understanding Evaluation (GLUE)](https://gluebenchmark.com/) multi-task benchmark.
-  - Supervised learning suffer from lack of large annotated dataset and quality. Learning from raw text removes dependence of on supervised only methods.
+ **Basics**
+ - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
+ - Some of these tasks are part of [General Language Understanding Evaluation (GLUE)](https://gluebenchmark.com/) multi-task benchmark.
+ - Supervised learning suffer from lack of large annotated dataset and quality. Learning from raw text removes dependence of on supervised only methods.
 
-  **GPT**
-  - GPT (Generative Pre-Training) is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
-  - `Two stages`, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
-  - GPT aquires useful linguistic knowledge for `downstream tasks` and outperforms specifically crafted task specific models.
-  - Goal is to `learn universal representation` to apply to wide range of tasks with little adaptation.
-  -  Input text is processed as single contiguous sequence of tokens.
-  - `Training` requires `large corpus of unlabeled data` and `manually annotated data` for each target task.
+ **GPT**
+ - GPT (Generative Pre-Training) is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
+ - `Two stages`, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
+ - GPT aquires useful linguistic knowledge for `downstream tasks` and outperforms specifically crafted task specific models.
+ - Goal is to `learn universal representation` to apply to wide range of tasks with little adaptation.
+ -  Input text is processed as single contiguous sequence of tokens.
+ - `Training` requires `large corpus of unlabeled data` and `manually annotated data` for each target task.
 
-  **Model**
-  - `Transformer` is used for model architecture due ability `handle long-term dependencies` in text.
-  - Multi-layer `transformer decoder` is used for language modeling.
-  - Models is multiple layer `decoder only transformer` with masked self attention heads.
-  - `Learned positional embedding` is used instead of sinusoidal in original transformers.
+ **Model**
+ - `Transformer` is used for model architecture due ability `handle long-term dependencies` in text.
+ - Multi-layer `transformer decoder` is used for language modeling.
+ - Models is multiple layer `decoder only transformer` with masked self attention heads.
+ - `Learned positional embedding` is used instead of sinusoidal in original transformers.
 
-  **Unsupervised Pre-training**
-  - `Pre-training` acts as `regularizer` providing `better generalization` in deep neural nets. 
-  - `Unsupervised pretraining` goal is to find `good initialization point` instead of modifying supervised objective.
-  - Unsupervised pretraining objective based on `context window of tokens` predicts likelihood the next token.
+ **Unsupervised Pre-training**
+ - `Pre-training` acts as `regularizer` providing `better generalization` in deep neural nets. 
+ - `Unsupervised pretraining` goal is to find `good initialization point` instead of modifying supervised objective.
+ - Unsupervised pretraining objective based on `context window of tokens` predicts likelihood the next token.
 
-  **Supervised Fine-tuning**
-  - Uses `labeled dataset` for supervised task. Input sequence of tokens `x1, x2, ..., xN` has output label `y`.
-  - An `additional linear ouput layer` is added after final layer of transformer to predict `y` for given task.
-  - Uses `label prediction objective` and additionally `language modeling as auxiliary objective` (loss) of unsupervised pre-training for supervised-finetuning.
-  - `Extra parameters` added to unsupervised pre-trained model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
+ **Supervised Fine-tuning**
+ - Uses `labeled dataset` for supervised task. Input sequence of tokens `x1, x2, ..., xN` has output label `y`.
+ - An `additional linear ouput layer` is added after final layer of transformer to predict `y` for given task.
+ - Uses `label prediction objective` and additionally `language modeling as auxiliary objective` (loss) of unsupervised pre-training for supervised-finetuning.
+ - `Extra parameters` added to unsupervised pre-trained model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
 
-  **Input Transformation**
-  - `Byte Pair Encoding (BPE)` used for sub-word tokenization.
-  - Instead of using task specific architectures, the inputs are `converted to sequence of tokens` that the pretrained model can process.
-  - Includes `start and end tokens` for each input to pretrained model, `<s>`, `<e>`.
-  - For `text entailment`, premise `p` and hypothesis `h` token sequence inlcude delimiter token `$` between them.
-  - For `document QA` (Question Answering) and common sense reasoning include document `z`, a question `q`, a set of answers $a_k$. Document context, question and each individual answer is concatenated with delimiter token in between to produce input data to the pretrained model ($z$, $q$, $\\$$, $a_1$), ($z$, $q$, $\\$$, $a_2$), ..., ($z$, $q$, $\\$$, $a_K$). Softmax layer is used to produce output distribution over all possible answers. 
-  - For `sentence similarity` with two sentence sequence of tokens `s1`, `s2` there is no ordering. Start, end tokens are added with delimiter between the sentences to produce output. Also the sentences are swapped to again produce output both which is concatenated before feeding to linear layer.
+ **Input Transformation**
+ - `Byte Pair Encoding (BPE)` used for sub-word tokenization.
+ - Instead of using task specific architectures, the inputs are `converted to sequence of tokens` that the pretrained model can process.
+ - Includes `start and end tokens` for each input to pretrained model, `<s>`, `<e>`.
+ - For `text entailment`, premise `p` and hypothesis `h` token sequence inlcude delimiter token `$` between them.
+ - For `document QA` (Question Answering) and common sense reasoning include document `z`, a question `q`, a set of answers $a_k$. Document context, question and each individual answer is concatenated with delimiter token in between to produce input data to the pretrained model ($z$, $q$, $\\$$, $a_1$), ($z$, $q$, $\\$$, $a_2$), ..., ($z$, $q$, $\\$$, $a_K$). Softmax layer is used to produce output distribution over all possible answers. 
+ - For `sentence similarity` with two sentence sequence of tokens `s1`, `s2` there is no ordering. Start, end tokens are added with delimiter between the sentences to produce output. Also the sentences are swapped to again produce output both which is concatenated before feeding to linear layer.
 
-  **Datasets**
-  - Natural Language inference (NLI): SNLI, MNLI, QNLI.
-  - Question Answering: SQuaD.
-  - Semantic Similarity: Quora Question Pairs (QQP), Semantic Textual Similarity benchmark (STS-B), Microsoft Paraphrase corpus (MRPC).
+ **Datasets**
+ - Natural Language inference (NLI): SNLI, MNLI, QNLI.
+ - Question Answering: SQuaD.
+ - Semantic Similarity: Quora Question Pairs (QQP), Semantic Textual Similarity benchmark (STS-B), Microsoft Paraphrase corpus (MRPC).
 
 </details>
 
@@ -158,28 +158,36 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 <details>  
 
-  **Applying Pre-trained Language Representations to Downstream tasks**
-  - `Two strategies` for applying pre-trained language representations downstream tasks. They are `fine-tuning` and `feature-based`.
-  - Feature-based representations are applied as `additional features` to task-specific architectures.
-  - Fine-tuning approaches like `GPT` introduces `minimal task specific parameters`. It is trained by downstream tasks by `fine-tuning all pre-trained parameters`.
+ **Applying Pre-trained Language Representations to Downstream tasks**
+ - `Two strategies` for applying pre-trained language representations downstream tasks. They are `fine-tuning` and `feature-based`.
+ - Feature-based representations are applied as `additional features` to task-specific architectures.
+ - Fine-tuning approaches like `GPT` introduces `minimal task specific parameters`. It is trained by downstream tasks by `fine-tuning all pre-trained parameters`.
 
-  **Limitations of existing Unidirectional Language Models**
-  - Standard language models are `unidirectional`. `GPT` uses `left-to-right` architecture, where can only attend to previous tokens in self attention layer by masking future tokens.
-  - This can be `harmful` when fine-tuning on `token-level tasks like Question Answering`, which requires context incorporated from both directions.
+ **Limitations of existing Unidirectional Language Models**
+ - Standard language models are `unidirectional`. `GPT` uses `left-to-right` architecture, where can only attend to previous tokens in self attention layer by masking future tokens.
+ - This can be `harmful` when fine-tuning on `token-level tasks like Question Answering`, which requires context incorporated from both directions.
 
-  **BERT**
-  - BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model` introduced in the paper.
-  - Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
-  - `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
-  - `Alleviates constraints` of unidirectional models by introducing `Masked Language Model (MLM)` pre-training task. 
-  - Also uses `next sentence prediction` task to jointly pretrain on text-pair representations.
-  - During finetuning `all parameters are fine-tuned`.
-  
-  **Masked Language Model (MLM)**
-  - MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
-  - MLM enables representations to `fuse left and right context`.
+ **BERT**
+ - BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model` introduced in the paper.
+ - Similar to GPT, BERT has pre-training and fine-tuning stage. Each downstream task has separate finetuned model even if they are initialized with same pre-trained model parameters.
+ - In contrast to GPT, BERT is a `transformer encoder model`.
+ - Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
+ - `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
+ - `Alleviates constraints` of unidirectional models (e.g. GPT) by introducing `Masked Language Model (MLM)` pre-training task. 
+ - Also uses `next sentence prediction` task to jointly pretrain on text-pair representations.
+ - Similar to GPT, during finetuning `all parameters are fine-tuned`.
 
-  **Special Tokens**
-  - `[CLS]` token added in front of every training example.
-  - `[SEP]` special separator token. It can be separating question and answers.
+ **Masked Language Model (MLM)**
+ - MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
+ - MLM enables representations to `fuse left and right context`.
+
+ **Special Tokens**
+ - `[CLS]` token added in front of every training example.
+ - `[SEP]` special separator token. It can be used for separating question and answers.
+ 
+ **Input and Ouput Representations**
+ - BERT input representation can unambiguously handle both single and paired sentence `(<question, answer>)` in one token sequence.
+ - Here, a sentence is considered as `arbitrary span of contiguous text`, rather than liguistic sentence.
+ - Sequence here is referred as `input token sequence` to BERT which can be a `single sentence or pair of sentences packed together`.
+ 
  </details>
