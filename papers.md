@@ -160,12 +160,12 @@ Adding only papers worth implementing, important concepts that can be applied in
 
   **Applying Pre-trained Language Representations to Downstream tasks**
   - `Two strategies` for applying pre-trained language representations downstream tasks. They are `fine-tuning` and `feature-based`.
-  - Feature-based representations are applied as addtional features to task-specific architectures.
+  - Feature-based representations are applied as `additional features` to task-specific architectures.
   - Fine-tuning approaches like `GPT` introduces `minimal task specific parameters`. It is trained by downstream tasks by `fine-tuning all pre-trained parameters`.
 
-  **Limitations of existing Language Models**
+  **Limitations of existing Unidirectional Language Models**
   - Standard language models are `unidirectional`. `GPT` uses `left-to-right` architecture, where can only attend to previous tokens in self attention layer by masking future tokens.
-  - This can be harmful when fine-tuning on token level tasks like Question Answering, which requires context incorporated from both directions.
+  - This can be `harmful` when fine-tuning on `token-level tasks like Question Answering`, which requires context incorporated from both directions.
 
   **BERT**
   - BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model` introduced in the paper.
@@ -173,7 +173,7 @@ Adding only papers worth implementing, important concepts that can be applied in
   - `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
   - `Alleviates constraints` of unidirectional models by introducing `Masked Language Model (MLM)` pre-training task. 
   - Also uses `next sentence prediction` task to jointly pretrain on text-pair representations.
-  - During finetuning all parameters are fine-tuned.
+  - During finetuning `all parameters are fine-tuned`.
   
   **Masked Language Model (MLM)**
   - MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
