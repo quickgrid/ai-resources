@@ -107,6 +107,8 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 ### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
+<details>
+
 **Basics**
 - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
 - Some of these tasks are part of [General Language Understanding Evaluation (GLUE)](https://gluebenchmark.com/) multi-task benchmark.
@@ -150,8 +152,12 @@ Adding only papers worth implementing, important concepts that can be applied in
 - Question Answering: SQuaD.
 - Semantic Similarity: Quora Question Pairs (QQP), Semantic Textual Similarity benchmark (STS-B), Microsoft Paraphrase corpus (MRPC).
 
-#### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
+</details>
 
+### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
+
+<details>  
+  
 **Applying Pre-trained Language Representations to Downstream tasks**
 - `Two strategies` for applying pre-trained language representations downstream tasks. They are `fine-tuning` and `feature-based`.
 - Feature-based representations are applied as addtional features to task-specific architectures.
@@ -169,3 +175,5 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 **Masked Language Model (MLM)**
 - MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
+
+ </details>
