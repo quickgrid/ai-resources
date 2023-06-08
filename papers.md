@@ -178,15 +178,19 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Similar to GPT, during finetuning `all parameters are fine-tuned`.
 
  **Masked Language Model (MLM)**
- - MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
+ - MLM (Cloze Task) `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
  - MLM enables representations to `fuse left and right context`.
+ - Bidirectional conditioning would allow each word indirectly see itself.
+ - `[Mask]` token appears only in pre-training and not in fine-tuning. To mitigate this, words are not always replaced with mask tokens. 
+ - 80% of the times word is replaced with mask token, 10% time with random token and 10% of the times with same token. Cross entropy loss is used to predict original token.
 
  **Special Tokens**
  - `[CLS]` token added in front of every training example. Final state corresponding to this token is used as aggregate representation for classification tasks.
  - `[SEP]` special separator token for separating sentence pairs. It can be used for separating question and answers. 
+ - `[MASK]` token is used for pre-training and not used in fine-tuning.
  
  **Input and Ouput Representations**
- - BERT input representation can unambiguously handle both single and paired sentence `(<question, answer>)` in one token sequence.
+ - BERT input representation can unambiguously handle both single and paired sentence `<question, answer>` in one token sequence.
  - Here, a sentence is considered as `arbitrary span of contiguous text`, rather than liguistic sentence.
  - Sequence here is referred as `input token sequence` to BERT which can be a `single sentence or pair of sentences packed together`.
  - `Learned positional embedding` is also added to each tokens for indicating whether it belongs to sentence A or B.
