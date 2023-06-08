@@ -136,9 +136,9 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 **Task Specific Input Transformation**
 - Instead of using task specific architectures, the inputs are `converted to sequence of tokens` that the pretrained model can process.
-- Includes start and end tokens for each input to pretrained model, `<s>`, `<e>`.
+- Includes `start and end tokens` for each input to pretrained model, `<s>`, `<e>`.
 - For `text entailment`, premise `p` and hypothesis `h` token sequence inlcude delimiter token `$` between them.
-- For `document QA` (Question Answering) and common sense reasoning include document `z`, a question `q`, a set of answers $a_k$. Document context, question and each individual answer is concatenated with delimiter token in between to produce input data to the pretrained model ($z$, $q$, $\\$$, $a_K$). Softmax layer is used to produce output distribution over all possible answers. 
+- For `document QA` (Question Answering) and common sense reasoning include document `z`, a question `q`, a set of answers $a_k$. Document context, question and each individual answer is concatenated with delimiter token in between to produce input data to the pretrained model ($z$, $q$, $\\$$, $a_1$), ($z$, $q$, $\\$$, $a_2$), ..., ($z$, $q$, $\\$$, $a_K$). Softmax layer is used to produce output distribution over all possible answers. 
 - For `sentence similarity` with two sentence sequence of tokens `s1`, `s2` there is no ordering. Start, end tokens are added with delimiter between the sentences to produce output. Also the sentences are swapped to again produce output both which is concatenated before feeding to linear layer.
 
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
