@@ -145,6 +145,11 @@ Adding only papers worth implementing, important concepts that can be applied in
 - For `document QA` (Question Answering) and common sense reasoning include document `z`, a question `q`, a set of answers $a_k$. Document context, question and each individual answer is concatenated with delimiter token in between to produce input data to the pretrained model ($z$, $q$, $\\$$, $a_1$), ($z$, $q$, $\\$$, $a_2$), ..., ($z$, $q$, $\\$$, $a_K$). Softmax layer is used to produce output distribution over all possible answers. 
 - For `sentence similarity` with two sentence sequence of tokens `s1`, `s2` there is no ordering. Start, end tokens are added with delimiter between the sentences to produce output. Also the sentences are swapped to again produce output both which is concatenated before feeding to linear layer.
 
+**Datasets**
+- Natural Language inference (NLI): SNLI, MNLI, QNLI.
+- Question Answering: SQuaD.
+- Semantic Similarity: Quora Question Pairs (QQP), Semantic Textual Similarity benchmark (STS-B), Microsoft Paraphrase corpus (MRPC).
+
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 - something something something
 - something something something
