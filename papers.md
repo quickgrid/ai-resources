@@ -151,7 +151,21 @@ Adding only papers worth implementing, important concepts that can be applied in
 - Semantic Similarity: Quora Question Pairs (QQP), Semantic Textual Similarity benchmark (STS-B), Microsoft Paraphrase corpus (MRPC).
 
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
-- something something something
-- something something something
-- something something something
 
+**Applying Pre-trained Language Representations to Downstream tasks**
+- `Two strategies` for applying pre-trained language representations downstream tasks. They are `fine-tuning` and `feature-based`.
+- Feature-based representations are applied as addtional features to task-specific architectures.
+- Fine-tuning approaches like `GPT` introduces `minimal task specific parameters`. It is trained by downstream tasks by `fine-tuning all pre-trained parameters`.
+
+**Limitations of existing Language Models**
+- Standard language models are `unidirectional`. `GPT` uses `left-to-right` architecture, where can only attend to previous tokens in self attention layer by masking future tokens.
+- This can be harmful when fine-tuning on token level tasks like Question Answering, which requires context incorporated from both directions.
+
+**BERT**
+- BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model`.
+- Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
+- `An additional output layer` is added to create `SOTA (state-of-the-art)` models. Tasks include QA, language inference etc.
+- `Alleviates constraints` of unidirection models by introducing `Masked Language Model (MLM)` pre-training task. 
+
+**Masked Language Model (MLM)**
+- MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
