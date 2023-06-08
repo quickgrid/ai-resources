@@ -107,12 +107,14 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 ### 2018
 
+#### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+- For multi-task Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
+- Two stages, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
+- Outperforms specifically crafted task specific models.
+
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 - something something something
 - something something something
 - something something something
 
-#### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- something something something
-- something something something
-- something something something
