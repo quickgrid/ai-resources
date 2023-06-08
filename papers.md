@@ -122,6 +122,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 **Model**
 - `Transformer` is used for model architecture due ability `handle long-term dependencies` in text.
 - Multi-layer `transformer decoder` is used for language modeling.
+- Models is multiple layer `decoder only transformer` with masked self attention heads.
 
 **Unsupervised Pre-training**
 - `Pre-training` acts as `regularizer` providing `better generalization` in deep neural nets. 
