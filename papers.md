@@ -129,7 +129,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 **Unsupervised Pre-training**
 - `Pre-training` acts as `regularizer` providing `better generalization` in deep neural nets. 
 - `Unsupervised pretraining` goal is to find `good initialization point` instead of modifying supervised objective.
-- Unsupervised pretraining objective based on context window of tokens predicts likelihood the next token.
+- Unsupervised pretraining objective based on `context window of tokens` predicts likelihood the next token.
 
 **Supervised Fine-tuning**
 - Uses `labeled dataset` for supervised task. Input sequence of tokens `x1, x2, ..., xN` has output label `y`.
