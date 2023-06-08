@@ -110,7 +110,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 **Basics**
 - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
 - Some of these tasks are part of [General Language Understanding Evaluation (GLUE)](https://gluebenchmark.com/) multi-task benchmark.
-- Supervised learning suffer from lack of large data and quality. Learning from raw text removes dependence of on supervised only methods.
+- Supervised learning suffer from lack of large annotated dataset and quality. Learning from raw text removes dependence of on supervised only methods.
 
 **GPT**
 - GPT (Generative Pre-Training) is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
@@ -135,7 +135,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 - Uses `labeled dataset` for supervised task. Input sequence of tokens `x1, x2, ..., xN` has output label `y`.
 - An `additional linear ouput layer` is added after final layer of transformer to predict `y` for given task.
 - Uses `label prediction objective` and additionally `language modeling as auxiliary objective` (loss) of unsupervised pre-training for supervised-finetuning.
-- `Extra parameters` added to unsupervised pre-training model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
+- `Extra parameters` added to unsupervised pre-trained model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
 
 **Input Transformation**
 - `Byte Pair Encoding (BPE)` used for sub-word tokenization.
