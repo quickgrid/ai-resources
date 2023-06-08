@@ -108,10 +108,14 @@ Adding only papers worth implementing, important concepts that can be applied in
 #### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
-- `Two stages`, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
-- Outperforms specifically crafted task specific models.
 - Supervised learning suffer from lack of large data and quality. Learning from raw text removes dependence of on supervised only methods.
 - GPT is a `semi-supervised` approach with `unsupervised pre-training` and `supervised fine-tuning`. 
+- `Two stages`, Generative Pre-Training on unlabeled data, Discriminative Finetuning for each specific task with task aware input transformation and minimal model architecture change.
+- Outperforms specifically crafted task specific models.
+- Goal is to `learn universal representation` to apply to wide range of tasks with little adaptation.
+- Training requires `large corpus of unlabeled data` and `manually annotated data` for each target task.
+- `Transformer` is used for model architecture due ability `handle long-term dependencies` in text.
+- 
 
 #### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 - something something something
