@@ -168,12 +168,14 @@ Adding only papers worth implementing, important concepts that can be applied in
 - This can be harmful when fine-tuning on token level tasks like Question Answering, which requires context incorporated from both directions.
 
 **BERT**
-- BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model`.
+- BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model` introduced in the paper.
 - Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
-- `An additional output layer` is added to create `SOTA (state-of-the-art)` models. Tasks include QA, language inference etc.
-- `Alleviates constraints` of unidirection models by introducing `Masked Language Model (MLM)` pre-training task. 
-
+- `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
+- `Alleviates constraints` of unidirectional models by introducing `Masked Language Model (MLM)` pre-training task. 
+- Also uses `next sentence prediction` task to jointly pretrain on text-pair representations.
+ 
 **Masked Language Model (MLM)**
 - MLM `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
+- MLM enables representations to `fuse left and right context`.
 
  </details>
