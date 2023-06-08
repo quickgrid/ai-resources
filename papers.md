@@ -164,7 +164,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Fine-tuning approaches like `GPT` introduces `minimal task specific parameters`. It is trained by downstream tasks by `fine-tuning all pre-trained parameters`.
 
  **Limitations of existing Unidirectional Language Models**
- - Standard language models are `unidirectional`. `GPT` uses `left-to-right` architecture, where can only attend to previous tokens in self attention layer by masking future tokens.
+ - Standard language models are `unidirectional`. `GPT` uses `left-to-right` architecture, where can `only attend to previous tokens` in self attention layer by masking future tokens.
  - This can be `harmful` when fine-tuning on `token-level tasks like Question Answering`, which requires context incorporated from both directions.
 
  **BERT**
@@ -174,7 +174,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
  - `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
  - `Alleviates constraints` of unidirectional models (e.g. GPT) by introducing `Masked Language Model (MLM)` pre-training task. 
- - Also uses `next sentence prediction` task to jointly pretrain on text-pair representations.
+ - Also uses `Next Sentence Prediction (NSP)` task to jointly pretrain on text-pair representations.
  - Similar to GPT, during finetuning `all parameters are fine-tuned`.
 
  **Masked Language Model (MLM)**
