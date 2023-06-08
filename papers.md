@@ -109,6 +109,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 **Basics**
 - For `multi-task` Natural Language Understanding (NLU) objectives such as question answering, semantic similarity, document classification etc.
+- Some of these tasks are part of [General Language Understanding Evaluation (GLUE)](https://gluebenchmark.com/) multi-task benchmark.
 - Supervised learning suffer from lack of large data and quality. Learning from raw text removes dependence of on supervised only methods.
 
 **GPT**
@@ -123,6 +124,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 - `Transformer` is used for model architecture due ability `handle long-term dependencies` in text.
 - Multi-layer `transformer decoder` is used for language modeling.
 - Models is multiple layer `decoder only transformer` with masked self attention heads.
+- `Learned positional embedding` is used instead of sinusoidal in original transformers.
 
 **Unsupervised Pre-training**
 - `Pre-training` acts as `regularizer` providing `better generalization` in deep neural nets. 
@@ -135,7 +137,8 @@ Adding only papers worth implementing, important concepts that can be applied in
 - Uses `label prediction objective` and additionally `language modeling as auxiliary objective` (loss) of unsupervised pre-training for supervised-finetuning.
 - `Extra parameters` added to unsupervised pre-training model is final linear layer weights $W_y$ and embedding for delimiter tokens. 
 
-**Task Specific Input Transformation**
+**Input Transformation**
+- Byte Pair Encoding (BPE) used for sub-word tokenization.
 - Instead of using task specific architectures, the inputs are `converted to sequence of tokens` that the pretrained model can process.
 - Includes `start and end tokens` for each input to pretrained model, `<s>`, `<e>`.
 - For `text entailment`, premise `p` and hypothesis `h` token sequence inlcude delimiter token `$` between them.
