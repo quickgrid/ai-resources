@@ -149,13 +149,16 @@ Adding only papers worth implementing, important concepts that can be applied in
 
  **Datasets**
  - Natural Language inference (NLI): SNLI, MNLI, QNLI.
- - Question Answering: SQuaD.
+ - Question Answering: SQuAD (Stanford Question Answering Dataset).
  - Semantic Similarity: Quora Question Pairs (QQP), Semantic Textual Similarity benchmark (STS-B), Microsoft Paraphrase corpus (MRPC).
 
 </details>
 
 ### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
 
+**Prerequisite** 
+- GPT-1 paper.
+ 
 <details>  
 
  **Applying Pre-trained Language Representations to Downstream tasks**
@@ -177,14 +180,10 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Also uses `Next Sentence Prediction (NSP)` task to jointly pretrain on text-pair representations.
  - Similar to GPT, during finetuning `all parameters are fine-tuned`.
  - For finetuning task specific input and outputs are added. Adding an extra output layer on top of pre-trained model can be used for classification, sentiment analysis etc.
-
- **Masked Language Model (MLM)**
- - MLM (Cloze Task) `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
- - MLM enables representations to `fuse left and right context`.
- - Bidirectional conditioning would allow each word indirectly see itself.
- - `[Mask]` token appears only in pre-training and not in fine-tuning. To mitigate this, words are not always replaced with mask tokens. 
- - 80% of the times word is replaced with mask token, 10% time with random token and 10% of the times with same token. Cross entropy loss is used to predict original token.
-
+ - BERT is effective in both feature-based (extracting fixed features from pre-trained network) and fine-tuning (all parameters including pre-trained) approaches.
+ - `Increasing model size` will lead to `continual improvement` on large scale tasks.
+ - Uses `WordPiece` tokenization.
+ 
  **Special Tokens**
  - `[CLS]` token added in front of every training example. `Final state` corresponding to this token is used as aggregate representation for `classification tasks`.
  - `[SEP]` special separator token for separating sentence pairs. It can be used for separating question and answers. 
@@ -196,9 +195,19 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Sequence here is referred as `input token sequence` to BERT which can be a `single sentence or pair of sentences packed together`.
  - `Learned positional embedding` is also added to each tokens for indicating whether it belongs to sentence A or B.
  
+ **Masked Language Model (MLM)**
+ - MLM (Cloze Task) used for pre-training `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
+ - MLM enables representations to `fuse left and right context`.
+ - Bidirectional conditioning would allow each word indirectly see itself.
+ - `[Mask]` token appears only in pre-training and not in fine-tuning. To mitigate this, words are not always replaced with mask tokens. 
+ - 80% of the times word is replaced with mask token, 10% time with random token and 10% of the times with same token. Cross entropy loss is used to predict original token. Example, unlabeled sentence, `my dog is hairy`. 80% of the time label will be mask token, `my dog is [mask]`. 10% of the time random word, `my dog is apple` and 10% of the time same word, `my dog is hairy`.
+ - Masked LM only makes prediction on 15% of the token each batch. MLM does not know which words it needs predict or which have been replaced with random words.
+ 
  **Next Sentence Prediction (NSP)**
  - Used for pre-training and shown to be beneficial for QA and NLI.
  - Downstream tasks like `Question Answering (QA)`, `Natural Language Inference (NLI)` are based on `relationship between two sentences`, which is not directly captured by language modeling. 
  - For this task, 50% of the time sentence B is `actual next sentence` to sentence A labeled with `IsNext`. Rest of the 50% time sentence B is `randomly chosen` from corpus and labeled by `NotNext`.
+ - Input example, `[CLS] the man went to [MASK] store [SEP] he bought a gallon of [MASK] milk [SEP]` and output label `IsNext`.
+ - Input example, `[CLS] the man went to [MASK] store [SEP] penguin [MASK] are flight ##less birds [SEP]` and output label `NotNext`.
  
  </details>
