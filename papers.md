@@ -170,7 +170,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  **BERT**
  - BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model` introduced in the paper.
  - `Similar to GPT`, BERT has pre-training and fine-tuning stage. Each downstream task has separate finetuned model even if they are initialized with same pre-trained model parameters.
- - In contrast to GPT, BERT is a `transformer encoder model`.
+ - In contrast to GPT which is transformer decoder model due to left only context, bidirectional context model BERT is a `transformer encoder model`.
  - Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
  - `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
  - `Alleviates constraints` of unidirectional models (e.g. GPT) by introducing `Masked Language Model (MLM)` pre-training task. 
@@ -185,7 +185,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  - 80% of the times word is replaced with mask token, 10% time with random token and 10% of the times with same token. Cross entropy loss is used to predict original token.
 
  **Special Tokens**
- - `[CLS]` token added in front of every training example. Final state corresponding to this token is used as aggregate representation for classification tasks.
+ - `[CLS]` token added in front of every training example. `Final state` corresponding to this token is used as aggregate representation for `classification tasks`.
  - `[SEP]` special separator token for separating sentence pairs. It can be used for separating question and answers. 
  - `[MASK]` token is used for pre-training and not used in fine-tuning.
  
@@ -194,5 +194,10 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Here, a sentence is considered as `arbitrary span of contiguous text`, rather than liguistic sentence.
  - Sequence here is referred as `input token sequence` to BERT which can be a `single sentence or pair of sentences packed together`.
  - `Learned positional embedding` is also added to each tokens for indicating whether it belongs to sentence A or B.
+ 
+ **Next Sentence Prediction (NSP)**
+ - Used for pre-training and shown to be beneficial for QA and NLI.
+ - Downstream tasks like `Question Answering (QA)`, `Natural Language Inference (NLI)` are based on `relationship between two sentences`, which is not directly captured by language modeling. 
+ - For this task, 50% of the time sentence B is `actual next sentence` to sentence A labeled with `IsNext`. Rest of the 50% time sentence B is `randomly chosen` from corpus and labeled by `NotNext`.
  
  </details>
