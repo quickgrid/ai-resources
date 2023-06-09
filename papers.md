@@ -169,7 +169,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
  **BERT**
  - BERT (Bidirectional Encoder Representations from Transformers) is a `language representation model` introduced in the paper.
- - Similar to GPT, BERT has pre-training and fine-tuning stage. Each downstream task has separate finetuned model even if they are initialized with same pre-trained model parameters.
+ - `Similar to GPT`, BERT has pre-training and fine-tuning stage. Each downstream task has separate finetuned model even if they are initialized with same pre-trained model parameters.
  - In contrast to GPT, BERT is a `transformer encoder model`.
  - Designed to `pretrain` deep bidirectional representations from `unlabeled data` by `jointly conditioning on left and right context` in all layers.
  - `An additional output layer` is added to create `SOTA (state-of-the-art)` models that performs well on sentence-level and token-level tasks. Tasks include QA, language inference etc.
