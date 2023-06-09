@@ -176,6 +176,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  - `Alleviates constraints` of unidirectional models (e.g. GPT) by introducing `Masked Language Model (MLM)` pre-training task. 
  - Also uses `Next Sentence Prediction (NSP)` task to jointly pretrain on text-pair representations.
  - Similar to GPT, during finetuning `all parameters are fine-tuned`.
+ - For finetuning task specific input and outputs are added. Adding an extra output layer on top of pre-trained model can be used for classification, sentiment analysis etc.
 
  **Masked Language Model (MLM)**
  - MLM (Cloze Task) `randomly masks some input tokens`, and the objective is to `predict original vocabulary id` based only on context. 
