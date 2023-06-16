@@ -258,9 +258,15 @@ Adding only papers worth implementing, important concepts that can be applied in
 - Memory mechanisms have shown promise for continual learning in foundation models.
 - `Techniques for localizing knowledge` in foundation model in order to `make targetted parameter updates` may help prevent forgetting, but `repeated application` of such updates `induce significant forgetting`.
 
+**Efficient Knowledge Representation**
+- `Retrieval-based` models such as `REALM, RAG, RETRO` take `different approach` to model design `than simply increasing model parameters`.
+- Instead of trying to `accumulate implicit-knowledge` from ever larger datasets `directly to DNN model` with billions of parameters, `retrieval-based` methods `store knowledge outside model parameters` in form of text passages, `capturing knowledge` in form of `dense vector representations`.
+- These models use `top-k` search mechanisms to extract knowledge based on each input, `while keeping the DNN model small`.
+- This results in `improved maintainability` of the model as developers can `update knowledge by replacing text passage`, its dense vector representation, metadata, `without needing to train large DNN`.
+
 **Drawbacks**
 - `Defects` of the model are `inherited` to all adapted models `downstream`.
-- `Homogenization` create single point of failure.
+- `Homogenization` create single point of failure. Susceptible to `adversarial examples`, `data poisoning attack`, which could be transfered to adapted applications.
 - `Emergence` properties of foundation models generate `substantial uncertainty` over capabilities.
 - Existing foundation models are able to `memorize sensitive information` in training data and `regurgitate` such data `when queried` via standard API.
  </details>
