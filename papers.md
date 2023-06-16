@@ -252,8 +252,15 @@ Adding only papers worth implementing, important concepts that can be applied in
 - `Temporarily-partioned` diagnostic datasets help quantify the rate at which language models become outdated.
 - An alternative to addressing `temporal shift` is to design `retrieval-based (sami-parametric) models`, which `augment the model` input with `additional context retrieved from large human-interpretable databases`. In this case, `adaptation` corresponds to `updating` individual units of `information in database`. 
 
+**Continual Learning**
+- A natural extension of adaptation is `continual learning` or `continual adaptation`, in order to `keep model's knowledge up-to-date` with world events, `continually add data` from new domain or `modalities`.
+- A problem of this is `continual learning` induces `catastrophic forgetting` in neural networks, where `old tasks or data are rapidly forgotten` with train distribution changes.
+- Memory mechanisms have shown promise for continual learning in foundation models.
+- `Techniques for localizing knowledge` in foundation model in order to `make targetted parameter updates` may help prevent forgetting, but `repeated application` of such updates `induce significant forgetting`.
+
 **Drawbacks**
 - `Defects` of the model are `inherited` to all adapted models `downstream`.
 - `Homogenization` create single point of failure.
 - `Emergence` properties of foundation models generate `substantial uncertainty` over capabilities.
+- Existing foundation models are able to `memorize sensitive information` in training data and `regurgitate` such data `when queried` via standard API.
  </details>
