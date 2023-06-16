@@ -224,6 +224,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 **Foundation Models**
 - `Foundation models` are models trained on `broad data` generally trained using `self-supervised learning at scale`, that can be adapted (e.g., fine-tune) to wide range of downstream tasks. Example include, BERT, DALL-E, GPT-3, CLIP etc.
+- Foundation model provide `general-purpose engine` for `processing multimodal information`.
 - They are based on `deep neural networks (DNN)` and `self-supervised learning (SSL)`.  
 - Incentivizes `homogenization`, which is consolidation of methodologies for building ML systems across wide range of applications.
 - Transfer learning makes it possible, Scale makes it powerlful. Their `scale` result in `emergent capabilities`.
@@ -240,7 +241,16 @@ Adding only papers worth implementing, important concepts that can be applied in
 **Memory**
 - Important to distinguish between `explicit facts` that can be `stored in external memory storage` (e.g., vector database) and `implicit knowledge` reflected through `trainable weights of network.`
 - `Decoupling explicit and implicit knowledge` enjoy multiple `benefits` compared to implicitly encoding all information together through network weights. [🔗 paper link](https://arxiv.org/pdf/2002.08909.pdf)
-- This separation `mitigates inflation in model size`, `number of parameters` needed to store growing amounts of knowledge. It is also `key to memory update, manipulation and adaptation`. [🔗 paper link](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+- This separation `mitigates inflation in model size`, `number of parameters` needed to store growing amounts of knowledge. It is also `key to memory update (model patching), manipulation and adaptation`. [🔗 paper link](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+
+**Adaptations**
+- `Low storage adaptation`, approaches include, `fine-tuning final layer weights`, `only bias vectors`, `low rank weight tensors`, .
+- `Low memory adaptations` include, `gradient checkpointing` to trade off computation and memory. 
+
+**Temporal Adaptations**
+- `Information is constantly changing` like clothing style, new heads of state elected. This `temporal shift` presents a problem due to computationally demaning nature of training foundation models.
+- `Temporarily-partioned` diagnostic datasets help quantify the rate at which language models become outdated.
+- An alternative to addressing `temporal shift` is to design `retrieval-based (sami-parametric) models`, which `augment the model` input with `additional context retrieved from large human-interpretable databases`. In this case, `adaptation` corresponds to `updating` individual units of `information in database`. 
 
 **Drawbacks**
 - `Defects` of the model are `inherited` to all adapted models `downstream`.
