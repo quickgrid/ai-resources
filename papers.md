@@ -223,7 +223,10 @@ Adding only papers worth implementing, important concepts that can be applied in
 - They are based on `deep neural networks (DNN)` and `self-supervised learning (SSL)`.  
 - Incentivizes `homogenization`, which is consolidation of methodologies for building ML systems across wide range of applications.
 - Transfer learning makes it possible, Scale makes it powerlful. Their `scale` result in `emergent capabilities`.
-- Led to unprecedented level of homogenization. `Almost all SOTA NLP models adapted` from few `foundation models, BERT, RoBERTa, BART, T5,` etc.
+- Led to unprecedented level of homogenization. `Almost all SOTA NLP models adapted` from few `foundation models, BERT, RoBERTa, BART, T5,` etc.'
+- Led to surprising emergence due to scale, `in-context learning` in 175B parameter GPT-3. `In-context learning` allows `adaptation to downstream tasks by` providing it with `prompt`.
+- Can `centralize information` from all data `from various modalities (e.g., text, image, audio)` and can be `adapted` to wide range of `downstream tasks (e.g., QA, image captioning, following instructions, object recognition).`
+- `Foundation model itself is incomplete`, but serves as `common basis` from which many `task-specific models` built via adaptation.
 
 **Basic Knowledge** 
 - In deep learning, `pretraining` is a dominant `transfer learning approach`.
@@ -232,5 +235,6 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 **Drawbacks**
 - `Defects` of the model are `inherited` to all adapted models `downstream`.
-- `Homogenization` create single point of failure. 
+- `Homogenization` create single point of failure.
+- `Emergence` properties of foundation models generate `substantial uncertainty` over capabilities.
  </details>
