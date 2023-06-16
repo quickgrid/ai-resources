@@ -4,14 +4,16 @@ The year column represents publishing year in arxiv and not the year of latest r
 
 Adding only papers worth implementing, important concepts that can be applied in future with high quality or need to be revisited again with easy to understand, SOTA, close to SOTA results or unique ideas. Not adding paper if concept not understood, too hard or anything meaningful not found.
 
+
+- 🚩 Represents overall good understanding, easier to understand with diagrams, examples or good explanation simple language.
+- 🎯 Represents partially reviewed paper. 
+
 <!--
 |  |  |
 | <h3></h3> |  |
 -->
 
 ## Papers Read
-
-- :triangular_flag_on_post: Represents overall good understanding, easier to understand with diagrams, examples or good explanation simple language.
 
 | Topic | Year |
 | --- | --- |
@@ -210,4 +212,25 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Input example, `[CLS] the man went to [MASK] store [SEP] he bought a gallon of [MASK] milk [SEP]` and output label `IsNext`.
  - Input example, `[CLS] the man went to [MASK] store [SEP] penguin [MASK] are flight ##less birds [SEP]` and output label `NotNext`.
  
+ </details>
+
+### 🎯 [On the Opportunities and Risks of Foundation Models (Foundation Models)](https://arxiv.org/abs/2108.07258)
+
+ <details>
+
+**Foundation Models**
+- `Foundation models` are models trained on `broad data` generally trained using `self-supervised learning at scale`, that can be adapted (e.g., fine-tune) to wide range of downstream tasks. Example include, BERT, DALL-E, GPT-3, CLIP etc.
+- They are based on `deep neural networks (DNN)` and `self-supervised learning (SSL)`.  
+- Incentivizes `homogenization`, which is consolidation of methodologies for building ML systems across wide range of applications.
+- Transfer learning makes it possible, Scale makes it powerlful. Their `scale` result in `emergent capabilities`.
+- Led to unprecedented level of homogenization. `Almost all SOTA NLP models adapted` from few `foundation models, BERT, RoBERTa, BART, T5,` etc.
+
+**Basic Knowledge** 
+- In deep learning, `pretraining` is a dominant `transfer learning approach`.
+- In `self-supervised learning` pretraining task is derived from `unlabeled data`.
+- `Transformer` model architecture leverages `hardware parallelism` to train more expressive models.
+
+**Drawbacks**
+- `Defects` of the model are `inherited` to all adapted models `downstream`.
+- `Homogenization` create single point of failure. 
  </details>
