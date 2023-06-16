@@ -157,11 +157,11 @@ Adding only papers worth implementing, important concepts that can be applied in
 </details>
 
 ### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
-
-**Prerequisite** 
-- GPT-1 paper.
  
 <details>  
+
+ **Prerequisite** 
+ - GPT-1 paper.
 
  **Applying Pre-trained Language Representations to Downstream tasks**
  - `Two strategies` for applying pre-trained language representations downstream tasks. They are `fine-tuning` and `feature-based`.
@@ -213,6 +213,10 @@ Adding only papers worth implementing, important concepts that can be applied in
  - Input example, `[CLS] the man went to [MASK] store [SEP] penguin [MASK] are flight ##less birds [SEP]` and output label `NotNext`.
  
  </details>
+
+### Foundation Models
+
+### 2021
 
 ### 🎯 [On the Opportunities and Risks of Foundation Models (Foundation Models)](https://arxiv.org/abs/2108.07258)
 
