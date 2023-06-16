@@ -248,14 +248,14 @@ Adding only papers worth implementing, important concepts that can be applied in
 - `Low memory adaptations` include, `gradient checkpointing` to trade off computation and memory. 
 
 **Temporal Adaptations**
-- `Information is constantly changing` like clothing style, new heads of state elected. This `temporal shift` presents a problem due to computationally demaning nature of training foundation models.
+- `Information is constantly changing` like clothing style, new heads of state elected. This `temporal shift` presents a problem due to computationally demanding nature of training foundation models.
 - `Temporarily-partioned` diagnostic datasets help quantify the rate at which language models become outdated.
 - An alternative to addressing `temporal shift` is to design `retrieval-based (sami-parametric) models`, which `augment the model` input with `additional context retrieved from large human-interpretable databases`. In this case, `adaptation` corresponds to `updating` individual units of `information in database`. 
 
 **Continual Learning**
 - A natural extension of adaptation is `continual learning` or `continual adaptation`, in order to `keep model's knowledge up-to-date` with world events, `continually add data` from new domain or `modalities`.
 - A problem of this is `continual learning` induces `catastrophic forgetting` in neural networks, where `old tasks or data are rapidly forgotten` with train distribution changes.
-- Memory mechanisms have shown promise for continual learning in foundation models.
+- `Memory mechanisms` have shown promise for continual learning in foundation models.
 - `Techniques for localizing knowledge` in foundation model in order to `make targetted parameter updates` may help prevent forgetting, but `repeated application` of such updates `induce significant forgetting`.
 
 **Efficient Knowledge Representation**
