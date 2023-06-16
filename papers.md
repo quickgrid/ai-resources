@@ -237,6 +237,11 @@ Adding only papers worth implementing, important concepts that can be applied in
 - In `self-supervised learning` pretraining task is derived from `unlabeled data`.
 - `Transformer` model architecture leverages `hardware parallelism` to train more expressive models.
 
+**Memory**
+- Important to distinguish between `explicit facts` that can be `stored in external memory storage` (e.g., vector database) and `implicit knowledge` reflected through `trainable weights of network.`
+- `Decoupling explicit and implicit knowledge` enjoy multiple `benefits` compared to implicitly encoding all information together through network weights. [🔗 paper link](https://arxiv.org/pdf/2002.08909.pdf)
+- This separation `mitigates inflation in model size`, `number of parameters` needed to store growing amounts of knowledge. It is also `key to memory update, manipulation and adaptation`. [🔗 paper link](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
+
 **Drawbacks**
 - `Defects` of the model are `inherited` to all adapted models `downstream`.
 - `Homogenization` create single point of failure.
