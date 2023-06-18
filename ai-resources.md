@@ -60,6 +60,7 @@
 | Open Peer Review | https://openreview.net/ |
 | :triangular_flag_on_post: News on Latest AI Techniques | https://syncedreview.com/ |
 | Facebook AI Related Stuff | https://ai.facebook.com/tools/ |
+| Recent Paper News | https://www.marktechpost.com |
 |  |  |
 | <h3>Youtube Paper Review</h3> |  |
 | ML Research Paper Explanation | https://www.youtube.com/c/YannicKilcher/videos |
