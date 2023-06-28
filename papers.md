@@ -107,7 +107,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 ### 2018
 
-### [Improving Language Understanding by Generative Pre-Training (GPT)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+### [`GPT` | Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 <details>
 
@@ -156,7 +156,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 </details>
 
-### [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
+### [`BERT` | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
  
 <details>  
 
@@ -218,7 +218,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 ### 2021
 
-### 🎯 [On the Opportunities and Risks of Foundation Models (Foundation Models)](https://arxiv.org/abs/2108.07258)
+### [`Foundation Models` | On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 
  <details>
 
@@ -276,7 +276,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 ### 2023
 
-### [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
+### 🎯 [`DragGAN` | Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973)
 
  <details>
 
