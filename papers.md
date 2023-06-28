@@ -272,7 +272,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  </details>
 
 
-### Controllable Image Generation
+### Controllable Image Synthesis
 
 ### 2023
 
@@ -280,8 +280,12 @@ Adding only papers worth implementing, important concepts that can be applied in
 
  <details>
 
-  **DragGAN** 
-  - User `sets some handle points` by clicking and `corresponding target points`. This method will `move handle points to target points`.
-  - Can also `set masks to edit on only masked location`. Allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
+ **DragGAN** 
+ - User `sets some handle points` by clicking and `corresponding target points`. This method will `move handle points to target points` of GAN-generated images.
+ - Can also `set masks to edit on only masked location`. Allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
+ - Ideal controllable image synthesis approaches should have, 1) `flexibility:` able to `control` different `spatial properties like position, shape, pose, expression` of generated objects; 2) `Precision:` `control` spatial properties `with high precision`; 3) `Generality:` should be `applicable to different objects` without limiting to certain categories.
+ 
+ **Previous Approaches**
+ - `Previous GAN` based methods `gain controllability` by using `manually annotated training data` or `prior 3D model` often lacking flexibility, precision, and generality.
   
  </details>
