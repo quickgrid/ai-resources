@@ -315,6 +315,15 @@ Adding only papers worth implementing, important concepts that can be applied in
 - After `each motion supervision` step point moves `small step`, but the `amount is unknown`.
 - Point tracking is required because if handle points (e.g., nose of lion) are not accurately updated, then in next motion supervision step it will move wrong points (e.g., face of lion).
 
+**Motion Supervision**
+- Intermediate features of generator is discriminative enough such that simple loss is enough to supervise motion.
+- Feature map `F` after `6th block of StyleGAN2` is considered as it gives good trade-off between discriminativeness and resolution. 
+- Feature map `F` is `resized` to `same size as final image` via `bilinear interpolation`.
+
+
+**Point Tracking**
+- Feature map `F` after `6th block of StyleGAN2` is also considered here with 256x256 resolution and interpolated to same size as image if needed.
+
 **Input Image Editing**
 - Performed using `GAN Inversion` techniques that `embeds` input images to `StyleGAN latent space`.
  
