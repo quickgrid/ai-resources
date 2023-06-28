@@ -290,6 +290,8 @@ Adding only papers worth implementing, important concepts that can be applied in
 
  **DragGAN** 
  - DragGAN is a `point-based interactive image editing method` not requiring additional tracking models. It `outperforms SOTA` point-based tracking approaches like `RAFT` and `PIPs`.
+ - `Leverages pre-trained GAN` to precisely follow user input, but also stay in manifold of realistic images.
+ - `Latent code is optimized incrementally` that `moves` multiple handle points to their corresponding target locations.
  - It allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
  - User `sets some handle points` in interactive manner by clicking and `corresponding target point pairs` in manner of `(handle point, target point)`. This method will `move handle points to target points` of GAN-generated images.
  - Can also `use bindary masks to edit on only masked location by denoting movable region`. `Mask reduces ambiguity` and `keeps certain regions fixed`.
