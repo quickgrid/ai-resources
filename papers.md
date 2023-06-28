@@ -281,11 +281,18 @@ Adding only papers worth implementing, important concepts that can be applied in
  <details>
 
  **DragGAN** 
- - User `sets some handle points` by clicking and `corresponding target points`. This method will `move handle points to target points` of GAN-generated images.
+ - User `sets some handle points` in interactive manner and `corresponding target points`. This method will `move handle points to target points` of GAN-generated images.
  - Can also `set masks to edit on only masked location`. Allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
- - Ideal controllable image synthesis approaches should have, 1) `flexibility:` able to `control` different `spatial properties like position, shape, pose, expression` of generated objects; 2) `Precision:` `control` spatial properties `with high precision`; 3) `Generality:` should be `applicable to different objects` without limiting to certain categories.
+ - `Ideal controllable image synthesis` approaches should have, 1) `flexibility:` able to `control` different `spatial properties like position, shape, pose, expression` of generated objects; 2) `Precision:` `control` spatial properties `with high precision`; 3) `Generality:` should be `applicable to different objects` without limiting to certain categories.
+ - `Handling more than one point` with precision control `enables more diverse and accurate image manipulation`.
+ - DragGAN addresses two sub-problems, 1) supervising handle points to move toward target; 2) tracking handle point such that their position is known at each step.
+ - Built on `key insight` that the `feature space of GAN is sufficiently discriminative` to enable both motion supervision and precision point tracking.
+ - Does not rely on additional network like `RAFT`.
+ - DragGAN `deformation` is performed on `learned image manifold of a GAN`, which `tend to obey underlying object structure`.
+ - This approach can `hallucinate occlued content`, like `teeth inside a lion's mouth`, and can `deform following object's rigidity`, like `beding a horse leg`. 
  
  **Previous Approaches**
- - `Previous GAN` based methods `gain controllability` by using `manually annotated training data` or `prior 3D model` often lacking flexibility, precision, and generality.
+ - `Previous GAN` based methods `gain controllability` by using `manually annotated training data` or `prior 3D model` often lacking flexibility, precision, and generality. These fail to generalize to new object categories.
+ - `Text guided` image synthesis `lacks precision and flexibility` in term of editing spatial attributes. For example, moving object by specific number of pixels. 
   
  </details>
