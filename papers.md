@@ -282,23 +282,38 @@ Adding only papers worth implementing, important concepts that can be applied in
 
 **Basics**
 - `Ideal controllable image synthesis` approaches should have, 1) `flexibility:` able to `control` different `spatial properties like position, shape, pose, expression` of generated objects; 2) `Precision:` `control` spatial properties `with high precision`; 3) `Generality:` should be `applicable to different objects` without limiting to certain categories.
+- To `track points in videos`, an obvious approach is through `optical flow estimation between consecutive frames`.
+
+ **Previous Approaches**
+ - `Previous GAN` based methods `gain controllability` by using `manually annotated training data` or `prior 3D model` often lacking flexibility, precision, and generality. These fail to generalize to new object categories.
+ - `Text guided` image synthesis `lacks precision and flexibility` in term of editing spatial attributes. For example, moving object by specific number of pixels. 
 
  **DragGAN** 
- - DragGAN is a `point-based interactive image editing method`.
+ - DragGAN is a `point-based interactive image editing method` not requiring additional tracking models. It `outperforms SOTA` point-based tracking approaches like `RAFT` and `PIPs`.
+ - It allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
  - User `sets some handle points` in interactive manner and `corresponding target points`. This method will `move handle points to target points` of GAN-generated images.
- - Can also `set masks to edit on only masked location`. Allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
- - `Handling more than one point` with precision control `enables more diverse and accurate image manipulation` and does not rely on additional network like `RAFT`.
- - This approach can `hallucinate occlued content`, like `teeth inside a lion's mouth`, and can `deform following object's rigidity`, like `beding a horse leg`. 
+ - Can also `use bindary masks to edit on only masked location by denoting movable region`. `Mask reduces ambiguity` and `keeps certain regions fixed`.
+ - `Handling more than one point` with precision control `enables more diverse and accurate image manipulation`.
+ - This approach can `hallucinate occlued content`, like `teeth inside a lion's mouth`, and can `deform following object's rigidity`, like `beding a horse leg`.
+  
 
 **GAN Properties**
  - DragGAN is built on `key insight` that the `feature space of GAN is sufficiently discriminative` to enable both motion supervision and precision point tracking.
  - DragGAN `deformation` is performed on `learned image manifold of a GAN`, which `tend to obey underlying object structure`.
 
 **Method**
-- `Optimizing latent codes` that incrementatlly moves handle points to target location and `point tracking method` to faithfully trace trajectory of handle points. 
+- `Optimizing latent codes` that incrementatly moves handle points to target location and `point tracking method` to faithfully trace trajectory of handle points.
+
+**Input Image Editing**
+- Performed using `GAN Inversion` techniques that `embeds` input images to `StyleGAN latent space`.
  
- **Previous Approaches**
- - `Previous GAN` based methods `gain controllability` by using `manually annotated training data` or `prior 3D model` often lacking flexibility, precision, and generality. These fail to generalize to new object categories.
- - `Text guided` image synthesis `lacks precision and flexibility` in term of editing spatial attributes. For example, moving object by specific number of pixels. 
+**Datasets**
+- FFHQ, AFHQCat, LSUN Car, LSUN Cat, Landscapes HQ.
+
+**Limitations**
+- `Extrapolation capability` of DragGAN is `limited by diversity of training data`. `Deviating` from `training data may lead to artifacts`.
+- `Handle points` in `texture-rich` location should be picked as texture-less regions suffer from drift in tracking.
+ 
+
   
  </details>
