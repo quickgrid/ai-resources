@@ -291,7 +291,7 @@ Adding only papers worth implementing, important concepts that can be applied in
  **DragGAN** 
  - DragGAN is a `point-based interactive image editing method` not requiring additional tracking models. It `outperforms SOTA` point-based tracking approaches like `RAFT` and `PIPs`.
  - It allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
- - User `sets some handle points` in interactive manner and `corresponding target points`. This method will `move handle points to target points` of GAN-generated images.
+ - User `sets some handle points` in interactive manner by clicking and `corresponding target point pairs` in manner of `(handle point, target point)`. This method will `move handle points to target points` of GAN-generated images.
  - Can also `use bindary masks to edit on only masked location by denoting movable region`. `Mask reduces ambiguity` and `keeps certain regions fixed`.
  - `Handling more than one point` with precision control `enables more diverse and accurate image manipulation`.
  - This approach can `hallucinate occlued content`, like `teeth inside a lion's mouth`, and can `deform following object's rigidity`, like `beding a horse leg`.
@@ -301,8 +301,19 @@ Adding only papers worth implementing, important concepts that can be applied in
  - DragGAN is built on `key insight` that the `feature space of GAN is sufficiently discriminative` to enable both motion supervision and precision point tracking.
  - DragGAN `deformation` is performed on `learned image manifold of a GAN`, which `tend to obey underlying object structure`.
 
+**StyleGAN Terminology**
+- In `StyleGAN2`, a 512 dimension latent code `z` mapped to 512 dimensional intermediate latent code `w` via `mapping network`. The space of `w` is refered to as `W`.
+- Generator `G` produces output image, `I = G(w)` from latent code `w`. `w` is copied several times and sent to different layers to control different attributes.
+- Different `w` can be sent to `l` different layers which is `W+` space. `This space` is less constrained and `more expressive`.
+- As generator `G` learns to `map low dimensional space to high dimensional space`, it can be seen as `modelling image manifold`.
+
 **Method**
 - `Optimizing latent codes` that incrementatly moves handle points to target location and `point tracking method` to faithfully trace trajectory of handle points.
+- User inputs `handle points and target points with each point having (x, y) location`. Each `handle point have corresponding target point pair`.
+- `Motion supervision drives handle points to target points`. `Point tracking updates handle points` to track the object in image. This process `continues` until `handle point reaches corresponding target point`.
+- Manipulation is performed in `optimization` manner. Each optimization has two steps, `motion supervision` and `point tracking`.
+- After `each motion supervision` step point moves `small step`, but the `amount is unknown`.
+- Point tracking is required because if handle points (e.g., nose of lion) are not accurately updated, then in next motion supervision step it will move wrong points (e.g., face of lion).
 
 **Input Image Editing**
 - Performed using `GAN Inversion` techniques that `embeds` input images to `StyleGAN latent space`.
