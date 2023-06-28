@@ -270,3 +270,18 @@ Adding only papers worth implementing, important concepts that can be applied in
 - `Emergence` properties of foundation models generate `substantial uncertainty` over capabilities.
 - Existing foundation models are able to `memorize sensitive information` in training data and `regurgitate` such data `when queried` via standard API.
  </details>
+
+
+### Controllable Image Generation
+
+### 2023
+
+### [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)](https://arxiv.org/abs/2305.10973)
+
+ <details>
+
+  **DragGAN** 
+  - User `sets some handle points` by clicking and `corresponding target points`. This method will `move handle points to target points`.
+  - Can also `set masks to edit on only masked location`. Allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
+  
+ </details>
