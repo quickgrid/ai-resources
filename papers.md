@@ -319,6 +319,8 @@ Adding only papers worth implementing, important concepts that can be applied in
 - Intermediate features of generator is discriminative enough such that simple loss is enough to supervise motion.
 - Feature map `F` after `6th block of StyleGAN2` is considered as it gives good trade-off between discriminativeness and resolution. 
 - Feature map `F` is `resized` to `same size as final image` via `bilinear interpolation`.
+- At `each motion supervision step`, the `loss` is used to `optimize` latent code `w` for one step.
+- Spatial attributes of image affected of `w` for first `6 layers` while remaining ones affect appearence. Thus, `w` is updated for only first 6 layers while fixing others to preserve appearance. 
 
 
 **Point Tracking**
