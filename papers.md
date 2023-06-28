@@ -284,6 +284,7 @@ Adding only papers worth implementing, important concepts that can be applied in
 - `Ideal controllable image synthesis` approaches should have, 1) `flexibility:` able to `control` different `spatial properties like position, shape, pose, expression` of generated objects; 2) `Precision:` `control` spatial properties `with high precision`; 3) `Generality:` should be `applicable to different objects` without limiting to certain categories.
 
  **DragGAN** 
+ - DragGAN is a `point-based interactive image editing method`.
  - User `sets some handle points` in interactive manner and `corresponding target points`. This method will `move handle points to target points` of GAN-generated images.
  - Can also `set masks to edit on only masked location`. Allows `edit` of `pose, shape, expression, layout` accross `diverse object` categories.
  - `Handling more than one point` with precision control `enables more diverse and accurate image manipulation` and does not rely on additional network like `RAFT`.
@@ -292,6 +293,9 @@ Adding only papers worth implementing, important concepts that can be applied in
 **GAN Properties**
  - DragGAN is built on `key insight` that the `feature space of GAN is sufficiently discriminative` to enable both motion supervision and precision point tracking.
  - DragGAN `deformation` is performed on `learned image manifold of a GAN`, which `tend to obey underlying object structure`.
+
+**Method**
+- `Optimizing latent codes` that incrementatlly moves handle points to target location and `point tracking method` to faithfully trace trajectory of handle points. 
  
  **Previous Approaches**
  - `Previous GAN` based methods `gain controllability` by using `manually annotated training data` or `prior 3D model` often lacking flexibility, precision, and generality. These fail to generalize to new object categories.
